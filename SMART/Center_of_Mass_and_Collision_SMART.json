@@ -1,0 +1,2300 @@
+[
+    {
+        "metadata": "JEE Main",
+        "question": "A uniform thin metal plate of mass$10 kg$with dimensions is shown. The ratio of$x$and y coordinates of center of mass of plate in$n9$. The value of$n$is ________. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1lv4uc2pw/2fa19518-1bf9-49ea-bdd2-e4242ec39236/16fc8840-fd4a-11ee-8075-a71888d2298c/file-1lv4uc2px.png?format=png]",
+        "options": [],
+        "answer": "15",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lv4uc2pw/2fa19518-1bf9-49ea-bdd2-e4242ec39236/16fc8840-fd4a-11ee-8075-a71888d2298c/file-1lv4uc2px.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-uniform-thin-metal-plate-of-mass-10-mathrmkg-wi-jee-main-physics-motion-deig1oqvb9n3vhq9",
+        "is_numerical": true,
+        "sub_topic": "CoM: Composite Plate",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Center of mass formula 2D"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 3rd April Evening Shift",
+        "question": "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9hwugeu/1fcca30b-18da-488a-9b09-5794aa172155/20224360-19a5-11f0-ae75-a7596cbc7562/file-jaoe38c1m9hwugev.png?format=png] Consider two blocks A and B of masses$m1=10 kg$and$m2=5 kg$that are placed on a frictionless table. The block A moves with a constant speed$v=3 m/s$towards the block B kept at rest. A spring with spring constant$k=3000 N/m$is attached with the block B as shown in the figure. After the collision, suppose that the blocks A and B, along with the spring in constant compression state, move together, then the compression in the spring is, (Neglect the mass of the spring)",
+        "options": [
+            "0 .3 m",
+            "0.1 m",
+            "0.4 m",
+            "0.2 m"
+        ],
+        "answer": "0.1 m",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9hwugeu/1fcca30b-18da-488a-9b09-5794aa172155/20224360-19a5-11f0-ae75-a7596cbc7562/file-jaoe38c1m9hwugev.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pconsider-two-blocks-a-and-b-of-masses-m110-mathrmkg-jee-main-physics-units-and-measurements-f3smazndgnbk3mhy",
+        "is_numerical": false,
+        "sub_topic": "Collision: Elastic Spring",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Momentum to spring energy"
+    },
+    {
+        "metadata": "JEE Main",
+        "question": "A rod of length 5 L is bent right angle keeping one side length as 2 L . [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9fpa0mh/ad0930d5-08bd-4ee0-a525-83a736d43740/f68d6990-186d-11f0-b1df-d17b9d131225/file-jaoe38c1m9fpa0mi.png?format=png] The position of the centre of mass of the system : (Consider$L=10 cm$)",
+        "options": [
+            "$4i^+9j^$",
+            "$2i^+3j^$",
+            "$5i^+8j^$",
+            "$3i^+7j^$"
+        ],
+        "answer": "$4i^+9j^$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9fpa0mh/ad0930d5-08bd-4ee0-a525-83a736d43740/f68d6990-186d-11f0-b1df-d17b9d131225/file-jaoe38c1m9fpa0mi.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9l61tfd/b1d6aef7-cb4b-422e-b181-c12006142166/78f64290-1b6f-11f0-bbff-0f04539847fe/file-jaoe38c1m9l61tfe.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-rod-of-length-5-l-is-bent-right-angle-keeping-one-side-jee-main-physics-units-and-measurements-1zxltnbebrgisrhc",
+        "is_numerical": false,
+        "sub_topic": "CoM: Continuous Bent Wire",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "CoM of L-shaped object"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 29th January Evening Shift",
+        "question": "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6qib8i8/cabe3886-7bf5-4835-bc24-748287a40817/b18d8d00-e2fa-11ef-95df-172f69fc68de/file-jaoe38c1m6qib8i9.png?format=png] Three equal masses$m$are kept at vertices$(A,B,C)$of an equilateral triangle of side a in free space. At$t=0$, they are given an initial velocity$VA\u2192=V0AC\u2192,VB\u2192=V0BA\u2192$and$VC\u2192=V0CB\u2192$. Here,$AC\u2192,CB\u2192$and$BA\u2192$are unit vectors along the edges of the triangle. If the three masses interact gravitationally, then the magnitude of the net angular momentum of the system at the point of collision is :",
+        "options": [
+            "$12$a$mV0$",
+            "3 a$mV0$",
+            "$32$a$mV0$",
+            "$32$a$mV0$"
+        ],
+        "answer": "$32$a$mV0$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6qib8i8/cabe3886-7bf5-4835-bc24-748287a40817/b18d8d00-e2fa-11ef-95df-172f69fc68de/file-jaoe38c1m6qib8i9.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/@width/image/jaoe38c1m6x9qk1m/3e56ed94-86ae-4e50-832c-9e1b6d576b17/a5fca5a0-e6b2-11ef-8944-2d89357c4cc5/file-jaoe38c1m6x9qk1n.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pimg-srchttpsapp-contentcdnexamgoalnetflywidth-jee-main-physics-9hthe8sndvrk9cwb",
+        "is_numerical": false,
+        "sub_topic": "CoM: Angular Momentum",
+        "logic_type": "Analytical",
+        "difficulty": 4,
+        "physics_key": "Angular momentum conservation CoM"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 29th January Morning Shift",
+        "question": "As shown below, bob A of a pendulum having massless string of length 'R' is released from 60\u00b0 to the vertical. It hits another bob B of half the mass that is at rest on a frictionless table in the center. Assuming elastic collision, the magnitude of the velocity of bob A after the collision will be (take g as acceleration due to gravity.) [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6qt20ao/3610b09c-a092-411f-8b1e-e30fa562d68b/b5597000-e324-11ef-9ab1-8bface956638/file-jaoe38c1m6qt20ap.png?format=png]",
+        "options": [
+            "$43Rg$",
+            "$13Rg$",
+            "$Rg$",
+            "$23Rg$"
+        ],
+        "answer": "$13Rg$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6qt20ao/3610b09c-a092-411f-8b1e-e30fa562d68b/b5597000-e324-11ef-9ab1-8bface956638/file-jaoe38c1m6qt20ap.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m73dnaqu/95eccfd6-fdfb-48d9-812e-052c4e694f40/a3ca2370-ea0e-11ef-9ed5-b9e3cb3846ec/file-jaoe38c1m73dnaqv.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pas-shown-below-bob-a-of-a-pendulum-having-massless-strin-jee-main-physics-im8mojhscvf7v7bp",
+        "is_numerical": false,
+        "sub_topic": "Collision: Elastic 1D",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Energy to momentum conservation"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 8th April Morning Shift",
+        "question": "A stationary particle breaks into two parts of masses$mA$and$mB$which move with velocities$vA$and$vB$respectively. The ratio of their kinetic energies$(KB:KA)$is :",
+        "options": [
+            "$vB:vA$",
+            "$1:1$",
+            "$mBvB:mAvA$",
+            "$mB:mA$"
+        ],
+        "answer": "$vB:vA$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-stationary-particle-breaks-into-two-parts-of-masses-m-jee-main-physics-motion-24fpwxcowotood7j",
+        "is_numerical": false,
+        "sub_topic": "Impulse/Momentum: Ratios",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "KE-Momentum ratio explosion"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 29th January Evening Shift",
+        "question": "Given below are two statements. One is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A): [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6qjojdl/0e17ec0f-1ba9-4bfc-b3e8-8a23a2470789/0c994090-e300-11ef-9d65-2b094293796d/file-jaoe38c1m6qjojdm.png?format=png] Three identical spheres of same mass undergo one dimensional motion as shown in figure with initial velocities$vA=5 m/s,vB=2 m/s,vC=4 m/s$. If we wait sufficiently long for elastic collision to happen, then$vA=4 m/s,vB=2 m/s$,$vC=5 m/s$will be the final velocities. Reason (R): In an elastic collision between identical masses, two objects exchange their velocities. In the light of the above statements, choose the correct answer from the options given below:",
+        "options": [
+            "Both (A) and (R) are true but (R) is NOT the correct explanation of (A)",
+            "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "(A) is false but (R) is true",
+            "(A) is true but (R) is false"
+        ],
+        "answer": "(A) is false but (R) is true",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6qjojdl/0e17ec0f-1ba9-4bfc-b3e8-8a23a2470789/0c994090-e300-11ef-9d65-2b094293796d/file-jaoe38c1m6qjojdm.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6yiqxlm/eb792018-27cc-4bd5-9b37-2496d0cca54d/ab451fa0-e762-11ef-8a74-b5e3326a6f66/file-jaoe38c1m6yiqxln.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pgiven-below-are-two-statements-one-is-labelled-as-assert-jee-main-physics-csrrmrjpnkgqxqke",
+        "is_numerical": false,
+        "sub_topic": "Collision: Elastic 1D",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Identical mass velocity exchange"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 28th January Morning Shift",
+        "question": "The center of mass of a thin rectangular plate (fig - x ) with sides of length$a$and$b$, whose mass per unit area$(\u03c3)$varies as$\u03c3=\u03c30xab$(where$\u03c30$is a constant), would be __________. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6vvlqo3/ce0402fd-387e-4483-8e82-898aa0492a77/9799c930-e5ee-11ef-ac74-491aa7357b34/file-jaoe38c1m6vvlqo4.png?format=png]",
+        "options": [
+            "$(23a,23b)$",
+            "$(23a, b2)$",
+            "$(13a, b2)$",
+            "$(a2, b2)$"
+        ],
+        "answer": "$(23a, b2)$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6vvlqo3/ce0402fd-387e-4483-8e82-898aa0492a77/9799c930-e5ee-11ef-ac74-491aa7357b34/file-jaoe38c1m6vvlqo4.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m7hmd1v0/7e80d86c-2a19-4056-9562-57aba5587662/b216bec0-f1e3-11ef-aab0-892656acd133/file-jaoe38c1m7hmd1v1.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-center-of-mass-of-a-thin-rectangular-plate-fig-x--jee-main-physics-units-and-measurements-s7rzb1gjbupxkdfc",
+        "is_numerical": false,
+        "sub_topic": "CoM: Non-Uniform Density",
+        "logic_type": "Calculus",
+        "difficulty": 4,
+        "physics_key": "Integration for variable density"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 23rd January Morning Shift",
+        "question": "Consider a circular disc of radius 20 cm with centre located at the origin. A circular hole of radius 5 cm is cut from this disc in such a way that the edge of the hole touches the edge of the disc. The distance of centre of mass of residual or remaining disc from the origin will be",
+        "options": [
+            "1.5 cm",
+            "2.0 cm",
+            "0.5 cm",
+            "1.0 cm"
+        ],
+        "answer": "1.0 cm",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pconsider-a-circular-disc-of-radius-20-cm-with-centre-loca-jee-main-physics-units-and-measurements-codq523n1qjyyhum",
+        "is_numerical": false,
+        "sub_topic": "CoM: Subtraction Method",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "CoM hole subtraction"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 30th January Morning Shift",
+        "question": "A spherical body of mass$100 g$is dropped from a height of$10 m$from the ground. After hitting the ground, the body rebounds to a height of$5 m$. The impulse of force imparted by the ground to the body is given by : (given,$g=9.8 m/s2$)",
+        "options": [
+            "$43.2 kg ms\u22121$",
+            "$2.39 kg ms\u22121$",
+            "$4.32 kg ms\u22121$",
+            "$23.9 kg ms\u22121$"
+        ],
+        "answer": "$2.39 kg ms\u22121$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-spherical-body-of-mass-100-mathrmg-is-dropped-f-jee-main-physics-motion-jwd6nrpg0s0waqlk",
+        "is_numerical": false,
+        "sub_topic": "Impulse/Momentum: Collision with Ground",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Impulse change in momentum"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 31st January Morning Shift",
+        "question": "An artillery piece of mass$M1$fires a shell of mass$M2$horizontally. Instantaneously after the firing, the ratio of kinetic energy of the artillery and that of the shell is:",
+        "options": [
+            "$M1/(M1+M2)$",
+            "$M2M1$",
+            "$M1M2$",
+            "$M2/(M1+M2)$"
+        ],
+        "answer": "$M2M1$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-artillery-piece-of-mass-m1-fires-a-shell-of-mass-jee-main-physics-motion-xlxmd1upvizjhnjp",
+        "is_numerical": false,
+        "sub_topic": "Impulse/Momentum: Recoil Ratios",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "KE ratio from momentum conservation"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 27th January Morning Shift",
+        "question": "Two bodies of mass$4 g$and$25 g$are moving with equal kinetic energies. The ratio of magnitude of their linear momentum is :",
+        "options": [
+            "$3:5$",
+            "$5:4$",
+            "$2:5$",
+            "$4:5$"
+        ],
+        "answer": "$2:5$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/ptwo-bodies-of-mass-4-mathrmg-and-25-mathrmg-jee-main-physics-motion-0bizwezv8arepe3p",
+        "is_numerical": false,
+        "sub_topic": "Impulse/Momentum: Ratios",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Momentum from KE mass ratio"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 27th January Morning Shift",
+        "question": "A body of mass$1000 kg$is moving horizontally with a velocity$6 m/s$. If$200 kg$extra mass is added, the final velocity (in$m/s$) is:",
+        "options": [
+            "6",
+            "2",
+            "3",
+            "5"
+        ],
+        "answer": "5",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-body-of-mass-1000-mathrmkg-is-moving-horizontal-jee-main-physics-motion-kug14gvf493uxqo8",
+        "is_numerical": false,
+        "sub_topic": "Impulse/Momentum: Conservation",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Inelastic momentum conservation"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 13th April Morning Shift",
+        "question": "A bullet of$10 g$leaves the barrel of gun with a velocity of$600 m/s$. If the barrel of gun is$50 cm$long and mass of gun is$3 kg$, then value of impulse supplied to the gun will be :",
+        "options": [
+            "12 Ns",
+            "3 Ns",
+            "6 Ns",
+            "36 Ns"
+        ],
+        "answer": "6 Ns",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-bullet-of-10-mathrmg-leaves-the-barrel-of-gun-w-jee-main-physics-motion-s7gxd2vsw542sp53",
+        "is_numerical": false,
+        "sub_topic": "Impulse/Momentum: Recoil",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Impulse momentum change"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 11th April Morning Shift",
+        "question": "An average force of$125 N$is applied on a machine gun firing bullets each of mass$10 g$at the speed of$250 m/s$to keep it in position. The number of bullets fired per second by the machine gun is :",
+        "options": [
+            "25",
+            "50",
+            "5",
+            "100"
+        ],
+        "answer": "50",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-average-force-of-125-mathrmn-is-applied-on-a-m-jee-main-physics-motion-nbhcbykkp7vysr0i",
+        "is_numerical": false,
+        "sub_topic": "Impulse/Momentum: Rate",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Force from momentum rate"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 10th April Morning Shift",
+        "question": "A particle of mass m moving with velocity v collides with a stationary particle of mass 2m. After collision, they stick together and continue to move together with velocity",
+        "options": [
+            "$v$",
+            "$v3$",
+            "$v4$",
+            "$v2$"
+        ],
+        "answer": "$v3$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-particle-of-mass-m-moving-with-velocity-v-collides-with-jee-main-physics-motion-ue2ndxu6nom03w7h",
+        "is_numerical": false,
+        "sub_topic": "Collision: Inelastic 1D",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Perfectly inelastic final velocity"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 31st January Morning Shift",
+        "question": "100 balls each of mass$m$moving with speed$v$simultaneously strike a wall normally and reflected back with same speed, in time$t s$. The total force exerted by the balls on the wall is",
+        "options": [
+            "$200mvt$",
+            "$100mvt$",
+            "$mv100t$",
+            "$200mvt$"
+        ],
+        "answer": "$200mvt$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/p100-balls-each-of-mass-mathrmm-moving-with-speed--jee-main-physics-motion-liiabsmryulo2jcp",
+        "is_numerical": false,
+        "sub_topic": "Impulse/Momentum: Rate",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Force from elastic reflection"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 30th January Morning Shift",
+        "question": "The figure represents the momentum time ($p\u2212t$) curve for a particle moving along an axis under the influence of the force. Identify the regions on the graph where the magnitude of the force is maximum and minimum respectively? If$(t3\u2212t2)<t1$[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1ldre5ta7/ad8f64fb-681b-46dc-a7d8-c87770cabb89/f8e470f0-a554-11ed-803e-f1576252b48d/file-1ldre5ta8.png?format=png]",
+        "options": [
+            "b and c",
+            "c and a",
+            "a and b",
+            "c and b"
+        ],
+        "answer": "c and b",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1ldre5ta7/ad8f64fb-681b-46dc-a7d8-c87770cabb89/f8e470f0-a554-11ed-803e-f1576252b48d/file-1ldre5ta8.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-figure-represents-the-momentum-time-mathrmp-ma-jee-main-physics-motion-ei3wmuu7pdsysq8l",
+        "is_numerical": false,
+        "sub_topic": "Impulse/Momentum: Graphs",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "Force from p-t slope"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 30th January Evening Shift",
+        "question": "A machine gun of mass$10 kg$fires$20 g$bullets at the rate of 180 bullets per minute with a speed of$100 m s\u22121$each. The recoil velocity of the gun is",
+        "options": [
+            "$0.02 m/s$",
+            "$1.5 m/s$",
+            "$2.5 m/s$",
+            "$0.6 m/s$"
+        ],
+        "answer": "$0.6 m/s$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-machine-gun-of-mass-10-mathrmkg-fires-20-mathrmg-jee-main-physics-f9sugmiiqabehl9p",
+        "is_numerical": false,
+        "sub_topic": "Impulse/Momentum: Recoil Rate",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Recoil velocity rate"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 30th January Morning Shift",
+        "question": "A ball of mass$200 g$rests on a vertical post of height$20 m$. A bullet of mass$10 g$, travelling in horizontal direction, hits the centre of the ball. After collision both travels independently. The ball hits the ground at a distance$30 m$and the bullet at a distance of$120 m$from the foot of the post. The value of initial velocity of the bullet will be (if$g=10 m/s2$) :",
+        "options": [
+            "120 m/s",
+            "360 m/s",
+            "400 m/s",
+            "60 m/s"
+        ],
+        "answer": "360 m/s",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-ball-of-mass-200-mathrmg-rests-on-a-vertical-po-jee-main-physics-motion-ccxigvyk9py130cn",
+        "is_numerical": false,
+        "sub_topic": "Collision: Projectile 2D",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Momentum + Projectile motion"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th July Evening Shift",
+        "question": "A body of mass$10 kg$is projected at an angle of$45\u2218$with the horizontal. The trajectory of the body is observed to pass through a point$(20,10)$. If$T$is the time of flight, then its momentum vector, at time$t=T2$, is _____________. [Take$g=10 m/s2$]",
+        "options": [
+            "$100i^+(1002\u2212200)j^$",
+            "$1002i^+(100\u22122002)j^$",
+            "$100i^+(100\u22122002)j^$",
+            "$1002i^+(1002\u2212200)j^$"
+        ],
+        "answer": "$1002i^+(1002\u2212200)j^$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-body-of-mass-10-mathrmkg-is-projected-at-an-ang-jee-main-physics-motion-sy9il3jnaj5rz6uv",
+        "is_numerical": false,
+        "sub_topic": "Impulse/Momentum: Projectile",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Momentum vector at max height"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 30th January Morning Shift",
+        "question": "As per the given figure, a small ball P slides down the quadrant of a circle and hits the other ball Q of equal mass which is initially at rest. Neglecting the effect of friction and assume the collision to be elastic, the velocity of ball Q after collision will be : (g = 10 m/s ^2 ) [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1ldre44mu/10470f3f-fd07-4543-8b62-71e206fb7023/ca0ae160-a554-11ed-803e-f1576252b48d/file-1ldre44mv.png?format=png]",
+        "options": [
+            "0.25 m/s",
+            "4 m/s",
+            "0",
+            "2 m/s"
+        ],
+        "answer": "2 m/s",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1ldre44mu/10470f3f-fd07-4543-8b62-71e206fb7023/ca0ae160-a554-11ed-803e-f1576252b48d/file-1ldre44mv.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lepw79yz/2ad5304d-47e6-4f48-b88c-84d28d7a6a00/2bff60b0-b84e-11ed-a412-5b325e9b0d2e/file-1lepw79z0.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pas-per-the-given-figure-a-small-ball-p-slides-down-the-q-jee-main-physics-motion-ktyfcgr0eooonex6",
+        "is_numerical": false,
+        "sub_topic": "Collision: Elastic 1D",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 2,
+        "physics_key": "KE to GPE velocity exchange"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 28th July Morning Shift",
+        "question": "In two different experiments, an object of mass$5 kg$moving with a speed of$25 ms\u22121$hits two different walls and comes to rest within (i) 3 second, (ii) 5 seconds, respectively. Choose the correct option out of the following :",
+        "options": [
+            "Impulse and average force acting on the object will be same for both the cases.",
+            "Impulse will be same for both the cases but the average force will be different.",
+            "Average force will be same for both the cases but the impulse will be different.",
+            "Average force and impulse will be different for both the cases."
+        ],
+        "answer": "Impulse will be same for both the cases but the average force will be different.",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-two-different-experiments-an-object-of-mass-5-math-jee-main-physics-motion-rgysb3vvbay6iqfj",
+        "is_numerical": false,
+        "sub_topic": "Impulse/Momentum: Conceptual",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Impulse change in time"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 29th July Morning Shift",
+        "question": "Two bodies of mass$1 kg$and$3 kg$have position vectors$i^+2j^+k^$and$\u22123i^\u22122j^+k^$respectively. The magnitude of position vector of centre of mass of this system will be similar to the magnitude of vector :",
+        "options": [
+            "$i^+2j^+k^$",
+            "$\u22123i^\u22122j^+k^$",
+            "$\u22122i^+2k^$",
+            "$2i^\u2212j^+2k^$"
+        ],
+        "answer": "$i^+2j^+k^$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/ptwo-bodies-of-mass-1-mathrmkg-and-3-mathrmkg-jee-main-physics-motion-polbvrtpga1yvzcv",
+        "is_numerical": false,
+        "sub_topic": "CoM: Discrete Masses",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Center of mass vector formula"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 29th July Evening Shift",
+        "question": "If momentum of a body is increased by 20%, then its kinetic energy increases by",
+        "options": [
+            "36%",
+            "40%",
+            "44%",
+            "48%"
+        ],
+        "answer": "44%",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pif-momentum-of-a-body-is-increased-by-20-then-its-kinet-jee-main-physics-motion-2mxnyld0xkaelysw",
+        "is_numerical": false,
+        "sub_topic": "Impulse/Momentum: Ratios",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "KE-Momentum percentage change"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 29th June Morning Shift",
+        "question": "A body of mass M at rest explodes into three pieces, in the ratio of masses 1 : 1 : 2. Two smaller pieces fly off perpendicular to each other with velocities of 30 ms ^$\u2212$1 and 40 ms ^$\u2212$1 respectively. The velocity of the third piece will be :",
+        "options": [
+            "15 ms ^$\u2212$1",
+            "25 ms ^$\u2212$1",
+            "35 ms ^$\u2212$1",
+            "50 ms ^$\u2212$1"
+        ],
+        "answer": "25 ms ^$\u2212$1",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-body-of-mass-m-at-rest-explodes-into-three-pieces-in-t-jee-main-physics-motion-kydsjynasitnn8be",
+        "is_numerical": false,
+        "sub_topic": "Impulse/Momentum: Explosion 2D",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Momentum conservation vector 2D"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th July Evening Shift",
+        "question": "A ball of mass$0.15 kg$hits the wall with its initial speed of$12 ms\u22121$and bounces back without changing its initial speed. If the force applied by the wall on the ball during the contact is$100 N$, calculate the time duration of the contact of ball with the wall.",
+        "options": [
+            "0.018 s",
+            "0.036 s",
+            "0.009 s",
+            "0.072 s"
+        ],
+        "answer": "0.036 s",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-ball-of-mass-015-mathrmkg-hits-the-wall-with-i-jee-main-physics-motion-6ua7kouyna6x9dbz",
+        "is_numerical": false,
+        "sub_topic": "Impulse/Momentum: Collision with Wall",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Impulse average force time"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th July Evening Shift",
+        "question": "Two billiard balls of mass 0.05 kg each moving in opposite directions with 10 ms ^$\u2212$1 collide and rebound with the same speed. If the time duration of contact is t = 0.005 s, then what is the force exerted on the ball due to each other?",
+        "options": [
+            "100 N",
+            "200 N",
+            "300 N",
+            "400 N"
+        ],
+        "answer": "200 N",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/ptwo-billiard-balls-of-mass-005-kg-each-moving-in-opposit-jee-main-physics-motion-39kxq24bsxzqpyuf",
+        "is_numerical": false,
+        "sub_topic": "Impulse/Momentum: Collision with Wall",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Force from contact time"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th July Evening Shift",
+        "question": "A body of mass$8 kg$and another of mass$2 kg$are moving with equal kinetic energy. The ratio of their respective momentum will be :",
+        "options": [
+            "1 : 1",
+            "2 : 1",
+            "1 : 4",
+            "4 : 1"
+        ],
+        "answer": "2 : 1",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-body-of-mass-8-mathrmkg-and-another-of-mass-2-jee-main-physics-motion-bofsy7tihppb9ure",
+        "is_numerical": false,
+        "sub_topic": "Impulse/Momentum: Ratios",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Momentum from equal KE ratio"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 30th June Morning Shift",
+        "question": "Two bodies A and B of masses 5 kg and 8 kg are moving such that the momentum of body B is twice that of the body A. The ratio of their kinetic energies will be :",
+        "options": [
+            "4 : 5",
+            "2 : 5",
+            "5 : 4",
+            "5 : 2"
+        ],
+        "answer": "2 : 5",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/ptwo-bodies-a-and-b-of-masses-5-kg-and-8-kg-are-moving-suc-jee-main-physics-motion-isxm6ycyhp0j1ua6",
+        "is_numerical": false,
+        "sub_topic": "Impulse/Momentum: Ratios",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "KE ratio from momentum mass"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th June Morning Shift",
+        "question": "What percentage of kinetic energy of a moving particle is transferred to a stationary particle when it strikes the stationary particle of 5 times its mass? (Assume the collision to be head-on elastic collision)",
+        "options": [
+            "50.0%",
+            "66.6%",
+            "55.6%",
+            "33.3%"
+        ],
+        "answer": "55.6%",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pwhat-percentage-of-kinetic-energy-of-a-moving-particle-is-jee-main-physics-motion-vgjbckiyl3m9f94t",
+        "is_numerical": false,
+        "sub_topic": "Collision: Elastic 1D",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "KE transfer elastic collision"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th June Morning Shift",
+        "question": "Two blocks of masses 10 kg and 30 kg are placed on the same straight line with coordinates (0, 0) cm and (x, 0) cm respectively. The block of 10 kg is moved on the same line through a distance of 6 cm towards the other block. The distance through which the block of 30 kg must be moved to keep the position of centre of mass of the system unchanged is :",
+        "options": [
+            "4 cm towards the 10 kg block",
+            "2 cm away from the 10 kg block",
+            "2 cm towards the 10 kg block",
+            "4 cm away from the 10 kg block"
+        ],
+        "answer": "2 cm towards the 10 kg block",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/ptwo-blocks-of-masses-10-kg-and-30-kg-are-placed-on-the-sa-jee-main-physics-motion-vtl4h66h95clcsxe",
+        "is_numerical": false,
+        "sub_topic": "CoM: Conceptual",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "CoM invariant zero external force"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th June Morning Shift",
+        "question": "An object is thrown vertically upwards. At its maximum height, which of the following quantity becomes zero?",
+        "options": [
+            "Momentum",
+            "Potential Energy",
+            "Acceleration",
+            "Force"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-object-is-thrown-vertically-upwards-at-its-maximum-he-jee-main-physics-motion-ln6c1tuzmveji0bw",
+        "is_numerical": false,
+        "sub_topic": "Impulse/Momentum: Conceptual",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Momentum at highest point"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 31st August Morning Shift",
+        "question": "A body of mass M moving at speed V _0 collides elastically with a mass 'm' at rest. After the collision, the two masses move at angles$\u03b8$_1 and$\u03b8$_2 with respect to the initial direction of motion of the body of mass M. The largest possible value of the ratio M/m, for which the angles$\u03b8$_1 and$\u03b8$_2 will be equal, is :",
+        "options": [
+            "4",
+            "1",
+            "3",
+            "2"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-body-of-mass-m-moving-at-speed-vsub0sub-collides-elas-jee-main-physics-units-and-measurements-pmbqj8qz5q9iobez",
+        "is_numerical": false,
+        "sub_topic": "Collision: Elastic 2D",
+        "logic_type": "Analytical",
+        "difficulty": 4,
+        "physics_key": "Elastic collision angle limits"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 16th March Evening Shift",
+        "question": "A large block of wood of mass M = 5.99 kg is hanging from two long massless cords. A bullet of mass m = 10 g is fired into the block and gets embedded in it. The (block + bullet) then swing upwards, their centre of mass rising a vertical distance h = 9.8 cm before the (block + bullet) pendulum comes momentarily to rest at the end of its arc. The speed of the bullet just before collision is : (take g = 9.8 ms ^-2 ) [IMAGE: https://imagex.cdn.examgoal.net/1kmiy0pu9/96d56902-dfa4-48d1-9c98-e5e62bd8b273/bcb1e410-8a25-11eb-91cf-1f26b16dd4dd/file-1kmiy0pua.jpg]",
+        "options": [
+            "831.4 m/s",
+            "811.4 m/s",
+            "841.4 m/s",
+            "821.4 m/s"
+        ],
+        "answer": "831.4 m/s",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1kmiy0pu9/96d56902-dfa4-48d1-9c98-e5e62bd8b273/bcb1e410-8a25-11eb-91cf-1f26b16dd4dd/file-1kmiy0pua.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-large-block-of-wood-of-mass-m--599-kg-is-hanging-from-tw-jee-main-physics-units-and-measurements-mjjsgqfewrvwo90p",
+        "is_numerical": false,
+        "sub_topic": "Collision: Ballistic Pendulum",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Momentum to GPE kinetic energy"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 27th July Morning Shift",
+        "question": "Three objects A, B and C are kept in a straight line on a frictionless horizontal surface. The masses of A, B and C are m, 2m and 2m respectively. A moves towards B with a speed of 9 m/s and makes an elastic collision with it. Thereafter B makes a completely inelastic collision with C. All motions occur along same straight line. The final speed of C is : [IMAGE: https://imagex.cdn.examgoal.net/1ks0l520b/8a62a04a-5f50-479d-97aa-85a795ad0f44/8f3c73b0-f6d6-11eb-b326-31a7780220e7/file-1ks0l520c.jpg]",
+        "options": [
+            "6 m/s",
+            "9 m/s",
+            "4 m/s",
+            "3 m/s"
+        ],
+        "answer": "3 m/s",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1ks0l520b/8a62a04a-5f50-479d-97aa-85a795ad0f44/8f3c73b0-f6d6-11eb-b326-31a7780220e7/file-1ks0l520c.jpg",
+            "https://imagex.cdn.examgoal.net/1ks0l5v2s/ee769498-ddc0-4776-9254-333354271feb/a5b0e540-f6d6-11eb-b326-31a7780220e7/file-1ks0l5v2t.png",
+            "https://imagex.cdn.examgoal.net/1ks0l6hz4/e1fbdeed-957f-494b-bfb5-119adead8ca2/b7611800-f6d6-11eb-b326-31a7780220e7/file-1ks0l6hz5.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/three-objects-a-b-and-c-are-kept-in-a-straight-line-on-a-fr-jee-main-physics-units-and-measurements-yciepletcm2gtqjq",
+        "is_numerical": false,
+        "sub_topic": "Collision: Multi-Stage",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Sequential elastic inelastic collisions"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 20th July Evening Shift",
+        "question": "If the Kinetic energy of a moving body becomes four times its initial Kinetic energy, then the percentage change in its momentum will be :",
+        "options": [
+            "100%",
+            "200%",
+            "300%",
+            "400%"
+        ],
+        "answer": "100%",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/if-the-kinetic-energy-of-a-moving-body-becomes-four-times-it-jee-main-physics-units-and-measurements-ocwh3wawvt9lvjh3",
+        "is_numerical": false,
+        "sub_topic": "Impulse/Momentum: Ratios",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "KE-Momentum percentage change"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 22th July Evening Shift",
+        "question": "A bullet of '4 g' mass is fired from a gun of mass 4 kg. If the bullet moves with the muzzle speed of 50 ms ^$\u2212$1 , the impulse imparted to the gun and velocity of recoil of gun are :",
+        "options": [
+            "0.2 kg ms ^$\u2212$1 , 0.1 ms ^$\u2212$1",
+            "0.4 kg ms ^$\u2212$1 , 0.05 ms ^$\u2212$1",
+            "0.2 kg ms ^$\u2212$1 , 0.05 ms ^$\u2212$1",
+            "0.4 kg ms ^$\u2212$1 , 0.1 ms ^$\u2212$1"
+        ],
+        "answer": "0.2 kg ms ^$\u2212$1 , 0.05 ms ^$\u2212$1",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-bullet-of-4-g-mass-is-fired-from-a-gun-of-mass-4-kg-if-jee-main-physics-units-and-measurements-dy0tywdtzxtmck3z",
+        "is_numerical": false,
+        "sub_topic": "Impulse/Momentum: Recoil",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Recoil velocity and impulse"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th July Morning Shift",
+        "question": "Two billiard balls of equal mass 30g strike a rigid wall with same speed of 108 kmph (as shown) but at different angles. If the balls get reflected with the same speed then the ratio of the magnitude of impulses imparted to ball 'a' and ball 'b' by the wall along 'X' direction is : [IMAGE: https://imagex.cdn.examgoal.net/1krw9px1n/55580a32-1a32-4243-948d-8eb048d2d19f/c33f35b0-f476-11eb-a35b-11ae0fe1e7e5/file-1krw9px1o.jpg]",
+        "options": [
+            "1 : 1",
+            "$2$: 1",
+            "2 : 1",
+            "1 :$2$"
+        ],
+        "answer": "$2$: 1",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1krw9px1n/55580a32-1a32-4243-948d-8eb048d2d19f/c33f35b0-f476-11eb-a35b-11ae0fe1e7e5/file-1krw9px1o.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/two-billiard-balls-of-equal-mass-30g-strike-a-rigid-wall-wit-jee-main-physics-units-and-measurements-9px4h3ugy8fbiwpr",
+        "is_numerical": false,
+        "sub_topic": "Impulse/Momentum: 2D Collision Wall",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Impulse vector wall reflection"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 16th March Morning Shift",
+        "question": "Four equal masses, m each are placed at the comers of a square of length (l) as shown in the figure. The moment of inertia of the system about an axis passing through A and parallel to DB would be : [IMAGE: https://imagex.cdn.examgoal.net/1kmillzzw/f008ef89-3058-44b3-a8af-895ba8185cae/35da8bc0-89f5-11eb-9c26-d9a423ffb060/file-1kmillzzx.jpg]",
+        "options": [
+            "$3$ml ^2",
+            "2 ml ^2",
+            "ml ^2",
+            "3 ml ^2"
+        ],
+        "answer": "3 ml ^2",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1kmillzzw/f008ef89-3058-44b3-a8af-895ba8185cae/35da8bc0-89f5-11eb-9c26-d9a423ffb060/file-1kmillzzx.jpg",
+            "https://imagex.cdn.examgoal.net/1kp3tka25/53fe7523-d5bb-4ada-ba68-bf03b3f87dfe/336fe9d0-bd39-11eb-9b93-ddbbaf4f20e8/file-1kp3tka26.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/four-equal-masses-m-each-are-placed-at-the-comers-of-a-squa-jee-main-physics-units-and-measurements-zraf22ycoddt9yis",
+        "is_numerical": false,
+        "sub_topic": "CoM: Moment of Inertia",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Moment of inertia discrete axis"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 18th March Evening Shift",
+        "question": "An object of mass m _1 collides with another object of mass m _2 , which is at rest. After the collision the objects move with equal speeds in opposite direction. The ratio of the masses m _2 : m _1 is :",
+        "options": [
+            "1 : 1",
+            "3 : 1",
+            "2 : 1",
+            "1 : 2"
+        ],
+        "answer": "3 : 1",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1kmp89io5/d03c1bee-39c4-41b9-a29e-91e339328de5/80a06f50-8d9a-11eb-8238-e5ccebc74134/file-1kmp89io6-1940w.jpeg",
+            "https://imagex.cdn.examgoal.net/1kmp8b2eb/dafe1ed6-23e9-4040-992b-e5060052e4bc/abac7c20-8d9a-11eb-ac14-9b8a8da3c92c/file-1kmp8b2ec-1940w.jpeg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/an-object-of-mass-msub1sub-collides-with-another-object-jee-main-physics-units-and-measurements-zmmsiusya0qfitii",
+        "is_numerical": false,
+        "sub_topic": "Collision: Elastic 1D",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Equal speed opposite direction mass"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 17th March Evening Shift",
+        "question": "Two identical blocks A and B each of mass m resting on the smooth horizontal floor are connected by a light spring of natural length L and spring constant K. A third block C of mass m moving with a speed v along the line joining A and B collides with A. The maximum compression in the spring is [IMAGE: https://imagex.cdn.examgoal.net/1kmlils53/9c49bb65-26e0-4aa3-9d09-24ad169228a1/ce589c70-8b8f-11eb-8bc4-81bde7104d98/file-1kmlils55.jpg]",
+        "options": [
+            "$mvK$",
+            "$m2K$",
+            "$mv2K$",
+            "$vm2K$"
+        ],
+        "answer": "$vm2K$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1kmlils53/9c49bb65-26e0-4aa3-9d09-24ad169228a1/ce589c70-8b8f-11eb-8bc4-81bde7104d98/file-1kmlils55.jpg",
+            "https://imagex.cdn.examgoal.net/1kpk55gf5/fc915630-92f6-4a7a-a8a5-9c6f9f8a6815/0f27a420-c633-11eb-8f69-79d81b6078c9/file-1kpk55gf6.png",
+            "https://imagex.cdn.examgoal.net/1kpk565fd/ed0e9d96-127c-489c-a033-be46d23a26e4/22788e90-c633-11eb-8f69-79d81b6078c9/file-1kpk565fe.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/two-identical-blocks-a-and-b-each-of-mass-m-resting-on-the-s-jee-main-physics-units-and-measurements-vefofkys3ssygswb",
+        "is_numerical": false,
+        "sub_topic": "Collision: Spring Potential",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Max compression CoM frame"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 6th September Evening Slot",
+        "question": "Particle A of mass m _1 moving with velocity$(3i^+j^)ms\u22121$collides with another particle B of mass m _2 which is at rest initially. Let$V1\u2192$and$V2\u2192$be the velocities of particles A and B after collision respectively. If m _1 = 2m _2 and after collision$V1\u2192=$$(i^+3j^)$, the angle between$V1\u2192$and$V2\u2192$is :",
+        "options": [
+            "105 ^o",
+            "15 ^o",
+            "-45 ^o",
+            "60 ^o"
+        ],
+        "answer": "105 ^o",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/particle-a-of-mass-msub1sub-moving-with-velocity-le-jee-main-physics-impulse-and-momentum-zgd3lmjjcwyxvhcc",
+        "is_numerical": false,
+        "sub_topic": "Collision: Elastic 2D",
+        "logic_type": "Template",
+        "difficulty": 4,
+        "physics_key": "Momentum conservation vector 2D"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th February Morning Shift",
+        "question": "Given below are two statements : one is labelled as Assertion A and the other is labelled as Reason R. Assertion A : Body 'P' having mass M moving with speed 'u' has head-on collision elastically with another body 'Q' having mass 'm' initially at rest. If m << M, body 'Q' will have a maximum speed equal to '2u' after collision. Reason R : During elastic collision, the momentum and kinetic energy are both conserved. In the light of the above statements, choose the most appropriate answer from the options given below :",
+        "options": [
+            "A is correct but R is not correct.",
+            "A is not correct but R is correct.",
+            "Both A and R are correct and R is the correct explanation of A.",
+            "Both A and R are correct but R is NOT the correct explanation of A."
+        ],
+        "answer": "Both A and R are correct and R is the correct explanation of A.",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1kqtoggkq/42dcc1d9-a16e-4735-97a6-23bd882b5616/d3da24a0-df3d-11eb-9ced-075c4175d272/file-1kqtoggkr.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/given-below-are-two-statements--one-is-labelled-as-assertio-jee-main-physics-units-and-measurements-qt8ep6puzrx7ar26",
+        "is_numerical": false,
+        "sub_topic": "Collision: Elastic 1D",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Light object elastic speed"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 24th February Evening Shift",
+        "question": "A circular hole of radius$(a2)$is cut out of a circular disc of radius 'a' as shown in figure. The centroid of the remaining circular portion with respect to point 'O' will be : [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1la26765x/7a5c879a-531a-4829-acf4-b48e56a106ad/973f2250-5c11-11ed-b429-1bdcfc436fa3/file-1la26765y.png?format=png]",
+        "options": [
+            "$16a$",
+            "$23a$",
+            "$56a$",
+            "$1011a$"
+        ],
+        "answer": "$56a$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1la26765x/7a5c879a-531a-4829-acf4-b48e56a106ad/973f2250-5c11-11ed-b429-1bdcfc436fa3/file-1la26765y.png?format=png",
+            "https://imagex.cdn.examgoal.net/1krim85xa/3f89aa72-2109-471f-834a-d3a347fce460/b320d1e0-ecf4-11eb-900e-8fed49ee51d4/file-1krim85xb.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-circular-hole-of-radius-left-a-over-2-right-i-jee-main-physics-units-and-measurements-pf7zc4hygsutkpkm",
+        "is_numerical": false,
+        "sub_topic": "CoM: Subtraction Method",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "CoM disk subtraction"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 4th September Morning Slot",
+        "question": "Blocks of masses m, 2m, 4m and 8m are arranged in a line on a frictionless floor. Another block of mass m, moving with speed v along the same line (see figure) collides with mass m in perfectly inelastic manner. All the subsequent collisions are also perfectly inelastic. By the time the last block of mass 8m starts moving the total energy loss is p% of the original energy. Value of 'p' is close to : [IMAGE: https://imagex.cdn.examgoal.net/jgy2xukf6iafba/ba311e2b-d3bb-44ba-b195-b9d85394cc61/4d248a60-f8b9-11ea-8293-3b6cc591631c/file-jgy2xukf6iafbb-500w.png]",
+        "options": [
+            "37",
+            "77",
+            "87",
+            "94"
+        ],
+        "answer": "94",
+        "images": [
+            "https://imagex.cdn.examgoal.net/jgy2xukf6iafba/ba311e2b-d3bb-44ba-b195-b9d85394cc61/4d248a60-f8b9-11ea-8293-3b6cc591631c/file-jgy2xukf6iafbb-500w.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/blocks-of-masses-m-2m-4m-and-8m-are-arranged-in-a-line-on-jee-main-physics-work-power-and-energy-aakfnrfu0etebebq",
+        "is_numerical": false,
+        "sub_topic": "Collision: Inelastic Multi-stage",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Sequential inelastic energy loss"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 9th January Morning Slot",
+        "question": "Two particles of equal mass m have respective initial velocities$ui^$and$u(i^+j^2)$. They collide completely inelastically. The energy lost in the process is :",
+        "options": [
+            "$13mu2$",
+            "$18mu2$",
+            "$34mu2$",
+            "$23mu2$"
+        ],
+        "answer": "$18mu2$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/two-particles-of-equal-mass-m-have-respective-brinitial-v-jee-main-physics-impulse-and-momentum-48kilxxoyuq60ett",
+        "is_numerical": false,
+        "sub_topic": "Collision: Inelastic 2D",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Energy loss inelastic 2D"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 9th January Evening Slot",
+        "question": "A rod of length L has non-uniform linear mass density given by$\u03c1$(x) =$a+b(xL)2$, where a and b are constants and 0$\u2264$x$\u2264$L. The value of x for the centre of mass of the rod is at :",
+        "options": [
+            "$32(a+b2a+b)L$",
+            "$43(a+b2a+3b)L$",
+            "$34(2a+b3a+b)L$",
+            "$32(2a+b3a+b)L$"
+        ],
+        "answer": "$34(2a+b3a+b)L$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-rod-of-length-l-has-non-uniform-linear-mass-brdensity-g-jee-main-physics-rotational-motion-ohzsz8brmxglrinw",
+        "is_numerical": false,
+        "sub_topic": "CoM: Non-Uniform Density",
+        "logic_type": "Calculus",
+        "difficulty": 4,
+        "physics_key": "Integration non-uniform CoM"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 8th January Evening Slot",
+        "question": "A particle of mass m is dropped from a height h above the ground. At the same time another particle of the same mass is thrown vertically upwards from the ground with a speed of$2gh$. If they collide head-on completely inelastically, the time taken for the combined mass to reach the ground, in units of$hg$is :",
+        "options": [
+            "$12$",
+            "$12$",
+            "$32$",
+            "$34$"
+        ],
+        "answer": "$32$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/7kd4dk6a4lc40/b4f7c08c-5da6-4568-b0f6-847ce49c3bc8/ecf2f900-4888-11ea-b62d-51ccc5d4afb6/file-7kd4dk6a4lc41-280w.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-particle-of-mass-m-is-dropped-from-a-height-h-above-the-gr-jee-main-physics-current-electricity-dp3w9gefo8f3jqq7",
+        "is_numerical": false,
+        "sub_topic": "Collision: Inelastic GPE",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Momentum + Vertical Projectile"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 3rd September Evening Slot",
+        "question": "A block of mass 1.9 kg is at rest at the edge of a table, of height 1 m. A bullet of mass 0.1 kg collides with the block and sticks to it. If the velocity of the bullet is 20 m/s in the horizontal direction just before the collision then the kinetic energy just before the combined system strikes the floor, is [Take g = 10 m/s ^2 . Assume there is no rotational motion and loss of energy after the collision is negligable.]",
+        "options": [
+            "23 J",
+            "21 J",
+            "20 J",
+            "19 J"
+        ],
+        "answer": "21 J",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1kj87ytmf/fc7268a0-6c31-4baa-948b-403a950be6bd/5e027870-48db-11eb-82d5-9369b6fc82ad/file-1kj87ytmg-266w.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-block-of-mass-19-kg-is-at-rest-at-the-edge-of-a-table-of-jee-main-physics-work-power-and-energy-dbscvpjipdtfuzzd",
+        "is_numerical": false,
+        "sub_topic": "Collision: Inelastic GPE",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "KE after inelastic fall"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 2nd September Morning Slot",
+        "question": "A particle of mass m with an initial velocity$ui^$collides perfectly elastically with a mass 3 m at rest. It moves with a velocity$vj^$after collision, then, v is given by :",
+        "options": [
+            "$v=23u$",
+            "$v=u3$",
+            "$v=u2$",
+            "$v=16u$"
+        ],
+        "answer": "$v=u2$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1ki36p5mm/ef57bd47-d35c-4e3a-be48-5e90d7b45684/456fb6d0-324a-11eb-b894-490c5fe44a9e/file-1ki36p5mn-680w.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-particle-of-mass-m-with-an-initial-velocity-uwidehat-i-jee-main-physics-work-power-and-energy-qy69dh4fnizyvchz",
+        "is_numerical": false,
+        "sub_topic": "Collision: Elastic 2D",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Elastic collision 2D velocity"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 9th January Evening Slot",
+        "question": "A particle of mass m is projected with a speed u from the ground at an angle$\u03b8=\u03c03$w.r.t. horizontal (x-axis). When it has reached its maximum height, it collides completely inelastically with another particle of the same mass and velocity$ui^$. The horizontal distance covered by the combined mass before reaching the ground is:",
+        "options": [
+            "$22u2g$",
+            "$338u2g$",
+            "$324u2g$",
+            "$58u2g$"
+        ],
+        "answer": "$338u2g$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-particle-of-mass-m-is-projected-with-a-speed-u-from-the-gr-jee-main-physics-impulse-and-momentum-s3ef8qa3wlphexxq",
+        "is_numerical": false,
+        "sub_topic": "Collision: Projectile 2D",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Projectile momentum inelastic"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 3rd September Morning Slot",
+        "question": "A block of mass m = 1 kg slides with velocity v = 6 m/s on a frictionless horizontal surface and collides with a uniform vertical rod and sticks to it as shown. The rod is pivoted about O and swings as a result of the collision making angle$\u03b8$before momentarily coming to rest. If the rod has mass M = 2 kg, and length$l$= 1 m, the value of$\u03b8$is approximately : (take g = 10 m/s ^2 ) [IMAGE: https://imagex.cdn.examgoal.net/jgy2xukf23cqil/d138eae2-35b9-4baa-a6fe-8569aeace110/c1e14ed0-f64b-11ea-8293-3b6cc591631c/file-jgy2xukf23cqim-320w.png]",
+        "options": [
+            "63 ^o",
+            "69 ^o",
+            "55 ^o",
+            "49"
+        ],
+        "answer": "63 ^o",
+        "images": [
+            "https://imagex.cdn.examgoal.net/jgy2xukf23cqil/d138eae2-35b9-4baa-a6fe-8569aeace110/c1e14ed0-f64b-11ea-8293-3b6cc591631c/file-jgy2xukf23cqim-320w.png",
+            "https://imagex.cdn.examgoal.net/1kihc9h7i/9ff4c242-b32a-4a11-ab6d-9c13cd931f47/014d87e0-3a13-11eb-bac8-75aceba1383e/file-1kihc9h7j-1400w.jpeg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-block-of-mass-m--1-kg-slides-with-velocity-v--6-ms-on-a-jee-main-physics-impulse-and-momentum-65xvrekcuxx0opjo",
+        "is_numerical": false,
+        "sub_topic": "Collision: Inelastic Angular",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Angular momentum inelastic collision"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 8th January Evening Slot",
+        "question": "As shown in figure, when a spherical cavity (centered at O) of radius 1 is cut out of a uniform sphere of radius R (centered at C), the centre of mass of remaining (shaded) part of sphere is at G, i.e, on the surface of the cavity. R can be detemined by the equation : [IMAGE: https://imagex.cdn.examgoal.net/7k9k2k5hgh6qe/54bef7e3-eda0-4432-8ac1-6939226bd27c/ac465f60-38c4-11ea-92dd-4b9c3519996f/file-7k9k2k5hgh6qf-238w.jpg]",
+        "options": [
+            "(R ^2 + R \u2013 1) (2 \u2013 R) = 1",
+            "(R ^2 \u2013 R \u2013 1) (2 \u2013 R) = 1",
+            "(R ^2 \u2013 R + 1) (2 \u2013 R) = 1",
+            "(R ^2 + R + 1) (2 \u2013 R) = 1"
+        ],
+        "answer": "(R ^2 + R + 1) (2 \u2013 R) = 1",
+        "images": [
+            "https://imagex.cdn.examgoal.net/7k9k2k5hgh6qe/54bef7e3-eda0-4432-8ac1-6939226bd27c/ac465f60-38c4-11ea-92dd-4b9c3519996f/file-7k9k2k5hgh6qf-238w.jpg",
+            "https://imagex.cdn.examgoal.net/7kd4dk68qg1wd/3d2b70ef-18af-4134-8f2c-dbc00e9741fd/d18ea4d0-47c4-11ea-b62d-51ccc5d4afb6/file-7kd4dk68qg1we-344w.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/as-shown-in-figure-when-a-spherical-cavity-centered-at-o-jee-main-physics-current-electricity-luzve51trer587h7",
+        "is_numerical": false,
+        "sub_topic": "CoM: Subtraction Method",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "CoM cavity subtraction equation"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th April Morning Slot",
+        "question": "A man (mass = 50 kg) and his son (mass = 20 kg) are standing on a frictionless surface facing each other. The man pushes his son so that he starts moving at a speed of 0.70 ms ^\u20131 with respect to the man. The speed of the man with respect to the surface is :",
+        "options": [
+            "0.28 ms ^\u20131",
+            "0.47 ms ^\u20131",
+            "0.20 ms ^\u20131",
+            "0.14 ms ^\u20131"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-man-mass--50-kg-and-his-son-mass--20-kg-are-standing-jee-main-physics-impulse-and-momentum-mhmrdbeobgs4iyzd",
+        "is_numerical": false,
+        "sub_topic": "CoM: Conceptual",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Relative velocity CoM frame"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th April Evening Slot",
+        "question": "A particle of mass 'm' is moving with speed '2v' and collides with a mass '2m' moving with speed 'v' in the same direction. After collision, the first mass is stopped completely while the second one splits into two particles each of mass 'm', which move at angle 45\u00b0 with respect to the origianl direction. The speed of each of the moving particle will be :-",
+        "options": [
+            "2$2$v",
+            "v / (2$2$)",
+            "v /$2$",
+            "$2$v"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-particle-of-mass-m-is-moving-with-speed-2v-and-collide-jee-main-physics-units-and-measurements-djyy78rqzsoqvykb",
+        "is_numerical": false,
+        "sub_topic": "Collision: Multi-stage 2D",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 5,
+        "physics_key": "Sequential momentum energy 2D"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 8th January Morning Slot",
+        "question": "The coordinates of centre of mass of a uniform flag shaped lamina (thin flat plate) of mass 4kg. (The coordinates of the same are shown in figure) are : [IMAGE: https://imagex.cdn.examgoal.net/7k9k2k5gw62jq/dcc68ca3-eafb-49bb-b3a4-a2b0998cb3f0/408ef060-3875-11ea-92dd-4b9c3519996f/file-7k9k2k5gw62jr-311w.jpg]",
+        "options": [
+            "(0.75m, 1.75m)",
+            "(1m, 1.75m)",
+            "(0.75m, 0.75m)",
+            "(1.25m, 1.50m)"
+        ],
+        "answer": "N/A",
+        "images": [
+            "https://imagex.cdn.examgoal.net/7k9k2k5gw62jq/dcc68ca3-eafb-49bb-b3a4-a2b0998cb3f0/408ef060-3875-11ea-92dd-4b9c3519996f/file-7k9k2k5gw62jr-311w.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/the-coordinates-of-centre-of-mass-of-a-uniform-flag-shaped-l-jee-main-physics-current-electricity-q0lqovjzu4xlnho4",
+        "is_numerical": false,
+        "sub_topic": "CoM: Composite Plate",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "CoM composite area sum"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th April Evening Slot",
+        "question": "Three particles of masses 50 g, 100 g and 150 g are placed at the vertices of an equilateral triangle of side 1 m (as shown in the figure). The (x, y) coordinates of the centre of mass will be : [IMAGE: https://imagex.cdn.examgoal.net/jf762wkjxuz2wny/2abf25a6-dcfe-425a-8c28-732cb5f41d9d/e208dfe0-a1d1-11e9-902e-23ffedc9804e/file-jf762wkjxuz2wnz.png]",
+        "options": [
+            "$(34m,512m)$",
+            "$(712m,38m)$",
+            "$(712m,34m)$",
+            "$(38m,712m)$"
+        ],
+        "answer": "N/A",
+        "images": [
+            "https://imagex.cdn.examgoal.net/jf762wkjxuz2wny/2abf25a6-dcfe-425a-8c28-732cb5f41d9d/e208dfe0-a1d1-11e9-902e-23ffedc9804e/file-jf762wkjxuz2wnz.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/three-particles-of-masses-50-g-100-g-and-150-g-are-placed-a-jee-main-physics-impulse-and-momentum-ki8xa6wmfd7wwgdj",
+        "is_numerical": false,
+        "sub_topic": "CoM: Discrete Masses",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "CoM discrete masses 2D"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 7th January Morning Slot",
+        "question": "Three point particles of masses 1.0 kg, 1.5 kg and 2.5 kg are placed at three corners of a right angle triangle of sides 4.0 cm, 3.0 cm and 5.0 cm as shown in the figure. The center of mass of the system is at a point: [IMAGE: https://imagex.cdn.examgoal.net/7k9k2k5dosq4h/f5cf6ee9-2cbc-4e47-b4c1-c938c3ee1d27/13971b10-36b2-11ea-92dd-4b9c3519996f/file-7k9k2k5dosq4i-300w.jpg]",
+        "options": [
+            "2.0 cm right and 0.9 cm above 1 kg mass",
+            "0.9 cm right and 2.0 cm above 1 kg mass",
+            "0.6 cm right and 2.0 cm above 1 kg mass",
+            "1.5 cm right and 1.2 cm above 1 kg mass"
+        ],
+        "answer": "N/A",
+        "images": [
+            "https://imagex.cdn.examgoal.net/7k9k2k5dosq4h/f5cf6ee9-2cbc-4e47-b4c1-c938c3ee1d27/13971b10-36b2-11ea-92dd-4b9c3519996f/file-7k9k2k5dosq4i-300w.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/three-point-particles-of-masses-10-kg-15-kg-and-25-kg-ar-jee-main-physics-laws-of-motion-zj3hzdzpp5iscma9",
+        "is_numerical": false,
+        "sub_topic": "CoM: Discrete Masses",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "CoM 3-particle system"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 10th April Morning Slot",
+        "question": "Two particles, of masses M and 2M, moving, as shown, with speeds of 10 m/s and 5 m/s, collide elastically at the origin. After the collision, they move along the indicated directions with speeds u _1 and u _2 , respectively. The values of u _1 and u _2 are nearly : [IMAGE: https://imagex.cdn.examgoal.net/7kejek18ku9ff/c2cb576b-3047-48de-b227-b2c9cf67a415/d10830b0-e4b1-11e9-a7bc-b7b08ce8d541/file-7kejek18ku9fg-332w.jpg]",
+        "options": [
+            "6.5 m/s and 3.2 m/s",
+            "6.5 m/s and 6.3 m/s",
+            "3.2 m/s and 6.3 m/s",
+            "3.2 m/s and 12.6 m/s"
+        ],
+        "answer": "6.5 m/s and 6.3 m/s",
+        "images": [
+            "https://imagex.cdn.examgoal.net/7kejek18ku9ff/c2cb576b-3047-48de-b227-b2c9cf67a415/d10830b0-e4b1-11e9-a7bc-b7b08ce8d541/file-7kejek18ku9fg-332w.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/two-particles-of-masses-m-and-2m-moving-as-shown-with-sp-jee-main-physics-units-and-measurements-xzjflmnzmfgzmr9q",
+        "is_numerical": false,
+        "sub_topic": "Collision: Elastic 2D",
+        "logic_type": "Template",
+        "difficulty": 4,
+        "physics_key": "Elastic collision 2D vectors"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th April Evening Slot",
+        "question": "A wedge of mass M = 4m lies on a frictionless plane. A particle of mass m approaches the wedge with speed v. There is no friction between the particle and the plane or between the particle and the wedge. The maximum height climbed by the particle on the wedge is given by :-",
+        "options": [
+            "$v2g$",
+            "$2v27g$",
+            "$v22g$",
+            "$2v25g$"
+        ],
+        "answer": "$2v25g$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/6y3zli1lk25nvxa/233cb955-9742-46f3-9b57-ec5058f9932c/a8c077e0-2209-11ee-92b9-c1cea67c1a68/file-6y3zli1lk25nvxb.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/6y3zli1lk25n7e3/29a2d2ae-b219-49ab-8824-df6d442d684b/95ccefb0-2209-11ee-92b9-c1cea67c1a68/file-6y3zli1lk25n7e4.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-wedge-of-mass-m-4m-lies-on-a-frictionless-plane-a-parti-jee-main-physics-units-and-measurements-zcshymb5htwhz3sg",
+        "is_numerical": false,
+        "sub_topic": "Collision: Wedge Max Height",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "CoM conservation energy wedge"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 8th April Evening Slot",
+        "question": "A uniform rectangular thin sheet ABCD of mass M has length a and breadth b, as shown in the figure. If the shaded portion HBGO is cut-off, the coordinates of the centre of mass of the remaining portion will be :- [IMAGE: https://imagex.cdn.examgoal.net/18hoxe66ijwbyn1xz/7a48fdc2-eb28-4996-ab35-d11fa6bf9f0f/0d72ba70-8391-11e9-8081-1d558b7f1d26/file-18hoxe66ijwbyn1y0.png]",
+        "options": [
+            "$(5a3,5b3)$",
+            "$(2a3,2b3)$",
+            "$(5a12,5b12)$",
+            "$(3a4,3b4)$"
+        ],
+        "answer": "$(5a12,5b12)$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/18hoxe66ijwbyn1xz/7a48fdc2-eb28-4996-ab35-d11fa6bf9f0f/0d72ba70-8391-11e9-8081-1d558b7f1d26/file-18hoxe66ijwbyn1y0.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-uniform-rectangular-thin-sheet-abcd-of-mass-m-has-length-a-jee-main-physics-units-and-measurements-81wkpljfm36xjeik",
+        "is_numerical": false,
+        "sub_topic": "CoM: Subtraction Method",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "CoM sheet subtraction 2D"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th April Morning Slot",
+        "question": "A ball is thrown vertically up (taken as +z-axis) from the ground. The correct momentum-height (p-h) diagram is :",
+        "options": [
+            "[IMAGE: https://imagex.cdn.examgoal.net/18hoxe66ijwhsm6vf/f84b9a67-bc63-4803-82a0-b46d7606722b/329171b0-86c6-11e9-8081-1d558b7f1d26/file-18hoxe66ijwhsm6vg.png]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/18hoxe66ijwhsmjrk/7e886391-15f3-4b79-905c-d4bf6e98377b/3c870900-86c6-11e9-8081-1d558b7f1d26/file-18hoxe66ijwhsmjrl.png]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/18hoxe66ijwhsn7ne/d826616d-3c90-42d2-a19b-80db7a311a7b/4efa64b0-86c6-11e9-8081-1d558b7f1d26/file-18hoxe66ijwhsn7nf.png]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/18hoxe66ijwhsnn6f/6dab4c75-f97f-4e68-90c6-160473bfd1a0/5af91270-86c6-11e9-8081-1d558b7f1d26/file-18hoxe66ijwhsnn6g.png]"
+        ],
+        "answer": "[IMAGE: https://imagex.cdn.examgoal.net/18hoxe66ijwhsnn6f/6dab4c75-f97f-4e68-90c6-160473bfd1a0/5af91270-86c6-11e9-8081-1d558b7f1d26/file-18hoxe66ijwhsnn6g.png]",
+        "images": [
+            "https://imagex.cdn.examgoal.net/18hoxe66ijwhsm6vf/f84b9a67-bc63-4803-82a0-b46d7606722b/329171b0-86c6-11e9-8081-1d558b7f1d26/file-18hoxe66ijwhsm6vg.png",
+            "https://imagex.cdn.examgoal.net/18hoxe66ijwhsmjrk/7e886391-15f3-4b79-905c-d4bf6e98377b/3c870900-86c6-11e9-8081-1d558b7f1d26/file-18hoxe66ijwhsmjrl.png",
+            "https://imagex.cdn.examgoal.net/18hoxe66ijwhsn7ne/d826616d-3c90-42d2-a19b-80db7a311a7b/4efa64b0-86c6-11e9-8081-1d558b7f1d26/file-18hoxe66ijwhsn7nf.png",
+            "https://imagex.cdn.examgoal.net/18hoxe66ijwhsnn6f/6dab4c75-f97f-4e68-90c6-160473bfd1a0/5af91270-86c6-11e9-8081-1d558b7f1d26/file-18hoxe66ijwhsnn6g.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-ball-is-thrown-vertically-up-taken-as-z-axis-from-the-g-jee-main-physics-units-and-measurements-y0uliax4ehhcej32",
+        "is_numerical": false,
+        "sub_topic": "Impulse/Momentum: Graphs",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "p-h graph parabolic shape"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 8th April Evening Slot",
+        "question": "A body of mass m _1 moving with an unknown velocity of$v1i\u2227$, undergoes a collinear collision with a body of mass m _2 moving with a velocity$v2i\u2227$. After collision, m _1 and m _2 move with velocities of$v3i\u2227$and$v4i\u2227$, respectively. If m _2 = 0.5 m _1 and v _3 = 0.5 v _1 , then v _1 is :-",
+        "options": [
+            "$v4\u2212v22$",
+            "$v4\u2212v24$",
+            "$v4\u2212v2$",
+            "$v4+v2$"
+        ],
+        "answer": "$v4\u2212v2$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-body-of-mass-m1-moving-with-an-unknown-velocity-of-v1-jee-main-physics-units-and-measurements-fpmnupzpl1zyg883",
+        "is_numerical": false,
+        "sub_topic": "Collision: Elastic 1D",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Collinear elastic velocity variables"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th April Morning Slot",
+        "question": "A body of mass 2 kg makes an eleastic collision with a second body at rest and continues to move in the original direction but with one fourth of its original speed. What is the mass of the second body ?",
+        "options": [
+            "1.2 kg",
+            "1.0 kg",
+            "1.8 kg",
+            "1.5 kg"
+        ],
+        "answer": "1.2 kg",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-body-of-mass-2-kg-makes-an-eleastic-collision-with-a-secon-jee-main-physics-units-and-measurements-t1mvju5eehbwkie5",
+        "is_numerical": false,
+        "sub_topic": "Collision: Elastic 1D",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Elastic mass finding after collision"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 8th April Morning Slot",
+        "question": "If 10 ^22 gas molecules each of mass 10 ^\u201326 kg collide with a surface (perpendicular to it) elastically per second over an area 1 m ^2 with a speed 10 ^4 m/s, the pressure exerted by the gas molecules will be of the order of :",
+        "options": [
+            "10 ^8 N/m ^2",
+            "10 ^16 N/m ^2",
+            "10 ^4 N/m ^2",
+            "2 N/m ^2"
+        ],
+        "answer": "2 N/m ^2",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/if-1022-gas-molecules-each-of-mass-1026-kg-collide-with-a-jee-main-physics-units-and-measurements-1ga685eacjjsc1ou",
+        "is_numerical": false,
+        "sub_topic": "Impulse/Momentum: Pressure Rate",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Pressure from impulse rate"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 8th April Morning Slot",
+        "question": "Four particles A, B, C and D with masses m _A = m, m _B = 2m, m _C = 3m and m _D = 4m are at the corners of a square. They have accelerations of equal magnitude with directions as shown. The acceleration of the centre of mass of the particles is : [IMAGE: https://imagex.cdn.examgoal.net/Xv1IYnGUXUGEAgac4/dUoqcqdubtfqSp01Zh6MVxt48LwXS/CohpnVV8EtpMJmYgQT2w2e/image.png]",
+        "options": [
+            "$a5(i\u2227+j\u2227)$",
+            "$a5(i\u2227\u2212j\u2227)$",
+            "$a(i\u2227+j\u2227)$",
+            "Zero"
+        ],
+        "answer": "$a5(i\u2227\u2212j\u2227)$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/Xv1IYnGUXUGEAgac4/dUoqcqdubtfqSp01Zh6MVxt48LwXS/CohpnVV8EtpMJmYgQT2w2e/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/four-particles-a-b-c-and-d-with-masses-ma-m-mb-2m-mc-jee-main-physics-units-and-measurements-abbfaemmmryv8j5q",
+        "is_numerical": false,
+        "sub_topic": "CoM: Acceleration",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "CoM acceleration vector sum"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th January Evening Slot",
+        "question": "An alpha-particle of mass m suffers 1-dimensional elastic collision with a nucleus at rest of unknown mass. It is scattered directly backwards losing, 64% of its initial kinetic energy. The mass of the nucleus is",
+        "options": [
+            "2m",
+            "4m",
+            "1.5m",
+            "3.5m"
+        ],
+        "answer": "4m",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/6y3zli1lk26wd5q/84e70eea-d2a2-4655-a938-b7c9295d5dac/7daab4d0-220e-11ee-8e56-71f4c7b5eb20/file-6y3zli1lk26wd5r.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/an-alpha-particle-of-mass-m-suffers-1-dimensional-elastic-co-jee-main-physics-units-and-measurements-1e5bzsyjny0bmptk",
+        "is_numerical": false,
+        "sub_topic": "Collision: Elastic 1D",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "KE loss elastic mass finding"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th January Morning Slot",
+        "question": "Three blocks A, B and C are lying on a smooth horizontal surface, as shown in the figure. A and B have equal masses, m while C has mass M, Block A is given an initial speed$\u03c5$towards B due to which it collides with B perfectly inelastically. The combined mass collides with C, also perfectly inelastically$56$th of the initial kinetic energy is lost in whole process. What is value of M/m ? [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l8mgsv5n/efe434e5-e762-46da-9712-217d8c6f893c/4c1108b0-3fa2-11ed-835d-8b6c97a43374/file-1l8mgsv5o.png?format=png]",
+        "options": [
+            "5",
+            "2",
+            "4",
+            "3"
+        ],
+        "answer": "4",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l8mgsv5n/efe434e5-e762-46da-9712-217d8c6f893c/4c1108b0-3fa2-11ed-835d-8b6c97a43374/file-1l8mgsv5o.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/initially-block-a-is-given-a-horizontal-velocity-v-and-oth-jee-main-physics-units-and-measurements-ikxwavd1csielpas",
+        "is_numerical": false,
+        "sub_topic": "Collision: Multi-stage",
+        "logic_type": "Template",
+        "difficulty": 4,
+        "physics_key": "Sequential inelastic energy loss"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 11th January Evening Slot",
+        "question": "A particle of mass m is moving in a straight line with momentum p. Starting at time t = 0, a force F = kt acts in the same direction on the moving particle during time interval T so that its momentum changes from p to 3p. Here k is a constant. The value of T is :",
+        "options": [
+            "$2kp$",
+            "$2pk$",
+            "$2p2$",
+            "$2kp$"
+        ],
+        "answer": "$2pk$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-particle-of-mass-m-is-moving-in-a-straight-line-with-momen-jee-main-physics-units-and-measurements-j7bf1jqf4f99iiqt",
+        "is_numerical": false,
+        "sub_topic": "Impulse/Momentum: Variable Force",
+        "logic_type": "Calculus",
+        "difficulty": 3,
+        "physics_key": "Impulse integration force time"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th January Morning Slot",
+        "question": "The position vector of the centre of mass$r\u2192cm$of an asymmetric uniform bar of negligible area of crosssection as shown in figure is : [IMAGE: https://imagex.cdn.examgoal.net/Fu9PhOgPgs1DySGmZ/Pc31s0mHBMY8q5DmpNAYhn2wXBcD1/7d0Zq5iZaz4YYNAHnqHEGG/image.png]",
+        "options": [
+            "$r\u2192cm=118Lx^+88Ly^$",
+            "$r\u2192cm=58Lx^+138Ly^$",
+            "$r\u2192cm=138Lx^+58Ly^$",
+            "$r\u2192cm=38Lx^+118Ly^$"
+        ],
+        "answer": "$r\u2192cm=138Lx^+58Ly^$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/Fu9PhOgPgs1DySGmZ/Pc31s0mHBMY8q5DmpNAYhn2wXBcD1/7d0Zq5iZaz4YYNAHnqHEGG/image.png",
+            "https://imagex.cdn.examgoal.net/I4Z5mWzaJ4qVrATuF/Url36f7f5jC0ynm1XWP6BuYh90ZZ2/CEdnDz0FFNcbvDc8Y4WkRY/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/the-position-vector-of-the-centre-of-mass-overrightarrow-jee-main-physics-units-and-measurements-jeep0wnx3si3c3tj",
+        "is_numerical": false,
+        "sub_topic": "CoM: Continuous Bent Wire",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "CoM L-shape wire vector"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th January Morning Slot",
+        "question": "A simple pendulum, made of a string of length$\u2113$and a bob of mass m, is released from a small angle$\u03b80$. It strikes a block of mass M, kept on a horizontal surface at its lowest point of oscillations, elastically. It bounces back and goes up to an angle$\u03b81$. Then M is given by :",
+        "options": [
+            "$m2(\u03b80+\u03b81\u03b80\u2212\u03b81)$",
+            "$m2(\u03b80\u2212\u03b81\u03b80+\u03b81)$",
+            "$m(\u03b80+\u03b81\u03b80\u2212\u03b81)$",
+            "$m(\u03b80\u2212\u03b81\u03b80+\u03b81)$"
+        ],
+        "answer": "$m(\u03b80+\u03b81\u03b80\u2212\u03b81)$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/jnLIf9lL5cdVs8etn/y89k8KQQ4i80gUtMXJbzT326m8L9c/ylAgmO1mKL1rmx7I3RTYep/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-simple-pendulum-made-of-a-string-of-length-ell-and-jee-main-physics-units-and-measurements-wltyxiof0zzpuk6k",
+        "is_numerical": false,
+        "sub_topic": "Collision: Elastic Pendulum",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Energy angle elastic collision"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 10th January Morning Slot",
+        "question": "A piece of wood of mass 0.03 kg is dropped from the top of a 100 m height building. At the same time, a bullet of mass 0.02 kg is fired vertically upward, with a velocity 100 ms ^\u20131 , from the ground. The bullet gets embedded in the wood. Then the maximum height to which the combined system reaches above the top of the building before falling below is - (g = 10 ms ^\u20132 )",
+        "options": [
+            "30 m",
+            "40 m",
+            "20 m",
+            "10 m"
+        ],
+        "answer": "40 m",
+        "images": [
+            "https://imagex.cdn.examgoal.net/wJN73tVz1OuXp0Qsc/xvXftc2D1xKSX1TlrERjwInHrAwMv/3JExQNqV27WbZ2F3Nq6O22/image.png",
+            "https://imagex.cdn.examgoal.net/WlDnH4STJjBXdEiHp/totAxAGYGpwMqUIl8gz6oqvZDP3ED/7EyAMgtgVwFoyPUoBc0WIJ/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-piece-of-wood-of-mass-003-kg-is-dropped-from-the-top-of-a-jee-main-physics-units-and-measurements-qkydqiepy2c7wc6w",
+        "is_numerical": false,
+        "sub_topic": "Collision: Vertical Inelastic",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Vertical collision max height"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 11th January Morning Slot",
+        "question": "A body of mass 1 kg falls freely from a height of 100 m, on a platform mass 3 kg which is mounted on a spring having spring constant k = 1.25$\u00d7$10 ^6 N/m. The body sticks to the platform and the spring's maximum compression is found to be x. Given that g = 10 ms ^\u20132 , the value of x will be close to :",
+        "options": [
+            "8 cm",
+            "4 cm",
+            "40 cm",
+            "80 cm"
+        ],
+        "answer": "4 cm",
+        "images": [
+            "https://imagex.cdn.examgoal.net/XIsDwjGXM6T98znvq/lh9utqtFDe02UoJv2yXKXMXLtXMij/27QuJ9OIQThDxe10JM7FQA/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-body-of-mass-1-kg-falls-freely-from-a-height-of-100-m-on-jee-main-physics-units-and-measurements-nwsnqafa76a3qm0f",
+        "is_numerical": false,
+        "sub_topic": "Collision: Inelastic Spring",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 5,
+        "physics_key": "Momentum KE to spring max"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th January Morning Slot",
+        "question": "Two masses m and$m2$are connected at the two ends of a massless rigid rod of length l. The rod is suspended by a thin wire of torsional constant k, at the centre of mass of the rod-mass system(see figure). Because of torsional constant k, the restoring torque is$\u03c4$= k$\u03b8$for angular displacement$\u03b8$. If the rod is rotated by$\u03b8$_0 and released, the tension in it when it passes through its mean position will be : [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l8mgh0kr/12d19c7d-65fd-4d08-b2cc-ec087e3a6155/028b6dd0-3fa1-11ed-835d-8b6c97a43374/file-1l8mgh0kt.png?format=png]",
+        "options": [
+            "$3k\u03b802l$",
+            "$2k\u03b802l$",
+            "$k\u03b802l$",
+            "$k\u03b8022l$"
+        ],
+        "answer": "$k\u03b802l$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l8mgh0kr/12d19c7d-65fd-4d08-b2cc-ec087e3a6155/028b6dd0-3fa1-11ed-835d-8b6c97a43374/file-1l8mgh0kt.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l8mghs9r/ff390461-ae7e-40e5-8d85-ea4d40ce5245/17efcef0-3fa1-11ed-835d-8b6c97a43374/file-1l8mghs9s.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l8mgibwq/fa41bba2-2411-4a81-b700-55c6ed4a758c/271b52a0-3fa1-11ed-835d-8b6c97a43374/file-1l8mgibwr.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-rod-of-torsional-constant-k-is-attached-to-centre-of-masse-jee-main-physics-units-and-measurements-5pdctykpeiweyjnr",
+        "is_numerical": false,
+        "sub_topic": "CoM: Rotational Energy",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Rotational energy tension CoM"
+    },
+    {
+        "metadata": "JEE Main 2018 (Offline)",
+        "question": "In a collinear collision, a particle with an initial speed v _0 strikes a stationary particle of the same mass. If the final total kinetic energy is 50% greater than the original kinetic energy, the magnitude of the relative velocity between the two particles, after collision, is :",
+        "options": [
+            "$v02$",
+            "$v04$",
+            "$2v0$",
+            "$v02$"
+        ],
+        "answer": "$2v0$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-a-collinear-collision-a-particle-with-an-initial-speed-v-2018-marks-4-6ze9cfsvinm7h5g2.htm",
+        "is_numerical": false,
+        "sub_topic": "Collision: Inelastic 1D",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "KE increase final relative velocity"
+    },
+    {
+        "metadata": "JEE Main 2018 (Online) 15th April Evening Slot",
+        "question": "A proton of mass m collides elastically with a particle of unknown mass at rest. After the collision, the proton and the unknown particle are seen moving at an angle of 90 ^o with respect to each other. The mass of unknown particle is :",
+        "options": [
+            "$m2$",
+            "m",
+            "$m3$",
+            "2 m"
+        ],
+        "answer": "m",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l32mth8k/035418a3-4c67-48c4-8a2a-6921067bdf76/12040440-d1bd-11ec-9218-efb2cf12c71b/file-1l32mth8l.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l32mu62c/397c94a2-021d-4f5b-ae17-11932eb8142c/2531af40-d1bd-11ec-9218-efb2cf12c71b/file-1l32mu62d.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-proton-of-mass-m-collides-elastically-with-a-particle-of-u-jee-main-physics-units-and-measurements-gl8e11etwltdpc0r",
+        "is_numerical": false,
+        "sub_topic": "Collision: Elastic 2D",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "90 degree elastic collision"
+    },
+    {
+        "metadata": "JEE Main 2018 (Offline)",
+        "question": "The mass of a hydrogen molecule is 3.32$\u00d7$10 ^-27 kg. If 10 ^23 hydrogen molecules strike, per second, a fixed wall of area 2 cm ^2 at an angle of 45 ^o to the normal, and rebound elastically with a speed of 10 ^3 m/s, then the pressure on the wall is nearly:",
+        "options": [
+            "2.35$\u00d7$10 ^3 N m ^-2",
+            "4.70$\u00d7$10 ^3 N m ^-2",
+            "2.35$\u00d7$10 ^2 N m ^-2",
+            "4.70$\u00d7$10 ^2 N m ^-2"
+        ],
+        "answer": "2.35$\u00d7$10 ^3 N m ^-2",
+        "images": [
+            "https://imagex.cdn.examgoal.net/jTP1kDK2NfBR4nvwQ/GsChTOjDkpPbkTeilXbaNwaKU1mUN/e5PvuFkJEY0403UnndvQWT/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/the-mass-of-a-hydrogen-molecule-is-332-times-10-27-kg-2018-marks-4-ufc8cwhpjzgxsvf9.htm",
+        "is_numerical": false,
+        "sub_topic": "Impulse/Momentum: Pressure Rate",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Pressure 2D elastic collision"
+    },
+    {
+        "metadata": "JEE Main 2016 (Online) 10th April Morning Slot",
+        "question": "A neutron moving with a speed \u2018v\u2019 makes a head on collision with a stationary hydrogen atom in ground state. The minimum kinetic energy of the neutron for which inelastic collision will take place is :",
+        "options": [
+            "10.2 eV",
+            "16.8 eV",
+            "12.1 eV",
+            "20.4 eV"
+        ],
+        "answer": "20.4 eV",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-neutron-moving-with-a-speed-v-makes-a-head-on-collis-jee-main-physics-units-and-measurements-ytwd8oc1vsh9hzm9",
+        "is_numerical": false,
+        "sub_topic": "Collision: Nuclear Inelastic",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Collision KE excitation threshold"
+    },
+    {
+        "metadata": "JEE Main 2015 (Offline)",
+        "question": "Distance of the center of mass of a solid uniform cone from its vertex is$z0$. If the radius of its base is$R$and its height is$h$then$z0$is equal to :",
+        "options": [
+            "$5h8$",
+            "$3h28R$",
+            "$h24R$",
+            "$3h4$"
+        ],
+        "answer": "$3h4$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l91ofg7j/6a0d62ec-2d96-49cf-9855-a36685260c79/e1c685f0-47ff-11ed-8757-0f869593f41f/file-1l91ofg7k.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/distance-of-the-center-of-mass-of-a-solid-uniform-cone-from-2015-marks-4-xgq9perk5vcvz7xu.htm",
+        "is_numerical": false,
+        "sub_topic": "CoM: Continuous Solids",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "CoM solid cone formula"
+    },
+    {
+        "metadata": "JEE Main 2017 (Online) 9th April Morning Slot",
+        "question": "Two particles A and B of equal mass M are moving with the same speed$\u03c5$as shown in the figure. They collide completely inelastically and move as a single particle C. The angle$\u03b8$that the path of C makes with the X-axis is given by : [IMAGE: https://imagex.cdn.examgoal.net/MdAyNEPUZ1q2ghg8c/d9gBoP83Zbqo1rupNKtLYgrxG7up4/PT8SBGR3IAW2gle3AwPxO6/image.png]",
+        "options": [
+            "tan$\u03b8$=$3+21\u22122$",
+            "tan$\u03b8$=$3\u221221\u22122$",
+            "tan$\u03b8$=$1\u221222(1+3)$",
+            "tan$\u03b8$=$1\u221231+2$"
+        ],
+        "answer": "tan$\u03b8$=$3+21\u22122$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/MdAyNEPUZ1q2ghg8c/d9gBoP83Zbqo1rupNKtLYgrxG7up4/PT8SBGR3IAW2gle3AwPxO6/image.png",
+            "https://imagex.cdn.examgoal.net/wOYid7DDHaYK6nWrP/vnXb9KNiZHpxKrlnEqN9yMJDqV6HF/JXs0ZnyXxTmEFEvmTfSSmj/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/two-particles-a-and-b-of-equal-mass-m-are-moving-with-the-sa-jee-main-physics-units-and-measurements-hrkuxiwt5p2uh0ha",
+        "is_numerical": false,
+        "sub_topic": "Collision: Inelastic 2D",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Inelastic 2D final angle"
+    },
+    {
+        "metadata": "JEE Main 2016 (Online) 10th April Morning Slot",
+        "question": "In the figure shown ABC is a uniform wire. If centre of mass of wire lies vertically below point A, then$BCAB$is close to : [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l82x5s6t/1c086b9f-9851-47af-aed2-20e73fcc13df/985f0250-34e2-11ed-b84c-a3c7c2456516/file-1l82x5s6u.png?format=png]",
+        "options": [
+            "1.85",
+            "1.37",
+            "1.5",
+            "3"
+        ],
+        "answer": "1.37",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l82x5s6t/1c086b9f-9851-47af-aed2-20e73fcc13df/985f0250-34e2-11ed-b84c-a3c7c2456516/file-1l82x5s6u.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l82x6o37/eda26380-1a00-4434-87cf-4900d2f5fc69/b1034c30-34e2-11ed-b84c-a3c7c2456516/file-1l82x6o38.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/in-the-figure-shown-abc-is-a-uniform-wire-if-centre-of-mass-jee-main-physics-units-and-measurements-faqmdd4ujlkgtqcq",
+        "is_numerical": false,
+        "sub_topic": "CoM: Continuous Bent Wire",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "CoM L-shape balance condition"
+    },
+    {
+        "metadata": "AIEEE 2010",
+        "question": "The figure shows the position$\u2212$time$(x\u2212t)$graph of one-dimensional motion of body of mass$0.4$$kg.$The magnitude of each impulse is [IMAGE: https://imagex.cdn.examgoal.net/w5EaYoMqID9onB14D/UNSNecegaeWLAzhfdVM3ghgLDlAFK/kuWJsryDGuRFyZn5kRIck2/image.svg]",
+        "options": [
+            "$0.4$$Ns$",
+            "$0.8$$Ns$",
+            "$1.6$$Ns$",
+            "$0.2$$Ns$"
+        ],
+        "answer": "$0.8$$Ns$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/w5EaYoMqID9onB14D/UNSNecegaeWLAzhfdVM3ghgLDlAFK/kuWJsryDGuRFyZn5kRIck2/image.svg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/the-figure-shows-the-position-time-x-t-graph-of-on-2010-marks-4-yyvruukiw44jidck.htm",
+        "is_numerical": false,
+        "sub_topic": "Impulse/Momentum: Graphs",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "Impulse from velocity change"
+    },
+    {
+        "metadata": "JEE Main 2013 (Offline)",
+        "question": "This question has statement$I$and statement$I$$I$. Of the four choices given after the statements, choose the one that best describes the two statements. Statement -$I$: A point particle of mass$m$moving with speed$\u03c5$collides with stationary point particle of mass$M.$If the maximum energy loss possible is given as$f(12mv2)$, then$f=(mM+m).$Statement -$II$: Maximum energy loss occurs when the particles get stuck together as a result of the collision.",
+        "options": [
+            "Statement -$I$is true, Statement -$II$is true; Statement -$II$is the correct explanation of Statement -$I$.",
+            "Statement -$I$is true, Statement -$II$is true; Statement -$II$is not the correct explanation of Statement -$I$.",
+            "Statement -$I$is true, Statement -$II$is false",
+            "Statement -$I$is false, Statement -$II$true."
+        ],
+        "answer": "Statement -$I$is false, Statement -$II$true.",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-question-has-statement-rm-i-and-statement-rm-2013-marks-4-ithlbj1wfhklo13j.htm",
+        "is_numerical": false,
+        "sub_topic": "Collision: Conceptual",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Maximum energy loss logic"
+    },
+    {
+        "metadata": "JEE Main 2015 (Offline)",
+        "question": "A particle of mass$m$moving in the$x$direction with speed$2v$is hit by another particle of mass$2m$moving in the$y$direction with speed$v.$If the collision is perfectly inelastic, the percentage loss in the energy during the collision is close to:",
+        "options": [
+            "$56%$",
+            "$62%$",
+            "$44%$",
+            "$50%$"
+        ],
+        "answer": "$56%$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l91oguxy/85d124a8-cb21-4c9b-ad8d-99746c3176de/08f77b70-4800-11ed-8757-0f869593f41f/file-1l91oguxz.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-particle-of-mass-m-moving-in-the-x-direction-with-2015-marks-4-zaeid4s9t1uzjbdo.htm",
+        "is_numerical": false,
+        "sub_topic": "Collision: Inelastic 2D",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Energy loss inelastic 2D vectors"
+    },
+    {
+        "metadata": "AIEEE 2010",
+        "question": "Statement - 1 : Two particles moving in the same direction do not lose all their energy in a completely inelastic collision. Statement - 2 : Principle of conservation of momentum holds true for all kinds of collisions.",
+        "options": [
+            "Statement - 1 is true, Statement - 2 is true; Statement - 2 is the correct explanation of Statement - 1",
+            "Statement - 1 is true, Statement - 2 is true; Statement - 2 is not the correct explanation of Statement - 1",
+            "Statement - 1 is false, Statement - 2 is true",
+            "Statement - 1 is true, Statement - 2 is false"
+        ],
+        "answer": "Statement - 1 is true, Statement - 2 is true; Statement - 2 is the correct explanation of Statement - 1",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/statement-1-two-particles-moving-in-the-same-direction-d-2010-marks-4-xnnkc9egwpygxhiy.htm",
+        "is_numerical": false,
+        "sub_topic": "Collision: Conceptual",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Inelastic energy loss conservation"
+    },
+    {
+        "metadata": "AIEEE 2008",
+        "question": "A thin rod of length$\u2032L\u2032$is lying along the$x$-axis with its ends at$x=0$and$x=L$. Its linear density (mass/length) varies with$x$as$k(xL)n,$where$n$can be zero or any positive number. If the position$XCM$of the center of mass of the rod is plotted against$\u2032n\u2032,$which of the following graphs best approximates the dependence of$XCM$on$n$?",
+        "options": [
+            "[IMAGE: https://imagex.cdn.examgoal.net/hQrGhD8Baajp3VDyo/M0X0tIyTELBrmCevFHqdkKQTtsLP3/0ZqvFmjTlHkvJ7pDEdbHXD/image.png]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/TxVzRLSZaH767Uoar/8OZ2lDPZUVzjuzIFo7y2OaR3fcc3u/zRyLJSVN09GpUNnLavJM3I/image.png]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/KSF460bENvREcdaHo/ovRiluvWQf2EQNQG7tGQaCNNNpKQO/XjE54xwtf4r4r52JbmyUvg/image.png]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/B43chV0LfPgBrF5tg/uGnlVKKimcGDsaPhxGoEE9q0fPndk/naA7r5nIf1klwqPTrOceNN/image.png]"
+        ],
+        "answer": "[IMAGE: https://imagex.cdn.examgoal.net/hQrGhD8Baajp3VDyo/M0X0tIyTELBrmCevFHqdkKQTtsLP3/0ZqvFmjTlHkvJ7pDEdbHXD/image.png]",
+        "images": [
+            "https://imagex.cdn.examgoal.net/hQrGhD8Baajp3VDyo/M0X0tIyTELBrmCevFHqdkKQTtsLP3/0ZqvFmjTlHkvJ7pDEdbHXD/image.png",
+            "https://imagex.cdn.examgoal.net/TxVzRLSZaH767Uoar/8OZ2lDPZUVzjuzIFo7y2OaR3fcc3u/zRyLJSVN09GpUNnLavJM3I/image.png",
+            "https://imagex.cdn.examgoal.net/KSF460bENvREcdaHo/ovRiluvWQf2EQNQG7tGQaCNNNpKQO/XjE54xwtf4r4r52JbmyUvg/image.png",
+            "https://imagex.cdn.examgoal.net/B43chV0LfPgBrF5tg/uGnlVKKimcGDsaPhxGoEE9q0fPndk/naA7r5nIf1klwqPTrOceNN/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-thin-rod-of-length-l-is-lying-along-the-x-axis-w-2008-marks-4-psq3eneeleoaru4p.htm",
+        "is_numerical": false,
+        "sub_topic": "CoM: Non-Uniform Density",
+        "logic_type": "Graphical",
+        "difficulty": 4,
+        "physics_key": "CoM integration density exponent"
+    },
+    {
+        "metadata": "AIEEE 2007",
+        "question": "A circular disc of radius$R$is removed from a bigger circular disc of radius$2R$such that the circumferences of the discs coincide. The center of mass of the new disc is$\u03b1R$form the center of the bigger disc. The value of$\u03b1$is",
+        "options": [
+            "$1/4$",
+            "$1/3$",
+            "$1/2$",
+            "$1/6$"
+        ],
+        "answer": "$1/3$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/jc161ivQcbdq0bi67/mIw0nNGl9d4hY8XmNmdEH1ag2TFCU/3cSxm5dD2HtlXDAQt3pMeb/image.svg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-circular-disc-of-radius-r-is-removed-from-a-bigger-cir-2007-marks-4-ze1uzpwlva7tw6en.htm",
+        "is_numerical": false,
+        "sub_topic": "CoM: Subtraction Method",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "CoM disk subtraction overlapping"
+    },
+    {
+        "metadata": "AIEEE 2008",
+        "question": "A block of mass$0.50$$kg$is moving with a speed of$2.00$$ms\u22121$on a smooth surface. It strike another mass of$1.0$$kg$and then they move together as a single body. The energy loss during the collision is :",
+        "options": [
+            "$0.16J$",
+            "$1.00J$",
+            "$0.67J$",
+            "$0.34$$J$"
+        ],
+        "answer": "$0.67J$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-block-of-mass-050-kg-is-moving-with-a-speed-of-2008-marks-4-pndhz821haxsbq7v.htm",
+        "is_numerical": false,
+        "sub_topic": "Collision: Inelastic 1D",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Energy loss inelastic 1D"
+    },
+    {
+        "metadata": "AIEEE 2006",
+        "question": "A player caught a cricket ball of mass$150$$g$moving at a rate of$20$$m/s.$If the catching process is completed in$0.1s,$the force of the blow exerted by the ball on the hand of the player is equal to",
+        "options": [
+            "$150$$N$",
+            "$3$$N$",
+            "$30$$N$",
+            "$300$$N$"
+        ],
+        "answer": "$30$$N$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-player-caught-a-cricket-ball-of-mass-150-g-moving-2006-marks-4-ameaheve22khcp18.htm",
+        "is_numerical": false,
+        "sub_topic": "Impulse/Momentum: Force",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Average force momentum time"
+    },
+    {
+        "metadata": "AIEEE 2005",
+        "question": "A mass$\u2032m\u2032$moves with a velocity$\u2032v\u2032$and collides inelastically with another identical mass. After collision the$1st$mass moves with velocity$v3$in a direction perpendicular to the initial direction of motion. Find the speed of the$2nd$mass after collision. [IMAGE: https://imagex.cdn.examgoal.net/fp70rujq5DA635qnt/By5aPRJ3MVuKHFDC0AZVzlRc0Fqt7/njRRhJFhDAwr2bwrjq0Sf9/image.png]",
+        "options": [
+            "$3v$",
+            "$v$",
+            "$v3$",
+            "$23v$"
+        ],
+        "answer": "$23v$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/fp70rujq5DA635qnt/By5aPRJ3MVuKHFDC0AZVzlRc0Fqt7/njRRhJFhDAwr2bwrjq0Sf9/image.png",
+            "https://imagex.cdn.examgoal.net/cqVK3pziqqHAZ0l4c/AoZKWEpaO5kyYAVszGkugg3eHVKIu/IP2qOGhKtudW0n56XTWauv/image.svg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-mass-m-moves-with-a-velocity-v-and-collides-in-2005-marks-4-zwpik1c72i8eczvd.htm",
+        "is_numerical": false,
+        "sub_topic": "Collision: Inelastic 2D",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Inelastic 2D final speed"
+    },
+    {
+        "metadata": "AIEEE 2005",
+        "question": "A T shaped object with dimensions shown in the figure, is lying on a smooth floor. A force$\u2032F\u2192\u2032$is applied at the point$P$parallel to$AB,$such that the object has only the translational motion without rotation. Find the location of$P$with respect to$C.$[IMAGE: https://imagex.cdn.examgoal.net/RgPtxyMn767fzp3jP/vOf2h4R2Pp69MhhNLjxGSeZcUHmnf/CkJIfhZxsRIXJbblUt0wSI/image.png]",
+        "options": [
+            "$32L$",
+            "$23L$",
+            "$L$",
+            "$43L$"
+        ],
+        "answer": "$43L$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/RgPtxyMn767fzp3jP/vOf2h4R2Pp69MhhNLjxGSeZcUHmnf/CkJIfhZxsRIXJbblUt0wSI/image.png",
+            "https://imagex.cdn.examgoal.net/QfWVHVIJRoKlCJXbX/EMCj9vhIhZlb4DCOlEgs9iTUsIJVd/CWRnPXK3ofrOTkpa5s8vB5/image.svg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-t-shaped-object-with-dimensions-shown-in-the-figure-2005-marks-4-htjkebh5uwpwyovp.htm",
+        "is_numerical": false,
+        "sub_topic": "CoM: Force Application",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Force application CoM no rotation"
+    },
+    {
+        "metadata": "AIEEE 2006",
+        "question": "Consider a two particle system with particles having masses$m1$and$m2$. If the first particle is pushed towards the center of mass through a distance$d,$by what distance should the second particle is moved, so as to keep the center of mass at the same position?",
+        "options": [
+            "$m2m1d$",
+            "$m1m1+m2d$",
+            "$m1m2d$",
+            "$d$"
+        ],
+        "answer": "$m1m2d$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/MmP0ascyNLHCptltH/PafY176kaTqUDIfLmTGROM52Rc6tA/jYuZQjt2765EWW34bkSVE4/image.svg",
+            "https://imagex.cdn.examgoal.net/9mRJx7aB3C3rREVer/VXFbPJbWmlst6Cr2LHEByZ7U0Efqc/Gp12fn5zdZF60SjvFTzzC4/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/consider-a-tow-particle-system-with-particles-having-masses-2006-marks-4-vlhk6koauxpayjkb.htm",
+        "is_numerical": false,
+        "sub_topic": "CoM: Conceptual",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "CoM displacement relation"
+    },
+    {
+        "metadata": "AIEEE 2006",
+        "question": "A bomb of mass$16kg$at rest explodes into two pieces of masses$4$$kg$and$12$$kg.$The velocity of the$12$$kg$mass is$4ms\u22121.$The kinetic energy of the other mass is",
+        "options": [
+            "$144$$J$",
+            "$288$$J$",
+            "$192$$J$",
+            "$96$$J$"
+        ],
+        "answer": "$288$$J$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/3T7YjPhEZDsqaIC1J/y2vNdG9oZcJCnYzyzEJWNr8riMB2X/v3D5rnZX3TA0kk8ruDjhrU/image.svg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-bomb-of-mass-16kg-at-rest-explodes-into-two-pieces-of-2006-marks-4-0vcaefi4lhk6ksef.htm",
+        "is_numerical": false,
+        "sub_topic": "Impulse/Momentum: Explosion",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Explosion KE conservation"
+    },
+    {
+        "metadata": "AIEEE 2003",
+        "question": "Consider the following two statements :$A.$Linear momentum of a system of particles is zero$B.$Kinetic energy of a system of particles is zero. then",
+        "options": [
+            "$A$does not imply$B$and$B$does not imply$A$",
+            "$A$implies$B$but$B$does not imply$A$",
+            "$A$does not imply$B$but$B$implies$A$",
+            "$A$implies$B$and$B$implies$A$"
+        ],
+        "answer": "$A$does not imply$B$and$B$does not imply$A$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/consider-the-following-two-statements-a-2003-marks-4-lnqby7v8fsurc7kx.htm",
+        "is_numerical": false,
+        "sub_topic": "Impulse/Momentum: Conceptual",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Momentum KE zero statement"
+    },
+    {
+        "metadata": "AIEEE 2002",
+        "question": "Two identical particles move towards each other with velocity$2v$and$v$respectively. The velocity of center of mass is",
+        "options": [
+            "$v$",
+            "$v/3$",
+            "$v/2$",
+            "zero"
+        ],
+        "answer": "$v/2$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/c84SriojYvqSujHdA/kNl0cD8ffQJBhayktDgBQx195q9Rx/7JEIpgVEtSC3j4ZogLIPh7/image.svg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/two-identical-particles-move-towards-each-other-with-velocit-2002-marks-4-pgwvsiexyktkcnra.htm",
+        "is_numerical": false,
+        "sub_topic": "CoM: Velocity",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Center of mass velocity"
+    },
+    {
+        "metadata": "AIEEE 2005",
+        "question": "A body$A$of mass$M$while falling vertically downloads under gravity breaks into two-parts; a body$B$of mass$13$$M$and a body$C$of mass$23$$M.$The center of mass of bodies$B$and$C$taken together shifts compared to that of bodies$B$and$C$taken together shifts compared to that of body$A$towards",
+        "options": [
+            "does not shift",
+            "depends on height of breaking",
+            "body$B$",
+            "body$C$"
+        ],
+        "answer": "does not shift",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-body-a-of-mass-m-while-falling-vertically-download-2005-marks-4-dtbqjqlkohjdnpsy.htm",
+        "is_numerical": false,
+        "sub_topic": "CoM: Conceptual",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "CoM invariant explosion"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 4th April Evening Shift",
+        "question": "In a system two particles of masses$m1=3 kg$and$m2=2 kg$are placed at certain distance from each other. The particle of mass$m1$is moved towards the center of mass of the system through a distance$2 cm$. In order to keep the center of mass of the system at the original position, the particle of mass$m2$should move towards the center of mass by the distance _________$cm$.",
+        "options": [],
+        "answer": "3",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-a-system-two-particles-of-masses-m13-mathrmkg-jee-main-physics-motion-oreuqiydeymkngxz",
+        "is_numerical": true,
+        "sub_topic": "CoM: Conceptual",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "CoM invariant zero external"
+    },
+    {
+        "metadata": "AIEEE 2005",
+        "question": "The block of mass$M$moving on the frictionless horizontal surface collides with the spring of spring constant$k$and compresses it by length$L.$The maximum momentum of the block after collision is [IMAGE: https://imagex.cdn.examgoal.net/n8OVwVeFHjyEQcIJS/LgzZXnkNbcU8t6ultuNlYiPeH51u6/hw1brPhMAS3nqlXRAWE08Z/image.png]",
+        "options": [
+            "$kL22M$",
+            "$MkL$",
+            "$ML2k$",
+            "Zero"
+        ],
+        "answer": "$MkL$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/n8OVwVeFHjyEQcIJS/LgzZXnkNbcU8t6ultuNlYiPeH51u6/hw1brPhMAS3nqlXRAWE08Z/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/the-block-of-mass-m-moving-on-the-frictionless-horizonta-2016-marks-4-kftxwbab1syjeq96.htm",
+        "is_numerical": false,
+        "sub_topic": "Impulse/Momentum: Max Momentum",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "KE to spring momentum"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 1st February Morning Shift",
+        "question": "Three identical spheres each of mass$2M$are placed at the corners of a right angled triangle with mutually perpendicular sides equal to$4 m$each. Taking point of intersection of these two sides as origin, the magnitude of position vector of the centre of mass of the system is$42x$, where the value of$x$is ___________ .",
+        "options": [],
+        "answer": "3",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-identical-spheres-each-of-mass-2-mathrmm-are-placed-jee-main-physics-oxnblisowkxrnnu9",
+        "is_numerical": true,
+        "sub_topic": "CoM: Discrete Masses",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "CoM 3-sphere system 2D"
+    },
+    {
+        "metadata": "AIEEE 2004",
+        "question": "A machine gun fires a bullet of mass$40$$g$with a velocity$1200ms\u22121.$The man holding it can exert a maximum force of$144$$N$on the gun. How many bullets can he fire per second at the most?",
+        "options": [
+            "Two",
+            "Four",
+            "One",
+            "Three"
+        ],
+        "answer": "Three",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-machine-gun-fires-a-bullet-of-mass-40-g-with-a-vel-2004-marks-4-gnhchs5vfh53bmk9.htm",
+        "is_numerical": false,
+        "sub_topic": "Impulse/Momentum: Rate",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Max firing rate recoil force"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 31st January Morning Shift",
+        "question": "A solid circular disc of mass$50 kg$rolls along a horizontal floor so that its center of mass has a speed of$0.4 m/s$. The absolute value of work done on the disc to stop it is ________ J.",
+        "options": [],
+        "answer": "6",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-solid-circular-disc-of-mass-50-mathrmkg-rolls-a-jee-main-physics-motion-mo0rltqurbfi5nfu",
+        "is_numerical": true,
+        "sub_topic": "CoM: Rolling Energy",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Total kinetic energy rolling"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 31st January Evening Shift",
+        "question": "A ball is dropped from a height of$20 m$. If the coefficient of restitution for the collision between ball and floor is$0.5$, after hitting the floor, the ball rebounds to a height of ________$m$.",
+        "options": [],
+        "answer": "5",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-ball-is-dropped-from-a-height-of-20-mathrmm-if-the-jee-main-physics-9losaifcgm7kt9nk",
+        "is_numerical": true,
+        "sub_topic": "Collision: Coefficient of Restitution",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Rebound height restitution"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 31st January Morning Shift",
+        "question": "A body starts falling freely from height$H$hits an inclined plane in its path at height$h$. As a result of this perfectly elastic impact, the direction of the velocity of the body becomes horizontal. The value of$Hh$for which the body will take the maximum time to reach the ground is __________.",
+        "options": [],
+        "answer": "2",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lslupoi3/cc2aecc8-c56e-451b-bdf9-359e235929a2/3e3c51b0-cb40-11ee-ad47-a16d1086e690/file-6y3zli1lslupoi4.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-body-starts-falling-freely-from-height-h-hits-an-in-jee-main-physics-motion-r0fjmwgbowzuxv2i",
+        "is_numerical": true,
+        "sub_topic": "Collision: Elastic Projectile",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Elastic impact vertical-horizontal"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 8th April Morning Shift",
+        "question": "The momentum of a body is increased by$50%$. The percentage increase in the kinetic energy of the body is ___________$%$.",
+        "options": [],
+        "answer": "125",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-momentum-of-a-body-is-increased-by-50--the-per-jee-main-physics-motion-q4jaehuvgqci8xmq",
+        "is_numerical": true,
+        "sub_topic": "Impulse/Momentum: Ratios",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "KE percentage from momentum"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 28th July Evening Shift",
+        "question": "The distance of centre of mass from end A of a one dimensional rod (AB) having mass density$\u03c1=\u03c10(1\u2212x2L2)kg/m$and length L (in meter) is$3L\u03b1m$. The value of$\u03b1$is ___________. (where x is the distance from end A)",
+        "options": [],
+        "answer": "8",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-distance-of-centre-of-mass-from-end-a-of-a-one-dimens-jee-main-physics-motion-ersginwtkeqthlh5",
+        "is_numerical": true,
+        "sub_topic": "CoM: Non-Uniform Density",
+        "logic_type": "Calculus",
+        "difficulty": 4,
+        "physics_key": "CoM variable density rod"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 25th January Evening Shift",
+        "question": "A body of mass 1 kg collides head on elastically with a stationary body of mass 3 kg. After collision, the smaller body reverses its direction of motion and moves with a speed of 2 m/s. The initial speed of the smaller body before collision is ___________ ms$\u22121$.",
+        "options": [],
+        "answer": "4",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1les28d5t/a0b69fe4-7a4d-42f1-b0f1-c67f1d5a4141/52583110-b97f-11ed-981f-89b0ac23a016/file-1les28d5u.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1les295g1/34b2071c-d979-412e-918d-9e34e02505ca/68317410-b97f-11ed-981f-89b0ac23a016/file-1les295g2.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-body-of-mass-1-kg-collides-head-on-elastically-with-a-s-jee-main-physics-motion-4l4tcul9urawakwx",
+        "is_numerical": true,
+        "sub_topic": "Collision: Elastic 1D",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Elastic collision velocity formula"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 28th June Morning Shift",
+        "question": "A man of 60 kg is running on the road and suddenly jumps into a stationary trolly car of mass 120 kg. Then, the trolly car starts moving with velocity 2 ms ^$\u2212$1 . The velocity of the running man was ___________ ms ^$\u2212$1 , when he jumps into the car.",
+        "options": [],
+        "answer": "6",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-man-of-60-kg-is-running-on-the-road-and-suddenly-jumps-jee-main-physics-motion-d4gcgvdmvxa91shk",
+        "is_numerical": true,
+        "sub_topic": "Impulse/Momentum: Inelastic",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Inelastic conservation man-trolley"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th July Evening Shift",
+        "question": "Three identical spheres each of mass M are placed at the corners of a right angled triangle with mutually perpendicular sides equal to 3 m each. Taking point of intersection of mutually perpendicular sides as origin, the magnitude of position vector of centre of mass of the system will be$x$m. The value of x is ____________.",
+        "options": [],
+        "answer": "2",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l6ummxzq/f571ac43-99e4-45d3-856a-a0bab6271d11/f49d5360-1c86-11ed-b633-f353ad3cb8e4/file-1l6ummxzr.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pthree-identical-spheres-each-of-mass-m-are-placed-at-the-jee-main-physics-motion-wqksav07pmgriwyw",
+        "is_numerical": true,
+        "sub_topic": "CoM: Discrete Masses",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "CoM 3-sphere system magnitude"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th June Evening Shift",
+        "question": "A batsman hits back a ball of mass 0.4 kg straight in the direction of the bowler without changing its initial speed of 15 ms ^$\u2212$1 . The impulse imparted to the ball is ___________ Ns.",
+        "options": [],
+        "answer": "12",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-batsman-hits-back-a-ball-of-mass-04-kg-straight-in-the-jee-main-physics-motion-vhgbxtvtgtxmhlfo",
+        "is_numerical": true,
+        "sub_topic": "Impulse/Momentum: Collision with Wall",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Impulse change in momentum"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th July Morning Shift",
+        "question": "A body of mass 2 kg moving with a speed of 4 m/s. makes an elastic collision with another body at rest and continues to move in the original direction but with one fourth of its initial peed. The speed of the two body centre of mass is$x10$m/s. Then the value of x is ___________.",
+        "options": [],
+        "answer": "25",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-body-of-mass-2-kg-moving-with-a-speed-of-4-ms-makes-an-e-jee-main-physics-units-and-measurements-vzqjou2u83spkngw",
+        "is_numerical": true,
+        "sub_topic": "CoM: Velocity",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "CoM velocity elastic collision"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 22th July Evening Shift",
+        "question": "The position of the centre of mass of a uniform semi-circular wire of radius 'R' placed in x-y plane with its centre at the origin and the line joining its ends as x-axis is given by$(0,xR\u03c0)$. Then, the value of | x | is ______________.",
+        "options": [],
+        "answer": "2",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-position-of-the-centre-of-mass-of-a-uniform-semi-circula-jee-main-physics-units-and-measurements-q1sp2ezwm7wryqaf",
+        "is_numerical": true,
+        "sub_topic": "CoM: Continuous Arc",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "CoM semi-circular wire formula"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 27th August Evening Shift",
+        "question": "A bullet of 10 g, moving with velocity v, collides head-on with the stationary bob of a pendulum and recoils with velocity 100 m/s. The length of the pendulum is 0.5 m and mass of the bob is 1 kg. The minimum value of v = ____________ m/s so that the pendulum describes a circle. (Assume the string to be inextensible and g = 10 m/s ^2 ) [IMAGE: https://imagex.cdn.examgoal.net/1ktqsys8f/7d3a10aa-dc02-4487-add4-078726867740/c2209ff0-190d-11ec-9e1c-4f8f7e7dad5b/file-1ktqsys8g.jpeg]",
+        "options": [],
+        "answer": "400",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1ktqsys8f/7d3a10aa-dc02-4487-add4-078726867740/c2209ff0-190d-11ec-9e1c-4f8f7e7dad5b/file-1ktqsys8g.jpeg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-bullet-of-10-g-moving-with-velocity-v-collides-head-on-w-jee-main-physics-units-and-measurements-dlqnxrkig6fbprnb",
+        "is_numerical": true,
+        "sub_topic": "Collision: Pendulum Critical",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Momentum + Vertical circle minimum"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 18th March Evening Shift",
+        "question": "The projectile motion of a particle of mass 5 g is shown in the figure. [IMAGE: https://imagex.cdn.examgoal.net/1kmnl50ay/c9012ac4-c144-4360-adb1-101a174f3fa4/489522a0-8cb3-11eb-bb7d-75e16383db04/file-1kmnl50az.jpg] The initial velocity of the particle is$52$ms ^-1 and the air resistance is assumed to be negligible. The magnitude of the change in momentum between the points A and B is x$\u00d7$10 ^-2 kgms ^-1 . The value of x, to the nearest integer, is __________.",
+        "options": [],
+        "answer": "5",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1kmnl50ay/c9012ac4-c144-4360-adb1-101a174f3fa4/489522a0-8cb3-11eb-bb7d-75e16383db04/file-1kmnl50az.jpg",
+            "https://imagex.cdn.examgoal.net/1kmp8zjhy/cf617a22-6ffc-4ad2-9e03-822e6bdd520f/544dd160-8d9d-11eb-ac14-9b8a8da3c92c/file-1kmp8zjhz.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/the-projectile-motion-of-a-particle-of-mass-5-g-is-shown-in-jee-main-physics-units-and-measurements-x0wgmdej4wins6iu",
+        "is_numerical": true,
+        "sub_topic": "Impulse/Momentum: Projectile",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Momentum change projectile endpoints"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 17th March Evening Shift",
+        "question": "The disc of mass M with uniform surface mass density$\u03c3$is shown in the figure. The centre of mass of the quarter disc (the shaded area) is at the position$x3a\u03c0,x3a\u03c0$where x is _____________. (Round off to the Nearest Integer). [a is an area as shown in the figure] [IMAGE: https://imagex.cdn.examgoal.net/1kmliomxa/926759d7-56d2-4f8a-8ae9-36195475ed78/1dbe62e0-8b90-11eb-8bc4-81bde7104d98/file-1kmliomxb.jpg]",
+        "options": [],
+        "answer": "4",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1kmliomxa/926759d7-56d2-4f8a-8ae9-36195475ed78/1dbe62e0-8b90-11eb-8bc4-81bde7104d98/file-1kmliomxb.jpg",
+            "https://imagex.cdn.examgoal.net/1kpsb0ce9/fb4182b5-ae8f-460b-898f-8020b1951e76/3cf84310-cab0-11eb-8996-937117edafc4/file-1kpsb0cea.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/the-disc-of-mass-m-with-uniform-surface-mass-density-sigm-jee-main-physics-units-and-measurements-fhmkenz0eut9xe0n",
+        "is_numerical": true,
+        "sub_topic": "CoM: Continuous Quarter Disc",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "CoM quarter disc formula"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 16th March Morning Shift",
+        "question": "A ball of mass 10 kg moving with a velocity$103$m s ^$\u2212$1 along X-axis, hits another ball of mass 20 kg which is at rest. After collision, the first ball comes to rest and the second one disintegrates into two equal pieces. One of the pieces starts moving along Y-axis at a speed of 10 m/s. The second piece starts moving at a speed of 20 m/s at an angle$\u03b8$(degree) with respect to the X-axis. The configuration of pieces after collision is shown in the figure. The value of$\u03b8$to the nearest integer is ____________. [IMAGE: https://imagex.cdn.examgoal.net/1kmilxf7b/7b5e4bd5-6286-471b-aaa1-fa154f399375/73802470-89f6-11eb-9c26-d9a423ffb060/file-1kmilxf7c.jpg]",
+        "options": [],
+        "answer": "30",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1kmilxf7b/7b5e4bd5-6286-471b-aaa1-fa154f399375/73802470-89f6-11eb-9c26-d9a423ffb060/file-1kmilxf7c.jpg",
+            "https://imagex.cdn.examgoal.net/1kpjpsjz3/a0e3a1e7-50c1-466b-817e-16d2520fbd72/ff71b200-c5f6-11eb-bb9a-ab1219f41194/file-1kpjpsjz4.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-ball-of-mass-10-kg-moving-with-a-velocity-10sqrt-3--m-jee-main-physics-units-and-measurements-q3ptekqdlla3t89r",
+        "is_numerical": true,
+        "sub_topic": "Collision: Explosion 2D",
+        "logic_type": "Template",
+        "difficulty": 4,
+        "physics_key": "Multi-stage 2D explosion"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th February Evening Shift",
+        "question": "Two particles having masses 4 g and 16 g respectively are moving with equal kinetic energies. The ratio of the magnitudes of their linear momentum is n : 2. The value of n will be ___________.",
+        "options": [],
+        "answer": "1",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/two-particles-having-masses-4-g-and-16-g-respectively-are-mo-jee-main-physics-units-and-measurements-loow4ifvigpt55ex",
+        "is_numerical": true,
+        "sub_topic": "Impulse/Momentum: Ratios",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Momentum ratio from KE"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 20th July Morning Shift",
+        "question": "A rod of mass M and length L is lying on a horizontal frictionless surface. A particle of mass 'm' travelling along the surface hits at one end of the rod with a velocity 'u' in a direction perpendicular to the rod. The collision is completely elastic. After collision, particle comes to rest. The ratio of masses$(mM)$is$1x$. The value of 'x' will be ____________.",
+        "options": [],
+        "answer": "4",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1kypoz6o1/630aca9f-74a0-4ed4-a616-de2652c7aedb/75019620-7b6e-11ec-92f3-61d366101705/file-1kypoz6o2.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1kypp0g6t/dbc4f204-1472-45e3-b6d8-b10a5a9d6e06/982b8250-7b6e-11ec-a2d2-9980f7a7c35c/file-1kypp0g6u.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-rod-of-mass-m-and-length-l-is-lying-on-a-horizontal-fricti-jee-main-physics-units-and-measurements-ujeyp7iojbcnceuw",
+        "is_numerical": true,
+        "sub_topic": "Collision: Inelastic Angular",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Momentum angular inelastic rod"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 18th March Morning Shift",
+        "question": "A ball of mass 10 kg moving with a velocity 10$3$m/s along the x-axis, hits another ball of mass 20 kg which is at rest. After the collision, first ball comes to rest while the second ball disintegrates into two equal pieces. One piece starts moving along y-axis with a speed of 10 m/s. The second piece starts moving at an angle of 30$\u2218$with respect to the x-axis. The velocity of the ball moving at 30$\u2218$with x-axis is x m/s. The configuration of pieces after collision is shown in the figure below. The value of x to the nearest integer is ____________. [IMAGE: https://imagex.cdn.examgoal.net/1kmnkpbz8/e6ed16a3-6580-4d36-bfdd-abbb29997fec/94a78a40-8cb1-11eb-bb7d-75e16383db04/file-1kmnkpbz9.jpg]",
+        "options": [],
+        "answer": "20",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1kmnkpbz8/e6ed16a3-6580-4d36-bfdd-abbb29997fec/94a78a40-8cb1-11eb-bb7d-75e16383db04/file-1kmnkpbz9.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-ball-of-mass-10-kg-moving-with-a-velocity-10sqrt-3--m-jee-main-physics-units-and-measurements-sgssubnr23dbnjhf",
+        "is_numerical": true,
+        "sub_topic": "Collision: Explosion 2D",
+        "logic_type": "Template",
+        "difficulty": 4,
+        "physics_key": "Vector momentum 2D explosion"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 24th February Evening Shift",
+        "question": "Two solids A and B of mass 1 kg and 2 kg respectively are moving with equal linear momentum. The ratio of their kinetic energies (K.E.) _A : (K.E.) _B will be$A1$, so the value of A will be ________.",
+        "options": [],
+        "answer": "2",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/two-solids-a-and-b-of-mass-1-kg-and-2-kg-respectively-are-mo-jee-main-physics-units-and-measurements-v2zwgthaek4m9ugv",
+        "is_numerical": true,
+        "sub_topic": "Impulse/Momentum: Ratios",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "KE ratio from equal momentum"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 6th September Evening Slot",
+        "question": "The centre of mass of solid hemisphere of radius 8 cm is x from the centre of the flat surface. Then value of x is __________.",
+        "options": [],
+        "answer": "3",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-centre-of-mass-of-solid-hemisphere-of-radius-8-cm-is-x-f-jee-main-physics-rotational-motion-zuhotf4149cewvkk",
+        "is_numerical": true,
+        "sub_topic": "CoM: Continuous Solids",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "CoM solid hemisphere formula"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 24th February Morning Shift",
+        "question": "A ball with a speed of 9 m/s collides with another identical ball at rest. After the collision, the direction of each ball makes an angle of 30$\u2218$with the original direction. The ratio of velocities of the balls after collision is x : y, where x is __________.",
+        "options": [],
+        "answer": "1",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1kxfolmp7/259289fe-e6ab-4d89-9d92-47e703ed19eb/ee306fb0-6220-11ec-bbdc-cb29b93c10b9/file-1kxfolmp8.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-ball-with-a-speed-of-9-ms-collides-with-another-identical-jee-main-physics-units-and-measurements-fcryg0j3e08umxij",
+        "is_numerical": true,
+        "sub_topic": "Collision: Elastic 2D",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Elastic collision 2D angle"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 6th September Morning Slot",
+        "question": "Two bodies of the same mass are moving with the same speed, but in different directions in a plane. They have a completely inelastic collision and move together thereafter with a final speed which is half of their initial speed. The angle between the initial velocities of the two bodies (in degree) is ________.",
+        "options": [],
+        "answer": "120",
+        "images": [
+            "https://imagex.cdn.examgoal.net/jgy2xukgsxi9e8/b5711832-b45d-4ba0-bc75-932777e4a191/45a5c100-18da-11eb-8293-3b6cc591631c/file-jgy2xukgsxi9e9-407w.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/two-bodies-of-the-same-mass-are-moving-with-the-same-speed-jee-main-physics-impulse-and-momentum-bphwvasbpcrelwbo",
+        "is_numerical": true,
+        "sub_topic": "Collision: Inelastic 2D",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Inelastic final speed angle"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 2nd September Evening Slot",
+        "question": "A particle of mass m is moving along the x-axis with initial velocity$ui^$. It collides elastically with a particle of mass 10 m at rest and then moves with half its initial kinetic energy (see figure). If$sin\u2061\u03b81=nsin\u2061\u03b82$then value of n is ________. [IMAGE: https://imagex.cdn.examgoal.net/jgy2xukexyysik/a2a46eba-b336-4e3b-9c06-bb805a84b88f/76fb71c0-f407-11ea-8293-3b6cc591631c/file-jgy2xukexyysil-393w.png]",
+        "options": [],
+        "answer": "10",
+        "images": [
+            "https://imagex.cdn.examgoal.net/jgy2xukexyysik/a2a46eba-b336-4e3b-9c06-bb805a84b88f/76fb71c0-f407-11ea-8293-3b6cc591631c/file-jgy2xukexyysil-393w.png",
+            "https://imagex.cdn.examgoal.net/1ki92tzvl/928bbc1a-2749-4fe7-9a05-78ee61d54c16/db6b9510-3587-11eb-8c16-afaa84271520/file-1ki92tzvm-320w.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-particle-of-mass-m-is-moving-along-the-x-axis-with-initial-jee-main-physics-impulse-and-momentum-hriicvwwdyybb9jl",
+        "is_numerical": true,
+        "sub_topic": "Collision: Elastic 2D",
+        "logic_type": "Template",
+        "difficulty": 4,
+        "physics_key": "Elastic collision 2D scattering"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 2nd September Evening Slot",
+        "question": "A square shaped hole of side l =$a2$is carved out at a distance d =$a2$from the centre \u2018O\u2019 of a uniform circular disk of radius a. If the distance of the centre of mass of the remaining portion form O is$\u2212aX$, value of X (to the nearest integer) is : [IMAGE: https://imagex.cdn.examgoal.net/jgy2xukexykx2z/badf58e4-51c5-4ddd-9ddb-fd03c8944954/f52ea4b0-f405-11ea-8293-3b6cc591631c/file-jgy2xukexykx30-352w.png]",
+        "options": [],
+        "answer": "23",
+        "images": [
+            "https://imagex.cdn.examgoal.net/jgy2xukexykx2z/badf58e4-51c5-4ddd-9ddb-fd03c8944954/f52ea4b0-f405-11ea-8293-3b6cc591631c/file-jgy2xukexykx30-352w.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-square-shaped-hole-of-side-l--a-over-2-is-carved-o-jee-main-physics-rotational-motion-mbftpyqluaqahcmb",
+        "is_numerical": true,
+        "sub_topic": "CoM: Subtraction Method",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "CoM square hole subtraction"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 8th January Morning Slot",
+        "question": "A body A, of mass m = 0.1 kg has an initial velocity of 3$i^$ms ^-1 . It collides elastically with another body, B of the same mass which has an initial velocity of 5$j^$ms ^-1 . After collision, A moves with a velocity$v\u2192=4(i^+j^)$. The energy of B after collision is written as$x10$. The value of x is ___________.",
+        "options": [],
+        "answer": "1",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-body-a-of-mass-m--01-kg-has-an-initial-velocity-of-3-jee-main-physics-current-electricity-quq59b22g2eksgyl",
+        "is_numerical": true,
+        "sub_topic": "Collision: Elastic 2D",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Elastic 2D KE finding"
+    }
+]

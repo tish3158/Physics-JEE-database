@@ -1,0 +1,1510 @@
+[
+    {
+        "metadata": "JEE Main 2025 (Online) 7th April Evening Shift",
+        "question": "A helicopter flying horizontally with a speed of 360 km/h at an altitude of 2 km, drops an object at an instant. The object hits the ground at a point O, 20 s after it is dropped. Displacement of 'O' from the position of helicopter where the object was released is : (use acceleration due to gravity g = 10 m/s ^2 and neglect air resistance)",
+        "options": [
+            "7.2 km",
+            "2$5$km",
+            "2$2$km",
+            "4 km"
+        ],
+        "answer": "2$2$km",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9ksz7ax/54e24759-077b-4d37-b859-846c996a9d84/59932a90-1b3c-11f0-8234-eff1154e7d32/file-jaoe38c1m9ksz7ay.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-helicopter-flying-horizontally-with-a-speed-of-360-kmh-jee-main-physics-jwxp8ktho1jmqrcd",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Horizontal Launch",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Horizontal launch total displacement"
+    },
+    {
+        "metadata": "JEE Main",
+        "question": "The maximum speed of a boat in still water is 27 km/h. Now this boat is moving downstream in a river flowing at 9 km/h. A man in the boat throws a ball vertically upwards with speed of 10 m/s. Range of the ball as observed by an observer at rest on the bank is __________ cm. (Take$g=10$m/s ^2 )",
+        "options": [],
+        "answer": "2000",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-maximum-speed-of-a-boat-in-still-water-is-27-kmh-no-jee-main-physics-wsz2k1ahkrnjgw7p",
+        "is_numerical": true,
+        "sub_topic": "Relative: River/Boat",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Relative velocity horizontal range"
+    },
+    {
+        "metadata": "JEE Main",
+        "question": "Two balls with same mass and initial velocity, are projected at different angles in such a way that maximum height reached by first ball is 8 times higher than that of the second ball.$T1$and$T2$are the total flying times of first and second ball, respectively, then the ratio of$T1$and$T2$is",
+        "options": [
+            "2 : 1",
+            "$2:1$",
+            "2$2:1$",
+            "4 : 1"
+        ],
+        "answer": "2$2:1$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/two-balls-with-same-mass-and-initial-velocity-are-projected-jee-main-physics-ilxtfsahldh8yqfd",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Max Height/Time Ratio",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Height time proportional relationships"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 22nd January Evening Shift",
+        "question": "A ball of mass 100 g is projected with velocity$20 m/s$at$60\u2218$with horizontal. The decrease in kinetic energy of the ball during the motion from point of projection to highest point is",
+        "options": [
+            "20 J",
+            "5 J",
+            "15 J",
+            "zero"
+        ],
+        "answer": "15 J",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m7g0so00/6dd43a20-a14b-402c-adef-807ce6fd498e/92d64800-f102-11ef-afc4-279cdb88492c/file-jaoe38c1m7g0so01.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-ball-of-mass-100-g-is-projected-with-velocity-20-math-jee-main-physics-units-and-measurements-bn93sbckzqfxjghx",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Energy",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "KE loss vertical component"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 3rd April Morning Shift",
+        "question": "The angle of projection of a particle is measured from the vertical axis as$\u03d5$and the maximum height reached by the particle is$hm$. Here$hm$as function of$\u03d5$can be presented as",
+        "options": [
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9gi622z/37f654af-01c7-4c4a-b1bc-f12eae50c938/f1300db0-18de-11f0-a103-9bd1ffe79f48/file-jaoe38c1m9gi6230.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9gi8p1i/173a0c3a-416d-4ede-8c8e-331bde257409/3a8a9660-18df-11f0-a103-9bd1ffe79f48/file-jaoe38c1m9gi8p1j.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9gi9oc0/8808663e-ae3c-493b-a59e-65ca544db220/55cda700-18df-11f0-a103-9bd1ffe79f48/file-jaoe38c1m9gi9oc1.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9gi9htz/09394152-3a70-4418-960a-9f5ad27cb00a/50c81970-18df-11f0-a103-9bd1ffe79f48/file-jaoe38c1m9gi9hu0.png?format=png]"
+        ],
+        "answer": "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9gi9htz/09394152-3a70-4418-960a-9f5ad27cb00a/50c81970-18df-11f0-a103-9bd1ffe79f48/file-jaoe38c1m9gi9hu0.png?format=png]",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9gi622z/37f654af-01c7-4c4a-b1bc-f12eae50c938/f1300db0-18de-11f0-a103-9bd1ffe79f48/file-jaoe38c1m9gi6230.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9gi8p1i/173a0c3a-416d-4ede-8c8e-331bde257409/3a8a9660-18df-11f0-a103-9bd1ffe79f48/file-jaoe38c1m9gi8p1j.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9gi9oc0/8808663e-ae3c-493b-a59e-65ca544db220/55cda700-18df-11f0-a103-9bd1ffe79f48/file-jaoe38c1m9gi9oc1.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9gi9htz/09394152-3a70-4418-960a-9f5ad27cb00a/50c81970-18df-11f0-a103-9bd1ffe79f48/file-jaoe38c1m9gi9hu0.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1ma0meqm9/e0211837-fc50-4925-a1ce-5965bf8d9c32/341e4400-23ef-11f0-9a1e-b7c3b25ca541/file-jaoe38c1ma0meqma.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-angle-of-projection-of-a-particle-is-measured-from-th-jee-main-physics-units-and-measurements-jei72lof56sk0ku6",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Max Height Formula",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Height function angle vertical"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 4th April Morning Shift",
+        "question": "The co-ordinates of a particle moving in$x$-$y$plane are given by :$x=2+4t,y=3t+8t2$. The motion of the particle is :",
+        "options": [
+            "uniform motion along a straight line.",
+            "non-uniformly accelerated.",
+            "uniformly accelerated having motion along a straight line.",
+            "uniformly accelerated having motion along a parabolic path."
+        ],
+        "answer": "uniformly accelerated having motion along a parabolic path.",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-co-ordinates-of-a-particle-moving-in-x-y-plan-jee-main-physics-motion-siqvbjfeyuso2h98",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: 2D Vector",
+        "logic_type": "Calculus",
+        "difficulty": 2,
+        "physics_key": "Constant acceleration parabolic path"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 24th January Evening Shift",
+        "question": "The position vector of a moving body at any instant of time is given as$r\u2192=(5t2i^\u22125tj^)m$. The magnitude and direction of velocity at$t=2s$is,",
+        "options": [
+            "$517 m/s$, making an angle of$tan\u22121\u20614$with - ve Y axis",
+            "$515 m/s$, making an angle of$tan\u22121\u20614$with + ve$X$axis",
+            "$517 m/s$, making an angle of$tan\u22121\u20614$with + ve$X$axis",
+            "$515 m/s$, making an angle of$tan\u22121\u20614$with$\u2212$ve$Y$axis"
+        ],
+        "answer": "$517 m/s$, making an angle of$tan\u22121\u20614$with - ve Y axis",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m792hk2b/17f708cc-2c48-4737-943b-a748528c5e1d/b39bc230-ed2f-11ef-9fee-319e7f181762/file-jaoe38c1m792hk2c.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-position-vector-of-a-moving-body-at-any-instant-of-ti-jee-main-physics-units-and-measurements-zkcrgzrmae1iuf0o",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: 2D Vector",
+        "logic_type": "Calculus",
+        "difficulty": 3,
+        "physics_key": "Velocity vector magnitude direction"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 3rd April Evening Shift",
+        "question": "A particle is projected with velocity$u$so that its horizontal range is three times the maximum height attained by it. The horizontal range of the projectile is given as$nu225g$, where value of$n$is: (Given, '$g$' is the acceleration due to gravity.)",
+        "options": [
+            "6",
+            "12",
+            "18",
+            "24"
+        ],
+        "answer": "24",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-particle-is-projected-with-velocity-u-so-that-its-hor-jee-main-physics-units-and-measurements-w4yrhcz4euglse8p",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Range/Height Relation",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Range height ratio angle"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 29th January Morning Shift",
+        "question": "Two projectiles are fired with same initial speed from same point on ground at angles of$(45\u2218\u2212\u03b1)$and$(45\u2218+\u03b1)$, respectively, with the horizontal direction. The ratio of their maximum heights attained is :",
+        "options": [
+            "$1+sin\u2061\u03b11\u2212sin\u2061\u03b1$",
+            "$1+sin\u20612\u03b11\u2212sin\u20612\u03b1$",
+            "$1\u2212tan\u2061\u03b11+tan\u2061\u03b1$",
+            "$1\u2212sin\u20612\u03b11+sin\u20612\u03b1$"
+        ],
+        "answer": "$1\u2212sin\u20612\u03b11+sin\u20612\u03b1$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/two-projectiles-are-fired-with-same-initial-speed-from-same-jee-main-physics-hujpic0cyhsbht5r",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Complementary Angles",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Height ratio complementary angles"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 30th January Evening Shift",
+        "question": "Projectiles A and B are thrown at angles of$45\u2218$and$60\u2218$with vertical respectively from top of a$400 m$high tower. If their ranges and times of flight are same, the ratio of their speeds of projection$vA:vB$is : [Take$g=10 ms\u22122$]",
+        "options": [
+            "$1:2$",
+            "$2:1$",
+            "$1:2$",
+            "$1:3$"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pprojectiles-a-and-b-are-thrown-at-angles-of-45circ-jee-main-physics-motion-m4wjauihuenx26hx",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Tower",
+        "logic_type": "Template",
+        "difficulty": 4,
+        "physics_key": "Tower projectile range time ratio"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 8th April Evening Shift",
+        "question": "The angle of projection for a projectile to have same horizontal range and maximum height is :",
+        "options": [
+            "$tan\u22121\u2061(12)$",
+            "$tan\u22121\u2061(2)$",
+            "$tan\u22121\u2061(14)$",
+            "$tan\u22121\u2061(4)$"
+        ],
+        "answer": "$tan\u22121\u2061(4)$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-angle-of-projection-for-a-projectile-to-have-same-hor-jee-main-physics-motion-kmwsueqj45hns1eg",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Range/Height Relation",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Angle same range height"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 27th January Morning Shift",
+        "question": "Position of an ant ($S$in metres) moving in$Y$-$Z$plane is given by$S=2t2j^+5k^$(where$t$is in second). The magnitude and direction of velocity of the ant at$t=1 s$will be :",
+        "options": [
+            "$16 m/s$in$y$-direction",
+            "$4 m/s$in$x$-direction",
+            "$9 m/s$in$z$-direction",
+            "$4 m/s$in$y$-direction"
+        ],
+        "answer": "$4 m/s$in$y$-direction",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pposition-of-an-ant-mathrms-in-metres-moving-in--jee-main-physics-motion-exp9y54qrfff9tik",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: 2D Vector",
+        "logic_type": "Calculus",
+        "difficulty": 1,
+        "physics_key": "Velocity vector constant position"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 7th April Morning Shift",
+        "question": "Two projectiles are fired from ground with same initial speeds from same point at angles$(45\u2218+$$\u03b1)$and$(45\u2218\u2212\u03b1)$with horizontal direction. The ratio of their times of flights is",
+        "options": [
+            "$1+tan\u2061\u03b11\u2212tan\u2061\u03b1$",
+            "$1+sin\u20612\u03b11\u2212sin\u20612\u03b1$",
+            "$1\u2212tan\u2061\u03b11+tan\u2061\u03b1$",
+            "1"
+        ],
+        "answer": "$1+tan\u2061\u03b11\u2212tan\u2061\u03b1$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/ptwo-projectiles-are-fired-from-ground-with-same-initial-s-jee-main-physics-units-and-measurements-6yfpkiyn78w0gbjp",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Complementary Angles",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Time ratio complementary angles"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 2nd April Morning Shift",
+        "question": "A river is flowing from west to east direction with speed of$9 km h\u22121$. If a boat capable of moving at a maximum speed of$27 km h\u22121$in still water, crosses the river in half a minute, while moving with maximum speed at an angle of$150\u2218$to direction of river flow, then the width of the river is :",
+        "options": [
+            "112.5 m",
+            "75 m",
+            "300 m",
+            "$112.5\u00d73 m$"
+        ],
+        "answer": "112.5 m",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1mahtj23y/8be8a4d5-7bc7-4eb9-b287-c45c580f15cc/5f2d28e0-2d64-11f0-8626-437cf7e3192a/file-jaoe38c1mahtj23z.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-river-is-flowing-from-west-to-east-direction-with-speed-jee-main-physics-units-and-measurements-7xiwujhzsyrlzlzq",
+        "is_numerical": false,
+        "sub_topic": "Relative: River/Boat",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Minimum time river crossing"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 24th January Morning Shift",
+        "question": "An object of mass ' m ' is projected from origin in a vertical xy plane at an angle$45\u2218$with the$x\u2212$axis with an initial velocity$v0$. The magnitude and direction of the angular momentum of the object with respect to origin, when it reaches at the maximum height, will be [ g is acceleration due to gravity]",
+        "options": [
+            "$mvo322g$along negative$z$-axis",
+            "$mvo322g$along positive$z$-axis",
+            "$mvo342g$along positive$z$-axis",
+            "$mvo342g$along negative z-axis"
+        ],
+        "answer": "$mvo342g$along negative z-axis",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-object-of-mass--m--is-projected-from-origin-in-a-ver-jee-main-physics-units-and-measurements-pzeb65ppsnjbnwbw",
+        "is_numerical": false,
+        "sub_topic": "Mixed-Concept: Angular Momentum",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Angular momentum max height"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 8th April Evening Shift",
+        "question": "The trajectory of projectile, projected from the ground is given by$y=x\u2212x220$. Where$x$and$y$are measured in meter. The maximum height attained by the projectile will be.",
+        "options": [
+            "10 m",
+            "5 m",
+            "200 m",
+            "10$2$m"
+        ],
+        "answer": "5 m",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-trajectory-of-projectile-projected-from-the-ground-i-jee-main-physics-motion-fmiq8or28ljphi4a",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Trajectory Equation",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Max height trajectory equation"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 10th April Morning Shift",
+        "question": "The range of the projectile projected at an angle of 15$\u2218$with horizontal is 50 m. If the projectile is projected with same velocity at an angle of 45$\u2218$with horizontal, then its range will be",
+        "options": [
+            "50$2$m",
+            "100 m",
+            "100$2$m",
+            "50 m"
+        ],
+        "answer": "100 m",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-range-of-the-projectile-projected-at-an-angle-of-15-jee-main-physics-motion-prywuzlriolop5e4",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Range Formula",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Range ratio velocity square"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 8th April Morning Shift",
+        "question": "Two projectiles A and B are thrown with initial velocities of$40 m/s$and$60 m/s$at angles$30\u2218$and$60\u2218$with the horizontal respectively. The ratio of their ranges respectively is$(g=10 m/s2)$",
+        "options": [
+            "$4:9$",
+            "$2:3$",
+            "$3:2$",
+            "$1:1$"
+        ],
+        "answer": "$4:9$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/ptwo-projectiles-a-and-b-are-thrown-with-initial-velocitie-jee-main-physics-motion-mki4cnsnmfktzhzx",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Range Ratio",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Range ratio velocity angle"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 10th April Evening Shift",
+        "question": "Two projectiles are projected at$30\u2218$and$60\u2218$with the horizontal with the same speed. The ratio of the maximum height attained by the two projectiles respectively is:",
+        "options": [
+            "$1:3$",
+            "$3:1$",
+            "1 : 3",
+            "$2:3$"
+        ],
+        "answer": "1 : 3",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/ptwo-projectiles-are-projected-at-30circ-and-60-jee-main-physics-motion-k4zlkcndntescsi5",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Max Height Ratio",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Height ratio angle square"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 11th April Evening Shift",
+        "question": "A projectile is projected at$30\u2218$from horizontal with initial velocity$40 ms\u22121$. The velocity of the projectile at$t=2 s$from the start will be : (Given$g=10 m/s2$)",
+        "options": [
+            "$203 ms\u22121$",
+            "Zero",
+            "$20 ms\u22121$",
+            "$403 ms\u22121$"
+        ],
+        "answer": "$203 ms\u22121$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-projectile-is-projected-at-30circ-from-horizont-jee-main-physics-motion-wyyd3nentr13rnyz",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Projectile Vector",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Instantaneous velocity vector"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th July Evening Shift",
+        "question": "Two projectiles are thrown with same initial velocity making an angle of$45\u2218$and$30\u2218$with the horizontal respectively. The ratio of their respective ranges will be :",
+        "options": [
+            "$1:2$",
+            "$2:1$",
+            "$2:3$",
+            "$3:2$"
+        ],
+        "answer": "$2:3$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/ptwo-projectiles-are-thrown-with-same-initial-velocity-mak-jee-main-physics-motion-ihqierxbcftfnt0f",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Range Ratio",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Range ratio formula application"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 6th April Morning Shift",
+        "question": "Given below are two statements : one is labelled as Assertion A and the other is labelled as Reason R Assertion A : When a body is projected at an angle$45\u2218$, it's range is maximum. Reason R : For maximum range, the value of$sin\u20612\u03b8$should be equal to one. In the light of the above statements, choose the correct answer from the options given below:",
+        "options": [
+            "Both$A$and$R$are correct and$R$is the correct explanation of$A$",
+            "$A$is true but$R$is false",
+            "$A$is false but$R$is true",
+            "Both$A$and$R$are correct but$R$is NOT the correct explanation of$A$"
+        ],
+        "answer": "Both$A$and$R$are correct and$R$is the correct explanation of$A$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pgiven-below-are-two-statements--one-is-labelled-as-asser-jee-main-physics-motion-iqiguryjcy9grp3s",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Conceptual",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Max range principle"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 31st January Morning Shift",
+        "question": "The initial speed of a projectile fired from ground is$u$. At the highest point during its motion, the speed of projectile is$32u$. The time of flight of the projectile is :",
+        "options": [
+            "$ug$",
+            "$2ug$",
+            "$u2g$",
+            "$3ug$"
+        ],
+        "answer": "$ug$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-initial-speed-of-a-projectile-fired-from-ground-is--jee-main-physics-motion-nsngpww3uhwwphqj",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Time of Flight/Velocity",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Time of flight from speed angle"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 1st February Morning Shift",
+        "question": "A child stands on the edge of the cliff$10 m$above the ground and throws a stone horizontally with an initial speed of$5 ms\u22121$. Neglecting the air resistance, the speed with which the stone hits the ground will be$ms\u22121$(given,$g=10 ms\u22122$).",
+        "options": [
+            "20",
+            "25",
+            "30",
+            "15"
+        ],
+        "answer": "15",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1le6y9k62/70351e9e-3f9d-4e71-8216-f71dc416f83d/59697ba0-ade3-11ed-88ce-eb0402d729eb/file-1le6y9k63.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-child-stands-on-the-edge-of-the-cliff-10-mathrmm-jee-main-physics-motion-5jgy4k1cpw4mvtva",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Horizontal Launch",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Horizontal launch final speed"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 24th January Morning Shift",
+        "question": "The maximum vertical height to which a man can throw a ball is 136 m. The maximum horizontal distance upto which he can throw the same ball is :",
+        "options": [
+            "136 m",
+            "272 m",
+            "68 m",
+            "192 m"
+        ],
+        "answer": "272 m",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-maximum-vertical-height-to-which-a-man-can-throw-a-ba-jee-main-physics-motion-zxkrznbrqr0lht0d",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Range/Height Relation",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Max range max height relation"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 28th July Evening Shift",
+        "question": "At time$t=0$a particle starts travelling from a height$7z^ cm$in a plane keeping z coordinate constant. At any instant of time it's position along the$x^$and$y^$directions are defined as$3t$and$5t3$respectively. At t = 1s acceleration of the particle will be",
+        "options": [
+            "$\u221230y^$",
+            "$30y^$",
+            "$3x^+15y^$",
+            "$3x^+15y^+7z^$"
+        ],
+        "answer": "$30y^$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pat-time-t0-a-particle-starts-travelling-from-a-heigh-jee-main-physics-motion-aswekk2ut8pcfioq",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: 2D Vector",
+        "logic_type": "Calculus",
+        "difficulty": 2,
+        "physics_key": "Acceleration vector 2D"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 30th June Morning Shift",
+        "question": "At t = 0, truck, starting from rest, moves in the positive x-direction at uniform acceleration of 5 ms ^$\u2212$2 . At t = 20 s, a ball is released from the top of the truck. The ball strikes the ground in 1 s after the release. The velocity of the ball, when it strikes the ground, will be : (Given g = 10 ms ^$\u2212$2 )",
+        "options": [
+            "$100i^\u221210j^$",
+            "$10i^\u2212100j^$",
+            "$100i^$",
+            "$\u221210j^$"
+        ],
+        "answer": "$100i^\u221210j^$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l6dnc0pm/b620b3bb-0e9e-4911-8cdc-a49bb6f101e0/5ae74fa0-1330-11ed-941a-4dd6502f33e3/file-1l6dnc0pn.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pat-t--0-truck-starting-from-rest-moves-in-the-positiv-jee-main-physics-motion-seyo6xxf9uo3sru4",
+        "is_numerical": false,
+        "sub_topic": "Mixed-Concept: Relative/Projectile",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Relative initial velocity projectile"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th July Morning Shift",
+        "question": "Two projectiles thrown at$30\u2218$and$45\u2218$with the horizontal respectively, reach the maximum height in same time. The ratio of their initial velocities is :",
+        "options": [
+            "$1:2$",
+            "$2:1$",
+            "$2:1$",
+            "$1:2$"
+        ],
+        "answer": "$2:1$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/ptwo-projectiles-thrown-at-30circ-and-45circ-jee-main-physics-motion-lmrk1ezw4hxlbp36",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Time Ratio",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Velocity ratio equal time"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th July Evening Shift",
+        "question": "A ball is projected from the ground with a speed 15 ms ^$\u2212$1 at an angle$\u03b8$with horizontal so that its range and maximum height are equal, then 'tan$\u03b8$' will be equal to :",
+        "options": [
+            "$14$",
+            "$12$",
+            "2",
+            "4"
+        ],
+        "answer": "4",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-ball-is-projected-from-the-ground-with-a-speed-15-mssu-jee-main-physics-motion-pllcezmohi1zal79",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Range/Height Relation",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Angle same range height"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 25th January Evening Shift",
+        "question": "Two objects are projected with same velocity 'u' however at different angles$\u03b1$and$\u03b2$with the horizontal. If$\u03b1+\u03b2=90\u2218$, the ratio of horizontal range of the first object to the 2nd object will be :",
+        "options": [
+            "1 : 1",
+            "2 : 1",
+            "1 : 2",
+            "4 : 1"
+        ],
+        "answer": "1 : 1",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pto-objects-are-projected-with-same-velocity-u-however-a-jee-main-physics-motion-crsdqjf62i6tff41",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Complementary Angles",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Equal range complementary angles"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 29th June Evening Shift",
+        "question": "A person can throw a ball upto a maximum range of 100 m. How high above the ground he can throw the same ball?",
+        "options": [
+            "25 m",
+            "50 m",
+            "100 m",
+            "200 m"
+        ],
+        "answer": "50 m",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-person-can-throw-a-ball-upto-a-maximum-range-of-100-m-jee-main-physics-motion-7g4npezxnz1cybkg",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Range/Height Relation",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Max range max height relation"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 30th June Morning Shift",
+        "question": "Two projectiles P _1 and P _2 thrown with speed in the ratio$3$:$2$, attain the same height during their motion. If P _2 is thrown at an angle of 60$\u2218$with the horizontal, the angle of projection of P _1 with horizontal will be :",
+        "options": [
+            "15$\u2218$",
+            "30$\u2218$",
+            "45$\u2218$",
+            "60$\u2218$"
+        ],
+        "answer": "45$\u2218$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/ptwo-projectiles-psub1sub-and-psub2sub-thrown-wi-jee-main-physics-motion-tfchwechocop67ll",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Max Height Ratio",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Height ratio velocity angle"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 27th August Evening Shift",
+        "question": "A player kicks a football with an initial speed of 25 ms ^$\u2212$1 at an angle of 45$\u2218$from the ground. What are the maximum height and the time taken by the football to reach at the highest point during motion ? (Take g = 10 ms ^$\u2212$2 )",
+        "options": [
+            "h _max = 10 m T = 2.5 s",
+            "h _max = 15.625 m T = 3.54 s",
+            "h _max = 15.625 m T = 1.77 s",
+            "h _max = 3.54 m T = 0.125 s"
+        ],
+        "answer": "h _max = 15.625 m T = 1.77 s",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-player-kicks-a-football-with-an-initial-speed-of-25-mssup-jee-main-physics-units-and-measurements-ioc17cnicpc73j8u",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Standard Formulas",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Max height time to peak"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 31st August Morning Shift",
+        "question": "A helicopter is flying horizontally with a speed 'v' at an altitude 'h' has to drop a food packet for a man on the ground. What is the distance of helicopter from the man when the food packet is dropped?",
+        "options": [
+            "$2ghv2+1h2$",
+            "$2ghv2+h2$",
+            "$2v2hg+h2$",
+            "$2ghv2+h2$"
+        ],
+        "answer": "$2v2hg+h2$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1ku8e3cij/f0fd591e-f73f-43ac-b9e0-7ba40708c740/b3c85eb0-22b9-11ec-92a0-35c33c2a328d/file-1ku8e3cik.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-helicopter-is-flying-horizontally-with-a-speed-v-at-an-a-jee-main-physics-units-and-measurements-ihg5h7mjhyfpmkoj",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Horizontal Launch",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Horizontal launch displacement vector"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th June Morning Shift",
+        "question": "A girl standing on road holds her umbrella at 45$\u2218$with the vertical to keep the rain away. If she starts running without umbrella with a speed of 15$2$kmh ^$\u2212$1 , the rain drops hit her head vertically. The speed of rain drops with respect to the moving girl is :",
+        "options": [
+            "30 kmh ^$\u2212$1",
+            "$252$kmh ^$\u2212$1",
+            "$302$kmh ^$\u2212$1",
+            "25 kmh ^$\u2212$1"
+        ],
+        "answer": "$302$kmh ^$\u2212$1",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l5jqjdcz/0d73facd-c43a-40f0-a701-c8bd1ba9e4ed/5f3e5b30-02bd-11ed-95db-c3fa9a0f41ba/file-1l5jqjdd0.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-girl-standing-on-road-holds-her-umbrella-at-45circ-jee-main-physics-motion-lyymnrgvtydyg6aw",
+        "is_numerical": false,
+        "sub_topic": "Relative: Rain/Man",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Relative velocity vector cancellation"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th August Evening Shift",
+        "question": "A bomb is dropped by fighter plane flying horizontally. To an observer sitting in the plane, the trajectory of the bomb is a :",
+        "options": [
+            "hyperbola",
+            "parabola in the direction of motion of plane",
+            "straight line vertically down the plane",
+            "parabola in a direction opposite to the motion of plane"
+        ],
+        "answer": "straight line vertically down the plane",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-bomb-is-dropped-by-fighter-plane-flying-horizontally-to-a-jee-main-physics-units-and-measurements-qbhwylhjqvbiuywi",
+        "is_numerical": false,
+        "sub_topic": "Relative: Frame of Reference",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Plane observer relative trajectory"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th June Morning Shift",
+        "question": "A projectile is launched at an angle '$\u03b1$' with the horizontal with a velocity 20 ms ^$\u2212$1 . After 10 s, its inclination with horizontal is '$\u03b2$'. The value of tan$\u03b2$will be : (g = 10 ms ^$\u2212$2 ).",
+        "options": [
+            "tan$\u03b1$+ 5sec$\u03b1$",
+            "tan$\u03b1$$\u2212$5sec$\u03b1$",
+            "2tan$\u03b1$$\u2212$5sec$\u03b1$",
+            "2tan$\u03b1$$+$5sec$\u03b1$"
+        ],
+        "answer": "tan$\u03b1$$\u2212$5sec$\u03b1$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lb32efin/6418c902-59be-4295-b3f4-eeb0c1462490/bca5c9f0-705b-11ed-89c6-814873432a68/file-1lb32efio.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lb32fzbs/26b6eb41-0389-4843-9216-c377fad3e789/e7c25180-705b-11ed-89c6-814873432a68/file-1lb32fzbt.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-projectile-is-launched-at-an-angle-alpha-with-th-jee-main-physics-motion-eszpt6rmafv7am8m",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Projectile Vector",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Instantaneous angle formula"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 1st September Evening Shift",
+        "question": "The ranges and heights for two projectiles projected with the same initial velocity at angles 42$\u2218$and 48$\u2218$with the horizontal are R _1 , R _2 and H _1 , H _2 respectively. Choose the correct option :",
+        "options": [
+            "R _1 > R _2 and H _1 = H _2",
+            "R _1 = R _2 and H _1 < H _2",
+            "R _1 < R _2 and H _1 < H _2",
+            "R _1 = R _2 and H _1 = H _2"
+        ],
+        "answer": "R _1 = R _2 and H _1 < H _2",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-ranges-and-heights-for-two-projectiles-projected-with-th-jee-main-physics-units-and-measurements-tuscqgr8jrwtfqve",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Complementary Angles",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Complementary angle range height"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th February Evening Shift",
+        "question": "The trajectory of a projectile in a vertical plane is y =$\u03b1$x$\u2212$$\u03b2$x ^2 , where$\u03b1$and$\u03b2$are constants and x & y are respectively the horizontal and vertical distances of the projectile from the point of projection. The angle of projection$\u03b8$and the maximum height attained H are respectively given by :",
+        "options": [
+            "$tan\u22121\u03b1,\u03b124\u03b2$",
+            "$tan\u22121\u03b1,4\u03b12\u03b2$",
+            "$tan\u22121(\u03b2\u03b1),\u03b12\u03b2$",
+            "$tan\u22121\u03b2,\u03b122\u03b2$"
+        ],
+        "answer": "$tan\u22121\u03b1,\u03b124\u03b2$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-trajectory-of-a-projectile-in-a-vertical-plane-is-y---jee-main-physics-units-and-measurements-zddd0iowzjyhzj4u",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Trajectory Equation",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Angle height trajectory constants"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th June Evening Shift",
+        "question": "Given below are two statements. One is labelled as Assertion A and the other is labelled as Reason R. Assertion A : Two identical balls A and B thrown with same velocity 'u' at two different angles with horizontal attained the same range R. IF A and B reached the maximum height h _1 and h _2 respectively, then$R=4h1h2$Reason R : Product of said heights.$h1h2=(u2sin2\u03b82g).(u2cos2\u03b82g)$Choose the correct answer :",
+        "options": [
+            "Both A and R are true and R is the correct explanation of A.",
+            "Both A and R are true but R is NOT the correct explanation of A.",
+            "A is true but R is false.",
+            "A is false but R is true."
+        ],
+        "answer": "Both A and R are true and R is the correct explanation of A.",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pgiven-below-are-two-statements-one-is-labelled-as-assert-jee-main-physics-motion-6i3qcfgxytcmhyqi",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Complementary Angles",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Range height complementary identity"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 24th June Morning Shift",
+        "question": "A projectile is projected with velocity of 25 m/s at an angle$\u03b8$with the horizontal. After t seconds its inclination with horizontal becomes zero. If R represents horizontal range of the projectile, the value of$\u03b8$will be : [use g = 10 m/s ^2 ]",
+        "options": [
+            "$12sin\u22121(5t24R)$",
+            "$12sin\u22121(4R5t2)$",
+            "$tan\u22121(4t25R)$",
+            "$cot\u22121(R20t2)$"
+        ],
+        "answer": "$cot\u22121(R20t2)$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l5leb42a/25a8df8a-4ab3-4e4c-a666-4c52b473ee0b/1d567320-03a7-11ed-b731-675fd498ca49/file-1l5leb42b.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-projectile-is-projected-with-velocity-of-25-ms-at-an-a-jee-main-physics-motion-oajphd1y0sradprs",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Time/Angle Relation",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Angle time range relation"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 16th March Evening Shift",
+        "question": "A mosquito is moving with a velocity$v\u2192=0.5t2i^+3tj^+9k^$m/s and accelerating in uniform conditions. What will be the direction of mosquito after 2 s?",
+        "options": [
+            "$tan\u22121(856)$from y-axis",
+            "$tan\u22121(52)$from y-axis",
+            "$tan\u22121(23)$from x-axis",
+            "$tan\u22121(52)$from x-axis"
+        ],
+        "answer": "$tan\u22121(856)$from y-axis",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-mosquito-is-moving-with-a-velocity-overrightarrow-v--jee-main-physics-units-and-measurements-ywt7hgnk5pzdqqne",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: 3D Vector",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Velocity vector 3D angle"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 20th July Morning Shift",
+        "question": "A butterfly is flying with a velocity$42$m/s in North-East direction. Wind is slowly blowing at 1 m/s from North to South. The resultant displacement of the butterfly in 3 seconds is :",
+        "options": [
+            "$122$m",
+            "20 m",
+            "3 m",
+            "15 m"
+        ],
+        "answer": "15 m",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1kxujviik/355fde85-a369-4675-acbc-a7ab4aec0fc5/3524cbc0-6a4e-11ec-8561-951bc0cc527f/file-1kxujviil.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-butterfly-is-flying-with-a-velocity-4sqrt-2--ms-in-n-jee-main-physics-units-and-measurements-kyxojxctly9ctcz6",
+        "is_numerical": false,
+        "sub_topic": "Relative: Vector Addition",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Relative displacement vector sum"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 6th September Evening Slot",
+        "question": "When a car is at rest, its driver sees rain drops falling on it vertically. When driving the car with speed v, he sees that rain drops are coming at an angle 60\u00b0 from the horizontal. On further increasing the speed of the car to (1 +$\u03b2$)v, this angle changes to 45 ^o . The value of$\u03b2$is close to :",
+        "options": [
+            "0.50",
+            "0.73",
+            "0.37",
+            "0.41"
+        ],
+        "answer": "0.73",
+        "images": [
+            "https://imagex.cdn.examgoal.net/jgy2xukglw5xbn/c4aefe98-80db-43c0-b829-0b2db40e89ca/88f00430-14fb-11eb-8293-3b6cc591631c/file-jgy2xukglw5xbo-476w.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/when-a-car-is-at-rest-its-driver-sees-rain-drops-falling-on-jee-main-physics-motion-m6wkjgfziisnvhds",
+        "is_numerical": false,
+        "sub_topic": "Relative: Rain/Man",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Relative velocity angle ratio"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 5th September Morning Slot",
+        "question": "A balloon is moving up in air vertically above a point A on the ground. When it is at a height h _1 , a girl standing at a distanced (point B) from A (see figure) sees it at an angle 45 ^o with respect to the vertical. When the balloon climbs up a further height h _2 , it is seen at an angle 60 ^o with respect to the vertical if the girl moves further by a distance 2.464 d(point C). Then the height h _2 is (given tan 30 ^o = 0.5774) [IMAGE: https://imagex.cdn.examgoal.net/jgy2xukfga30if/452ea3e9-38ad-435d-8d50-b1a9c810b3ec/0c819d80-fe19-11ea-8293-3b6cc591631c/file-jgy2xukfga30ig-320w.png]",
+        "options": [
+            "0.464d",
+            "d",
+            "0.732d",
+            "1.464d"
+        ],
+        "answer": "d",
+        "images": [
+            "https://imagex.cdn.examgoal.net/jgy2xukfga30if/452ea3e9-38ad-435d-8d50-b1a9c810b3ec/0c819d80-fe19-11ea-8293-3b6cc591631c/file-jgy2xukfga30ig-320w.png",
+            "https://imagex.cdn.examgoal.net/1kju91l5r/1f8c3c70-32be-4c2e-b201-0f5f0ad9c05d/d2510600-54f8-11eb-bb0e-bdf37f98ae86/file-1kju91l5s-421w.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-balloon-is-moving-up-in-air-vertically-above-a-point-a-on-jee-main-physics-motion-ft3lzb3avckrc5vf",
+        "is_numerical": false,
+        "sub_topic": "Mixed-Concept: Geometry/Trigonometry",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Trigonometry observation angles"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 4th September Morning Slot",
+        "question": "Starting from the origin at time t = 0, with initial velocity 5$j^$ms ^-1 , a particle moves in the x-y plane with a constant acceleration of$(10i^+4j^)$ms ^-2 . At time t, its coordinates are (20 m, y _0 m). The values of t and y _0 are, respectively:",
+        "options": [
+            "5s and 25 m",
+            "2s and 18 m",
+            "2s and 24 m",
+            "4s and 52 m"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/starting-from-the-origin-at-time-t--0-with-initial-velocit-jee-main-physics-motion-j1m1trskoadsnbbe",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: 2D Vector",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "2D kinematics position time"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 8th January Evening Slot",
+        "question": "A particle moves such that its position vector$r\u2192(t)=cos\u2061\u03c9ti^+sin\u2061\u03c9tj^$where$\u03c9$is a constant and t is time. Then which of the following statements is true for the velocity$v\u2192(t)$and acceleration$a\u2192(t)$of the particle :",
+        "options": [
+            "$v\u2192$and$a\u2192$both are perpendicular to$r\u2192$",
+            "$v\u2192$and$a\u2192$both are parallel to$r\u2192$",
+            "$v\u2192$is perpendicular to$r\u2192$and$a\u2192$is directed towards the origin",
+            "$v\u2192$is perpendicular to$r\u2192$and$a\u2192$is directed away from the origin"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-particle-moves-such-that-its-position-vector-overrighta-jee-main-physics-current-electricity-vidkxkahuohpef6l",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Circular Motion",
+        "logic_type": "Calculus",
+        "difficulty": 3,
+        "physics_key": "Circular motion vector properties"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 9th January Evening Slot",
+        "question": "A particle starts from the origin at t = 0 with an initial velocity of 3.0$i^$m/s and moves in the x-y plane with a constant acceleration$(6i^+4j^)$m/s ^2 . The x-coordinate of the particle at the instant when its y-coordinate is 32 m is D meters. The value of D is :-",
+        "options": [
+            "40",
+            "32",
+            "50",
+            "60"
+        ],
+        "answer": "60",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-particle-starts-from-the-origin-at-t--0-with-an-brinit-jee-main-physics-motion-agbvvhyazpoopaw7",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: 2D Vector",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "2D kinematics acceleration"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th April Evening Slot",
+        "question": "Two particles are projected from the same point with the same speed u such that they have the same range R, but different maximum heights, h _1 and h _2 . Which of the following is correct ?",
+        "options": [
+            "R ^2 = h _1 h _2",
+            "R ^2 = 16 h _1 h _2",
+            "R ^2 = 4 h _1 h _2",
+            "R ^2 = 2h _1 h _2"
+        ],
+        "answer": "R ^2 = 16 h _1 h _2",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/two-particles-are-projected-from-the-same-point-with-the-sam-jee-main-physics-motion-39qu25wk24foawos",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Complementary Angles",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Range height complementary identity"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th April Morning Slot",
+        "question": "The trajectory of a projectile near the surface of the earth is given as y = 2x \u2013 9x ^2 . If it were launched at an angle$\u03b8$_0 with speed v _0 then (g = 10 ms ^\u20132 ) :",
+        "options": [
+            "$\u03b80=cos\u22121(15)$and$v0=53$ms ^-1",
+            "$\u03b80=cos\u22121(25)$and$v0=35$ms ^-1",
+            "$\u03b80=sin\u22121(25)$and$v0=35$ms ^-1",
+            "$\u03b80=sin\u22121(15)$and$v0=53$ms ^-1"
+        ],
+        "answer": "$\u03b80=cos\u22121(15)$and$v0=53$ms ^-1",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-trajectory-of-a-projectile-near-the-surface-of-the-earth-jee-main-physics-motion-eabt1960aoydwqc4",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Trajectory Equation",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Initial velocity angle trajectory"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th April Morning Slot",
+        "question": "A shell is fired from a fixed artillery gun with an initial speed u such that it hits the target on the ground at a distance R from it. If t _1 and t _2 are the values of the time taken by it to hit the target in two possible ways, the product t _1 t _2 is -",
+        "options": [
+            "$2Rg$",
+            "$Rg$",
+            "$R2g$",
+            "$R4g$"
+        ],
+        "answer": "$2Rg$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-shell-is-fired-from-a-fixed-artillery-gun-with-an-initial-jee-main-physics-motion-qtshzams6bwrgh2f",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Complementary Angles",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Time product complementary range"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th January Morning Slot",
+        "question": "A person standing on an open ground hears the sound of a jet aeroplane, coming from north at an angle 60 ^o with ground level. But he finds the aeroplane right vertically above his position. If v is the speed of sound, speed of the plane is :",
+        "options": [
+            "$32$v",
+            "$2v3$",
+            "v",
+            "$v2$"
+        ],
+        "answer": "$v2$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/wkj2kZD7A2Ftv74k6/DXRW80CY5Mz7oD2cCMZRKAkM3LlQO/zZmLmwYMaGJAc3ZQ2AQFgp/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-person-standing-on-an-open-ground-hears-the-sound-of-a-jet-jee-main-physics-units-and-measurements-orqusmovwl3ebr0y",
+        "is_numerical": false,
+        "sub_topic": "Relative: Wave/Source",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Relative velocity sound wavefront"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 10th January Morning Slot",
+        "question": "Two guns A and B can fire bullets at speeds 1 km/s and 2 km/s respectively. From a point on a horizontal ground, they are fired in all possible directions. The ratio of maximum areas covered by the bullets fired by the two guns, on the ground is -",
+        "options": [
+            "1 : 16",
+            "1 : 8",
+            "1 : 2",
+            "1 : 4"
+        ],
+        "answer": "1 : 16",
+        "images": [
+            "https://imagex.cdn.examgoal.net/N5LAoHpNVtI3STVOY/T2fbabzdwpx7F0Rs0RJIIDJW2Bb7g/dYle9iTBQEPJmfxArGRYx0/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/two-guns-a-and-b-can-fire-bullets-at-speeds-1-kms-and-2-km-jee-main-physics-units-and-measurements-cimvrf9szpj1zuhn",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Range/Area",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Max area launch speed"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th April Morning Slot",
+        "question": "The stream of a river is flowing with a speed of 2km/h. A swimmer can swim at a speed of 4km/h. What should be the direction of the swimmer with respect to the flow of the river to cross the river straight ?",
+        "options": [
+            "150\u00b0",
+            "120\u00b0",
+            "60\u00b0",
+            "90\u00b0"
+        ],
+        "answer": "120\u00b0",
+        "images": [
+            "https://imagex.cdn.examgoal.net/7kejek170utfh/f6fa86c6-2490-476f-97d7-988908339677/e14012d0-e3d6-11e9-a7bc-b7b08ce8d541/file-7kejek170utfi-254w.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/the-stream-of-a-river-is-flowing-with-a-speed-of-2kmh-a-sw-jee-main-physics-units-and-measurements-kz21u1ral7zybr2c",
+        "is_numerical": false,
+        "sub_topic": "Relative: River/Boat",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "River zero drift angle"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th January Morning Slot",
+        "question": "A particle is moving with a velocity$v\u2192=K(yi^+xj^),$where K is a constant. The general equation for its path is :",
+        "options": [
+            "y = x ^2 + constant",
+            "y ^2 = x + constant",
+            "y ^2 = x ^2 + constant",
+            "xy = constant"
+        ],
+        "answer": "y ^2 = x ^2 + constant",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-particle-is-moving-in-xy-plane-with-velocity-overrighta-jee-main-physics-units-and-measurements-5uanauba4atiqtp7",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Path Equation",
+        "logic_type": "Calculus",
+        "difficulty": 3,
+        "physics_key": "Path equation from velocity components"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th January Evening Slot",
+        "question": "The position co-ordinates of a particle moving in a 3-D coordinate system is given by x = a cos$\u03c9$t y = a sin$\u03c9$t and z = a$\u03c9$t The speed of the particle is :",
+        "options": [
+            "$2a\u03c9$",
+            "$a\u03c9$",
+            "$3a\u03c9$",
+            "2a$\u03c9$"
+        ],
+        "answer": "$2a\u03c9$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-position-co-ordinates-of-a-particle-moving-in-a-3-d-coor-jee-main-physics-units-and-measurements-jqb2jsruxsmjxj5k",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: 3D Vector",
+        "logic_type": "Calculus",
+        "difficulty": 2,
+        "physics_key": "3D velocity vector magnitude"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 10th April Evening Slot",
+        "question": "A plane is inclined at an angle$\u03b1$= 30\u00b0 with respect to the horizontal. A particle is projected with a speed u = 2 ms ^\u20131 , from the base of the plane, making an angle$\u03b8$= 15\u00b0 with respect to the plane as shown in the figure. the distance from the base, at which the particle hits the plane is close to : (Take g = 10 ms ^\u20132 ) [IMAGE: https://imagex.cdn.examgoal.net/7kejek19o8u0w/7ffb6326-f355-4ed0-a19c-0f3135275135/ea4ea000-e54b-11e9-a7bc-b7b08ce8d541/file-7kejek19o8u0x-336w.jpg]",
+        "options": [
+            "14 cm",
+            "18 cm",
+            "20 cm",
+            "26 cm"
+        ],
+        "answer": "20 cm",
+        "images": [
+            "https://imagex.cdn.examgoal.net/7kejek19o8u0w/7ffb6326-f355-4ed0-a19c-0f3135275135/ea4ea000-e54b-11e9-a7bc-b7b08ce8d541/file-7kejek19o8u0x-336w.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-plane-is-inclined-at-an-angle-alpha---30-with-respe-jee-main-physics-motion-gj06suvnvuks9kvj",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Inclined Plane",
+        "logic_type": "Template",
+        "difficulty": 4,
+        "physics_key": "Range formula inclined plane"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 8th April Morning Slot",
+        "question": "Ship A is sailing towards north-east with velocity$v\u2192=30i\u2227+50j\u2227$km/hr where$i\u2227$points east and$j\u2227$, north. Ship B is at a distance of 80 km east and 150 km north of Ship A and is sailing towards west at 10 km/hr. A will be at minimum distance from B in :",
+        "options": [
+            "2.2 hrs",
+            "4.2 hrs",
+            "2.6 hrs",
+            "3.2 hrs"
+        ],
+        "answer": "2.6 hrs",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/ship-a-is-sailing-towards-north-east-with-velocity-mathop-jee-main-physics-units-and-measurements-lyp0jaftk9ivsvnm",
+        "is_numerical": false,
+        "sub_topic": "Relative: 2D Collision",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Minimum separation time 2D"
+    },
+    {
+        "metadata": "JEE Main 2018 (Online) 15th April Evening Slot",
+        "question": "A man in a car at location Q on a straight highway is moving with speed$\u03c5$. He decides to reach a point P in a field at a distance d from the highway (point M) as shown in the figure. Speed of the car in the field is half to that on the highway. What should be the distance RM, so that the time taken to reach P is minimum ? [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l7wzcrfs/645a1a17-a626-4f0a-ab60-25196c6e0f44/78d0ff70-319e-11ed-b3ea-45214d807530/file-1l7wzcrft.png?format=png]",
+        "options": [
+            "d",
+            "$d2$",
+            "$d2$",
+            "$d3$"
+        ],
+        "answer": "$d3$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l7wzcrfs/645a1a17-a626-4f0a-ab60-25196c6e0f44/78d0ff70-319e-11ed-b3ea-45214d807530/file-1l7wzcrft.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l32mmrc9/5e9e96d5-49f4-4512-90ce-8da49570fd86/5727dd90-d1bc-11ec-9218-efb2cf12c71b/file-1l32mmrca.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-man-in-a-car-at-location-q-on-a-straight-highway-is-moving-jee-main-physics-units-and-measurements-mg2nwdrr5c39iwjv",
+        "is_numerical": false,
+        "sub_topic": "Mixed-Concept: Calculus/Kinematics",
+        "logic_type": "Calculus",
+        "difficulty": 5,
+        "physics_key": "Minimum time path calculus"
+    },
+    {
+        "metadata": "JEE Main 2013 (Offline)",
+        "question": "A projectile is given an initial velocity of$(i^+2j^)$m/s, where$i^$is along the ground and$j^$is along the vertical. If g = 10 m/s ^2 , the equation of its trajectory is:",
+        "options": [
+            "y = x - 5x ^2",
+            "y = 2x - 5x ^2",
+            "4y = 2x - 5x ^2",
+            "4y = 2x - 25x ^2"
+        ],
+        "answer": "y = 2x - 5x ^2",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-projectile-is-given-an-initial-velocity-of-left-wide-2013-marks-4-xywmmxyrge7jkzjv.htm",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Trajectory Equation",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Trajectory equation from velocity vectors"
+    },
+    {
+        "metadata": "AIEEE 2011",
+        "question": "A water fountain on the ground sprinkles water all around it. If the speed of water coming out of the fountain is v, the total area around the fountain that gets wet is :",
+        "options": [
+            "$\u03c0v4g2$",
+            "$\u03c02v4g2$",
+            "$\u03c0v2g2$",
+            "$\u03c0v2g$"
+        ],
+        "answer": "$\u03c0v4g2$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-water-fountain-on-the-ground-sprinkles-water-all-around-it-2011-marks-4-melyusxzxqi9f8q1.htm",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Range/Area",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Max range area formula"
+    },
+    {
+        "metadata": "AIEEE 2012",
+        "question": "A boy can throw a stone up to a maximum height of 10 m. The maximum horizontal distance that the boy can throw the same stone up to will be",
+        "options": [
+            "$202$m",
+            "10 m",
+            "$102$m",
+            "20 m"
+        ],
+        "answer": "20 m",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-boy-can-throw-a-stone-up-to-a-maximum-height-of-10-m-the-2012-marks-4-hapduvkfscdshejt.htm",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Range/Height Relation",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Max range max height relation"
+    },
+    {
+        "metadata": "AIEEE 2010",
+        "question": "A particle is moving with velocity$v\u2192=k(yi^+xj^)$, where K is a constant. The general equation for its path is",
+        "options": [
+            "y = x ^2 + constant",
+            "y ^2 = x + constant",
+            "xy = constant",
+            "y ^2 = x ^2 + constant"
+        ],
+        "answer": "y ^2 = x ^2 + constant",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-particle-is-moving-with-velocity-overrightarrow-v-k-2010-marks-4-c0mxfzh47febqvds.htm",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Path Equation",
+        "logic_type": "Calculus",
+        "difficulty": 3,
+        "physics_key": "Path equation from velocity components"
+    },
+    {
+        "metadata": "AIEEE 2005",
+        "question": "A particle is moving eastwards with a velocity of 5 m/s. In 10 seconds the velocity changes to 5 m/s northwards. The average acceleration in this time is",
+        "options": [
+            "$12ms\u22122$towards north",
+            "$12ms\u22122$towards north-east",
+            "$12ms\u22122$towards north-west",
+            "zero"
+        ],
+        "answer": "$12ms\u22122$towards north-west",
+        "images": [
+            "https://imagex.cdn.examgoal.net/w5S5g3DJ002dJReuS/STPbAa3EhLLlvO5m7zOmWukphAtvO/MXED43dYujnj0L0LFJbgrf/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-particle-is-moving-eastwards-with-a-velocity-of-5-ms-in-2005-marks-4-k6shbsdpjpn2ajy5.htm",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: 2D Vector",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Average acceleration vector change"
+    },
+    {
+        "metadata": "AIEEE 2009",
+        "question": "A particle has an initial velocity$3i^+4j^$and an acceleration of$0.4i^+0.3j^$. Its speed after 10 s is:",
+        "options": [
+            "$72$units",
+            "7 units",
+            "8.5 units",
+            "10 units"
+        ],
+        "answer": "$72$units",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-particle-has-an-initial-velocity-3widehat-i-4widehat-2009-marks-4-pbn5sjfn3cuea9mv.htm",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: 2D Vector",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Final speed vector addition"
+    },
+    {
+        "metadata": "AIEEE 2004",
+        "question": "A projectile can have the same range 'R' for two angles of projection. If T _1 and T _2 be the time of flights in the two cases, then the product of the two time of flights is directly proportional to",
+        "options": [
+            "R",
+            "$1R$",
+            "$1R2$",
+            "$R2$"
+        ],
+        "answer": "R",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-projectile-can-have-the-same-range-r-for-two-angles-of-p-2004-marks-4-rgel2z5xwi22htpf.htm",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Complementary Angles",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Time product range proportionality"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 22nd January Morning Shift",
+        "question": "A particle is projected at an angle of$30\u2218$from horizontal at a speed of$60 m/s$. The height traversed by the particle in the first second is$h0$and height traversed in the last second, before it reaches the maximum height, is$h1$. The ratio$h0:h1$is __________. [Take,$g=10 m/s2$]",
+        "options": [],
+        "answer": "5",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m7t0iymc/f1c3b375-cd91-4787-9583-8ed5bcba54e8/b5645840-f827-11ef-8fee-a3fba03bd34c/file-jaoe38c1m7t0iymd.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-particle-is-projected-at-an-angle-of-30circ-from-jee-main-physics-units-and-measurements-7lsdctzhjmtmbofd",
+        "is_numerical": true,
+        "sub_topic": "Projectile: Kinematics",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Distance interval symmetry"
+    },
+    {
+        "metadata": "AIEEE 2004",
+        "question": "A ball is thrown from a point with a speed \u03bd _0 at an angle of projection \u03b8. From the same point and at the same instant person starts running with a constant speed$v02$to catch the ball. Will the person be able to catch the ball? If yes, what should be the angle of projection \u03b8?",
+        "options": [
+            "No",
+            "Yes,$30\u2218$",
+            "Yes,$60\u2218$",
+            "Yes,$45\u2218$"
+        ],
+        "answer": "Yes,$60\u2218$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-ball-is-thrown-from-a-point-with-a-speed-0-at-an-angle-o-2004-marks-4-geiile53zplvu7ub.htm",
+        "is_numerical": false,
+        "sub_topic": "Relative: Catching a Projectile",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Catching object constant velocity"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 8th April Evening Shift",
+        "question": "A body of mass M thrown horizontally with velocity v from the top of the tower of height H touches the ground at a distance of$100 m$from the foot of the tower. A body of mass$2 M$thrown at a velocity$v2$from the top of the tower of height$4H$will touch the ground at a distance of _______ m.",
+        "options": [],
+        "answer": "100",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-body-of-mass-m-thrown-horizontally-with-velocity-v-from-jee-main-physics-motion-4oggp3h43b47jpnv",
+        "is_numerical": true,
+        "sub_topic": "Projectile: Horizontal Launch",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Horizontal range scaling"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 5th April Evening Shift",
+        "question": "The maximum height reached by a projectile is$64 m$. If the initial velocity is halved, the new maximum height of the projectile is ______$m$.",
+        "options": [],
+        "answer": "16",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-maximum-height-reached-by-a-projectile-is-64-mathr-jee-main-physics-motion-4voxlf3l5xwrt3cp",
+        "is_numerical": true,
+        "sub_topic": "Projectile: Max Height Formula",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Max height velocity square"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 27th January Morning Shift",
+        "question": "A particle starts from origin at$t=0$with a velocity$5i^ m/s$and moves in$x\u2212y$plane under action of a force which produces a constant acceleration of$(3i^+2j^)m/s2$. If the$x$-coordinate of the particle at that instant is$84 m$, then the speed of the particle at this time is$\u03b1 m/s$. The value of$\u03b1$is _________.",
+        "options": [],
+        "answer": "673",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-particle-starts-from-origin-at-t0-with-a-velocity-jee-main-physics-motion-gtm7pot3mc0bcxgo",
+        "is_numerical": true,
+        "sub_topic": "Kinematics: 2D Vector",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Final speed 2D kinematics"
+    },
+    {
+        "metadata": "AIEEE 2003",
+        "question": "A boy playing on the roof of a 10 m high building throws a ball with a speed of 10 m/s at an angle of$30\u2218$with the horizontal. How far from the throwing point will the ball be at the height of 10 m from the ground?$[g=10m/s2,sin\u206130\u2218=12,cos\u206130\u2218=32]$",
+        "options": [
+            "5.20 m",
+            "4.33 m",
+            "2.60 m",
+            "8.66 m"
+        ],
+        "answer": "8.66 m",
+        "images": [
+            "https://imagex.cdn.examgoal.net/ZYI6DT47IF4k2assj/dgiQj73PbcXdSucnUEt9L792M7kKl/c7uRYIrMCJJJDIXjUdhFSk/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-boy-playing-on-the-roof-of-a-10-m-high-building-throws-a-b-2003-marks-4-lrr2akrwhi1d7pdg.htm",
+        "is_numerical": false,
+        "sub_topic": "Projectile: Trajectory on Cliff",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Horizontal distance full flight"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 31st January Evening Shift",
+        "question": "Two bodies are projected from ground with same speeds$40 ms\u22121$at two different angles with respect to horizontal. The bodies were found to have same range. If one of the body was projected at an angle of$60\u2218$, with horizontal then sum of the maximum heights, attained by the two projectiles, is$m$. (Given$g=10 ms\u22122$)",
+        "options": [],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/two-bodies-are-projected-from-ground-with-same-speeds-40-m-jee-main-physics-4chfzvrlkgbhxgwq",
+        "is_numerical": true,
+        "sub_topic": "Projectile: Complementary Angles",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Sum of heights complementary"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 29th January Morning Shift",
+        "question": "A ball rolls off the top of a stairway with horizontal velocity$u$. The steps are$0.1 m$high and$0.1 m$wide. The minimum velocity$u$with which that ball just hits the step 5 of the stairway will be$x ms\u22121$where$x=$__________ [use$g=10 m/s2$].",
+        "options": [],
+        "answer": "2",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/@width/image/1lt2vi4i5/d852b197-8c62-4a52-a706-71a1911dbca9/a84b2df0-d49c-11ee-8574-81dc091f6c89/file-1lt2vi4i7.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-ball-rolls-off-the-top-of-a-stairway-with-horizontal-ve-jee-main-physics-units-and-measurements-eb5u2nfp8ca5bsdz",
+        "is_numerical": true,
+        "sub_topic": "Projectile: Discrete",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Horizontal launch staircase min velocity"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 11th April Morning Shift",
+        "question": "A projectile fired at$30\u2218$to the ground is observed to be at same height at time$3 s$and$5 s$after projection, during its flight. The speed of projection of the projectile is ___________$m s\u22121$. (Given$g=10 ms\u22122$)",
+        "options": [],
+        "answer": "80",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-projectile-fired-at-30circ-to-the-ground-is-obs-jee-main-physics-motion-ntypkyigvbeppso9",
+        "is_numerical": true,
+        "sub_topic": "Projectile: Kinematics",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Time symmetry initial velocity"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th July Morning Shift",
+        "question": "If the initial velocity in horizontal direction of a projectile is unit vector$i^$and the equation of trajectory is$y=5x(1\u2212x)$. The$y$component vector of the initial velocity is ______________$j^$. ($Take$$g=10 m/s2)$",
+        "options": [],
+        "answer": "5",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pif-the-initial-velocity-in-horizontal-direction-of-a-proj-jee-main-physics-motion-rwrz3xshdztvlrd2",
+        "is_numerical": true,
+        "sub_topic": "Projectile: Trajectory Equation",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Vertical velocity trajectory equation"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 31st January Morning Shift",
+        "question": "The speed of a swimmer is$4 km h\u22121$in still water. If the swimmer makes his strokes normal to the flow of river of width$1 km$, he reaches a point$750 m$down the stream on the opposite bank. The speed of the river water is ___________$km h\u22121$",
+        "options": [],
+        "answer": "3",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1legtl5mi/0cbc31d7-4d97-4528-a713-75b055d39281/e4bc61a0-b350-11ed-a9df-eb6c254c9c33/file-1legtl5mj.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-speed-of-a-swimmer-is-4-mathrmkm-mathrmh-jee-main-physics-motion-wa9jcujgnzgj1e8c",
+        "is_numerical": true,
+        "sub_topic": "Relative: River/Boat",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "River velocity drift time"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 29th July Morning Shift",
+        "question": "An object is projected in the air with initial velocity u at an angle$\u03b8$. The projectile motion is such that the horizontal range R, is maximum. Another object is projected in the air with a horizontal range half of the range of first object. The initial velocity remains same in both the case. The value of the angle of projection, at which the second object is projected, will be _________ degree.",
+        "options": [],
+        "answer": "15",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-object-is-projected-in-the-air-with-initial-velocity-u-jee-main-physics-motion-f9oezzoinissc16s",
+        "is_numerical": true,
+        "sub_topic": "Projectile: Range Formula",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Angle for half max range"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th July Morning Shift",
+        "question": "A ball of mass m is thrown vertically upward. Another ball of mass$2 m$is thrown at an angle$\u03b8$with the vertical. Both the balls stay in air for the same period of time. The ratio of the heights attained by the two balls respectively is$1x$. The value of x is _____________.",
+        "options": [],
+        "answer": "1",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l6xtoci1/bb30e765-69ec-4e05-8a17-2c210e0d791d/d57bc390-1e48-11ed-9c61-4529b721806b/file-1l6xtoci2.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-ball-of-mass-m-is-thrown-vertically-upward-another-bal-jee-main-physics-motion-aikql7vohxgrr2kp",
+        "is_numerical": true,
+        "sub_topic": "Projectile: Time/Height Relation",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Time of flight height ratio"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th June Morning Shift",
+        "question": "A fighter jet is flying horizontally at a certain altitude with a speed of 200 ms ^$\u2212$1 . When it passes directly overhead an anti-aircraft gun, a bullet is fired from the gun, at an angle$\u03b8$with the horizontal, to hit the jet. If the bullet speed is 400 m/s, the value of$\u03b8$will be ___________$\u2218$.",
+        "options": [],
+        "answer": "60",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l7ta5g03/68fabda1-4ee5-4380-80d5-62e1f1cd3f80/8f245930-2f95-11ed-a1d8-e368d72cfa4f/file-1l7ta5g04.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-fighter-jet-is-flying-horizontally-at-a-certain-altitud-jee-main-physics-motion-dbyaiklh48dkem4y",
+        "is_numerical": true,
+        "sub_topic": "Mixed-Concept: Relative/Projectile",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Hitting moving target angle"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 27th July Evening Shift",
+        "question": "A swimmer wants to cross a river from point A to point B. Line AB makes an angle of 30$\u2218$with the flow of river. Magnitude of velocity of the swimmer is same as that of the river. The angle$\u03b8$with the line AB should be _________$\u2218$, so that the swimmer reaches point B. [IMAGE: https://imagex.cdn.examgoal.net/1ks44t6pc/54775131-a243-4ff3-9b64-aea026149cd3/d5af4300-f8c9-11eb-8274-7f1d731e697f/file-1ks44t6pd.jpg]",
+        "options": [],
+        "answer": "30",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1ks44t6pc/54775131-a243-4ff3-9b64-aea026149cd3/d5af4300-f8c9-11eb-8274-7f1d731e697f/file-1ks44t6pd.jpg",
+            "https://imagex.cdn.examgoal.net/1ks44tz0i/1c96c849-a4b7-4077-87de-21689fa4b147/eb8db620-f8c9-11eb-a1d4-495922108aa7/file-1ks44tz0j.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-swimmer-wants-to-cross-a-river-from-point-a-to-point-b-li-jee-main-physics-units-and-measurements-i4gl4ymkqrgp3eib",
+        "is_numerical": true,
+        "sub_topic": "Relative: River/Boat",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Vector triangle shortest path"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 18th March Morning Shift",
+        "question": "A person is swimming with a speed of 10 m/s at an angle of 120$\u2218$with the flow and reaches to a point directly opposite on the other side of the river. The speed of the flow is 'x' m/s. The value of 'x' to the nearest integer is __________.",
+        "options": [],
+        "answer": "5",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1kqbdfo60/4f1a198c-94e0-4abe-b83c-e5b1364a00c8/9dcbf980-d52c-11eb-af67-9dfbe1912231/file-1kqbdfo61.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-person-is-swimming-with-a-speed-of-10-ms-at-an-angle-of-1-jee-main-physics-units-and-measurements-r3jxnp3oxufmced1",
+        "is_numerical": true,
+        "sub_topic": "Relative: River/Boat",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "River zero drift speed"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 24th June Evening Shift",
+        "question": "A body is projected from the ground at an angle of 45$\u2218$with the horizontal. Its velocity after 2s is 20 ms ^$\u2212$1 . The maximum height reached by the body during its motion is __________ m. (use g = 10 ms ^$\u2212$2 )",
+        "options": [],
+        "answer": "20",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l5l6iteq/3662250b-86a3-4b5e-98fc-9b65e26ece50/aa8c2420-0388-11ed-bfd1-873560f9d960/file-1l5l6iter.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-body-is-projected-from-the-ground-at-an-angle-of-45-jee-main-physics-motion-xrpzizmczgsp3saj",
+        "is_numerical": true,
+        "sub_topic": "Projectile: Kinematics",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Initial velocity from intermediate vector"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 16th March Evening Shift",
+        "question": "A swimmer can swim with velocity of 12 km/h in still water. Water flowing in a river has velocity 6 km/h. The direction with respect to the direction of flow of river water he should swim in order to reach the point on the other bank just opposite to his starting point is ____________$\u2218$. (Round off to the Nearest Integer) (Find the angle in degrees)",
+        "options": [],
+        "answer": "120",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1ky4h8o5o/f083b4a7-d200-4281-9536-a0c2edcd1cb3/be20a8c0-6fc3-11ec-8887-d75613c1bf3a/file-1ky4h8o5p.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-swimmer-can-swim-with-velocity-of-12-kmh-in-still-water-jee-main-physics-units-and-measurements-6oqhmokk9ldjsomn",
+        "is_numerical": true,
+        "sub_topic": "Relative: River/Boat",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "River zero drift angle"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 8th January Morning Slot",
+        "question": "A particle is moving along the x-axis with its coordinate with the time 't' given be x(t) = 10 + 8t \u2013 3t ^2 . Another particle is moving the y-axis with its coordinate as a function of time given by y(t) = 5 \u2013 8t ^3 . At t = 1s, the speed of the second particle as measured in the frame of the first particle is given as$v$. Then v (in m/s) is ______.",
+        "options": [],
+        "answer": "580",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-particle-is-moving-along-the-x-axis-with-its-coordinate-wi-jee-main-physics-current-electricity-sy6cdwxcrbbybawq",
+        "is_numerical": true,
+        "sub_topic": "Kinematics: 2D Relative",
+        "logic_type": "Calculus",
+        "difficulty": 3,
+        "physics_key": "Relative speed vector components"
+    }
+]

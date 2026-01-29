@@ -1,0 +1,3088 @@
+[
+    {
+        "metadata": "JEE Main 2025 (Online) 4th April Evening Shift",
+        "question": "An inductor of self inductance 1 H is connected in series with a resistor of$100\u03c0$ohm and an ac supply of$100\u03c0$volt, 50 Hz . Maximum current flowing in the circuit is _________ A.",
+        "options": [],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-inductor-of-self-inductance-1-h-is-connected-in-series-jee-main-physics-units-and-measurements-z8q4ofcyb6c4r0ce",
+        "is_numerical": true,
+        "sub_topic": "Circuits: Series LR",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Peak current series LR"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 23rd January Evening Shift",
+        "question": "In a series LCR circuit, a resistor of$300\u03a9$, a capacitor of 25 nF and an inductor of 100 mH are used. For maximum current in the circuit, the angular frequency of the ac source is _________$\u00d7104$radians$s\u22121$",
+        "options": [],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-a-series-lcr-circuit-a-resistor-of-300-omega-a-ca-jee-main-physics-units-and-measurements-vohrhwhwqojz2hmj",
+        "is_numerical": true,
+        "sub_topic": "Resonance: Frequency",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Resonant angular frequency formula"
+    },
+    {
+        "metadata": "JEE Main",
+        "question": "An inductor of reactance$100\u03a9$, a capacitor of reactance$50\u03a9$, and a resistor of resistance$50\u03a9$are connected in series with an AC source of$10 V,50 Hz$. Average power dissipated by the circuit is ___________ W.",
+        "options": [],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-inductor-of-reactance-100-omega-a-capacitor-of-reacta-jee-main-physics-auoumhtcppmxzdia",
+        "is_numerical": true,
+        "sub_topic": "Power: LCR Circuit",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Average power series LCR"
+    },
+    {
+        "metadata": "JEE Main",
+        "question": "An ac current is represented as$i=52+10cos\u2061(650\u03c0t+\u03c06)Amp$The r.m.s value of the current is",
+        "options": [
+            "10 Amp",
+            "$52 Amp$",
+            "100 Amp",
+            "50 Amp"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-ac-current-is-represented-asp-pi5-sqrt210-jee-main-physics-units-and-measurements-aunb6y8ihcbzsucm",
+        "is_numerical": false,
+        "sub_topic": "Waveform: RMS Calculation",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "RMS of DC plus AC"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 7th April Morning Shift",
+        "question": "For ac circuit shown in figure,$R=100k\u03a9$and$C=100pF$and the phase difference between$in Vin$and$(VB\u2212VA)$is$90\u2218$. The input signal frequency is$10xrad/sec$, where '$x$' is __________ . [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9gjs2t4/4899245c-812c-401e-b347-4e36b98a1d5c/3eadcb80-18e5-11f0-a103-9bd1ffe79f48/file-jaoe38c1m9gjs2t5.png?format=png]",
+        "options": [],
+        "answer": "5",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9gjs2t4/4899245c-812c-401e-b347-4e36b98a1d5c/3eadcb80-18e5-11f0-a103-9bd1ffe79f48/file-jaoe38c1m9gjs2t5.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9ocdfn2/3a44f9ea-6d3d-43ba-8f42-f0ab548579cd/8cbec8e0-1d2e-11f0-ae5e-19047862b6d9/file-jaoe38c1m9ocdfn3.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pfor-ac-circuit-shown-in-figure-mathrmr100-mathrmk-jee-main-physics-units-and-measurements-eelfoaf6wj5upout",
+        "is_numerical": true,
+        "sub_topic": "Circuits: Series RC",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Phasor difference quadrature logic"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 8th April Evening Shift",
+        "question": "An alternating emf$E=1102sin\u2061100t$volt is applied to a capacitor of$2\u03bcF$, the rms value of current in the circuit is ________$mA$.",
+        "options": [],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-alternating-emf-mathrme110-sqrt2-sin-100-ma-jee-main-physics-motion-lnxkk6uk5p7nyf5x",
+        "is_numerical": true,
+        "sub_topic": "Circuits: Pure Capacitor",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "RMS current capacitive reactance"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 9th April Morning Shift",
+        "question": "When a coil is connected across a$20 V$dc supply, it draws a current of$5 A$. When it is connected across$20 V,50 Hz$ac supply, it draws a current of$4 A$. The self inductance of the coil is __________$mH$. (Take$\u03c0=3$)",
+        "options": [],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pwhen-a-coil-is-connected-across-a-20-mathrmv-dc-s-jee-main-physics-motion-9awcl4gv3n2f3deo",
+        "is_numerical": true,
+        "sub_topic": "Circuits: Series LR",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Self inductance from AC-DC"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 9th April Evening Shift",
+        "question": "A capacitor of reactance$43\u03a9$and a resistor of resistance$4\u03a9$are connected in series with an ac source of peak value$82 V$. The power dissipation in the circuit is __________ W.",
+        "options": [],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-capacitor-of-reactance-4-sqrt3-omega-and-a-resi-jee-main-physics-motion-wcb14qeo76zxodib",
+        "is_numerical": true,
+        "sub_topic": "Power: Series RC",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Real power series RC"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 27th January Evening Shift",
+        "question": "A series LCR circuit with$L=100\u03c0mH,C=10\u22123\u03c0F$and$R=10\u03a9$, is connected across an ac source of$220 V,50 Hz$supply. The power factor of the circuit would be ________.",
+        "options": [],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-series-lcr-circuit-with-mathrmlfrac100pi-m-jee-main-physics-motion-1ohifqiywxf5r9gr",
+        "is_numerical": true,
+        "sub_topic": "Power: Power Factor",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Power factor calculation LCR"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 30th January Evening Shift",
+        "question": "A power transmission line feeds input power at$2.3 kV$to a step down transformer with its primary winding having 3000 turns. The output power is delivered at$230 V$by the transformer. The current in the primary of the transformer is$5 A$and its efficiency is$90%$. The winding of transformer is made of copper. The output current of transformer is _________$A$.",
+        "options": [],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-power-transmission-line-feeds-input-power-at-23-mat-jee-main-physics-motion-0cwnzbob0tjhrekc",
+        "is_numerical": true,
+        "sub_topic": "Transformer: Efficiency",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Efficiency and output current"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 6th April Evening Shift",
+        "question": "For a given series LCR circuit it is found that maximum current is drawn when value of variable capacitance is$2.5 nF$. If resistance of$200\u03a9$and$100 mH$inductor is being used in the given circuit. The frequency of ac source is _________$\u00d7103 Hz$(given$a2=10$)",
+        "options": [],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pfor-a-given-series-lcr-circuit-it-is-found-that-maximum-c-jee-main-physics-motion-hh6t11vwfm9jdvzt",
+        "is_numerical": true,
+        "sub_topic": "Resonance: Tuning",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Frequency for resonant tuning"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 5th April Morning Shift",
+        "question": "An ac source is connected in given series LCR circuit. The rms potential difference across the capacitor of$20\u03bcF$is __________ V. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1lv7lqb8u/7d74787e-ad44-48ad-bd9c-b446152c4e2b/caafc8e0-fece-11ee-8116-e195dc03b165/file-1lv7lqb8v.png?format=png]",
+        "options": [],
+        "answer": "N/A",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lv7lqb8u/7d74787e-ad44-48ad-bd9c-b446152c4e2b/caafc8e0-fece-11ee-8116-e195dc03b165/file-1lv7lqb8v.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-ac-source-is-connected-in-given-series-lcr-circuit-th-jee-main-physics-motion-2v42ge1uvdtcrk6e",
+        "is_numerical": true,
+        "sub_topic": "Circuits: Series LCR",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Voltage across capacitive branch"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 6th April Morning Shift",
+        "question": "When a$dc$voltage of$100 V$is applied to an inductor, a$dc$current of$5 A$flows through it. When an ac voltage of$200 V$peak value is connected to inductor, its inductive reactance is found to be$203\u03a9$. The power dissipated in the circuit is _________ W.",
+        "options": [],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pwhen-a-d-c-voltage-of-100-mathrmv-is-applied-jee-main-physics-motion-jqusmjphfxukm7ts",
+        "is_numerical": true,
+        "sub_topic": "Power: Real Inductor",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Inductor resistance from DC"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 13th April Morning Shift",
+        "question": "In the given figure, an inductor and a resistor are connected in series with a battery of emf E volt.$Ea2b J/s$represents the maximum rate at which the energy is stored in the magnetic field (inductor). The numerical value of$ba$will be __________. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1lgqys16w/10186afa-fa57-4aa3-b5d8-59005fe9a501/76dfb6a0-e07d-11ed-baf9-87204e3a7c88/file-1lgqys16y.png?format=png]",
+        "options": [],
+        "answer": "N/A",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lgqys16w/10186afa-fa57-4aa3-b5d8-59005fe9a501/76dfb6a0-e07d-11ed-baf9-87204e3a7c88/file-1lgqys16y.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-the-given-figure-an-inductor-and-a-resistor-are-conne-jee-main-physics-motion-8hl6e8rhuokn3guy",
+        "is_numerical": true,
+        "sub_topic": "Transient: Energy Storage",
+        "logic_type": "Calculus",
+        "difficulty": 4,
+        "physics_key": "Max rate energy storage"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 4th April Morning Shift",
+        "question": "A alternating current at any instant is given by$i=[6+56sin\u2061(100\u03c0t+\u03c0/3)]$A. The$rms$value of the current is ______ A.",
+        "options": [],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-alternating-current-at-any-instant-is-given-by-i6-jee-main-physics-motion-shkyxab3pwhpjcrn",
+        "is_numerical": true,
+        "sub_topic": "Waveform: RMS Calculation",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Effective current superposition"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 25th January Morning Shift",
+        "question": "An LCR series circuit of capacitance 62.5 nF and resistance of 50$$\\Omega$$, is connected to an A.C. source of frequency 2.0 kHz. For maximum value of amplitude of current in circuit, the value of inductance is __________ mH. (Take$$\\pi^2=10$$)",
+        "options": [],
+        "answer": "100",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-lcr-series-circuit-of-capacitance-625-nf-and-resistan-jee-main-physics-motion-pojd3xenlaobncqq",
+        "is_numerical": true,
+        "sub_topic": "Resonance: Frequency",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Inductance for current resonance"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 8th April Evening Shift",
+        "question": "A series combination of resistor of resistance$100 \u03a9$, inductor of inductance$1 H$and capacitor of capacitance$6.25 \u03bcF$is connected to an ac source. The quality factor of the circuit will be __________",
+        "options": [],
+        "answer": "4",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-series-combination-of-resistor-of-resistance-100-om-jee-main-physics-motion-vj8mqp1kfdznquuz",
+        "is_numerical": true,
+        "sub_topic": "Resonance: Quality Factor",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "LCR circuit quality factor"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 11th April Evening Shift",
+        "question": "A coil has an inductance of$2H$and resistance of$4 \u03a9$. A$10 V$is applied across the coil. The energy stored in the magnetic field after the current has built up to its equilibrium value will be ___________$\u00d710\u22122 J$.",
+        "options": [],
+        "answer": "625",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-coil-has-an-inductance-of-2-mathrmh-and-resistan-jee-main-physics-motion-ytljfgprrhtnii7r",
+        "is_numerical": true,
+        "sub_topic": "Circuits: Series LR",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Steady state magnetic energy"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 6th April Morning Shift",
+        "question": "An ideal transformer with purely resistive load operates at$12 kV$on the primary side. It supplies electrical energy to a number of nearby houses at$120 V$. The average rate of energy consumption in the houses served by the transformer is 60$kW$. The value of resistive load$(Rs)$required in the secondary circuit will be ___________$m\u03a9$.",
+        "options": [],
+        "answer": "240",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-ideal-transformer-with-purely-resistive-load-operates-jee-main-physics-motion-sentggi7q508taau",
+        "is_numerical": true,
+        "sub_topic": "Transformer: Load",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Secondary resistive load transformer"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 1st February Morning Shift",
+        "question": "A series LCR circuit is connected to an ac source of$220 V,50 Hz$. The circuit contain a resistance$R=100 \u03a9$and an inductor of inductive reactance$XL=79.6 \u03a9$. The capacitance of the capacitor needed to maximize the average rate at which energy is supplied will be _________$\u03bcF$.",
+        "options": [],
+        "answer": "40",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-series-lcr-circuit-is-connected-to-an-ac-source-of-22-jee-main-physics-motion-pj2elnlxcynxff2q",
+        "is_numerical": true,
+        "sub_topic": "Resonance: Frequency",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Capacitance for power resonance"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 28th July Morning Shift",
+        "question": "The frequencies at which the current amplitude in an LCR series circuit becomes$12$times its maximum value, are$212rads\u22121$and$232rads\u22121$. The value of resistance in the circuit is$R=5\u03a9$. The self inductance in the circuit is __________$mH$.",
+        "options": [],
+        "answer": "250",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-frequencies-at-which-the-current-amplitude-in-an-lcr-jee-main-physics-motion-lbsqtmoetg7yp3mz",
+        "is_numerical": true,
+        "sub_topic": "Resonance: Bandwidth",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Inductance from bandwidth frequency"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 8th April Morning Shift",
+        "question": "An oscillating LC circuit consists of a$75 mH$inductor and a$1.2 \u03bcF$capacitor. If the maximum charge to the capacitor is$2.7 \u03bcC$. The maximum current in the circuit will be ___________$mA$",
+        "options": [],
+        "answer": "9",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-oscillating-lc-circuit-consists-of-a-75-mathrmmh-jee-main-physics-motion-xyxcjxxxx3t68yle",
+        "is_numerical": true,
+        "sub_topic": "Circuits: LC",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Peak oscillatory current LC"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 31st January Morning Shift",
+        "question": "An inductor of$0.5 mH$, a capacitor of$20 \u03bcF$and resistance of$20 \u03a9$are connected in series with a$220 V$ac source. If the current is in phase with the emf, the amplitude of current of the circuit is$x$A. The value of$x$is ___________",
+        "options": [],
+        "answer": "242",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-inductor-of-05-mathrmmh-a-capacitor-of-20-jee-main-physics-motion-dwlpn1utdtkb9rgy",
+        "is_numerical": true,
+        "sub_topic": "Resonance: Frequency",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Current amplitude at resonance"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 1st February Evening Shift",
+        "question": "A square shaped coil of area$70 cm2$having 600 turns rotates in a magnetic field of$0.4 wbm\u22122$, about an axis which is parallel to one of the side of the coil and perpendicular to the direction of field. If the coil completes 500 revolution in a minute, the instantaneous emf when the plane of the coil is inclined at$60\u2218$with the field, will be ____________ V. (Take$\u03c0=227$)",
+        "options": [],
+        "answer": "44",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-square-shaped-coil-of-area-70-mathrmcm2-havi-jee-main-physics-motion-hh4f5oedv4utoryq",
+        "is_numerical": true,
+        "sub_topic": "Device: AC Generator",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Instantaneous EMF rotating coil"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 29th January Evening Shift",
+        "question": "An inductor of inductance 2$\u03bcH$is connected in series with a resistance, a variable capacitor and an AC source of frequency 7 kHz. The value of capacitance for which maximum current is drawn into the circuit$1xF$, where the value of$x$is ___________. (Take$\u03c0=227$)",
+        "options": [],
+        "answer": "3872",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-inductor-of-inductance-2-mathrmmu-h-is-connect-jee-main-physics-motion-uc9dw40fp1vr8y30",
+        "is_numerical": true,
+        "sub_topic": "Resonance: Frequency",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Capacitance for maximum current"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 30th January Evening Shift",
+        "question": "In an ac generator, a rectangular coil of 100 turns each having area$14\u00d710\u22122 m2$is rotated at$360 rev/min$about an axis perpendicular to a uniform magnetic field of magnitude$3.0 T$. The maximum value of the emf produced will be ________$V$.$($Take$\u03c0=227)$",
+        "options": [],
+        "answer": "1584",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-an-ac-generator-a-rectangular-coil-of-100-turns-each-hav-jee-main-physics-nixruzjfrogdhtu2",
+        "is_numerical": true,
+        "sub_topic": "Device: AC Generator",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Peak EMF AC generator"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 25th January Evening Shift",
+        "question": "A series LCR circuit is connected to an AC source of 220 V, 50 Hz. The circuit contains a resistance R = 80$\u03a9$, an inductor of inductive reactance$XL=70\u03a9$, and a capacitor of capacitive reactance$XC=130\u03a9$. The power factor of circuit is$x10$. The value of$x$is :",
+        "options": [],
+        "answer": "8",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-series-lcr-circuit-is-connected-to-an-ac-source-of-220-jee-main-physics-motion-nugwajyes1my2bh7",
+        "is_numerical": true,
+        "sub_topic": "Power: Power Factor",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Phase factor resistive reactive"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 24th January Morning Shift",
+        "question": "In the circuit shown in the figure, the ratio of the quality factor and the band width is ___________ s. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1ldzifvq3/910f2a90-2c9d-4bbf-8965-91db3f649708/fa94e2b0-a9cb-11ed-8de8-337bcbb2cc2c/file-1ldzifvq4.png?format=png]",
+        "options": [],
+        "answer": "10",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1ldzifvq3/910f2a90-2c9d-4bbf-8965-91db3f649708/fa94e2b0-a9cb-11ed-8de8-337bcbb2cc2c/file-1ldzifvq4.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-the-circuit-shown-in-the-figure-the-ratio-of-the-qual-jee-main-physics-motion-m1hewkae2eh2nwa3",
+        "is_numerical": true,
+        "sub_topic": "Resonance: Quality Factor",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Q factor bandwidth ratio"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 31st January Evening Shift",
+        "question": "A series$LCR$circuit consists of$R=80\u03a9,XL=100\u03a9$, and$XC=40\u03a9$. The input voltage is 2500$cos\u2061(100\u03c0t)V$. The amplitude of current, in the circuit, is _________ A.",
+        "options": [],
+        "answer": "25",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-series-mathrmlcr-circuit-consists-of-mathrmr80--jee-main-physics-iz3efxeanweeaut1",
+        "is_numerical": true,
+        "sub_topic": "Circuits: Series LCR",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Peak current total impedance"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 29th July Evening Shift",
+        "question": "A capacitor of capacitance 500$\u03bc$F is charged completely using a dc supply of 100 V. It is now connected to an inductor of inductance 50 mH to form an LC circuit. The maximum current in LC circuit will be _______ A.",
+        "options": [],
+        "answer": "10",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l7e9lrut/71df2bd1-d468-4054-adb5-aa2728ee9596/aa5ffe60-2753-11ed-a077-1f1e3989e798/file-1l7e9lruu.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l7e9mb2y/a94941c7-3bc0-4deb-8977-65554f010b7d/b939dfa0-2753-11ed-a077-1f1e3989e798/file-1l7e9mb2z.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-capacitor-of-capacitance-500-muf-is-charged-comple-jee-main-physics-motion-95cpf7wd9vet6au9",
+        "is_numerical": true,
+        "sub_topic": "Circuits: LC",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Max current energy swap"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th July Morning Shift",
+        "question": "The effective current I in the given circuit at very high frequencies will be ___________ A. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l6hyrhdj/1b695f4c-f46c-4d8c-9444-e5fb2cac1b21/2fee8c70-1590-11ed-abd2-c5f8c222b719/file-1l6hyrhdk.png?format=png]",
+        "options": [],
+        "answer": "44",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l6hyrhdj/1b695f4c-f46c-4d8c-9444-e5fb2cac1b21/2fee8c70-1590-11ed-abd2-c5f8c222b719/file-1l6hyrhdk.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l6v6qjj9/0f2354a1-d851-4841-9174-f8c431327613/8f441950-1cd5-11ed-843d-81ad9f680592/file-1l6v6qjja.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-effective-current-i-in-the-given-circuit-at-very-high-jee-main-physics-motion-unywdlukndr6crvx",
+        "is_numerical": true,
+        "sub_topic": "Circuits: Series LCR",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "High frequency inductor behavior"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 30th June Morning Shift",
+        "question": "A series LCR circuit with$R=25011\u03a9$and$XL=7011\u03a9$is connected across a 220 V, 50 Hz supply. The value of capacitance needed to maximize the average power of the circuit will be _________$\u03bc$F. (Take :$\u03c0=227$)",
+        "options": [],
+        "answer": "500",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-series-lcr-circuit-with-r--250-over-11omeg-jee-main-physics-motion-9x0v0wgldckyrpsz",
+        "is_numerical": true,
+        "sub_topic": "Resonance: Frequency",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Capacitance for power resonance"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 28th June Morning Shift",
+        "question": "A telegraph line of length 100 km has a capacity of 0.01$\u03bc$F/km and it carries an alternating current at 0.5 kilo cycle per second. If minimum impedance is required, then the value of the inductance that needs to be introduced in series is _____________ mH. (if$\u03c0$=$10$)",
+        "options": [],
+        "answer": "100",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-telegraph-line-of-length-100-km-has-a-capacity-of-001-jee-main-physics-motion-pt3qrxqzks2wojc9",
+        "is_numerical": true,
+        "sub_topic": "Resonance: Frequency",
+        "logic_type": "Template",
+        "difficulty": 4,
+        "physics_key": "Line impedance resonant frequency"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 29th June Evening Shift",
+        "question": "An inductor of 0.5 mH, a capacitor of 200$\u03bc$F and a resistor of 2$\u03a9$are connected in series with a 220 V ac source. If the current is in phase with the emf, the frequency of ac source will be ____________$\u00d7$10 ^2 Hz.",
+        "options": [],
+        "answer": "5",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-inductor-of-05-mh-a-capacitor-of-200-muf-and-a-jee-main-physics-motion-ta6fw1bwqn0nrjcf",
+        "is_numerical": true,
+        "sub_topic": "Resonance: Frequency",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Frequency in phase condition"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th July Morning Shift",
+        "question": "To light, a$50 W,100 V$lamp is connected, in series with a capacitor of capacitance$50\u03c0x\u03bcF$, with$200 V,50 HzAC$source. The value of$x$will be ___________.",
+        "options": [],
+        "answer": "3",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pto-light-a-50-mathrmw-100-mathrmv-lamp-is-c-jee-main-physics-motion-ssvrtukwnqizpnez",
+        "is_numerical": true,
+        "sub_topic": "Circuits: Series RC",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Capacitive ballast bulb circuit"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 28th June Morning Shift",
+        "question": "An AC source is connected to an inductance of 100 mH, a capacitance of 100$\u03bc$F and a resistance of 120$\u03a9$as shown in figure. The time in which the resistance having a thermal capacity 2 J/$\u2218$C will get heated by 16$\u2218$C is _____________ s. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l576sum4/6b19817a-227f-4df9-ac31-fb46754fadf4/c87a63c0-fbd6-11ec-a656-a1c0c7b2ee13/file-1l576sum5.png?format=png]",
+        "options": [],
+        "answer": "15",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l576sum4/6b19817a-227f-4df9-ac31-fb46754fadf4/c87a63c0-fbd6-11ec-a656-a1c0c7b2ee13/file-1l576sum5.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-ac-source-is-connected-to-an-inductance-of-100-mh-a-c-jee-main-physics-motion-tyjpqhigld16v8j5",
+        "is_numerical": true,
+        "sub_topic": "Power: LCR Circuit",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Thermal heating power link"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th June Morning Shift",
+        "question": "A 220 V, 50 Hz AC source is connected to a 25 V, 5 W lamp and an additional resistance R in series (as shown in figure) to run the lamp at its peak brightness, then the value of R (in ohm) will be _____________. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l58l2hku/0c6a16e9-46a0-4b75-89bb-c711d1054d2a/5cf519e0-fc9b-11ec-af50-7b1dc1e93a30/file-1l58l2hkv.png?format=png]",
+        "options": [],
+        "answer": "975",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l58l2hku/0c6a16e9-46a0-4b75-89bb-c711d1054d2a/5cf519e0-fc9b-11ec-af50-7b1dc1e93a30/file-1l58l2hkv.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-220-v-50-hz-ac-source-is-connected-to-a-25-v-5-w-lamp-jee-main-physics-motion-rjadpk9a389j4mdm",
+        "is_numerical": true,
+        "sub_topic": "Power: Device",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Voltage divider lamp resistance"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 28th June Evening Shift",
+        "question": "In the given circuit, the magnitude of V _L and V _C are twice that of V _R . Given that f = 50 Hz, the inductance of the coil is$1K\u03c0$mH. The value of K is ____________. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l57debdu/fd9395d9-044c-4a20-bb75-4797d9a74699/94333730-fbf0-11ec-a838-9d46935e6482/file-1l57debdv.png?format=png]",
+        "options": [],
+        "answer": "0",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l57debdu/fd9395d9-044c-4a20-bb75-4797d9a74699/94333730-fbf0-11ec-a838-9d46935e6482/file-1l57debdv.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-the-given-circuit-the-magnitude-of-vsublsub-and-jee-main-physics-motion-dakqh88wqjt4cc7v",
+        "is_numerical": true,
+        "sub_topic": "Circuits: Series LCR",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Inductive reactance voltage ratio"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 31st August Evening Shift",
+        "question": "At very high frequencies, the effective impendence of the given circuit will be ________________$\u03a9$. [IMAGE: https://imagex.cdn.examgoal.net/1kujxrvoo/17098d06-27e2-466b-88ff-3b4617452b82/4a9bba80-2913-11ec-b648-5143843e279d/file-1kujxrvop.jpg]",
+        "options": [],
+        "answer": "2",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1kujxrvoo/17098d06-27e2-466b-88ff-3b4617452b82/4a9bba80-2913-11ec-b648-5143843e279d/file-1kujxrvop.jpg",
+            "https://imagex.cdn.examgoal.net/1kujxv4jn/d8d4b6d2-36b9-4963-ac2b-166fa47ed76c/a4e15130-2913-11ec-8ce1-838231141173/file-1kujxv4jo.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/at-very-high-frequencies-the-effective-impendence-of-the-gi-jee-main-physics-units-and-measurements-fvkadkdtsxcsvp36",
+        "is_numerical": true,
+        "sub_topic": "Circuits: Mixed reactive",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "High frequency reactive limit"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th June Evening Shift",
+        "question": "In a series LCR circuit, the inductance, capacitance and resistance are L = 100 mH, C = 100$\u03bc$F and R = 10$\u03a9$respectively. They are connected to an AC source of voltage 220 V and frequency of 50 Hz. The approximate value of current in the circuit will be ___________ A. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l5bqni5w/3d7dd485-279a-4c8e-8c29-12f0933e5f4e/8cfec740-fe57-11ec-b169-b5046c590266/file-1l5bqni5x.png?format=png]",
+        "options": [],
+        "answer": "22",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l5bqni5w/3d7dd485-279a-4c8e-8c29-12f0933e5f4e/8cfec740-fe57-11ec-b169-b5046c590266/file-1l5bqni5x.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-a-series-lcr-circuit-the-inductance-capacitance-and-jee-main-physics-motion-jdygcbycekoj5gja",
+        "is_numerical": true,
+        "sub_topic": "Circuits: Series LCR",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "RMS current series LCR"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 24th June Morning Shift",
+        "question": "As shown in the figure an inductor of inductance 200 mH is connected to an AC source of emf 220 V and frequency 50 Hz. The instantaneous voltage of the source is 0 V when the peak value of current is$a\u03c0$A. The value of$a$is ___________. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l5d0mnpm/78478354-eee8-4873-a80c-fb0283591c86/59697790-ff0b-11ec-834d-4120b930ffb4/file-1l5d0mnpn.png?format=png]",
+        "options": [],
+        "answer": "242",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l5d0mnpm/78478354-eee8-4873-a80c-fb0283591c86/59697790-ff0b-11ec-834d-4120b930ffb4/file-1l5d0mnpn.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pas-shown-in-the-figure-an-inductor-of-inductance-200-mh-i-jee-main-physics-motion-dy3gw8o3ansaknvh",
+        "is_numerical": true,
+        "sub_topic": "Circuits: Pure Inductor",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Peak current phase shift"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th June Morning Shift",
+        "question": "A 110 V, 50 Hz, AC source is connected in the circuit (as shown in figure). The current through the resistance 55$\u03a9$, at resonance in the circuit, will be __________ A. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l5bpobuh/0b5ad276-7c08-4a69-9847-c9c417ffa910/bacb9e90-fe53-11ec-b169-b5046c590266/file-1l5bpobui.png?format=png]",
+        "options": [],
+        "answer": "0",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l5bpobuh/0b5ad276-7c08-4a69-9847-c9c417ffa910/bacb9e90-fe53-11ec-b169-b5046c590266/file-1l5bpobui.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-110-v-50-hz-ac-source-is-connected-in-the-circuit-as-jee-main-physics-motion-ul46ksxa1nc6evrt",
+        "is_numerical": true,
+        "sub_topic": "Resonance: Circuit",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Resonant parallel branch current"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 27th July Morning Shift",
+        "question": "Consider an electrical circuit containing a two way switch 'S'. Initially S is open and then T _1 is connected to T _2 . As the current in R = 6$\u03a9$attains a maximum value of steady state level, T _1 is disconnected from T _2 and immediately connected to T _3 . Potential drop across r = 3$\u03a9$resistor immediately after T _1 is connected to T _3 is __________ V. (Round off to the Nearest Integer) [IMAGE: https://imagex.cdn.examgoal.net/1ks0ledil/aa3b1b33-f3a2-48ab-a76b-284593a7f41f/926869d0-f6d7-11eb-b326-31a7780220e7/file-1ks0ledim.jpg]",
+        "options": [],
+        "answer": "3",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1ks0ledil/aa3b1b33-f3a2-48ab-a76b-284593a7f41f/926869d0-f6d7-11eb-b326-31a7780220e7/file-1ks0ledim.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/consider-an-electrical-circuit-containing-a-two-way-switch--jee-main-physics-units-and-measurements-lz4r59utpxfdq7pm",
+        "is_numerical": true,
+        "sub_topic": "Transient: Switching",
+        "logic_type": "Analytical",
+        "difficulty": 4,
+        "physics_key": "Instant potential inductor switch"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 27th August Morning Shift",
+        "question": "The alternating current is given by$i={42sin\u2061(2\u03c0Tt)+10}A$The r.m.s. value of of this current is ................. A.",
+        "options": [],
+        "answer": "11",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-alternating-current-is-given-by-i--left-sqrt-42-jee-main-physics-units-and-measurements-5usaojgljobnzkzu",
+        "is_numerical": true,
+        "sub_topic": "Waveform: RMS Calculation",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "RMS sum composite current"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 27th August Evening Shift",
+        "question": "An ac circuit has an inductor and a resistor resistance R in series, such that X _L = 3R. Now, a capacitor is added in series such that X _C = 2R. The ratio of new power factor with the old power factor of the circuit is$5:x$. The value of x is ___________.",
+        "options": [],
+        "answer": "1",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1ktqt15j5/b7bbd168-3c77-4ad5-8eda-59b59d2bc739/04049b10-190e-11ec-9e1c-4f8f7e7dad5b/file-1ktqt15j6.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/an-ac-circuit-has-an-inductor-and-a-resistor-resistance-r-in-jee-main-physics-units-and-measurements-tkwnukvmixfremur",
+        "is_numerical": true,
+        "sub_topic": "Power: Power Factor",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Power factor correction ratio"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 20th July Evening Shift",
+        "question": "A series LCR circuit of R = 5$\u03a9$, L = 20 mH and C = 0.5$\u03bc$F is connected across an AC supply of 250 V, having variable frequency. The power dissipated at resonance condition is ______________$\u00d7$10 ^2 W.",
+        "options": [],
+        "answer": "125",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-series-lcr-circuit-of-r--5omega-l--20-mh-and-c--0-jee-main-physics-units-and-measurements-lxxdezexocemuaaf",
+        "is_numerical": true,
+        "sub_topic": "Power: LCR Circuit",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Resonant power transfer max"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th July Morning Shift",
+        "question": "An inductor of 10 mH is connected to a 20V battery through a resistor of 10 k$\u03a9$and a switch. After a long time, when maximum current is set up in the circuit, the current is switched off. The current in the circuit after 1$\u03bc$s is$x100$mA. Then x is equal to ___________. (Take e ^$\u2212$1 = 0.37)",
+        "options": [],
+        "answer": "74",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-inductor-of-10-mh-is-connected-to-a-20v-battery-through-a-jee-main-physics-units-and-measurements-587r7pqdlwi4fccb",
+        "is_numerical": true,
+        "sub_topic": "Transient: RL circuit",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Inductor current decay timing"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th July Evening Shift",
+        "question": "Two circuits are shown in the figure (a) & (b). At a frequency of ____________ rad/s the average power dissipated in one cycle will be same in both the circuits. [IMAGE: https://imagex.cdn.examgoal.net/1kryzjscr/0e58ecca-b792-4882-8f94-f7db6bb04563/576cc1b0-f5f5-11eb-92d9-470658ec3090/file-1kryzjscs.jpg]",
+        "options": [],
+        "answer": "500",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1kryzjscr/0e58ecca-b792-4882-8f94-f7db6bb04563/576cc1b0-f5f5-11eb-92d9-470658ec3090/file-1kryzjscs.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/two-circuits-are-shown-in-the-figure-a--b-at-a-frequen-jee-main-physics-units-and-measurements-s4t8avbwnqa0ogs4",
+        "is_numerical": true,
+        "sub_topic": "Power: Comparison",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Equal dissipation frequency condition"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th February Morning Shift",
+        "question": "In a series LCR resonant circuit, the quality factor is measured as 100. If the inductance is increased by two fold and resistance is decreased by two fold, then the quality factor after this change will be __________.",
+        "options": [],
+        "answer": "283",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-a-series-lcr-resonant-circuit-the-quality-factor-is-meas-jee-main-physics-units-and-measurements-xjtthmlwspcsmwyl",
+        "is_numerical": true,
+        "sub_topic": "Resonance: Quality Factor",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Quality factor param scaling"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 16th March Morning Shift",
+        "question": "A sinusoidal voltage of peak value 250 V is applied to a series LCR circuit, in which R = 8$\u03a9$, L = 24 mH and C = 60$\u03bc$F. The value of power dissipated at resonant condition is 'x' kW. The value of x to the nearest integer is ____________.",
+        "options": [],
+        "answer": "4",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-sinusoidal-voltage-of-peak-value-250-v-is-applied-to-a-ser-jee-main-physics-units-and-measurements-nqpayne4f8zalhyb",
+        "is_numerical": true,
+        "sub_topic": "Power: LCR Circuit",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "RMS power at resonance"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 20th July Morning Shift",
+        "question": "In an LCR series circuit, an inductor 30 mH and a resistor 1$\u03a9$are connected to an AC source of angular frequency 300 rad/s. The value of capacitance for which, the current leads the voltage by 45$\u2218$is$1x\u00d710\u22123$F. Then the value of x is ____________.",
+        "options": [],
+        "answer": "3",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-an-lcr-series-circuit-an-inductor-30-mh-and-a-resistor-1-jee-main-physics-units-and-measurements-g1ye8s2gvdlsmmgc",
+        "is_numerical": true,
+        "sub_topic": "Circuits: Series LCR",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Leading current phase condition"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th February Morning Shift",
+        "question": "A transmitting station releases waves of wavelength 960 m. A capacitor of 2.56$\u03bc$F is used in the resonant circuit. The self inductance of coil necessary for resonance is __________$\u00d7$10 ^$\u2212$8 H.",
+        "options": [],
+        "answer": "10",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-transmitting-station-releases-waves-of-wavelength-960-m-a-jee-main-physics-units-and-measurements-6qgpvqdoqwkqg2gq",
+        "is_numerical": true,
+        "sub_topic": "Resonance: Frequency",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Resonant L for wavelength"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 24th February Evening Shift",
+        "question": "A series L-C-R circuit is designed to resonate at an angular frequency$\u03c9$_0 = 10 ^5 rad/s. The circuit draws 16W power from 120V source at resonance. The value of resistance 'R' in the circuit is _________$\u03a9$.",
+        "options": [],
+        "answer": "900",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-series-lcr-circuit-is-designed-to-resonate-at-an-angular-f-jee-main-physics-units-and-measurements-r7un3befxkkmesmv",
+        "is_numerical": true,
+        "sub_topic": "Power: LCR Circuit",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Resistance from resonant power"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 24th February Morning Shift",
+        "question": "A common transistor radio set requires 12 V (D.C.) for its operation. The D.C. source is constructed by using a transformer and a rectifier circuit, which are operated at 220 V (A.C.) on standard domestic A.C. supply. The number of turns of secondary coil are 24, then the number of turns of primary are ___________.",
+        "options": [],
+        "answer": "440",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-common-transistor-radio-set-requires-12-v-dc-for-its-o-jee-main-physics-units-and-measurements-ypokw3uvrtgvesn8",
+        "is_numerical": true,
+        "sub_topic": "Transformer: Turns Ratio",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Transformer turns voltage law"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 24th February Morning Shift",
+        "question": "A resonance circuit having inductance and resistance 2$\u00d7$10 ^$\u2212$4 H and 6.28$\u03a9$respectively oscillates at 10 MHz frequency. The value of quality factor of this resonator is ___________. [$\u03c0$= 3.14]",
+        "options": [],
+        "answer": "2000",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-sonance-circuit-having-inductance-and-resistance-2-time-jee-main-physics-units-and-measurements-ioxhbkreqp0ppppe",
+        "is_numerical": true,
+        "sub_topic": "Resonance: Quality Factor",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "High freq quality factor"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 3rd April Evening Shift",
+        "question": "An electric bulb rated as$100 W\u2212220 V$is connected to an ac source of rms voltage 220 V. The peak value of current through the bulb is :",
+        "options": [
+            "0.32 A",
+            "0.64 A",
+            "0.45 A",
+            "2.2 A"
+        ],
+        "answer": "0.64 A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-electric-bulb-rated-as-100-mathrmw-220-mathrmv-jee-main-physics-units-and-measurements-9vw5tems6755rcy9",
+        "is_numerical": false,
+        "sub_topic": "Power: Device",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Peak current from rating"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 4th April Morning Shift",
+        "question": "An alternating current is represented by the equation,$i=1002sin\u2061(100\u03c0t)$ampere. The RMS value of current and the frequency of the given alternating current are",
+        "options": [
+            "$1002 A,100 Hz$",
+            "$502 A,50 Hz$",
+            "$1002 A,100 Hz$",
+            "$100 A,50 Hz$"
+        ],
+        "answer": "$100 A,50 Hz$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-alternating-current-is-represented-by-the-equation-i-jee-main-physics-units-and-measurements-2xjmlvp3lxez9mwv",
+        "is_numerical": false,
+        "sub_topic": "Waveform: RMS Calculation",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "RMS frequency wave params"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 6th September Evening Slot",
+        "question": "In a series LR circuit, power of 400W is dissipated from a source of 250 V, 50 Hz. The power factor of the circuit is 0.8. In order to bring the power factor to unity, a capacitor of value C is added in series to the L and R. Taking the value of C as$(n3\u03c0)$$\u03bc$F, then value of n is __________.",
+        "options": [],
+        "answer": "400",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-a-series-lr-circuit-power-of-400w-is-dissipated-from-a-s-jee-main-physics-electromagnetic-induction-qhytxt3w1pxzcz20",
+        "is_numerical": true,
+        "sub_topic": "Power: Power Factor Correction",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Power factor unity tuning"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 24th January Morning Shift",
+        "question": "An alternating current is given by$I=IAsin\u2061\u03c9t+IBcos\u2061\u03c9t$. The r.m.s current will be",
+        "options": [
+            "$IA2+IB22$",
+            "$IA2+IB22$",
+            "$|IA+IB|2$",
+            "$IA2+IB2$"
+        ],
+        "answer": "$IA2+IB22$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-alternating-current-is-given-by-mathrmimathrmi-jee-main-physics-units-and-measurements-jatpiucwusvrepod",
+        "is_numerical": false,
+        "sub_topic": "Waveform: RMS Calculation",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Phasor resultant RMS current"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 22nd January Evening Shift",
+        "question": "A series LCR circuit is connected to an alternating source of emf E. The current amplitude at resonant frequency is$I0$. If the value of resistance R becomes twice of its initial value then amplitude of current at resonance will be",
+        "options": [
+            "$I02$",
+            "$I02$",
+            "$2I0$",
+            "$I0$"
+        ],
+        "answer": "$I02$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-series-lcr-circuit-is-connected-to-an-alternating-sourc-jee-main-physics-units-and-measurements-ygprb6yoyroqfttd",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Frequency",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Resonant current resistance dependence"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 8th April Morning Shift",
+        "question": "A LCR circuit is at resonance for a capacitor C, inductance L and resistance R. Now the value of resistance is halved keeping all other parameters same. The current amplitude at resonance will be now:",
+        "options": [
+            "halved",
+            "same",
+            "Zero",
+            "double"
+        ],
+        "answer": "double",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-lcr-circuit-is-at-resonance-for-a-capacitor-c-inductan-jee-main-physics-motion-rre2vbyaf9gtvrz4",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Frequency",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Amplitude scaling at resonance"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 8th April Evening Shift",
+        "question": "A coil of negligible resistance is connected in series with$90\u03a9$resistor across$120 V,60 Hz$supply. A voltmeter reads$36 V$across resistance. Inductance of the coil is :",
+        "options": [
+            "0.91 H",
+            "0.76 H",
+            "2.86 H",
+            "0.286 H"
+        ],
+        "answer": "0.76 H",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-coil-of-negligible-resistance-is-connected-in-series-wi-jee-main-physics-motion-sl3qoimqiiumdvqq",
+        "is_numerical": false,
+        "sub_topic": "Circuits: Series LR",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Inductance finding series circuit"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 9th April Morning Shift",
+        "question": "A bulb and a capacitor are connected in series across an ac supply. A dielectric is then placed between the plates of the capacitor. The glow of the bulb :",
+        "options": [
+            "becomes zero",
+            "remains same",
+            "increases",
+            "decreases"
+        ],
+        "answer": "increases",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-bulb-and-a-capacitor-are-connected-in-series-across-an-jee-main-physics-motion-pldxgb9jbewwmac9",
+        "is_numerical": false,
+        "sub_topic": "Circuits: Series RC",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Reactance dielectric glow shift"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 5th April Evening Shift",
+        "question": "A series LCR circuit is subjected to an ac signal of$200 V,50 Hz$. If the voltage across the inductor$(L=10 mH)$is$31.4 V$, then the current in this circuit is _______.",
+        "options": [
+            "10 A",
+            "10 mA",
+            "68 A",
+            "63 A"
+        ],
+        "answer": "10 A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-series-lcr-circuit-is-subjected-to-an-ac-signal-of-20-jee-main-physics-motion-cgcqrznviwvlp30v",
+        "is_numerical": false,
+        "sub_topic": "Circuits: Series LCR",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Ohm law inductive reactance"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 6th April Morning Shift",
+        "question": "Given below are two statements : Statement I : In an LCR series circuit, current is maximum at resonance. Statement II : Current in a purely resistive circuit can never be less than that in a series LCR circuit when connected to same voltage source. In the light of the above statements, choose the correct from the options given below :",
+        "options": [
+            "Statement I is true but Statement II is false",
+            "Statement I is false but Statement II is true",
+            "Both Statement I and Statement II are true",
+            "Both Statement I and Statement II are false"
+        ],
+        "answer": "Both Statement I and Statement II are true",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pgiven-below-are-two-statements-p-pstatement-i--in-jee-main-physics-motion-nendv7ltdqypny5c",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Frequency",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Resonance maxima conceptual statements"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 4th April Morning Shift",
+        "question": "In an ac circuit, the instantaneous current is zero, when the instantaneous voltage is maximum. In this case, the source may be connected to : A. pure inductor. B. pure capacitor. C. pure resistor. D. combination of an inductor and capacitor. Choose the correct answer from the options given below :",
+        "options": [
+            "A, B and C only",
+            "A and B only",
+            "A, B and D only",
+            "B, C and D only"
+        ],
+        "answer": "A, B and D only",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-an-ac-circuit-the-instantaneous-current-is-zero-when-jee-main-physics-motion-u4uttxl08sb0jlxz",
+        "is_numerical": false,
+        "sub_topic": "Circuits: Pure Reactance",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Quadrature phase current shift"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 4th April Evening Shift",
+        "question": "Match List I with List II LIST I LIST II A. Purely capacitive circuit I. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1lv1rn0j3/37dd9850-0d5d-48cb-9787-d4014e3ca100/31dc6700-fb99-11ee-aecf-73c37d9c3a58/file-1lv1rn0j4.png?format=png] B. Purely inductive circuit II. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1lv1rnk4f/c0609c0e-66d7-42bc-8816-e8d06770b758/40fec2f0-fb99-11ee-aecf-73c37d9c3a58/file-1lv1rnk4g.png?format=png] C. LCR series at resonance III. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1lv1ro09o/cfca7ff4-6e97-4c24-9b13-f2e6d3bd2860/4d77a9c0-fb99-11ee-aecf-73c37d9c3a58/file-1lv1ro09p.png?format=png] D. LCR series circuit IV. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1lv1rog56/94584823-e7b6-4a44-8719-620c9ea712ee/59bb01a0-fb99-11ee-aecf-73c37d9c3a58/file-1lv1rog57.png?format=png] Choose the correct answer from the options given below:",
+        "options": [
+            "A-IV. B-I, C-III, D-II",
+            "A-I. B-IV, C-II, D-III",
+            "A-IV. B-I, C-II, D-III",
+            "A-I. B-IV, C-III, D-II"
+        ],
+        "answer": "A-I. B-IV, C-II, D-III",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lv1rn0j3/37dd9850-0d5d-48cb-9787-d4014e3ca100/31dc6700-fb99-11ee-aecf-73c37d9c3a58/file-1lv1rn0j4.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lv1rnk4f/c0609c0e-66d7-42bc-8816-e8d06770b758/40fec2f0-fb99-11ee-aecf-73c37d9c3a58/file-1lv1rnk4g.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lv1ro09o/cfca7ff4-6e97-4c24-9b13-f2e6d3bd2860/4d77a9c0-fb99-11ee-aecf-73c37d9c3a58/file-1lv1ro09p.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lv1rog56/94584823-e7b6-4a44-8719-620c9ea712ee/59bb01a0-fb99-11ee-aecf-73c37d9c3a58/file-1lv1rog57.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pmatch-list-i-with-list-iip-pstyle-typetextcss-jee-main-physics-motion-crkksy9txb3svf85",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Phasor Diagram",
+        "logic_type": "Graphical",
+        "difficulty": 3,
+        "physics_key": "Phasor matching circuit nature"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 1st February Morning Shift",
+        "question": "In series LCR circuit, the capacitance is changed from$C$to$4C$. To keep the resonance frequency unchanged, the new inductance should be:",
+        "options": [
+            "increased by$2 L$",
+            "reduced by$14 L$",
+            "reduced by$34 L$",
+            "increased to$4 L$"
+        ],
+        "answer": "reduced by$34 L$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-series-lcr-circuit-the-capacitance-is-changed-from-c-t-jee-main-physics-iczakeqyyysgrfea",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Frequency",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "LC product resonant invariant"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 5th April Morning Shift",
+        "question": "An alternating voltage of amplitude$40 V$and frequency$4 kHz$is applied directly across the capacitor of$12\u03bcF$. The maximum displacement current between the plates of the capacitor is nearly :",
+        "options": [
+            "10 A",
+            "8 A",
+            "13 A",
+            "12 A"
+        ],
+        "answer": "12 A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-alternating-voltage-of-amplitude-40-mathrmv-an-jee-main-physics-motion-lp8xor5rfqhraa63",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Displacement Current",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Max displacement current capacitor"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 31st January Evening Shift",
+        "question": "An AC voltage$V=20sin\u2061200\u03c0t$is applied to a series LCR circuit which drives a current$I=10sin\u2061(200\u03c0t+\u03c03)$. The average power dissipated is:",
+        "options": [
+            "21.6 W",
+            "200 W",
+            "173.2 W",
+            "50 W"
+        ],
+        "answer": "50 W",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-ac-voltage-v20-sin-200-pi-t-is-applied-to-a-ser-jee-main-physics-motion-rhqwht5to141pzei",
+        "is_numerical": false,
+        "sub_topic": "Power: LCR Circuit",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Average power cosine phase"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 1st February Morning Shift",
+        "question": "A parallel plate capacitor has a capacitance$C=200 pF$. It is connected to$230 V$ac supply with an angular frequency$300 rad/s$. The rms value of conduction current in the circuit and displacement current in the capacitor respectively are :",
+        "options": [
+            "$14.3 \u03bcA$and$143 \u03bcA$",
+            "$13.8 \u03bcA$and$13.8 \u03bcA$",
+            "$13.8 \u03bcA$and$138 \u03bcA$",
+            "$1.38 \u03bcA$and$1.38 \u03bcA$"
+        ],
+        "answer": "$13.8 \u03bcA$and$13.8 \u03bcA$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-parallel-plate-capacitor-has-a-capacitance-mathrmc200-jee-main-physics-lysocxssaibemf8c",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Displacement Current",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Conduction displacement current equality"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 29th January Evening Shift",
+        "question": "In an a.c. circuit, voltage and current are given by:$V=100sin\u2061(100t)V$and$I=100sin\u2061(100t+\u03c03)mA$respectively. The average power dissipated in one cycle is:",
+        "options": [
+            "5 W",
+            "25 W",
+            "2.5 W",
+            "10 W"
+        ],
+        "answer": "2.5 W",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-an-ac-circuit-voltage-and-current-are-given-byp-jee-main-physics-motion-gy2f6zonoiqzvd4d",
+        "is_numerical": false,
+        "sub_topic": "Power: LCR Circuit",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Power cycle phase averaging"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 30th January Morning Shift",
+        "question": "A series L.R circuit connected with an ac source$E=(25sin\u20611000t)V$has a power factor of$12$. If the source of emf is changed to$E=(20sin\u20612000t)V$, the new power factor of the circuit will be :",
+        "options": [
+            "$13$",
+            "$12$",
+            "$15$",
+            "$17$"
+        ],
+        "answer": "$15$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/6y3zli1lsqmaruy/fe41a022-2b85-4305-a918-b331d99425f6/41e7dea0-cddf-11ee-a0d3-7b75c4537559/file-6y3zli1lsqmaruz.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-series-lr-circuit-connected-with-an-ac-source-e25-jee-main-physics-motion-y8asbnoqth9rxj9r",
+        "is_numerical": false,
+        "sub_topic": "Power: Power Factor",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Frequency dependent power factor"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 30th January Morning Shift",
+        "question": "Primary coil of a transformer is connected to$220 V$ac. Primary and secondary turns of the transforms are 100 and 10 respectively. Secondary coil of transformer is connected to two series resistances shown in figure. The output voltage$(V0)$is : [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/6y3zli1lshf5zyi/dbd77c9a-b579-4f70-846a-6dad1c3db4b8/4f5e0aa0-c8d0-11ee-adc8-974b9031006b/file-6y3zli1lshf5zyj.png?format=png]",
+        "options": [
+            "7 V",
+            "44 V",
+            "22 V",
+            "15 V"
+        ],
+        "answer": "7 V",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/6y3zli1lshf5zyi/dbd77c9a-b579-4f70-846a-6dad1c3db4b8/4f5e0aa0-c8d0-11ee-adc8-974b9031006b/file-6y3zli1lshf5zyj.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pprimary-coil-of-a-transformer-is-connected-to-220-math-jee-main-physics-motion-xdiqohvvjes42tbs",
+        "is_numerical": false,
+        "sub_topic": "Transformer: Load",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Secondary output divider voltage"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 30th January Evening Shift",
+        "question": "An alternating voltage$V(t)=220sin\u2061100\u03c0t$volt is applied to a purely resistive load of$50\u03a9$. The time taken for the current to rise from half of the peak value to the peak value is:",
+        "options": [
+            "7.2 ms",
+            "3.3 ms",
+            "5 ms",
+            "2.2 ms"
+        ],
+        "answer": "3.3 ms",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-alternating-voltage-vt220-sin-100-pi-t-volt-i-jee-main-physics-motion-hgdkg1gzth0k7b3c",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Temporal Analysis",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Temporal phase ascent calculation"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 29th January Morning Shift",
+        "question": "A capacitor of capacitance$100\u03bcF$is charged to a potential of$12 V$and connected to a$6.4 mH$inductor to produce oscillations. The maximum current in the circuit would be :",
+        "options": [
+            "2.0 A",
+            "3.2 A",
+            "1.5 A",
+            "1.2 A"
+        ],
+        "answer": "1.5 A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-capacitor-of-capacitance-100-mu-mathrmf-is-char-jee-main-physics-units-and-measurements-zbot8ekeqvpm1apu",
+        "is_numerical": false,
+        "sub_topic": "Circuits: LC",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Max current LC oscillations"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 27th January Evening Shift",
+        "question": "Primary side of a transformer is connected to$230 V,50 Hz$supply. Turns ratio of primary to secondary winding is$10:1$. Load resistance connected to secondary side is$46\u03a9$. The power consumed in it is :",
+        "options": [
+            "11.5 W",
+            "12.5 W",
+            "10.0 W",
+            "12.0 W"
+        ],
+        "answer": "11.5 W",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pprimary-side-of-a-transformer-is-connected-to-230-math-jee-main-physics-motion-jxp1ynv2xya8lowb",
+        "is_numerical": false,
+        "sub_topic": "Power: Transformer",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Secondary load power consumption"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 12th April Morning Shift",
+        "question": "Given below are two statements: Statement I : When the frequency of an a.c source in a series LCR circuit increases, the current in the circuit first increases, attains a maximum value and then decreases. Statement II : In a series LCR circuit, the value of power factor at resonance is one. In the light of given statements, choose the most appropriate answer from the options given below.",
+        "options": [
+            "Both Statement I and Statement II are False.",
+            "Statement I is incorrect but Statement II is true.",
+            "Both Statement I and Statement II are true.",
+            "Statement I is correct but Statement II is false."
+        ],
+        "answer": "Both Statement I and Statement II are true.",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pgiven-below-are-two-statementsp-pstatement-i--when-jee-main-physics-motion-685864eerezm9cx0",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Frequency",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Resonance peak property statements"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 13th April Evening Shift",
+        "question": "Given below are two statements: Statement I : An AC circuit undergoes electrical resonance if it contains either a capacitor or an inductor. Statement II : An AC circuit containing a pure capacitor or a pure inductor consumes high power due to its non-zero power factor. In the light of above statements, choose the correct answer form the options given below:",
+        "options": [
+            "Both Statement I and Statement II are false",
+            "Statement I is true but statement II is false",
+            "Statement I is false but statement II is true",
+            "Both Statement I and Statement II are true"
+        ],
+        "answer": "Both Statement I and Statement II are false",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pgiven-below-are-two-statementsp-pstatement-i--an-a-jee-main-physics-motion-7df0pbgrxhgaovif",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Frequency",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Reactive power factor falsity"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 11th April Morning Shift",
+        "question": "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1lgvel4zm/bf645e87-de2e-42c0-aa96-03a00330f0c9/6bce7620-e2ee-11ed-b29f-636b60af9e14/file-1lgvel4zn.png?format=png] As per the given graph, choose the correct representation for curve$A$and curve B. Where$XC=$reactance of pure capacitive circuit connected with A.C. source$XL=$reactance of pure inductive circuit connected with$A.C$. source R = impedance of pure resistive circuit connected with A.C. source.$Z=$Impedance of the LCR series circuit$}$",
+        "options": [
+            "$A=XL,B=R$",
+            "$A=XL, B=Z$",
+            "$A=XC,B=XL$",
+            "$A=XC,B=R$"
+        ],
+        "answer": "$A=XC,B=XL$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lgvel4zm/bf645e87-de2e-42c0-aa96-03a00330f0c9/6bce7620-e2ee-11ed-b29f-636b60af9e14/file-1lgvel4zn.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pimagep-pas-per-the-given-graph-choose-the-correct-r-jee-main-physics-motion-3ohdlfeehmsmwvb4",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Graph",
+        "logic_type": "Graphical",
+        "difficulty": 3,
+        "physics_key": "Reactance versus frequency curves"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 1st February Morning Shift",
+        "question": "Match List - I with List - II : List I List II A. AC generator I. Presence of both L and C B. Transformer II. Electromagnetic Induction C. Resonance phenomenon to occur III. Quality factor D. Sharpness of resonance IV. Mutual Induction Choose the correct answer from the options given below :",
+        "options": [
+            "A-II, B-I, C-III, D-IV",
+            "A-IV, B-III, C-I, D-II",
+            "A-II, B-IV, C-I, D-III",
+            "A-IV, B-II, C-I, D-III"
+        ],
+        "answer": "A-II, B-IV, C-I, D-III",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pmatch-list-i-with-list-ii-p-pstyle-typetext-jee-main-physics-motion-tmjlwy10ckdzaecr",
+        "is_numerical": false,
+        "sub_topic": "Device: General",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Functional operational matching AC"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 10th April Morning Shift",
+        "question": "Given below are two statements: Statement I : Maximum power is dissipated in a circuit containing an inductor, a capacitor and a resistor connected in series with an AC source, when resonance occurs Statement II : Maximum power is dissipated in a circuit containing pure resistor due to zero phase difference between current and voltage. In the light of the above statements, choose the correct answer from the options given below:",
+        "options": [
+            "Statement I is false but Statement II is true",
+            "Both Statement I and Statement II are false",
+            "Statement I is true but Statement II is false",
+            "Both Statement I and Statement II are true"
+        ],
+        "answer": "Both Statement I and Statement II are true",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pgiven-below-are-two-statementsp-pstatement-i--maxi-jee-main-physics-motion-hcxnrx68yrrmgdc0",
+        "is_numerical": false,
+        "sub_topic": "Power: LCR Circuit",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Max power phase factor"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 31st January Morning Shift",
+        "question": "If$R,XL$, and$XC$represent resistance, inductive reactance and capacitive reactance. Then which of the following is dimensionless :",
+        "options": [
+            "$RXLXC$",
+            "$RXLXC$",
+            "$RXLXC$",
+            "$RXLXC$"
+        ],
+        "answer": "$RXLXC$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pif-mathrmr-mathrmxmathrml-and-mathrm-jee-main-physics-motion-vtdrgypc38ghmqkd",
+        "is_numerical": false,
+        "sub_topic": "Device: General",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Dimensionless reactive ratios check"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 30th January Morning Shift",
+        "question": "In a series LR circuit with$XL=R$, power factor P _1 . If a capacitor of capacitance C with$XC=XL$is added to the circuit the power factor becomes P _2 . The ratio of P _1 to P _2 will be :",
+        "options": [
+            "1 :$2$",
+            "1 : 3",
+            "1 : 2",
+            "1 : 1"
+        ],
+        "answer": "1 :$2$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-a-series-lr-circuit-with-mathrmxlr-power-fac-jee-main-physics-motion-ezlqcadtbziyhmjn",
+        "is_numerical": false,
+        "sub_topic": "Power: Power Factor",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Power factor scaling ratio"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 30th January Evening Shift",
+        "question": "In the given circuit, rms value of current$(Irms)$through the resistor$R$is: [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1ldqycs67/8f667a50-b4f9-4ba7-9daf-85f9dfd8e022/28a18be0-a517-11ed-868c-9b3df14ba4de/file-1ldqycs68.png?format=png]",
+        "options": [
+            "$22 A$",
+            "$2 A$",
+            "$12 A$",
+            "$20 A$"
+        ],
+        "answer": "$2 A$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1ldqycs67/8f667a50-b4f9-4ba7-9daf-85f9dfd8e022/28a18be0-a517-11ed-868c-9b3df14ba4de/file-1ldqycs68.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/in-the-given-circuit-rms-value-of-current-leftimathrm-jee-main-physics-ic6uesnnvwjvdbxb",
+        "is_numerical": false,
+        "sub_topic": "Circuits: Mixed reactive",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Resistive branch RMS current"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 6th April Evening Shift",
+        "question": "A capacitor of capacitance$150.0 \u03bcF$is connected to an alternating source of emf given by$E=36sin\u2061(120\u03c0t)V$. The maximum value of current in the circuit is approximately equal to :",
+        "options": [
+            "$12A$",
+            "$22A$",
+            "$2A$",
+            "$2A$"
+        ],
+        "answer": "$2A$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-capacitor-of-capacitance-1500-mu-mathrmf-is-c-jee-main-physics-motion-c28fbfpqsmzvf6rt",
+        "is_numerical": false,
+        "sub_topic": "Circuits: Pure Capacitor",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Max capacitor current amplitude"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 31st January Evening Shift",
+        "question": "An alternating voltage source$V=260sin\u2061(628t$) is connected across a pure inductor of$5mH$Inductive reactance in the circuit is :",
+        "options": [
+            "$6.28\u03a9$",
+            "$0.318\u03a9$",
+            "$0.5\u03a9$",
+            "$3.14\u03a9$"
+        ],
+        "answer": "$3.14\u03a9$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-alternating-voltage-source-mathrmv260-sin-628-mat-jee-main-physics-yr8coelusl5783fq",
+        "is_numerical": false,
+        "sub_topic": "Circuits: Pure Inductor",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Pure inductive reactance finding"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 29th January Evening Shift",
+        "question": "For the given figures, choose the correct options : [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1ldsno751/bd62ed73-9892-483a-97f6-1ab18ae3f45d/f2f8ce40-a606-11ed-a0ed-57f9f4967d00/file-1ldsno752.png?format=png]",
+        "options": [
+            "The rms current in circuit (b) can be larger than that in (a)",
+            "The rms current in figure (a) is always equal to that in figure (b)",
+            "The rms current in circuit (b) can never be larger than that in (a)",
+            "At resonance, current in (b) is less than that in (a)"
+        ],
+        "answer": "N/A",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1ldsno751/bd62ed73-9892-483a-97f6-1ab18ae3f45d/f2f8ce40-a606-11ed-a0ed-57f9f4967d00/file-1ldsno752.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pfor-the-given-figures-choose-the-correct-options-p--jee-main-physics-motion-kpqrsfp9rd3gobph",
+        "is_numerical": false,
+        "sub_topic": "Circuits: Comparison",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Resonant branch current qualitative"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 25th January Morning Shift",
+        "question": "In an LC oscillator, if values of inductance and capacitance become twice and eight times, respectively, then the resonant frequency of oscillator becomes$x$times its initial resonant frequency$\u03c90$. The value of$x$is :",
+        "options": [
+            "1/4",
+            "1/16",
+            "4",
+            "16"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-an-lc-oscillator-if-values-of-inductance-and-capacita-jee-main-physics-motion-tbonvdzqfxec7xu3",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Frequency",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Resonant freq scaling inversion"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 29th July Evening Shift",
+        "question": "A circuit element$X$when connected to an a.c. supply of peak voltage$100 V$gives a peak current of$5 A$which is in phase with the voltage. A second element$Y$when connected to the same a.c. supply also gives the same value of peak current which lags behind the voltage by$\u03c02$. If$X$and$Y$are connected in series to the same supply, what will be the rms value of the current in ampere?",
+        "options": [
+            "$102$",
+            "$52$",
+            "$52$",
+            "$52$"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-circuit-element-mathrmx-when-connected-to-an-ac-jee-main-physics-motion-i7ldtcdoltyt39mh",
+        "is_numerical": false,
+        "sub_topic": "Circuits: Series LCR",
+        "logic_type": "Analytical",
+        "difficulty": 4,
+        "physics_key": "Series element phasor combination"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 28th July Morning Shift",
+        "question": "The equation of current in a purely inductive circuit is$5sin\u2061(49\u03c0t\u221230\u2218)$. If the inductance is$30mH$then the equation for the voltage across the inductor, will be :${$Let$\u03c0=227}$",
+        "options": [
+            "$1.47sin\u2061(49\u03c0t\u221230\u2218)$",
+            "$1.47sin\u2061(49\u03c0t+60\u2218)$",
+            "$23.1sin\u2061(49\u03c0t\u221230\u2218)$",
+            "$23.1sin\u2061(49\u03c0t+60\u2218)$"
+        ],
+        "answer": "$23.1sin\u2061(49\u03c0t+60\u2218)$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l6z6wn42/89ab94f0-99d2-49fe-acfa-1f6b868af330/5b7bf350-1f09-11ed-8ba4-19601952a51f/file-1l6z6wn45.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-equation-of-current-in-a-purely-inductive-circuit-is-jee-main-physics-motion-c7dyyerzmfqxinvn",
+        "is_numerical": false,
+        "sub_topic": "Circuits: Pure Inductor",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Voltage phase lead equation"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 29th July Morning Shift",
+        "question": "A coil of inductance 1 H and resistance$100\u03a9$is connected to a battery of 6 V. Determine approximately : (a) The time elapsed before the current acquires half of its steady - state value. (b) The energy stored in the magnetic field associated with the coil at an instant 15 ms after the circuit is switched on. (Given$ln\u20612=0.693,e\u22123/2=0.25$)",
+        "options": [
+            "t = 10 ms; U = 2 mJ",
+            "t = 10 ms; U = 1 mJ",
+            "t = 7 ms; U = 1 mJ",
+            "t = 7 ms; U = 2 mJ"
+        ],
+        "answer": "t = 7 ms; U = 1 mJ",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-coil-of-inductance-1-h-and-resistance-100-omega-jee-main-physics-motion-d3oajcwhudmn6cfc",
+        "is_numerical": false,
+        "sub_topic": "Transient: RL circuit",
+        "logic_type": "Template",
+        "difficulty": 4,
+        "physics_key": "Coil RL growth timing"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th July Evening Shift",
+        "question": "A series LCR circuit has$L=0.01H,R=10\u03a9$and$C=1\u03bcF$and it is connected to ac voltage of amplitude$(Vm)50 V$. At frequency$60%$lower than resonant frequency, the amplitude of current will be approximately :",
+        "options": [
+            "466 mA",
+            "312 mA",
+            "238 mA",
+            "196 mA"
+        ],
+        "answer": "238 mA",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-series-lcr-circuit-has-mathrml001-mathrmh-jee-main-physics-motion-eu3jgtpaw2nlp6la",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Frequency",
+        "logic_type": "Template",
+        "difficulty": 4,
+        "physics_key": "Off resonant amplitude impedance"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 28th July Evening Shift",
+        "question": "A transformer operating at primary voltage$8kV$and secondary voltage$160 V$serves a load of$80 kW$. Assuming the transformer to be ideal with purely resistive load and working on unity power factor, the loads in the primary and secondary circuit would be",
+        "options": [
+            "$800\u03a9$and$1.06\u03a9$",
+            "$10\u03a9$and$500\u03a9$",
+            "$800\u03a9$and$0.32\u03a9$",
+            "$1.06\u03a9$and$500\u03a9$"
+        ],
+        "answer": "$800\u03a9$and$0.32\u03a9$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-transformer-operating-at-primary-voltage-8-mathrm-jee-main-physics-motion-xdeght4psjuzv5mt",
+        "is_numerical": false,
+        "sub_topic": "Transformer: Load",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Primary secondary impedance balance"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 29th July Morning Shift",
+        "question": "An alternating emf$E=440sin\u2061100\u03c0t$is applied to a circuit containing an inductance of$2\u03c0H$. If an a.c. ammeter is connected in the circuit, its reading will be :",
+        "options": [
+            "4.4 A",
+            "1.55 A",
+            "2.2 A",
+            "3.11 A"
+        ],
+        "answer": "2.2 A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-alternating-emf-mathrme440-sin-100-pi-mathrm-jee-main-physics-motion-bwmingwzqjn1bhii",
+        "is_numerical": false,
+        "sub_topic": "Circuits: Pure Inductor",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "RMS inductor ammeter reading"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th July Morning Shift",
+        "question": "A direct current of$4 A$and an alternating current of peak value$4 A$flow through resistance of$3\u03a9$and$2\u03a9$respectively. The ratio of heat produced in the two resistances in same interval of time will be :",
+        "options": [
+            "3 : 2",
+            "3 : 1",
+            "3 : 4",
+            "4 : 3"
+        ],
+        "answer": "3 : 1",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-direct-current-of-4-mathrma-and-an-alternating-jee-main-physics-motion-vfjozehs9ayd0yhb",
+        "is_numerical": false,
+        "sub_topic": "Power: General",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Effective heat ratio AC-DC"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th July Morning Shift",
+        "question": "In a series$LR$circuit$XL=R$and power factor of the circuit is$P1$. When capacitor with capacitance$C$such that$XL=XC$is put in series, the power factor becomes$P2$. The ratio$P1P2$is:",
+        "options": [
+            "$12$",
+            "$12$",
+            "$32$",
+            "2 : 1"
+        ],
+        "answer": "$12$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-a-series-l-r-circuit-xlr-and-power-factor-jee-main-physics-motion-i4hblq90tctqmnqo",
+        "is_numerical": false,
+        "sub_topic": "Power: Power Factor",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Phasor factor ratio LR-LCR"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th July Evening Shift",
+        "question": "When you walk through a metal detector carrying a metal object in your pocket, it raises an alarm. This phenomenon works on :",
+        "options": [
+            "Electromagnetic induction",
+            "Resonance in ac circuits",
+            "Mutual induction in ac circuits",
+            "Interference of electromagnetic waves"
+        ],
+        "answer": "Resonance in ac circuits",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pwhen-you-walk-through-a-metal-detector-carrying-a-metal-o-jee-main-physics-motion-0ckhnanmrpqxdwve",
+        "is_numerical": false,
+        "sub_topic": "Device: General",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Resonant frequency shift alarm"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th June Evening Shift",
+        "question": "A sinusoidal voltage V(t) = 210 sin 3000 t volt is applied to a series LCR circuit in which L = 10 mH, C = 25$\u03bc$F and R = 100$\u03a9$. The phase difference ($\u03a6$) between the applied voltage and resultant current will be :",
+        "options": [
+            "tan ^$\u2212$1 (0.17)",
+            "tan ^$\u2212$1 (9.46)",
+            "tan ^$\u2212$1 (0.30)",
+            "tan ^$\u2212$1 (13.33)"
+        ],
+        "answer": "tan ^$\u2212$1 (0.17)",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-sinusoidal-voltage-vt--210-sin-3000-t-volt-is-applie-jee-main-physics-motion-pb70rslvws4hddvm",
+        "is_numerical": false,
+        "sub_topic": "Circuits: Series LCR",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "LCR phase angle tangent"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th June Evening Shift",
+        "question": "If L, C and R are the self inductance, capacitance and resistance respectively, which of the following does not have the dimension of time?",
+        "options": [
+            "RC",
+            "$LR$",
+            "$LC$",
+            "$LC$"
+        ],
+        "answer": "$LC$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pif-l-c-and-r-are-the-self-inductance-capacitance-and-re-jee-main-physics-motion-opw0fnvdzfwqu35v",
+        "is_numerical": false,
+        "sub_topic": "Device: General",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Circuit constant time dimensions"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th July Morning Shift",
+        "question": "To increase the resonant frequency in series LCR circuit,",
+        "options": [
+            "source frequency should be increased.",
+            "another resistance should be added in series with the first resistance.",
+            "another capacitor should be added in series with the first capacitor.",
+            "the source frequency should be decreased."
+        ],
+        "answer": "another capacitor should be added in series with the first capacitor.",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pto-increase-the-resonant-frequency-in-series-lcr-circuit-jee-main-physics-motion-awwtvw9hdsh3mbom",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Frequency",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Resonant frequency control logic"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 29th June Morning Shift",
+        "question": "For a series LCR circuit, I vs$\u03c9$curve is shown : (a) To the left of$\u03c9$_r , the circuit is mainly capacitive. (b) To the left of$\u03c9$_r , the circuit is mainly inductive. (c) At$\u03c9$_r , impedance of the circuit is equal to the resistance of the circuit. (d) At$\u03c9$_r , impedance of the circuit is 0. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l55xsxik/cad58984-dd5d-4d5a-93ef-e33e3e8e385f/cfe875d0-fb26-11ec-a177-3bb3bda6ce3e/file-1l55xsxil.png?format=png] Choose the most appropriate answer from the options given below :",
+        "options": [
+            "(a) and (d) only.",
+            "(b) and (d) only.",
+            "(a) and (c) only.",
+            "(b) and (c) only."
+        ],
+        "answer": "(a) and (c) only.",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l55xsxik/cad58984-dd5d-4d5a-93ef-e33e3e8e385f/cfe875d0-fb26-11ec-a177-3bb3bda6ce3e/file-1l55xsxil.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pfor-a-series-lcr-circuit-i-vs-omega-curve-is-shown-jee-main-physics-motion-iq8mnxszxejnwhje",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Graph",
+        "logic_type": "Graphical",
+        "difficulty": 3,
+        "physics_key": "Resonance curve trend interpretation"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th June Morning Shift",
+        "question": "The current flowing through an ac circuit is given by I = 5 sin(120$\u03c0$t)A How long will the current take to reach the peak value starting from zero?",
+        "options": [
+            "$160$s",
+            "60 s",
+            "$1120$s",
+            "$1240$s"
+        ],
+        "answer": "$1240$s",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-current-flowing-through-an-ac-circuit-is-given-byp-jee-main-physics-motion-ao4nqwfiyuxlve68",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Temporal Analysis",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Peak current quarter period"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th June Morning Shift",
+        "question": "Match List-I with List-II. List - I List -II (A) AC generator (I) Detects the presence of current in the circuit (B) Galvanometer (II) Converts mechanical energy into electrical energy (C) Transformer (III) Works on the principle of resonance in AC circuit (D) Metal detector (IV) Changes an alternating voltage for smaller or greater value Choose the correct answer from the options given below :",
+        "options": [
+            "(A) - (II), (B) - (I), (C) - (IV), (D) - (III)",
+            "(A) - (II), (B) - (I), (C) - (III), (D) - (IV)",
+            "(A) - (III), (B) - (IV), (C) - (II), (D) - (I)",
+            "(A) - (III), (B) - (I), (C) - (II), (D) - (IV)"
+        ],
+        "answer": "(A) - (II), (B) - (I), (C) - (IV), (D) - (III)",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pmatch-list-i-with-list-iip-pstyle-typetextcss-jee-main-physics-motion-ngzjown5vethhc1m",
+        "is_numerical": false,
+        "sub_topic": "Device: General",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "AC device principles identification"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 30th June Morning Shift",
+        "question": "In series RLC resonator, if the self inductance and capacitance become double, the new resonant frequency (f _2 ) and new quality factor (Q _2 ) will be : (f _1 = original resonant frequency, Q _1 = original quality factor)",
+        "options": [
+            "$f2=f12$and$Q2=Q1$",
+            "$f2=f1$and$Q2=Q1Q2$",
+            "$f2=2f1$and$Q2=Q1$",
+            "$f2=f1$and$Q2=2Q1$"
+        ],
+        "answer": "$f2=f12$and$Q2=Q1$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-series-rlc-resonator-if-the-self-inductance-and-capac-jee-main-physics-motion-7wdytbj1gcjehwdy",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Quality Factor",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Q factor parameter scaling"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 24th June Evening Shift",
+        "question": "Given below are two statements : Statement I : The reactance of an ac circuit is zero. It is possible that the circuit contains a capacitor and an inductor. Statement II : In ac circuit, the average power delivered by the source never becomes zero. In the light of the above statements, choose the correct answer from the options given below.",
+        "options": [
+            "Both Statement I and Statement II are true.",
+            "Both Statement I and Statement II are false.",
+            "Statement I is true but Statement II is false.",
+            "Statement I is false but Statement II is true."
+        ],
+        "answer": "Statement I is true but Statement II is false.",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pgiven-below-are-two-statements-p-pstatement-i--the-jee-main-physics-motion-xnft9kiplfdp3jnb",
+        "is_numerical": false,
+        "sub_topic": "Power: General",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Average power statement analysis"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th June Morning Shift",
+        "question": "If wattless current flows in the AC circuit, then the circuit is :",
+        "options": [
+            "Purely Resistive circuit",
+            "Purely Inductive circuit",
+            "LCR series circuit",
+            "RC series circuit only"
+        ],
+        "answer": "Purely Inductive circuit",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pif-wattless-current-flows-in-the-ac-circuit-then-the-cir-jee-main-physics-motion-qyo8v7khtxyqnvqn",
+        "is_numerical": false,
+        "sub_topic": "Power: Power Factor",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Wattless current branch conditions"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 24th June Morning Shift",
+        "question": "A resistance of 40$\u03a9$is connected to a source of alternating current rated 220 V, 50 Hz. Find the time taken by the current to change from its maximum value to the rms value :",
+        "options": [
+            "2.5 ms",
+            "1.25 ms",
+            "2.5 s",
+            "0.25 s"
+        ],
+        "answer": "2.5 ms",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-resistance-of-40-omega-is-connected-to-a-source-of-jee-main-physics-motion-qvptua3alkzisuvm",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Temporal Analysis",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Phase time max rms"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 31st August Morning Shift",
+        "question": "In an ac circuit, an inductor, a capacitor and a resistor are connected in series with X _L = R = X _C . Impedance of this circuit is :",
+        "options": [
+            "2R ^2",
+            "Zero",
+            "R",
+            "R$2$"
+        ],
+        "answer": "R",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-an-ac-circuit-an-inductor-a-capacitor-and-a-resistor-ar-jee-main-physics-units-and-measurements-6gtq0t7subteysqc",
+        "is_numerical": false,
+        "sub_topic": "Circuits: Series LCR",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Resonant impedance pure resistive"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 1st September Evening Shift",
+        "question": "For the given circuit the current i through the battery when the key in closed and the steady state has been reached is __________. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1kwor1im5/794eed9c-f782-428f-9af8-a771c3b38a15/50b442d0-5351-11ec-9cbb-695a838b20fb/file-1kwor1im6.png?format=png]",
+        "options": [
+            "6 A",
+            "25 A",
+            "10 A",
+            "0 A"
+        ],
+        "answer": "10 A",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1kwor1im5/794eed9c-f782-428f-9af8-a771c3b38a15/50b442d0-5351-11ec-9cbb-695a838b20fb/file-1kwor1im6.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1kwor2wlu/77e82b37-ad3f-485c-ab27-e4568b9c7c40/77524720-5351-11ec-9cbb-695a838b20fb/file-1kwor2wlv.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1kwor41hv/a124b030-6b0c-4284-abff-c52891825158/96e88540-5351-11ec-9cbb-695a838b20fb/file-1kwor41hw.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/for-the-given-circuit-the-current-i-through-the-battery-when-jee-main-physics-units-and-measurements-cympsxbemo1aa1vh",
+        "is_numerical": false,
+        "sub_topic": "Transient: DC steady state",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "DC steady state inductor"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th August Evening Shift",
+        "question": "In the given circuit the AC source has$\u03c9$= 100 rad s ^-1 . Considering the inductor and capacitor to be ideal, what will be the current I flowing through the circuit? [IMAGE: https://imagex.cdn.examgoal.net/1ktembbry/0fb56fbf-4652-4540-b08e-ab88eea42bf1/573c77e0-125a-11ec-a4fb-5347f21481c0/file-1ktembbrz.jpeg]",
+        "options": [
+            "5.9 A",
+            "3.16 A",
+            "0.94 A",
+            "6 A"
+        ],
+        "answer": "3.16 A",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1ktembbry/0fb56fbf-4652-4540-b08e-ab88eea42bf1/573c77e0-125a-11ec-a4fb-5347f21481c0/file-1ktembbrz.jpeg",
+            "https://imagex.cdn.examgoal.net/1ktjevoq1/de2c8684-26ea-4ca0-a282-96d15732e01c/2fa24d90-14fd-11ec-87b0-2f866bb7de71/file-1ktjevoq2.jpeg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/in-the-given-circuit-the-ac-source-has-omega--100-rad-jee-main-physics-units-and-measurements-9phzzstptddcrbaj",
+        "is_numerical": false,
+        "sub_topic": "Circuits: Mixed reactive",
+        "logic_type": "Template",
+        "difficulty": 4,
+        "physics_key": "Parallel branch phasor summation"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th August Morning Shift",
+        "question": "A series LCR circuit driven by 300 V at a frequency of 50 Hz contains a resistance R = 3 k$\u03a9$, an inductor of inductive reactance X _L = 250$\u03c0$$\u03a9$and an unknown capacitor. The value of capacitance to maximize the average power should be : (Take$\u03c0$^2 = 10)",
+        "options": [
+            "4$\u03bc$F",
+            "25$\u03bc$F",
+            "400$\u03bc$F",
+            "40$\u03bc$F"
+        ],
+        "answer": "4$\u03bc$F",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-series-lcr-circuit-driven-by-300-v-at-a-frequency-of-50-hz-jee-main-physics-units-and-measurements-weo85bch8drorfp6",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Frequency",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Max power tuning capacitance"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 22th July Evening Shift",
+        "question": "Match List - I with List - II List - I List - II (a)$\u03c9L>1\u03c9C$(i) Current is in phase with emf (b)$\u03c9L=1\u03c9C$(ii) Current lags behind the applied emf (c)$\u03c9L<1\u03c9C$(iii) Maximum current occurs (d) Resonant frequency (iv) Current leads the emf Choose the correct answer from the options given below",
+        "options": [
+            "a(ii), b(i), c(iv), d(iii)",
+            "a(ii), b(i), c(iii), d(iv)",
+            "a(iii), b(i), c(iv), d(ii)",
+            "a(iv), b(iii), c(ii), d(i)"
+        ],
+        "answer": "a(ii), b(i), c(iv), d(iii)",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/match-list-i-with-list-iibrbrtable-thead-tr-jee-main-physics-units-and-measurements-icveksidfmz7tui9",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Phasor Diagram",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Lagging leading branch identification"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 27th July Morning Shift",
+        "question": "A 0.07 H inductor and a 12$\u03a9$resistor are connected in series to a 220V, 50 Hz ac source. The approximate current in the circuit and the phase angle between current and source voltage are respectively. [Take$\u03c0$as$227$]",
+        "options": [
+            "8.8 A and$tan\u22121(116)$",
+            "88 A and$tan\u22121(116)$",
+            "0.88 A and$tan\u22121(116)$",
+            "8.8 A and$tan\u22121(611)$"
+        ],
+        "answer": "8.8 A and$tan\u22121(116)$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-007-h-inductor-and-a-12omega-resistor-are-connected-jee-main-physics-units-and-measurements-iaxdgwjsmd6cxvhr",
+        "is_numerical": false,
+        "sub_topic": "Circuits: Series LR",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "LR phase angle impedance"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 22th July Evening Shift",
+        "question": "In a circuit consisting of a capacitance and a generator with alternating emf E _g = E _g0 sin$\u03c9$t, V _C and I _C are the voltage and current. Correct phasor diagram for such circuit is [IMAGE: https://imagex.cdn.examgoal.net/1krtmm6ve/d5c4f20f-0343-4e0e-a6ca-a83918ba4e9c/d854eaa0-f302-11eb-a506-37d290d1d40d/file-1krtmm6vf.jpg]",
+        "options": [
+            "[IMAGE: https://imagex.cdn.examgoal.net/1krtmmzjs/be389e99-03d7-4419-88dd-4ed55d79fd23/ee7bff80-f302-11eb-a506-37d290d1d40d/file-1krtmmzjt.jpg]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/1krtmnlfk/6e2faa79-debd-4627-8496-f9424f4285e2/ff636400-f302-11eb-a506-37d290d1d40d/file-1krtmnlfl.jpg]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/1krtmnsn1/b3ea525c-9d79-4055-80af-33acd2146d13/04f4b6d0-f303-11eb-a506-37d290d1d40d/file-1krtmnsn2.jpg]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/1krtmo003/5c807299-2cda-4281-91dc-1f37bd8fcb01/0aa4b530-f303-11eb-a506-37d290d1d40d/file-1krtmo004.jpg]"
+        ],
+        "answer": "[IMAGE: https://imagex.cdn.examgoal.net/1krtmnsn1/b3ea525c-9d79-4055-80af-33acd2146d13/04f4b6d0-f303-11eb-a506-37d290d1d40d/file-1krtmnsn2.jpg]",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1krtmm6ve/d5c4f20f-0343-4e0e-a6ca-a83918ba4e9c/d854eaa0-f302-11eb-a506-37d290d1d40d/file-1krtmm6vf.jpg",
+            "https://imagex.cdn.examgoal.net/1krtmmzjs/be389e99-03d7-4419-88dd-4ed55d79fd23/ee7bff80-f302-11eb-a506-37d290d1d40d/file-1krtmmzjt.jpg",
+            "https://imagex.cdn.examgoal.net/1krtmnlfk/6e2faa79-debd-4627-8496-f9424f4285e2/ff636400-f302-11eb-a506-37d290d1d40d/file-1krtmnlfl.jpg",
+            "https://imagex.cdn.examgoal.net/1krtmnsn1/b3ea525c-9d79-4055-80af-33acd2146d13/04f4b6d0-f303-11eb-a506-37d290d1d40d/file-1krtmnsn2.jpg",
+            "https://imagex.cdn.examgoal.net/1krtmo003/5c807299-2cda-4281-91dc-1f37bd8fcb01/0aa4b530-f303-11eb-a506-37d290d1d40d/file-1krtmo004.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/in-a-circuit-consisting-of-a-capacitance-and-a-generator-wit-jee-main-physics-units-and-measurements-fcgmvu3vjpv2lwh6",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Phasor Diagram",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "Current lead phase diagram"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 18th March Evening Shift",
+        "question": "In a series LCR circuit, the inductive reactance (X _L ) is 10$\u03a9$and the capacitive reactance (X _C ) is 4$\u03a9$. The resistance (R) in the circuit is 6$\u03a9$. The power factor of the circuit is :",
+        "options": [
+            "$12$",
+            "$32$",
+            "$12$",
+            "$122$"
+        ],
+        "answer": "$12$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-a-series-lcr-circuit-the-inductive-reactance-xsubls-jee-main-physics-units-and-measurements-n27bo9gay0yib33k",
+        "is_numerical": false,
+        "sub_topic": "Power: Power Factor",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "LCR power factor finding"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 27th July Evening Shift",
+        "question": "A 100$\u03a9$resistance, a 0.1$\u03bc$F capacitor and an inductor are connected in series across a 250 V supply at variable frequency. Calculate the value of inductance of inductor at which resonance will occur. Given that the resonant frequency is 60 Hz.",
+        "options": [
+            "0.70 H",
+            "70.3 mH",
+            "7.03$\u00d7$10 ^$\u2212$5 H",
+            "70.3 H"
+        ],
+        "answer": "70.3 H",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-100omega-resistance-a-01-muf-capacitor-and-an-jee-main-physics-units-and-measurements-yedo9vrvbow4wrql",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Frequency",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Inductance for resonant tuning"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 20th July Evening Shift",
+        "question": "For a series LCR circuit with R = 100$\u03a9$, L = 0.5 mH and C = 0.1 pF connected across 220V$\u2212$50 Hz AC supply, the phase angle between current and supplied voltage and the nature of the circuit is :",
+        "options": [
+            "0$\u2218$, resistive circuit",
+            "$\u2248$90$\u2218$, predominantly inductive circuit",
+            "0$\u2218$, resonance circuit",
+            "$\u2248$90$\u2218$, predominantly capacitive circuit"
+        ],
+        "answer": "$\u2248$90$\u2218$, predominantly capacitive circuit",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/for-a-series-lcr-circuit-with-r--100-omega-l--05-mh-jee-main-physics-units-and-measurements-n4qusepuweib0sdu",
+        "is_numerical": false,
+        "sub_topic": "Circuits: Series LCR",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Circuit nature off resonance"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th July Evening Shift",
+        "question": "A 10$\u03a9$resistance is connected across 220V$\u2212$50 Hz AC supply. The time taken by the current to change from its maximum value to the rms value is :",
+        "options": [
+            "2.5 ms",
+            "1.5 ms",
+            "3.0 ms",
+            "4.5 ms"
+        ],
+        "answer": "2.5 ms",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1krx7eb0v/ca50f9a8-f98f-435e-b0a0-252f40dc9f75/76b9edf0-f4fa-11eb-91a2-f92da97c67b8/file-1krx7eb0w.jpeg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-10omega-resistance-is-connected-across-220v---50-jee-main-physics-units-and-measurements-lv1ataq7nynqgw8n",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Temporal Analysis",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Sine wave timing peak-rms"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 20th July Morning Shift",
+        "question": "AC voltage V(t) = 20 sin$\u03c9$t of frequency 50 Hz is applied to a parallel plate capacitor. The separation between the plates is 2 mm and the area is 1 m ^2 . The amplitude of the oscillating displacement current for the applied AC voltage is _________. [Take$\u03b5$_0 = 8.85$\u00d7$10 ^$\u2212$12 F/m]",
+        "options": [
+            "55.58$\u03bc$A",
+            "21.14$\u03bc$A",
+            "27.79$\u03bc$A",
+            "83.37$\u03bc$A"
+        ],
+        "answer": "27.79$\u03bc$A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/ac-voltage-vt--20-sinomegat-of-frequency-50-hz-is-ap-jee-main-physics-units-and-measurements-cfirbhkbgx6nbynb",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Displacement Current",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Oscillating displacement current peak"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 18th March Morning Shift",
+        "question": "In a series LCR resonance circuit, if we change the resistance only, from a lower to higher value :",
+        "options": [
+            "The bandwidth of resonance circuit will increase.",
+            "The resonance frequency will increase.",
+            "The quality factor will increase.",
+            "The quality factor and the resonance frequency will remain constant."
+        ],
+        "answer": "The bandwidth of resonance circuit will increase.",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-a-series-lcr-resonance-circuit-if-we-change-the-resistan-jee-main-physics-units-and-measurements-vn1qi88h18pppecu",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Quality Factor",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Damping effect on bandwidth"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th February Morning Shift",
+        "question": "An alternating current is given by the equation i = i _1 sin$\u03c9$t + i _2 cos$\u03c9$t. The rms current will be :",
+        "options": [
+            "$12(i12+i22)12$",
+            "$12(i1+i2)$",
+            "$12(i1+i2)2$",
+            "$12(i12+i22)12$"
+        ],
+        "answer": "$12(i12+i22)12$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-alternating-current-is-given-by-the-equation-i--isub1-jee-main-physics-units-and-measurements-tdhowk49qsxyzhqw",
+        "is_numerical": false,
+        "sub_topic": "Waveform: RMS Calculation",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "RMS orthogonal waves sum"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th February Evening Shift",
+        "question": "Match List I with List II. List I List II (a) Rectifier (i) Used either for stepping up or stepping down the a.c. voltage (b) Stabilizer (ii) Used to convert a.c. voltage into d.c. voltage (c) Transformer (iii) Used to remove any ripple in the rectified output voltage (d) Filter (iv) Used for constant output voltage even when the input voltage or load current change Choose the correct answer from the options given below :",
+        "options": [
+            "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+            "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+            "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+            "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+        ],
+        "answer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/match-list-i-with-list-iibrbrtable-thead-tr-jee-main-physics-units-and-measurements-bnnnunofnie2tluz",
+        "is_numerical": false,
+        "sub_topic": "Device: General",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Power supply stage matching"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 6th September Morning Slot",
+        "question": "An AC circuit has R= 100$\u03a9$, C = 2$\u03bc$F and L = 80 mH, connected in series. The quality factor of the circuit is :",
+        "options": [
+            "20",
+            "2",
+            "0.5",
+            "400"
+        ],
+        "answer": "2",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-ac-circuit-has-r-100-omega--c--2-mu-f-and-l-jee-main-physics-electromagnetic-induction-jhr41w9ui1erox18",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Quality Factor",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "LCR circuit quality factor"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th February Morning Shift",
+        "question": "The angular frequency of alternating current in a L-C-R circuit is 100 rad/s. The components connected are shown in the figure. Find the value of inductance of the coil and capacity of condenser. [IMAGE: https://imagex.cdn.examgoal.net/1klse4abm/b946c1e6-dc78-48bc-9d07-b06d0d149821/887a0220-7b8b-11eb-a157-49f87e3afb79/file-1klse4abn-341w.jpg]",
+        "options": [
+            "0.8 H and 150$\u03bc$F",
+            "0.8 H and 250$\u03bc$F",
+            "1.33 H and 150$\u03bc$F",
+            "1.33 H and 250$\u03bc$F"
+        ],
+        "answer": "0.8 H and 250$\u03bc$F",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1klse4abm/b946c1e6-dc78-48bc-9d07-b06d0d149821/887a0220-7b8b-11eb-a157-49f87e3afb79/file-1klse4abn-341w.jpg",
+            "https://imagex.cdn.examgoal.net/1klyumz4o/d09fb7dd-b9e3-4bf7-af2c-4dbbd9239a42/d62ae490-7f18-11eb-8513-936405db0171/file-1klyumz4p-311w.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/the-angular-frequency-of-alternating-current-in-a-l-c-r-circ-jee-main-physics-units-and-measurements-27aw7es1e3viw2gz",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Circuit",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Finding LC from resonance"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th February Evening Shift",
+        "question": "Find the peak current and resonant frequency of the following circuit (as shown in figure). [IMAGE: https://imagex.cdn.examgoal.net/1kluwhc5l/84e0cc60-9626-427c-af0e-9a8bb5eec78a/e908db90-7cec-11eb-8f7b-79760a5d8011/file-1kluwhc5m-268w.jpg]",
+        "options": [
+            "2 A and 100 Hz",
+            "2 A and 50 Hz",
+            "0.2 A and 100 Hz",
+            "0.2 A and 50 Hz"
+        ],
+        "answer": "0.2 A and 50 Hz",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1kluwhc5l/84e0cc60-9626-427c-af0e-9a8bb5eec78a/e908db90-7cec-11eb-8f7b-79760a5d8011/file-1kluwhc5m-268w.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/find-the-peak-current-and-resonant-frequency-of-the-followin-jee-main-physics-units-and-measurements-5tokf7vfr17gwc1q",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Frequency",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Standard resonant response finding"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th February Morning Shift",
+        "question": "The current (i) at time t = 0 and t =$\u221e$respectively for the given circuit is : [IMAGE: https://imagex.cdn.examgoal.net/1klseacle/7949816a-4deb-4349-9e8f-5ba7dff948f1/31161220-7b8c-11eb-a157-49f87e3afb79/file-1klseaclf-283w.jpg]",
+        "options": [
+            "$18E55,5E18$",
+            "$5E18,18E55$",
+            "$5E18,10E33$",
+            "$10E33,5E18$"
+        ],
+        "answer": "$5E18,10E33$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1klseacle/7949816a-4deb-4349-9e8f-5ba7dff948f1/31161220-7b8c-11eb-a157-49f87e3afb79/file-1klseaclf-283w.jpg",
+            "https://imagex.cdn.examgoal.net/1krbdccn5/a9164224-0a55-4693-b234-496a6092787b/78d8ce20-e8f8-11eb-9de5-0158e8e51230/file-1krbdccn6.png",
+            "https://imagex.cdn.examgoal.net/1krbdccn5/a9164224-0a55-4693-b234-496a6092787b/78d8ce20-e8f8-11eb-9de5-0158e8e51230/file-1krbdccn6.png",
+            "https://imagex.cdn.examgoal.net/1krbdfr8g/75004263-a014-4755-b730-739e1fd46ee8/d78bd110-e8f8-11eb-82db-2db925b53542/file-1krbdfr8h.png",
+            "https://imagex.cdn.examgoal.net/1krbdhqia/44253ebb-ea20-404d-8a06-3fb4af3be0ec/0e9a3520-e8f9-11eb-82db-2db925b53542/file-1krbdhqib.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/the-current-i-at-time-t--0-and-t--infty--respective-jee-main-physics-units-and-measurements-waheuczktgz3u7wp",
+        "is_numerical": false,
+        "sub_topic": "Transient: DC steady state",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Inductor boundary state current"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 4th September Evening Slot",
+        "question": "A series L-R circuit is connected to a battery of emf V. If the circuit is switched on at t = 0, then the time at which the energy stored in the inductor reaches$(1n)$times of its maximum value, is :",
+        "options": [
+            "$LRln\u2061(nn+1)$",
+            "$LRln\u2061(nn\u22121)$",
+            "$LRln\u2061(n+1n\u22121)$",
+            "$LRln\u2061(n\u22121n)$"
+        ],
+        "answer": "$LRln\u2061(nn\u22121)$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-series-l-r-circuit-is-connected-to-a-battery-of-emf-v-if-jee-main-physics-electromagnetic-induction-bxso5hi3nlhcu5yx",
+        "is_numerical": false,
+        "sub_topic": "Transient: RL circuit",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Inductive energy growth timing"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 17th March Evening Shift",
+        "question": "What happens to the inductive reactance and the current in a purely inductive circuit if the frequency is halved?",
+        "options": [
+            "Both, inducting reactance and current will be doubled.",
+            "Inductive reactance will be doubled and current will be halved.",
+            "Both, inductive reactance and current will be halved.",
+            "Inductive reactance will be halved and current will be doubled."
+        ],
+        "answer": "Inductive reactance will be halved and current will be doubled.",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/what-happens-to-the-inductive-reactance-and-the-current-in-a-jee-main-physics-units-and-measurements-rd6cxbutaokzwiih",
+        "is_numerical": false,
+        "sub_topic": "Circuits: Pure Inductor",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Frequency reactance current laws"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 16th March Evening Shift",
+        "question": "For the given circuit, comment on the type of transformer used. [IMAGE: https://imagex.cdn.examgoal.net/1kmiy3wub/20e91054-7e7e-4409-b3b7-f1e8698b05e3/1587e530-8a26-11eb-91cf-1f26b16dd4dd/file-1kmiy3wuc.jpg]",
+        "options": [
+            "Auxiliary transformer",
+            "Step down transformer",
+            "Step-up transformer",
+            "Auto transformer"
+        ],
+        "answer": "Step-up transformer",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1kmiy3wub/20e91054-7e7e-4409-b3b7-f1e8698b05e3/1587e530-8a26-11eb-91cf-1f26b16dd4dd/file-1kmiy3wuc.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/for-the-given-circuit-comment-on-the-type-of-transformer-us-jee-main-physics-units-and-measurements-ypinzwav1frdsm8t",
+        "is_numerical": false,
+        "sub_topic": "Transformer: Load",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Transformer step type identification"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 18th March Morning Shift",
+        "question": "An AC source rated 220 V, 50 Hz is connected to a resistor. The time taken by the current to change from its maximum to the rms value is :",
+        "options": [
+            "2.5 ms",
+            "25 ms",
+            "2.5 s",
+            "0.25 ms"
+        ],
+        "answer": "2.5 ms",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-ac-source-rated-220-v-50-hz-is-connected-to-a-resistor-jee-main-physics-units-and-measurements-hdm7d4swzkcayln3",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Temporal Analysis",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Sine cycle timing rms"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 17th March Evening Shift",
+        "question": "Match List - I with List - II List - I List - II (a) Phase difference between current and voltage in a purely resistive AC circuit (i)$\u03c02$; current leads voltage (b) Phase difference between current and voltage in a pure inductive AC circuit (ii) zero (c) Phase difference between current and voltage in a pure capacitive AC circuit (iii)$\u03c02$; current lags voltage (d) Phase difference between current and voltage in an LCR series circuit (iv)$tan\u22121(XC\u2212XLR)$Choose the most appropriate answer from the options given below :",
+        "options": [
+            "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+            "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+            "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+            "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+        ],
+        "answer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1kpolruvh/061a4a95-6e02-4324-988a-9e9ff544b536/32c8dbd0-c8a7-11eb-9f04-35c9b3f3a871/file-1kpolruvi.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/match-list-i-with-list-iibrbrtable-thead-tr-jee-main-physics-units-and-measurements-fmxftlin98m1jw9o",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Phasor Diagram",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Fundamental reactive phase matching"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th February Evening Shift",
+        "question": "An LCR circuit contains resistance of 110$\u03a9$and a supply of 220 V at 300 rad/s angular frequency. If only capacitance is removed from the circuit, current lags behind the voltage by 45$\u2218$. If on the other hand, only inductor is removed the current leads by 45$\u2218$with the applied voltage. The rms current flowing in the circuit will be :",
+        "options": [
+            "1 A",
+            "2.5 A",
+            "2 A",
+            "1.5 A"
+        ],
+        "answer": "2 A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-lcr-circuit-contains-resistance-of-110omega-and-a-su-jee-main-physics-units-and-measurements-2mok9pwv2bpwicyz",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Frequency",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Reactance balance from lead-lag"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 17th March Morning Shift",
+        "question": "An AC current is given by I = I _1 sin$\u03c9$t + I _2 cos$\u03c9$t. A hot wire ammeter will give a reading :",
+        "options": [
+            "$I1+I22$",
+            "$I12\u2212I222$",
+            "$I12+I222$",
+            "$I1+I222$"
+        ],
+        "answer": "$I12+I222$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-ac-current-is-given-by-i--isub1sub-sinomegat--jee-main-physics-units-and-measurements-rxtvztcadji24mbd",
+        "is_numerical": false,
+        "sub_topic": "Waveform: RMS Calculation",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Thermal ammeter reading composite"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 16th March Morning Shift",
+        "question": "An RC circuit as shown in the figure is driven by a AC source generating a square wave. The output wave pattern monitored by CRO would look close to : [IMAGE: https://imagex.cdn.examgoal.net/1kmiln63z/cf065632-d9f3-4c3e-a0b0-1ffd4cebcfc7/5662a3f0-89f5-11eb-9c26-d9a423ffb060/file-1kmiln640.jpg]",
+        "options": [
+            "[IMAGE: https://imagex.cdn.examgoal.net/1kmilojbo/afea777e-6499-428e-a58b-e67d145a2f4e/7c66d940-89f5-11eb-9c26-d9a423ffb060/file-1kmilojbp.jpg]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/1kmilobto/b0610d6d-23bf-4aba-82d3-9a34060b62af/769bb1c0-89f5-11eb-9c26-d9a423ffb060/file-1kmilobtp.jpg]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/1kmilo3xh/5a190db0-d83b-40ed-b354-361c57beb105/70829150-89f5-11eb-9c26-d9a423ffb060/file-1kmilo3xi.jpg]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/1kmilnwhu/d740329d-2f7d-46b6-97e5-bad90b6f2c74/6ac48930-89f5-11eb-9c26-d9a423ffb060/file-1kmilnwhv.jpg]"
+        ],
+        "answer": "[IMAGE: https://imagex.cdn.examgoal.net/1kmilnwhu/d740329d-2f7d-46b6-97e5-bad90b6f2c74/6ac48930-89f5-11eb-9c26-d9a423ffb060/file-1kmilnwhv.jpg]",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1kmiln63z/cf065632-d9f3-4c3e-a0b0-1ffd4cebcfc7/5662a3f0-89f5-11eb-9c26-d9a423ffb060/file-1kmiln640.jpg",
+            "https://imagex.cdn.examgoal.net/1kmilojbo/afea777e-6499-428e-a58b-e67d145a2f4e/7c66d940-89f5-11eb-9c26-d9a423ffb060/file-1kmilojbp.jpg",
+            "https://imagex.cdn.examgoal.net/1kmilobto/b0610d6d-23bf-4aba-82d3-9a34060b62af/769bb1c0-89f5-11eb-9c26-d9a423ffb060/file-1kmilobtp.jpg",
+            "https://imagex.cdn.examgoal.net/1kmilo3xh/5a190db0-d83b-40ed-b354-361c57beb105/70829150-89f5-11eb-9c26-d9a423ffb060/file-1kmilo3xi.jpg",
+            "https://imagex.cdn.examgoal.net/1kmilnwhu/d740329d-2f7d-46b6-97e5-bad90b6f2c74/6ac48930-89f5-11eb-9c26-d9a423ffb060/file-1kmilnwhv.jpg",
+            "https://imagex.cdn.examgoal.net/1kp4hledy/08c7b5d1-534d-4e2f-a7a0-3ee1dbf137e7/2db09270-bd97-11eb-bdd3-479dd9cd351d/file-1kp4hledz.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/an-rc-circuit-as-shown-in-the-figure-is-driven-by-a-ac-sourc-jee-main-physics-units-and-measurements-fyvht51dyghptx3t",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Temporal Analysis",
+        "logic_type": "Graphical",
+        "difficulty": 4,
+        "physics_key": "RC square wave CRO"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 2nd September Evening Slot",
+        "question": "An inductance coil has a reactance of 100$\u03a9$. When an AC signal of frequency 1000 Hz is applied to the coil, the applied voltage leads the current by 45 ^o . The self-inductance of the coil is",
+        "options": [
+            "6.7$\u00d7$10 ^\u20137 H",
+            "1.1$\u00d7$10 ^\u20131 H",
+            "5.5$\u00d7$10 ^\u20135 H",
+            "1.1$\u00d7$10 ^\u20132 H"
+        ],
+        "answer": "1.1$\u00d7$10 ^\u20132 H",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-inductance-coil-has-a-reactance-of-100-omega--when-jee-main-physics-electromagnetic-induction-rsyy0qstd5gevgnl",
+        "is_numerical": false,
+        "sub_topic": "Circuits: Series LR",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Coil inductance phase finding"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 3rd September Morning Slot",
+        "question": "A 750 Hz, 20 V (rms) source is connected to a resistance of 100$\u03a9$, an inductance of 0.1803 H and a capacitance of 10$\u03bc$F all in series. The time in which the resistance (heat capacity 2 J/ ^o C) will get heated by 10 ^o C. (assume no loss of heat to the surroudnings) is close to :",
+        "options": [
+            "348 s",
+            "418 s",
+            "245 s",
+            "365 s"
+        ],
+        "answer": "348 s",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-750-hz-20-v-rms-source-is-connected-to-a-resistance-of-jee-main-physics-current-electricity-nwapanhatllefo6a",
+        "is_numerical": false,
+        "sub_topic": "Power: LCR Circuit",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "LCR electro thermal link"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 10th April Morning Slot",
+        "question": "A transformer consisting of 300 turns in the primary and 150 turns in the secondary gives output power of 2.2 kW. If the current in the secondary coil is 10A, then the input voltage and current in the primary coil are :",
+        "options": [
+            "220 V and 20 A",
+            "220 V and 10A",
+            "440 V and 5A",
+            "440 V and 20 A"
+        ],
+        "answer": "440 V and 5A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-transformer-consisting-of-300-turns-in-the-primary-and-150-jee-main-physics-units-and-measurements-wd2mlobphhbg8ioy",
+        "is_numerical": false,
+        "sub_topic": "Transformer: Turns Ratio",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Transformer primary current laws"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 7th January Evening Slot",
+        "question": "An emf of 20 V is applied at time t = 0 to a circuit containing in series 10 mH inductor and 5$\u03a9$resistor. The ratio of the currents at time t =$\u221e$and at t = 40 s is close to : (Take e ^2 = 7.389)",
+        "options": [
+            "1.06",
+            "0.84",
+            "1.15",
+            "1.46"
+        ],
+        "answer": "1.06",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-emf-of-20-v-is-applied-at-time-t--0-to-a-circuit-contain-jee-main-physics-current-electricity-pltaxfwo8njx67gc",
+        "is_numerical": false,
+        "sub_topic": "Transient: RL circuit",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Inductor current growth points"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 10th April Evening Slot",
+        "question": "A coil of self inductance 10 mH and resistance 0.1$\u03a9$is connected through a switch to a battery of internal resistance 0.9$\u03a9$. After the switch is closed, the time taken for the current to attain 80% of the saturation value is: [take ln 5 = 1.6]",
+        "options": [
+            "0.324 s",
+            "0.002 s",
+            "0.103 s",
+            "0.016 s"
+        ],
+        "answer": "0.016 s",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-coil-of-self-inductance-10-mh-and-resistance-01-omega-jee-main-physics-current-electricity-sxa96qvbkzhmbuat",
+        "is_numerical": false,
+        "sub_topic": "Transient: RL circuit",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Percentage current rise timing"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 9th January Evening Slot",
+        "question": "In LC circuit the inductance L = 40 mH and capacitance C = 100$\u03bc$F. If a voltage V(t) = 10sin(314t) is applied to the circuit, the current in the circuit is given as :",
+        "options": [
+            "0.52 cos 314 t",
+            "5.2 cos 314 t",
+            "0.52 sin 314 t",
+            "10 cos 314 t"
+        ],
+        "answer": "0.52 cos 314 t",
+        "images": [
+            "https://imagex.cdn.examgoal.net/7kd4dk5v7c4ij/1fc84cdd-40e2-497c-9761-8d9ecc2b4e5e/e671eab0-4053-11ea-b62d-51ccc5d4afb6/file-7kd4dk5v7c4ik-431w.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/in-lc-circuit-the-inductance-l--40-mh-and-brcapacitance-jee-main-physics-current-electricity-lmymhnymvbjjc0gv",
+        "is_numerical": false,
+        "sub_topic": "Circuits: LC",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Inductive current peak response"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th January Morning Slot",
+        "question": "In the figure shown, a circuit contains two identical resistors with resistance R = 5$\u03a9$and an inductance with L = 2mH. An ideal battery of 15 V is connected in the circuit. What will be the current through the battery long after the switch is closed ? [IMAGE: https://imagex.cdn.examgoal.net/T4eQkQDD6RmRDEp9i/5agM0msfKFvVmZaj0KDwSMRqW7hTe/cC3yjpVbtSTTmVzXXV943k/image.png]",
+        "options": [
+            "6 A",
+            "7.5 A",
+            "3 A",
+            "5.5 A"
+        ],
+        "answer": "6 A",
+        "images": [
+            "https://imagex.cdn.examgoal.net/T4eQkQDD6RmRDEp9i/5agM0msfKFvVmZaj0KDwSMRqW7hTe/cC3yjpVbtSTTmVzXXV943k/image.png",
+            "https://imagex.cdn.examgoal.net/HfN7axZ0Ajxzu1mvJ/C9J8XDt8AO98lfWZMPN3u1K5EQmbb/VKq63tGLjo0N3H5IuutPjb/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/in-the-figure-shown-a-circuit-contains-two-identical-resist-jee-main-physics-units-and-measurements-eumtdvsapdztdhd5",
+        "is_numerical": false,
+        "sub_topic": "Transient: DC steady state",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Inductor wire limit steady"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 8th April Evening Slot",
+        "question": "A circuit connected to an ac source of emf e = e _0 sin(100t) with t in seconds, gives a phase difference of$\u03c0$/4 between the emf e and current i. Which of the following circuits will exhibit this ?",
+        "options": [
+            "RC circuit with R = 1 k$\u03a9$and C = 1\u03bcF",
+            "RL circuit with R = 1k$\u03a9$and L = 1mH",
+            "RC circuit with R = 1k$\u03a9$and C = 10 \u03bcF",
+            "RL circuit with R = 1 k$\u03a9$and L = 10 mH"
+        ],
+        "answer": "RC circuit with R = 1k$\u03a9$and C = 10 \u03bcF",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-circuit-connected-to-an-ac-source-of-emf-e-e0sin100t-w-jee-main-physics-units-and-measurements-ldf8uztxwscdmaw3",
+        "is_numerical": false,
+        "sub_topic": "Power: Power Factor",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Phase match circuit identification"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th April Evening Slot",
+        "question": "Consider the LR circuit shown in the figure. If the switch S is closed at t = 0 then the amount of charge that passes through the battery between t = 0 and t =$LR$is : [IMAGE: https://imagex.cdn.examgoal.net/3rsa0w4kejxsg1zkg/a66a0fd8-c656-418d-a4fc-ff3d7414448f/e9b71500-a06d-11e9-a4ff-cd603c22e5ad/file-3rsa0w4kejxsg1zkh.png]",
+        "options": [
+            "$2.7ELR2$",
+            "$EL2.7R2$",
+            "$7.3ELR2$",
+            "$EL7.3R2$"
+        ],
+        "answer": "$EL2.7R2$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/3rsa0w4kejxsg1zkg/a66a0fd8-c656-418d-a4fc-ff3d7414448f/e9b71500-a06d-11e9-a4ff-cd603c22e5ad/file-3rsa0w4kejxsg1zkh.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/consider-the-lr-circuit-shown-in-the-figure-if-the-switch-s-jee-main-physics-current-electricity-mem2mwkobt2fwjcu",
+        "is_numerical": false,
+        "sub_topic": "Transient: RL circuit",
+        "logic_type": "Calculus",
+        "difficulty": 4,
+        "physics_key": "Integral charge through inductor"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 7th January Morning Slot",
+        "question": "A LCR circuit behaves like a damped harmonic oscillator. Comparing it with a physical spring-mass damped oscillator having damping constant 'b', the correct equivalence would be:",
+        "options": [
+            "L$\u2194$k, C$\u2194$b, R$\u2194$m",
+            "L$\u2194$m, C$\u2194$k, R$\u2194$b",
+            "L$\u2194$m, C$\u2194$$1k$, R$\u2194$b",
+            "L$\u2194$$1b$, C$\u2194$$1m$, R$\u2194$$1k$"
+        ],
+        "answer": "L$\u2194$m, C$\u2194$$1k$, R$\u2194$b",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-lcr-circuit-behaves-like-a-damped-harmonic-oscillator-com-jee-main-physics-gravitation-92xpb32bt9dbrxdl",
+        "is_numerical": false,
+        "sub_topic": "Device: General",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Electromechanical unit equivalence mapping"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 8th April Morning Slot",
+        "question": "An alternating voltage v(t) = 220 sin 100$\u03c0$t volt is applied to a purely resistance load of 50$\u03a9$. The time taken for the current to rise from half of the peak value to the peak value is :",
+        "options": [
+            "5 ms",
+            "2.2 ms",
+            "3.3 ms",
+            "7.2 ms"
+        ],
+        "answer": "3.3 ms",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l331fpnn/3c8a124b-c725-4252-85f9-e46acf79e535/3c20df30-d1f6-11ec-b83f-ebfea682138a/file-1l331fpno.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/an-alternating-voltage-vt-220-sin-100-pi-t-volt-is-jee-main-physics-units-and-measurements-gjnwmr3g53hwven0",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Temporal Analysis",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Rise time sine fractionation"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th January Evening Slot",
+        "question": "In the above circuit, C =$32$$\u03bc$F, R _2 = 20$\u03a9$, L =$310$H and R _1 = 10$\u03a9$. Current in L-R _1 path is I _1 and in C-R _2 path it is I _2 . The voltage of A.C. source is given by, V = 200$2$sin (100 t) volts . The phase difference between I _1 and I _2 is : [IMAGE: https://imagex.cdn.examgoal.net/yqHnRVwUAcGd3oP64/atYXMsjq2p6JEN4dqZKecQBgdUTdZ/zMAPFW6dafK7nhmIPxIHQ5/image.png]",
+        "options": [
+            "150 ^o",
+            "90 ^o",
+            "30 ^o",
+            "0 ^o"
+        ],
+        "answer": "30 ^o",
+        "images": [
+            "https://imagex.cdn.examgoal.net/yqHnRVwUAcGd3oP64/atYXMsjq2p6JEN4dqZKecQBgdUTdZ/zMAPFW6dafK7nhmIPxIHQ5/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/in-the-above-circuit-c-sqrt-3-over-2mu-f-jee-main-physics-units-and-measurements-jhnhziqcogzbmdem",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Phasor Diagram",
+        "logic_type": "Analytical",
+        "difficulty": 4,
+        "physics_key": "Dual branch phasor difference"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th January Evening Slot",
+        "question": "A power transmission line feeds input power at 2300 V to a srep down transformer with its primary windings having 4000 turns. The output power is delivered at 230 V by the transformer. If the current in the primary of the transformer is 5A and its efficiency is 90%, the output current would be :",
+        "options": [
+            "50 A",
+            "45 A",
+            "35 A",
+            "25 A"
+        ],
+        "answer": "45 A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-power-transmission-line-feeds-input-power-at-2300-v-to-a-s-jee-main-physics-units-and-measurements-sfbh9yrt7btjcvmr",
+        "is_numerical": false,
+        "sub_topic": "Transformer: Efficiency",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Output current step down"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 11th January Morning Slot",
+        "question": "In the circuit shown, [IMAGE: https://imagex.cdn.examgoal.net/mmwtUDhh7Y2XEekRC/JLjCDmuKQdpZj9ZwKM4AmeROEjoa0/XN7I0Fz7zeZznYPKXM0mMA/image.png] the switch S _1 is closed at time t = 0 and the switch S _2 is kept open. At some later time(t _0 ), the switch S _1 is opened and S _2 is closed. The behavior of the current I as a function of time 't' is given by :",
+        "options": [
+            "[IMAGE: https://imagex.cdn.examgoal.net/V0M4i2b3u9nFVDUi7/09MFgnZcHnlOs9KyfNkynK4YDL8uT/nOeqkZQjcV8k124c0Fcvvg/image.png]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/y1TFghYv016tuuncY/F6PmxaS0gW8Iezgp7LQd2cB916xnl/eZJiwlAfvjbE9k8I2SWEfL/image.png]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/zj3ES2dvhGzp4pbc9/BnOGmQPXGxEifdLlVq7re9xM2g9uW/YvJfR8iAIBaCjs2LEzr64R/image.png]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/nPREBHz4PbC3IJJkV/pPEcATjOdMryIRQBiSBGj4jX8T8XX/HBjzr5QGoTpOqV5KZGOEpz/image.png]"
+        ],
+        "answer": "[IMAGE: https://imagex.cdn.examgoal.net/V0M4i2b3u9nFVDUi7/09MFgnZcHnlOs9KyfNkynK4YDL8uT/nOeqkZQjcV8k124c0Fcvvg/image.png]",
+        "images": [
+            "https://imagex.cdn.examgoal.net/mmwtUDhh7Y2XEekRC/JLjCDmuKQdpZj9ZwKM4AmeROEjoa0/XN7I0Fz7zeZznYPKXM0mMA/image.png",
+            "https://imagex.cdn.examgoal.net/V0M4i2b3u9nFVDUi7/09MFgnZcHnlOs9KyfNkynK4YDL8uT/nOeqkZQjcV8k124c0Fcvvg/image.png",
+            "https://imagex.cdn.examgoal.net/y1TFghYv016tuuncY/F6PmxaS0gW8Iezgp7LQd2cB916xnl/eZJiwlAfvjbE9k8I2SWEfL/image.png",
+            "https://imagex.cdn.examgoal.net/zj3ES2dvhGzp4pbc9/BnOGmQPXGxEifdLlVq7re9xM2g9uW/YvJfR8iAIBaCjs2LEzr64R/image.png",
+            "https://imagex.cdn.examgoal.net/nPREBHz4PbC3IJJkV/pPEcATjOdMryIRQBiSBGj4jX8T8XX/HBjzr5QGoTpOqV5KZGOEpz/image.png",
+            "https://imagex.cdn.examgoal.net/V0M4i2b3u9nFVDUi7/09MFgnZcHnlOs9KyfNkynK4YDL8uT/nOeqkZQjcV8k124c0Fcvvg/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/in-the-circuit-shown-the-switch-s1-is-closed-at-time-t-jee-main-physics-units-and-measurements-kfdoypcb4hxwz3ac",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Temporal Analysis",
+        "logic_type": "Graphical",
+        "difficulty": 4,
+        "physics_key": "Growth decay switching shape"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th January Evening Slot",
+        "question": "A series AC circuit containing an inductor (20 mH), a capacitor (120$\u03bc$F) and a resistor (60$\u03a9$) is driven by an AC source of 24V/50 Hz. The energy dissipated in the circuit in 60 s is :",
+        "options": [
+            "5.65$\u00d7$10 ^2 J",
+            "2.26$\u00d7$10 ^3 J",
+            "5.17$\u00d7$10 ^2 J",
+            "3.39$\u00d7$10 ^3 J"
+        ],
+        "answer": "5.17$\u00d7$10 ^2 J",
+        "images": [
+            "https://imagex.cdn.examgoal.net/xo9qg2X7fdBUaRw9d/UZhjesvWspw30Sr71yHgGfYQNUqAb/DMH4igREpLXYF2HmwK292G/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-series-ac-circuit-containing-an-inductor-20-mh-a-capaci-jee-main-physics-units-and-measurements-yecwcavnjkbug9k0",
+        "is_numerical": false,
+        "sub_topic": "Power: LCR Circuit",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Energy dissipation AC cycle"
+    },
+    {
+        "metadata": "JEE Main 2018 (Offline)",
+        "question": "For an RLC circuit driven with voltage of amplitude vm and frequency$\u03c90$=$1LC$the current exhibits resonance. The quality factor, Q is given by :",
+        "options": [
+            "$CR\u03c90$",
+            "$\u03c90LR$",
+            "$\u03c90RL$",
+            "$R(\u03c90C)$"
+        ],
+        "answer": "$\u03c90LR$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/for-an-rlc-circuit-driven-with-voltage-of-amplitude-vm-and-f-2018-marks-4-rdkd8e6bbqqc6mic.htm",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Quality Factor",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Q factor base formula"
+    },
+    {
+        "metadata": "JEE Main 2018 (Offline)",
+        "question": "In an a.c. circuit, the instantaneous e.m.f. and current are given by e = 100 sin 30 t i = 20 sin$(30t\u2212\u03c04)$In one cycle of a.c., the average power consumed by the circuit and the wattless current are, respectively",
+        "options": [
+            "50, 0",
+            "50, 10",
+            "$10002,10$",
+            "$502$"
+        ],
+        "answer": "$10002,10$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-an-ac-circuit-the-instantaneous-emf-and-current-are-2018-marks-4-wfr9c3vxd7eo8khd.htm",
+        "is_numerical": false,
+        "sub_topic": "Power: Power Factor",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Real and reactive components"
+    },
+    {
+        "metadata": "JEE Main 2018 (Online) 16th April Morning Slot",
+        "question": "A power transmission line feeds input power at 2300 V to a step down transformer with its primary windings having 4000 turns, giving the output power at 230 V. If the current in the primary of the transformer is 5 A, and its efficiency is 90%, the output current would be ;",
+        "options": [
+            "50 A",
+            "45 A",
+            "25 A",
+            "20 A"
+        ],
+        "answer": "45 A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-power-transmission-line-feeds-input-power-at-2300-v-to-a-s-jee-main-physics-units-and-measurements-rx97q5itrhmnxvw2",
+        "is_numerical": false,
+        "sub_topic": "Transformer: Efficiency",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Efficiency power balance current"
+    },
+    {
+        "metadata": "JEE Main 2016 (Offline)",
+        "question": "An arc lamp requires a direct current of 10 A at 80 V to function. If it is connected to a 220 V (rms), 50 Hz AC supply, the series inductor needed for it to work is close to :",
+        "options": [
+            "0.044 H",
+            "0.065 H",
+            "80 H",
+            "0.08 H"
+        ],
+        "answer": "0.065 H",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l36s2v57/7fb9ba2f-2acb-4af2-95e3-05d177745de7/c748d6c0-d404-11ec-b808-5752a3163b13/file-1l36s2v58.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/an-arc-lamp-requires-a-direct-current-of-10-a-at-80-v-to-fun-jee-main-physics-electromagnetic-induction-ybwn8nh90wtng62q",
+        "is_numerical": false,
+        "sub_topic": "Circuits: Series LR",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Inductive ballast ballast inductor"
+    },
+    {
+        "metadata": "JEE Main 2013 (Offline)",
+        "question": "In an$LCR$circuit as shown below both switches are open initially. Now switch$S1$is closed,$S2$kept open. ($q$is charge on the capacitor and$\u03c4$$=RC$is Capacitance time constant). Which of the following statement is correct ? [IMAGE: https://imagex.cdn.examgoal.net/7wD3EPudABtUmap1d/x0dypTFtipn9xGq2VILbW1U1dG8gQ/4bAdrdMQzhMjhDMRjQ4i1Z/image.png]",
+        "options": [
+            "Work done by the battery is half of the energy dissipated in the resistor",
+            "$t=\u03c4,q=CV/2$",
+            "At$t=2\u03c4,q=CV(1\u2212e\u22122)$",
+            "At$t=2\u03c4,q=CV(1\u2212e\u22121)$"
+        ],
+        "answer": "At$t=2\u03c4,q=CV(1\u2212e\u22122)$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/7wD3EPudABtUmap1d/x0dypTFtipn9xGq2VILbW1U1dG8gQ/4bAdrdMQzhMjhDMRjQ4i1Z/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/in-an-lcr-circuit-as-shown-below-both-switches-are-open-2013-marks-4-77ifqmghkpiku2pc.htm",
+        "is_numerical": false,
+        "sub_topic": "Transient: RC circuit",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "RC charge growth points"
+    },
+    {
+        "metadata": "JEE Main 2015 (Offline)",
+        "question": "An inductor$(L=0.03$$H)$and a resistor$(R=0.15k\u03a9)$are connected in series to a battery of$15V$$EMF$in a circuit shown below. The key$K1$has been kept closed for a long time. Then at$t=0$,$K1$is opened and key$K2$is closed simultaneously. At$t=1$$ms,$the current in the circuit will be :$(e5\u2245150)$[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l91fio1b/db2b9d6b-3c48-4bab-9abf-9d2ffbf87838/09163bf0-47dd-11ed-8284-6d7e98c66709/file-1l91fio1c.png?format=png]",
+        "options": [
+            "$6.7$$mA$",
+            "$0.67$$mA$",
+            "$100$$mA$",
+            "$67$$mA$"
+        ],
+        "answer": "$0.67$$mA$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l91fio1b/db2b9d6b-3c48-4bab-9abf-9d2ffbf87838/09163bf0-47dd-11ed-8284-6d7e98c66709/file-1l91fio1c.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/an-inductor-l003-h-and-a-resistor-left-r-2015-marks-4-adp4l5glgtvy8liw.htm",
+        "is_numerical": false,
+        "sub_topic": "Transient: RL circuit",
+        "logic_type": "Template",
+        "difficulty": 4,
+        "physics_key": "Post steady state RL decay"
+    },
+    {
+        "metadata": "JEE Main 2018 (Online) 15th April Morning Slot",
+        "question": "An ideal capacitor of capacitance$0.2\u03bcF$is charged to a potential difference of$10$$V.$The charging battery is then disconnected. The capacitor is then connected to an ideal inductor of self inductance$0.5$$mH.$The current at a time when the potential difference across the capacitor is$5$$V,$is :",
+        "options": [
+            "$0.34A$",
+            "$0.25A$",
+            "$0.17A$",
+            "$0.15A$"
+        ],
+        "answer": "$0.17A$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-ideal-capacitor-of-capacitance-02mu-f-is-changed-jee-main-physics-units-and-measurements-dv0nsbkkevddiw1k",
+        "is_numerical": false,
+        "sub_topic": "Circuits: LC",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "LC energy conservation swap"
+    },
+    {
+        "metadata": "JEE Main 2017 (Online) 9th April Morning Slot",
+        "question": "A sinusoidal voltage of peak value 283 V and angular frequency 320/s is applied to a series LCR circuit. Given that R=5$\u03a9$, L=25 mH and C=1000$\u03bc$F. The total impedance, and phase difference between the voltage across the source and the current will respectively be :",
+        "options": [
+            "10$\u03a9$and tan ^$\u2212$1$(53)$",
+            "$7\u03a9$and 45 ^o",
+            "$10\u03a9$and tan ^$\u2212$1$(83)$",
+            "$7\u03a9$and tan ^$\u2212$1$(53)$"
+        ],
+        "answer": "$7\u03a9$and 45 ^o",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-sinusoidal-voltage-of-peak-value-283-v-and-angular-frequen-jee-main-physics-units-and-measurements-mt2d0okc1ayndsga",
+        "is_numerical": false,
+        "sub_topic": "Circuits: Series LCR",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Complex impedance phase angle"
+    },
+    {
+        "metadata": "JEE Main 2016 (Online) 9th April Morning Slot",
+        "question": "A series LR circuit is connected to a voltage source with V(t) = V _0 sin$\u03a9$t. After very large time, current I(t) behaves as (t _0 >>$LR$) :",
+        "options": [
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l80z49lv/48fcd01f-5490-4374-87e9-68d30fc0aed8/af2adf30-33d0-11ed-bcbd-5353ee2ab2b1/file-1l80z49lw.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l80z3usz/6dd0fe5a-9a52-4a3c-9cbc-ae58bd75a43c/a3bba030-33d0-11ed-bcbd-5353ee2ab2b1/file-1l80z3ut0.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l80z3gwu/0ac41489-fa0e-48fb-96c2-19e45d701f2e/990047e0-33d0-11ed-bcbd-5353ee2ab2b1/file-1l80z3gwv.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l80z314i/2f25f358-21ea-46cc-9ee6-5a8681c45e87/8cce5520-33d0-11ed-bcbd-5353ee2ab2b1/file-1l80z314j.png?format=png]"
+        ],
+        "answer": "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l80z3usz/6dd0fe5a-9a52-4a3c-9cbc-ae58bd75a43c/a3bba030-33d0-11ed-bcbd-5353ee2ab2b1/file-1l80z3ut0.png?format=png]",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l80z49lv/48fcd01f-5490-4374-87e9-68d30fc0aed8/af2adf30-33d0-11ed-bcbd-5353ee2ab2b1/file-1l80z49lw.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l80z3usz/6dd0fe5a-9a52-4a3c-9cbc-ae58bd75a43c/a3bba030-33d0-11ed-bcbd-5353ee2ab2b1/file-1l80z3ut0.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l80z3gwu/0ac41489-fa0e-48fb-96c2-19e45d701f2e/990047e0-33d0-11ed-bcbd-5353ee2ab2b1/file-1l80z3gwv.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l80z314i/2f25f358-21ea-46cc-9ee6-5a8681c45e87/8cce5520-33d0-11ed-bcbd-5353ee2ab2b1/file-1l80z314j.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-series-lr-circuit-is-connected-to-a-voltage-source-with-v-jee-main-physics-units-and-measurements-9i9ozrt41hvk1397",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Temporal Analysis",
+        "logic_type": "Graphical",
+        "difficulty": 3,
+        "physics_key": "LR steady phase asymptote"
+    },
+    {
+        "metadata": "JEE Main 2015 (Offline)",
+        "question": "An$LCR$circuit is equivalent to a damped pendulum. In an$LCR$circuit the capacitor is charged to$Q0$and then connected to the$L$and$R$as shown below : [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l91fmmiq/4dbd6ef2-4cda-46b3-b6a8-749c4d6ff88c/7726f620-47dd-11ed-9a49-57ec402e0bd4/file-1l91fmmir.png?format=png] If a student plots graphs of the square of maximum charge$(QMax2)$on the capacitor with time$(t)$for two different values$L1$and$L2$$(L1>L2)$of$L$then which of the following represents this graph correctly ?$(plotsareschematicandniotdrawntoscale)$",
+        "options": [
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l91fp8ku/1310e8e1-f91c-4040-93ce-16996684616a/bfcf6ce0-47dd-11ed-9a49-57ec402e0bd4/file-1l91fp8kv.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l91fpsu6/6f5c6a8b-51fb-4d1a-a414-c19f8a290cf6/cf75ecf0-47dd-11ed-9a49-57ec402e0bd4/file-1l91fpsu7.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l91frfta/71e0a586-3e6f-4ef3-bc03-4d5403e2e0be/fd0485f0-47dd-11ed-9a49-57ec402e0bd4/file-1l91frftb.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l91fqn6v/46f2a75b-3721-4476-b4db-078ac0077ec4/e6e81f70-47dd-11ed-9a49-57ec402e0bd4/file-1l91fqn6w.png?format=png]"
+        ],
+        "answer": "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l91frfta/71e0a586-3e6f-4ef3-bc03-4d5403e2e0be/fd0485f0-47dd-11ed-9a49-57ec402e0bd4/file-1l91frftb.png?format=png]",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l91fmmiq/4dbd6ef2-4cda-46b3-b6a8-749c4d6ff88c/7726f620-47dd-11ed-9a49-57ec402e0bd4/file-1l91fmmir.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l91fp8ku/1310e8e1-f91c-4040-93ce-16996684616a/bfcf6ce0-47dd-11ed-9a49-57ec402e0bd4/file-1l91fp8kv.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l91fpsu6/6f5c6a8b-51fb-4d1a-a414-c19f8a290cf6/cf75ecf0-47dd-11ed-9a49-57ec402e0bd4/file-1l91fpsu7.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l91frfta/71e0a586-3e6f-4ef3-bc03-4d5403e2e0be/fd0485f0-47dd-11ed-9a49-57ec402e0bd4/file-1l91frftb.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l91fqn6v/46f2a75b-3721-4476-b4db-078ac0077ec4/e6e81f70-47dd-11ed-9a49-57ec402e0bd4/file-1l91fqn6w.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l91fscjm/37fdaa04-6a6c-40c7-bca1-bc62db93c167/164d2620-47de-11ed-9a49-57ec402e0bd4/file-1l91fscjn.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/an-lcr-circuit-is-equivalent-to-a-damped-pendulum-in-an-2015-marks-4-t88m1ctofct9gbn2.htm",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Graph",
+        "logic_type": "Graphical",
+        "difficulty": 4,
+        "physics_key": "LCR damping energy plots"
+    },
+    {
+        "metadata": "JEE Main 2014 (Offline)",
+        "question": "In the circuit shown here, the point$\u2032C\u2032$is kept connected to point$\u2032A\u2032$till the current flowing through the circuit becomes constant. Afterward, suddenly, point$\u2032C\u2032$is disconnected from point$\u2032A\u2032$and connected to point$\u2032B\u2032$at time$t=0.$Ratio of the voltage across resistance and the inductor at$t=L/R$will be equal to : [IMAGE: https://imagex.cdn.examgoal.net/6Nn1GR8Yk6DtYaClG/x4cEjVsiSMGxerw41uW6xRzteS0e5/bkPdPlBRSFhyRFyLyhQzNG/image.png]",
+        "options": [
+            "$e1\u2212e$",
+            "$1$",
+            "$\u22121$",
+            "$1\u2212ee$"
+        ],
+        "answer": "$\u22121$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/6Nn1GR8Yk6DtYaClG/x4cEjVsiSMGxerw41uW6xRzteS0e5/bkPdPlBRSFhyRFyLyhQzNG/image.png",
+            "https://imagex.cdn.examgoal.net/osxEA5W4HEwjH9oxi/UftgHtzseikiW4hHddnvBxk7XKEgG/jprULz3NC4qrZzQAgUIdwP/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/in-the-circuit-shown-here-the-point-c-is-kept-connec-2014-marks-4-z6vluaay4ivffbsw.htm",
+        "is_numerical": false,
+        "sub_topic": "Transient: RL circuit",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Inductor current voltage lead"
+    },
+    {
+        "metadata": "AIEEE 2011",
+        "question": "A resistor$\u2032R\u2032$and$2\u03bcF$capacitor in series is connected through a switch to$200$$V$direct supply. Across the capacitor is a neon bulb that lights up at$120$$V.$Calculate the value of$R$to make the bulb light up$5$$s$after the switch has been closed.$(log102.5=0.4)$",
+        "options": [
+            "$1.7\u00d7105\u03a9$",
+            "$2.7\u00d7106\u03a9$",
+            "$3.3\u00d7107\u03a9$",
+            "$1.3\u00d7104\u03a9$"
+        ],
+        "answer": "$2.7\u00d7106\u03a9$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-resistor-r-and-2mu-f-capacitor-in-series-is-con-2011-marks-4-2qqcczvecu4btx9w.htm",
+        "is_numerical": false,
+        "sub_topic": "Transient: RC circuit",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "RC capacitor firing delay"
+    },
+    {
+        "metadata": "AIEEE 2010",
+        "question": "In a series$LCR$circuit$R=200\u03a9$and the voltage and the frequency of the main supply is$220V$and$50$$Hz$respectively. On taking out the capacitance from the circuit the current lags behind the voltage by$30\u2218.$On taking out the inductor from the circuit the current leads the voltage by$30\u2218.$The power dissipated in the$LCR$circuit is",
+        "options": [
+            "$305$$W$",
+            "$210$$W$",
+            "$zero$$W$",
+            "$242$$W$"
+        ],
+        "answer": "$242$$W$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-a-series-lcr-circuit-r-200omega-and-the-volta-2010-marks-4-thuluetmehlnkbz2.htm",
+        "is_numerical": false,
+        "sub_topic": "Power: LCR Circuit",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Resonant power symmetry lead-lag"
+    },
+    {
+        "metadata": "AIEEE 2011",
+        "question": "A fully charged capacitor$C$with initial charge$q0$is connected to a coil of self inductance$L$at$t=0.$The time at which the energy is stored equally between the electric and the magnetic fields is :",
+        "options": [
+            "$\u03c04LC$",
+            "$2\u03c0LC$",
+            "$LC$",
+            "$\u03c0LC$"
+        ],
+        "answer": "$\u03c04LC$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-fully-charged-capacitor-c-with-initial-charge-q0-2011-marks-4-qbvvqj5xx7tlsan0.htm",
+        "is_numerical": false,
+        "sub_topic": "Circuits: LC",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "LC energy split partition"
+    },
+    {
+        "metadata": "AIEEE 2010",
+        "question": "In the circuit shown below, the key$K$is closed at$t=0.$The current through the battery is [IMAGE: https://imagex.cdn.examgoal.net/DAaT0JpNSd7SjfEEK/FQfudIUU5wyL7mSKel0QYfN09NJOp/RRzOwkC06AkV2JNGHNO8yu/image.png]",
+        "options": [
+            "$VR1R2R12+R22$at$t=0$and$VR2$at$t=\u221e$",
+            "$VR2$at$t=0$and$V(R1+R2)R1R2$at$t=\u221e$",
+            "$VR2$at$t=0$and$VR1R2R12+R22$at$t=\u221e$",
+            "$V(R1+R2)R1R2$at$t=0$and$VR2$at$t=\u221e$"
+        ],
+        "answer": "$VR2$at$t=0$and$V(R1+R2)R1R2$at$t=\u221e$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/DAaT0JpNSd7SjfEEK/FQfudIUU5wyL7mSKel0QYfN09NJOp/RRzOwkC06AkV2JNGHNO8yu/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/in-the-circuit-shown-below-the-key-k-is-closed-at-t0-2010-marks-4-99rx6ccpd5rzxb9z.htm",
+        "is_numerical": false,
+        "sub_topic": "Transient: DC steady state",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Multi branch steady initial"
+    },
+    {
+        "metadata": "AIEEE 2009",
+        "question": "An inductor of inductance$L=400$$mH$and resistors of resistance$R1=2\u03a9$and$R2=2\u03a9$are connected to a battery of$emf$$12$$V$as shown in the figure. The internal resistance of the battery is negligible. The switch$S$is closed at$t=0.$The potential drop across$L$as a function of time is : [IMAGE: https://imagex.cdn.examgoal.net/IGJGcmXziV76bLghV/xPkVZPoV2xVpMy6p6SBshm5IZf3Zf/KdVUUEjhjCjDJi4MF012hn/image.png]",
+        "options": [
+            "$12te\u22123tV$",
+            "$6(1\u2212e\u2212t/0.2)V$",
+            "$12e\u22125tV$",
+            "$6e\u22125tV$"
+        ],
+        "answer": "$12e\u22125tV$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/IGJGcmXziV76bLghV/xPkVZPoV2xVpMy6p6SBshm5IZf3Zf/KdVUUEjhjCjDJi4MF012hn/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/an-inductor-of-inductance-l400-mh-and-resistors-of-2009-marks-4-9drlbrihu2ijpito.htm",
+        "is_numerical": false,
+        "sub_topic": "Transient: RL circuit",
+        "logic_type": "Calculus",
+        "difficulty": 4,
+        "physics_key": "Time varying potential drop L"
+    },
+    {
+        "metadata": "AIEEE 2007",
+        "question": "In an$a.c.$circuit the voltage applied is$E=E0sin\u03c9t.$The resulting current in the circuit is$I=I0sin\u2061(\u03c9t\u2212\u03c02).$The power consumption in the circuit is given by",
+        "options": [
+            "$P=2E0I0$",
+            "$P=E0I02$",
+            "$P=zero$",
+            "$P=E0I02$"
+        ],
+        "answer": "$P=zero$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-an-ac-circuit-the-voltage-applied-is-e-e0-2007-marks-4-cw8qyk6sz4vq7ase.htm",
+        "is_numerical": false,
+        "sub_topic": "Power: Pure Reactance",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Quadrature power factor zero"
+    },
+    {
+        "metadata": "AIEEE 2006",
+        "question": "In an$AC$generator, a coil with$N$turns, all of the same area$A$and total resistance$R,$rotates with frequency$\u03c9$in a magnetic field$B.$The maximum value of$emf$generated in the coil is",
+        "options": [
+            "$N.A.B.R.$$\u03c9$",
+            "$N.A.B$",
+            "$N.A.B.R.$",
+            "$N.A.B.$$\u03c9$"
+        ],
+        "answer": "$N.A.B.$$\u03c9$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-an-ac-generator-a-coil-with-n-turns-all-of-the-2006-marks-4-misvleidv9gbrw0o.htm",
+        "is_numerical": false,
+        "sub_topic": "Device: AC Generator",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Generator peak induction laws"
+    },
+    {
+        "metadata": "AIEEE 2006",
+        "question": "In a series resonant$LCR$circuit, the voltage across$R$is$100$volts and$R=1k\u03a9$with$C=2\u03bcF.$The resonant frequency$\u03c9$is$200$$rad/s$. At resonance the voltage across$L$is",
+        "options": [
+            "$2.5\u00d710\u22122V$",
+            "$40$$V$",
+            "$250$$V$",
+            "$4\u00d710\u22123V$"
+        ],
+        "answer": "$250$$V$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-a-series-resonant-lcr-circuit-the-voltage-across-r-2006-marks-4-aszijibcgaa6c2tn.htm",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Circuit",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Reactive magnification factor resonance"
+    },
+    {
+        "metadata": "AIEEE 2005",
+        "question": "A circuit has a resistance of$12$$ohm$and an impedance of$15$$ohm$. The power factor of the circuit will be",
+        "options": [
+            "$0.4$",
+            "$0.8$",
+            "$0.125$",
+            "$1.25$"
+        ],
+        "answer": "$0.8$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-circuit-has-a-resistance-of-12-ohm-and-an-impedanc-2005-marks-4-iltag7jdqzg8kmtf.htm",
+        "is_numerical": false,
+        "sub_topic": "Power: Power Factor",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Real impedance factor ratio"
+    },
+    {
+        "metadata": "AIEEE 2004",
+        "question": "In a$LCR$circuit capacitance is changed from$C$to$2$$C$. For the resonant frequency to remain unchaged, the inductance should be changed from$L$to",
+        "options": [
+            "$L/2$",
+            "$2L$",
+            "$4L$",
+            "$L/4$"
+        ],
+        "answer": "$L/2$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-a-lcr-circuit-capacitance-is-changed-from-c-to-2004-marks-4-smqzd8mngbgczzbp.htm",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Frequency",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "LC scaling invariant resonance"
+    },
+    {
+        "metadata": "AIEEE 2002",
+        "question": "The power factor of$AC$circuit having resistance$(R)$and inductance$(L)$connected in series and an angular velocity$\u03c9$is",
+        "options": [
+            "$R/\u03c9L$",
+            "$R/(R2+\u03c92L2)1/2$",
+            "$\u03c9L/R$",
+            "$R/(R2\u2212\u03c92L2)1/2$"
+        ],
+        "answer": "$R/(R2+\u03c92L2)1/2$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/EyI9jwNfZakNSnx6N/RG2tUhYR6L2pFM5r986jI6AkPlnGj/HFxkeghaZOPffeRH5uOmx1/image.svg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/the-power-factor-of-ac-circuit-having-resistance-r-2002-marks-4-npwdappbuuryksrb.htm",
+        "is_numerical": false,
+        "sub_topic": "Power: Power Factor",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "RL impedance triangle definition"
+    },
+    {
+        "metadata": "AIEEE 2003",
+        "question": "In an oscillating$LC$circuit the maximum charge on the capacitor is$Q$. The charge on the capacitor when the energy is stored equally between the electric and magnetic field is",
+        "options": [
+            "$Q2$",
+            "$Q3$",
+            "$Q2$",
+            "$Q$"
+        ],
+        "answer": "$Q2$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-an-oscillating-lc-circuit-the-maximum-charge-on-the-c-2003-marks-4-8cminsi8xnxyas3c.htm",
+        "is_numerical": false,
+        "sub_topic": "Circuits: LC",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Energy split charge level"
+    },
+    {
+        "metadata": "AIEEE 2004",
+        "question": "Alternating current can not be measured by$D.C.$ammeter because",
+        "options": [
+            "Average value of current for complete cycle is zero",
+            "$A.C.$Changes direction",
+            "$A.C.$can not pass through$D.C.$Ammeter",
+            "$D.C.$Ammeter will get damaged."
+        ],
+        "answer": "Average value of current for complete cycle is zero",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/alternating-current-can-not-be-measured-by-dc-ammeter-2004-marks-4-oi26w9o1ixoctxgv.htm",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Signal Properties",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "DC ammeter averaging law"
+    },
+    {
+        "metadata": "AIEEE 2004",
+        "question": "In an$LCR$series$a.c.$circuit, the voltage across each of the components,$L,C$and$R$is$50V$. The voltage across the$L.C$combination will be :",
+        "options": [
+            "$100V$",
+            "$502$",
+            "$50$$V$",
+            "$0$$V$(zero)"
+        ],
+        "answer": "$0$$V$(zero)",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-an-lcr-series-ac-circuit-the-voltage-across-ea-2004-marks-4-lydy8ehutkc26az0.htm",
+        "is_numerical": false,
+        "sub_topic": "Circuits: Series LCR",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Reactive phasor potential combo"
+    },
+    {
+        "metadata": "AIEEE 2002",
+        "question": "In a transformer, number of turns in the primary coil are$140$and that in the secondary coil are$280.$If current in primary coil is$4A,$then that in the secondary coil is",
+        "options": [
+            "$4A$",
+            "$2A$",
+            "$6A$",
+            "$10A$"
+        ],
+        "answer": "$2A$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-a-transformer-number-of-turns-in-the-primary-coil-are-2002-marks-4-4607qdknqczvxh96.htm",
+        "is_numerical": false,
+        "sub_topic": "Transformer: Turns Ratio",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Transformer current turns laws"
+    },
+    {
+        "metadata": "AIEEE 2003",
+        "question": "The core of any transformer is laminated so as to",
+        "options": [
+            "reduce the energy loss due to eddy currents",
+            "make it light weight",
+            "make it robust and strong",
+            "increase the secondary voltage"
+        ],
+        "answer": "reduce the energy loss due to eddy currents",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-core-of-any-transformer-is-laminated-so-as-to-2003-marks-4-6ec6oxbh8bjj2tna.htm",
+        "is_numerical": false,
+        "sub_topic": "Device: Transformer",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Eddy loss reduction core"
+    },
+    {
+        "metadata": "AIEEE 2005",
+        "question": "The phase difference between the alternating current and$emf$is$\u03c02.$Which of the following cannot be the constituent of the circuit?",
+        "options": [
+            "$R,L$",
+            "$C$alone",
+            "$L$alone",
+            "$L,C$"
+        ],
+        "answer": "$R,L$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-phase-difference-between-the-alternating-current-and-e-2005-marks-4-urbfugjgpog2dizu.htm",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Phasor Diagram",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Quadrature phase branch identification"
+    },
+    {
+        "metadata": "AIEEE 2005",
+        "question": "The self inductance of the motor of an electric fan is$10$$H$. In order to impart maximum power at$50$$Hz$, it should be connected to a capacitance of",
+        "options": [
+            "$8\u03bcF$",
+            "$4\u03bcF$",
+            "$2\u03bcF$",
+            "$1\u03bcF$"
+        ],
+        "answer": "$1\u03bcF$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-self-inductance-of-the-motor-of-an-electric-fan-is-10-2005-marks-4-yeww4hpdql4o8ota.htm",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Frequency",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Power tuning resonant capacitance"
+    }
+]

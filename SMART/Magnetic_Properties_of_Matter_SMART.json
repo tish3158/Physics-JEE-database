@@ -1,0 +1,1288 @@
+[
+    {
+        "metadata": "JEE Main",
+        "question": "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6rkahyy/5349822c-1fd7-4704-843c-89dbf2de34af/37f66da0-e38f-11ef-9897-61eb62716c5d/file-jaoe38c1m6rkahyz.png?format=png] A bar magnet has total length$2l=20$units and the field point P is at a distance$d=10$units from the centre of the magnet. If the relative uncertainty of length measurement is$1%$, then uncertainty of the magnetic field at point P is :",
+        "options": [
+            "10%",
+            "5%",
+            "3%",
+            "4%"
+        ],
+        "answer": "N/A",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6rkahyy/5349822c-1fd7-4704-843c-89dbf2de34af/37f66da0-e38f-11ef-9897-61eb62716c5d/file-jaoe38c1m6rkahyz.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/img-srchttpsapp-contentcdnexamgoalnetflywidthim-jee-main-physics-hjgo81qnan1h2xlf",
+        "is_numerical": false,
+        "sub_topic": "Dipole: Field Uncertainty",
+        "logic_type": "Calculus",
+        "difficulty": 4,
+        "physics_key": "Error analysis axial field"
+    },
+    {
+        "metadata": "JEE Main",
+        "question": "An example of a perfect diamagnet is a superconductor. This implies that when a superconductor is put in a magnetic field of intensity B, the magnetic field B _s inside the superconductor will be such that :",
+        "options": [
+            "B _s =$\u2212$B",
+            "B _s = 0",
+            "B _s = B",
+            "B _s < B but B _s$\u2260$0"
+        ],
+        "answer": "B _s = 0",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-example-of-a-perfect-diamagnet-is-a-superconductor-this-jee-main-physics-units-and-measurements-rlxffl2lauzmes5w",
+        "is_numerical": false,
+        "sub_topic": "Material: Diamagnetism",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Meissner effect perfect diamagnet"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 7th April Evening Shift",
+        "question": "Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A): Magnetic monopoles do not exist. Reason (R): Magnetic field lines are continuous and form closed loops. In the light of the above statements, choose the most appropriate answer from the options given below:",
+        "options": [
+            "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+            "(A) is not correct but (R) is correct",
+            "(A) is correct but (R) is not correct",
+            "Both (A) and (R) are correct but (R) is not the correct explanation of (A)"
+        ],
+        "answer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/given-below-are-two-statements--one-is-labelled-as-basser-jee-main-physics-iijqcpjh5k7wi9kf",
+        "is_numerical": false,
+        "sub_topic": "Laws: Gauss Law for Magnetism",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Monopole non-existence loops"
+    },
+    {
+        "metadata": "JEE Main",
+        "question": "The coercivity of a magnet is$5\u00d7103 A/m$. The amount of current required to be passed in a solenoid of length$30 cm$and the number of turns 150, so that the magnet gets demagnetised when inside the solenoid is ________ A.",
+        "options": [],
+        "answer": "10",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-coercivity-of-a-magnet-is-5-times-103-mathrma-jee-main-physics-motion-n47a5zglg6as01pe",
+        "is_numerical": true,
+        "sub_topic": "Material: Ferromagnetism",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Coercivity current solenoid"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 7th April Morning Shift",
+        "question": "The percentage increase in magnetic field (B) when space within a current carrying solenoid is filled with magnesium (magnetic susceptibility$\u03c7Mg=1.2\u00d710\u22125$) is :",
+        "options": [
+            "$53\u00d710\u22125%$",
+            "$56\u00d710\u22124%$",
+            "$56\u00d710\u22125%$",
+            "$65\u00d710\u22123%$"
+        ],
+        "answer": "$65\u00d710\u22123%$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-percentage-increase-in-magnetic-field-b-when-space-jee-main-physics-units-and-measurements-cj4wlm5ovvlellw2",
+        "is_numerical": false,
+        "sub_topic": "Material: Susceptibility",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Permeability susceptibility relation"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 11th April Morning Shift",
+        "question": "The free space inside a current carrying toroid is filled with a material of susceptibility$2\u00d710\u22122$. The percentage increase in the value of magnetic field inside the toroid will be",
+        "options": [
+            "0.1%",
+            "1%",
+            "2%",
+            "0.2%"
+        ],
+        "answer": "2%",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-free-space-inside-a-current-carrying-toroid-is-filled-jee-main-physics-motion-fdbvxjgfxzxlbbet",
+        "is_numerical": false,
+        "sub_topic": "Material: Susceptibility",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Percentage field increase"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 8th April Morning Shift",
+        "question": "Paramagnetic substances: A. align themselves along the directions of external magnetic field. B. attract strongly towards external magnetic field. C. has susceptibility little more than zero. D. move from a region of strong magnetic field to weak magnetic field. Choose the most appropriate answer from the options given below:",
+        "options": [
+            "A, B, C Only",
+            "A, C Only",
+            "A, B, C, D",
+            "B, D Only"
+        ],
+        "answer": "A, C Only",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pparamagnetic-substancesp-pa-align-themselves-along-jee-main-physics-motion-ft5ronhidberuvpz",
+        "is_numerical": false,
+        "sub_topic": "Material: Paramagnetism",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Paramagnetic properties check"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 29th January Evening Shift",
+        "question": "Match List - I with List - II. List - I List - II (A) Magnetic induction (I) Ampere meter ^2 (B) Magnetic intensity (II) Weber (C) Magnetic flux (III) Gauss (D) Magnetic moment (IV) Ampere meter Choose the correct answer from the options given below:",
+        "options": [
+            "(A)-(III), (B)-(IV), (C)-(II), (D)-(I)",
+            "(A)-(III), (B)-(II), (C)-(I), (D)-(IV)",
+            "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)",
+            "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)"
+        ],
+        "answer": "(A)-(III), (B)-(IV), (C)-(II), (D)-(I)",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pmatch-list-i-with-list-iiptable-border1-t-jee-main-physics-ymhd74jbblxrgd6e",
+        "is_numerical": false,
+        "sub_topic": "Terms: Units and Dimensions",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Magnetic quantities unit matching"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 6th April Evening Shift",
+        "question": "Match List I with List II: LIST I (Y vs X) LIST II (Shape of Graph) A. Y-magnetic susceptibility X = magnetising field I. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1lvaxczs2/5ae5e147-fcca-4bb1-b80d-4f52b3e42d1f/9fcf2730-00a2-11ef-be3f-17279d79e67d/file-1lvaxczs3.png?format=png] B. Y = magnetic field X = distance from centre of a current carrying wire for x < a (where a = radius of wire) II. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1lvaxdjaa/f695b6ee-d019-4b02-99a4-21764349e415/aee06c20-00a2-11ef-be3f-17279d79e67d/file-1lvaxdjab.png?format=png] C. Y = magnetic field$X=$distance from centre of a current carrying wire for$x>a$(where$a=$radius of wire) III. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1lvaxe1ex/7f3e901e-348c-4566-8e07-7c35dea841ed/bce17990-00a2-11ef-be3f-17279d79e67d/file-1lvaxe1ey.png?format=png] D. Y = magnetic field inside solenoid X = distance from centre IV. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1lvaxefvb/71016afd-c8f1-47ed-a20a-f6b65063337e/c80c0e70-00a2-11ef-be3f-17279d79e67d/file-1lvaxefvc.png?format=png] Choose the correct answer from the options given below :",
+        "options": [
+            "(A)-(III), (B)-(IV), (C)- (I), (D)-(II)",
+            "(A)-(III), (B)-(I), (C)-(IV), (D)-(II)",
+            "(A)-(IV), (B)-(I), (C)-(III), (D)-(II)",
+            "(A)-(I), (B)-(III), (C)-(II), (D)-(IV)"
+        ],
+        "answer": "(A)-(III), (B)-(I), (C)-(IV), (D)-(II)",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lvaxczs2/5ae5e147-fcca-4bb1-b80d-4f52b3e42d1f/9fcf2730-00a2-11ef-be3f-17279d79e67d/file-1lvaxczs3.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lvaxdjaa/f695b6ee-d019-4b02-99a4-21764349e415/aee06c20-00a2-11ef-be3f-17279d79e67d/file-1lvaxdjab.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lvaxe1ex/7f3e901e-348c-4566-8e07-7c35dea841ed/bce17990-00a2-11ef-be3f-17279d79e67d/file-1lvaxe1ey.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lvaxefvb/71016afd-c8f1-47ed-a20a-f6b65063337e/c80c0e70-00a2-11ef-be3f-17279d79e67d/file-1lvaxefvc.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pmatch-list-i-with-list-iip-pstyle-typetextcss-jee-main-physics-motion-tnz6wyu3xucc0fgt",
+        "is_numerical": false,
+        "sub_topic": "Graphs: B vs H",
+        "logic_type": "Graphical",
+        "difficulty": 4,
+        "physics_key": "Magnetic field distance graphs"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 4th April Evening Shift",
+        "question": "The magnetic moment of a bar magnet is$0.5 Am2$. It is suspended in a uniform magnetic field of$8\u00d710\u22122 T$. The work done in rotating it from its most stable to most unstable position is:",
+        "options": [
+            "$4\u00d710\u22122 J$",
+            "$16\u00d710\u22122 J$",
+            "$8\u00d710\u22122 J$",
+            "Zero"
+        ],
+        "answer": "$8\u00d710\u22122 J$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-magnetic-moment-of-a-bar-magnet-is-05-mathrmam-jee-main-physics-motion-peb4odftj8mtm6ca",
+        "is_numerical": false,
+        "sub_topic": "Dipole: Potential Energy",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Work done dipole rotation"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 3rd April Evening Shift",
+        "question": "A magnetic dipole experiences a torque of$803 N m$when placed in uniform magnetic field in such a way that dipole moment makes angle of$60\u2218$with magnetic field. The potential energy of the dipole is :",
+        "options": [
+            "$\u2212403 J$",
+            "-80 J",
+            "80 J",
+            "-60 J"
+        ],
+        "answer": "-80 J",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-magnetic-dipole-experiences-a-torque-of-80-sqrt3-math-jee-main-physics-units-and-measurements-noq96f3izzwqp0gz",
+        "is_numerical": false,
+        "sub_topic": "Dipole: Potential Energy",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Torque potential energy relation"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 12th April Morning Shift",
+        "question": "Given below are two statements: Statement I : The diamagnetic property depends on temperature. Statement II : The induced magnetic dipole moment in a diamagnetic sample is always opposite to the magnetizing field. In the light of given statements, choose the correct answer from the options given below.",
+        "options": [
+            "Statement I is incorrect but Statement II is true.",
+            "Statement I is correct but Statement II is false.",
+            "Both Statement I and Statement II are False.",
+            "Both Statement I and Statement II are true."
+        ],
+        "answer": "Statement I is incorrect but Statement II is true.",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pgiven-below-are-two-statementsp-pstatement-i--the-jee-main-physics-motion-3rakxyvnv8xsfc9d",
+        "is_numerical": false,
+        "sub_topic": "Material: Diamagnetism",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Diamagnetism temperature independence"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 10th April Evening Shift",
+        "question": "Given below are two statements: Statement I : For diamagnetic substance,$\u22121\u2264\u03c7<0$, where$\u03c7$is the magnetic susceptibility. Statement II : Diamagnetic substances when placed in an external magnetic field, tend to move from stronger to weaker part of the field. In the light of the above statements, choose the correct answer from the options given below",
+        "options": [
+            "Both Statement I and Statement II are true",
+            "Statement I is correct but Statement II is false",
+            "Both Statement I and Statement II are False",
+            "Statement I is incorrect but Statement II is true."
+        ],
+        "answer": "Both Statement I and Statement II are true",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pgiven-below-are-two-statementsp-pstatement-i--for-jee-main-physics-motion-ggjpkjp7k5bkyf4d",
+        "is_numerical": false,
+        "sub_topic": "Material: Diamagnetism",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Diamagnetic susceptibility properties"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 2nd April Morning Shift",
+        "question": "The relationship between the magnetic susceptibility$(x)$and the magnetic permeability$(\u03bc)$is given by : ($\u03bc0$is the permeability of free space and$\u03bcT$is relative permeability)",
+        "options": [
+            "$X=\u03bc\u03bc0\u22121$",
+            "$X=\u03bcr\u03bc0+1$",
+            "$\u03c7=\u03bcr+1$",
+            "$X=1\u2212\u03bc\u03bc0$"
+        ],
+        "answer": "$X=\u03bc\u03bc0\u22121$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-relationship-between-the-magnetic-susceptibility-x-jee-main-physics-units-and-measurements-qtrrs1cqji8ynxix",
+        "is_numerical": false,
+        "sub_topic": "Material: Susceptibility",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Permeability susceptibility relation"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 10th April Evening Shift",
+        "question": "A bar magnet is released from rest along the axis of a very long vertical copper tube. After some time the magnet will",
+        "options": [
+            "move down with almost constant speed",
+            "move down with an acceleration equal to$g$",
+            "move down with an acceleration greater than$g$",
+            "oscillate inside the tube"
+        ],
+        "answer": "move down with almost constant speed",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-bar-magnet-is-released-from-rest-along-the-axis-of-a-ve-jee-main-physics-motion-vnlrcauat91pnvcs",
+        "is_numerical": false,
+        "sub_topic": "EMI: Lenz's Law",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Magnet motion copper tube"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 25th January Morning Shift",
+        "question": "A solenoid of 1200 turns is wound uniformly in a single layer on a glass tube 2 m long and 0.2 m in diameter. The magnetic intensity at the center of the solenoid when a current of 2 A flows through it is :",
+        "options": [
+            "$1 A m\u22121$",
+            "$2.4\u00d710\u22123 A m\u22121$",
+            "$1.2\u00d7103 A m\u22121$",
+            "$2.4\u00d7103 A m\u22121$"
+        ],
+        "answer": "$1.2\u00d7103 A m\u22121$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-solenoid-of-1200-turns-is-wound-uniformly-in-a-single-l-jee-main-physics-motion-0eybtscr5fjmhryd",
+        "is_numerical": false,
+        "sub_topic": "Field: Solenoid",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Magnetic intensity solenoid"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 8th April Evening Shift",
+        "question": "Given below are two statements: one is labelled as Assertion$A$and the other is labelled as Reason$R$Assertion A : Electromagnets are made of soft iron. Reason R : Soft iron has high permeability and low retentivity. In the light of above, statements, choose the most appropriate answer from the options given below.",
+        "options": [
+            "Both A and R are correct and R is the correct explanation of A",
+            "A is not correct but R is correct",
+            "A is correct but R is not correct",
+            "Both A and R are correct but R is NOT the correct explanation of A"
+        ],
+        "answer": "Both A and R are correct and R is the correct explanation of A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pgiven-below-are-two-statements-one-is-labelled-as-assert-jee-main-physics-motion-tkwov4uhibzo4kch",
+        "is_numerical": false,
+        "sub_topic": "Material: Electromagnets",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Soft iron properties electromagnets"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 31st January Morning Shift",
+        "question": "A bar magnet with a magnetic moment$5.0Am2$is placed in parallel position relative to a magnetic field of$0.4 T$. The amount of required work done in turning the magnet from parallel to antiparallel position relative to the field direction is _____________.",
+        "options": [
+            "zero",
+            "1 J",
+            "2 J",
+            "4 J"
+        ],
+        "answer": "4 J",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-bar-magnet-with-a-magnetic-moment-50-mathrmam2-jee-main-physics-motion-dsvhjewh1s1ynpyy",
+        "is_numerical": false,
+        "sub_topic": "Dipole: Potential Energy",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Work done parallel to antiparallel"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 29th July Evening Shift",
+        "question": "The vertical component of the earth's magnetic field is$6\u00d710\u22125 T$at any place where the angle of dip is$37\u2218$. The earth's resultant magnetic field at that place will be$($Given$tan\u206137\u2218=34)$",
+        "options": [
+            "$8\u00d710\u22125 T$",
+            "$6\u00d710\u22125 T$",
+            "$5\u00d710\u22124 T$",
+            "$1\u00d710\u22124 T$"
+        ],
+        "answer": "$1\u00d710\u22124 T$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l7e9glk3/aa6b79e5-09ca-4b9f-baaf-fff867122aae/1a76b730-2753-11ed-a077-1f1e3989e798/file-1l7e9glk4.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-vertical-component-of-the-earths-magnetic-field-is--jee-main-physics-motion-ynxrjxgnmw9vvm1k",
+        "is_numerical": false,
+        "sub_topic": "Earth: Magnetic Field",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Dip angle component relation"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th June Morning Shift",
+        "question": "The susceptibility of a paramagnetic material is 99. The permeability of the material in Wb/A-m, is : [Permeability of free space$\u03bc$_0 = 4$\u03c0$$\u00d7$10 ^$\u2212$7 Wb/A-m]",
+        "options": [
+            "4$\u03c0$$\u00d7$10 ^$\u2212$7",
+            "4$\u03c0$$\u00d7$10 ^$\u2212$4",
+            "4$\u03c0$$\u00d7$10 ^$\u2212$5",
+            "4$\u03c0$$\u00d7$10 ^$\u2212$6"
+        ],
+        "answer": "4$\u03c0$$\u00d7$10 ^$\u2212$5",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-susceptibility-of-a-paramagnetic-material-is-99-the-jee-main-physics-motion-wklygocpwq34gxfg",
+        "is_numerical": false,
+        "sub_topic": "Material: Susceptibility",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Permeability relative permeability"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 29th June Morning Shift",
+        "question": "At a certain place the angle of dip is 30$\u2218$and the horizontal component of earth's magnetic field is 0.5 G. The earth's total magnetic field (in G), at that certain place, is :",
+        "options": [
+            "$13$",
+            "$12$",
+            "$3$",
+            "1"
+        ],
+        "answer": "$13$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pat-a-certain-place-the-angle-of-dip-is-30circ-and-t-jee-main-physics-motion-ze9nvo7caymba4sv",
+        "is_numerical": false,
+        "sub_topic": "Earth: Magnetic Field",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Horizontal total field relation"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th July Morning Shift",
+        "question": "Two bar magnets oscillate in a horizontal plane in earth's magnetic field with time periods of$3 s$and$4 s$respectively. If their moments of inertia are in the ratio of$3:2$, then the ratio of their magnetic moments will be:",
+        "options": [
+            "2 : 1",
+            "8 : 3",
+            "1 : 3",
+            "27 : 16"
+        ],
+        "answer": "8 : 3",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/ptwo-bar-magnets-oscillate-in-a-horizontal-plane-in-earth-jee-main-physics-motion-unn6wstejehidwhn",
+        "is_numerical": false,
+        "sub_topic": "Dipole: Oscillation",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Time period magnetic moment ratio"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th July Morning Shift",
+        "question": "A magnet hung at$45\u2218$with magnetic meridian makes an angle of$60\u2218$with the horizontal. The actual value of the angle of dip is -",
+        "options": [
+            "$tan\u22121\u2061(32)$",
+            "$tan\u22121\u2061(6)$",
+            "$tan\u22121\u2061(23)$",
+            "$tan\u22121\u2061(12)$"
+        ],
+        "answer": "$tan\u22121\u2061(32)$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-magnet-hung-at-45circ-with-magnetic-meridian-ma-jee-main-physics-motion-bymcun7yxmbibiet",
+        "is_numerical": false,
+        "sub_topic": "Earth: Magnetic Field",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Apparent true dip relation"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 28th June Evening Shift",
+        "question": "The space inside a straight current carrying solenoid is filled with a magnetic material having magnetic susceptibility equal to 1.2$\u00d7$10 ^$\u2212$5 . What is fractional increase in the magnetic field inside solenoid with respect to air as medium inside the solenoid?",
+        "options": [
+            "1.2$\u00d7$10 ^$\u2212$5",
+            "1.2$\u00d7$10 ^$\u2212$3",
+            "1.8$\u00d7$10 ^$\u2212$3",
+            "2.4$\u00d7$10 ^$\u2212$5"
+        ],
+        "answer": "1.2$\u00d7$10 ^$\u2212$5",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-space-inside-a-straight-current-carrying-solenoid-is-jee-main-physics-motion-ojpbdbqjecdfined",
+        "is_numerical": false,
+        "sub_topic": "Material: Susceptibility",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Fractional magnetic field increase"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th July Evening Shift",
+        "question": "A compass needle of oscillation magnetometer oscillates 20 times per minute at a place$P$of$dip30\u2218$. The number of oscillations per minute become 10 at another place$Q$of$60\u2218$dip. The ratio of the total magnetic field at the two places$(BQ:BP)$is :",
+        "options": [
+            "$3:4$",
+            "$4:3$",
+            "$3:2$",
+            "$2:3$"
+        ],
+        "answer": "$3:4$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-compass-needle-of-oscillation-magnetometer-oscillates-2-jee-main-physics-motion-xdl8nqqvsm2kothy",
+        "is_numerical": false,
+        "sub_topic": "Dipole: Oscillation",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Oscillation frequency field ratio"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th June Evening Shift",
+        "question": "A bar magnet having a magnetic moment of 2.0$\u00d7$10 ^5 JT ^$\u2212$1 , is placed along the direction of uniform magnetic field of magnitude B = 14$\u00d7$10 ^$\u2212$5 T. The work done in rotating the magnet slowly through 60$\u2218$from the direction of field is :",
+        "options": [
+            "14 J",
+            "8.4 J",
+            "4 J",
+            "1.4 J"
+        ],
+        "answer": "14 J",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-bar-magnet-having-a-magnetic-moment-of-20-times-1-jee-main-physics-motion-w7qqebsrfukm7cg3",
+        "is_numerical": false,
+        "sub_topic": "Dipole: Potential Energy",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Work done dipole rotation"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th July Evening Shift",
+        "question": "An electron with energy 0.1 keV moves at right angle to the earth's magnetic field of 1$\u00d7$10 ^$\u2212$4 Wbm ^$\u2212$2 . The frequency of revolution of the electron will be : (Take mass of electron = 9.0$\u00d7$10 ^$\u2212$31 kg)",
+        "options": [
+            "$1.6\u00d7105 Hz$",
+            "$5.6\u00d7105 Hz$",
+            "$2.8\u00d7106 Hz$",
+            "$1.8\u00d7106 Hz$"
+        ],
+        "answer": "$2.8\u00d7106 Hz$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-electron-with-energy-01-kev-moves-at-right-angle-to-t-jee-main-physics-motion-snpafee3pt2svzeq",
+        "is_numerical": false,
+        "sub_topic": "Circuits: Charged Particle",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Cyclotron frequency energy"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 24th June Evening Shift",
+        "question": "The soft-iron is a suitable material for making an electromagnet. This is because soft-iron has",
+        "options": [
+            "low coercivity and high retentivity.",
+            "low coercivity and low permeability.",
+            "high permeability and low retentivity.",
+            "high permeability and high retentivity."
+        ],
+        "answer": "high permeability and low retentivity.",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-soft-iron-is-a-suitable-material-for-making-an-electr-jee-main-physics-motion-oe5diisnkhvblwue",
+        "is_numerical": false,
+        "sub_topic": "Material: Electromagnets",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Soft iron low retentivity"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th June Evening Shift",
+        "question": "Given below are two statements : Statement I : Susceptibilities of paramagnetic and ferromagnetic substances increase with decrease in temperature. Statement II : Diamagnetism is a result of orbital motions of electrons developing magnetic moments opposite to the applied magnetic field. Choose the correct answer from the options given below :",
+        "options": [
+            "Both Statement I and Statement II are true.",
+            "Both Statement I and Statement II are false.",
+            "Statement I is true but Statement II is false.",
+            "Statement I is false but Statement II is true."
+        ],
+        "answer": "Both Statement I and Statement II are true.",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pgiven-below-are-two-statements-p-pstatement-i--sus-jee-main-physics-motion-zulrtyrgthw1hggv",
+        "is_numerical": false,
+        "sub_topic": "Material: Temperature Dependence",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Curie law diamagnetism origin"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 1st September Evening Shift",
+        "question": "Following plots show magnetization (M) vs magnetizing field (H) and magnetic susceptibility ($\u03c7$) vs temperature (T) graph : [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1kwoqu3n6/e13b793f-2753-4daf-b878-972103d6a8cf/82799d20-5350-11ec-9cbb-695a838b20fb/file-1kwoqu3n7.png?format=png] Which of the following combination will be represented by a diamagnetic material?",
+        "options": [
+            "(a), (c)",
+            "(a), (d)",
+            "(b), (d)",
+            "(b), (c)"
+        ],
+        "answer": "(a), (c)",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1kwoqu3n6/e13b793f-2753-4daf-b878-972103d6a8cf/82799d20-5350-11ec-9cbb-695a838b20fb/file-1kwoqu3n7.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/following-plots-show-magnetization-m-vs-magnetizing-field-jee-main-physics-units-and-measurements-emxn1ipth4mchdz0",
+        "is_numerical": false,
+        "sub_topic": "Graphs: M vs H",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "Diamagnetic graph identification"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 22th July Evening Shift",
+        "question": "Choose the correct option",
+        "options": [
+            "True dip is always equal to apparent dip.",
+            "True dip is not mathematically related to apparent dip.",
+            "True dip is less than the apparent dip.",
+            "True dip is always greater than the apparent dip."
+        ],
+        "answer": "True dip is less than the apparent dip.",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/choose-the-correct-option-jee-main-physics-units-and-measurements-fik5jv8icq7taupz",
+        "is_numerical": false,
+        "sub_topic": "Earth: Magnetic Field",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "True vs apparent dip relation"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 22th July Evening Shift",
+        "question": "Statement I : The ferromagnetic property depends on temperature. At high temperature, ferromagnet becomes paramagnet. Statement II : At high temperature, the domain wall area of a ferromagnetic substance increases. In the light of the above statements, choose the most appropriate answer from the options given below :",
+        "options": [
+            "Statement I is false but Statement II is true",
+            "Statement I is true but Statement II is false",
+            "Both Statement I and Statement II are false",
+            "Both Statement I and Statement II are true"
+        ],
+        "answer": "Statement I is true but Statement II is false",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/statement-i--the-ferromagnetic-property-depends-on-temperat-jee-main-physics-units-and-measurements-ym9khowzaqses8du",
+        "is_numerical": false,
+        "sub_topic": "Material: Ferromagnetism",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Curie point domain wall"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 20th July Evening Shift",
+        "question": "At an angle of 30$\u2218$to the magnetic meridian, the apparent dip is 45$\u2218$. Find the true dip :",
+        "options": [
+            "$tan\u221213$",
+            "$tan\u2212113$",
+            "$tan\u2212123$",
+            "$tan\u2212132$"
+        ],
+        "answer": "$tan\u2212132$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/at-an-angle-of-30circ-to-the-magnetic-meridian-the-ap-jee-main-physics-units-and-measurements-50dj9usnoay0asac",
+        "is_numerical": false,
+        "sub_topic": "Earth: Magnetic Field",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "True dip apparent dip formula"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 20th July Evening Shift",
+        "question": "The magnetic susceptibility of a material of a rod is 499. Permeability in vacuum is 4$\u03c0$$\u00d7$10 ^$\u2212$7 H/m. Absolute permeability of the material of the rod is :",
+        "options": [
+            "4$\u03c0$$\u00d7$10 ^$\u2212$4 H/m",
+            "2$\u03c0$$\u00d7$10 ^$\u2212$4 H/m",
+            "3$\u03c0$$\u00d7$10 ^$\u2212$4 H/m",
+            "$\u03c0$$\u00d7$10 ^$\u2212$4 H/m"
+        ],
+        "answer": "2$\u03c0$$\u00d7$10 ^$\u2212$4 H/m",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-magnetic-susceptibility-of-a-material-of-a-rod-is-499-p-jee-main-physics-units-and-measurements-5vfnm6ijxbqvqmib",
+        "is_numerical": false,
+        "sub_topic": "Material: Susceptibility",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Absolute permeability finding"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 18th March Evening Shift",
+        "question": "Which of the following statements are correct? (A) Electric monopoles do not exist whereas magnetic monopoles exist. (B) Magnetic field lines due to a solenoid at its ends and outside cannot be completely straight and confined. (C) Magnetic field lines are completely confined within a toroid. (D) Magnetic field lines inside a bar magnet are not parallel. (E)$\u03c7$=$\u2212$1 is the condition for a perfect diamagnetic material, where x is its magnetic susceptibility. Choose the correct answer from the options given below :",
+        "options": [
+            "(A) and (B) only",
+            "(B) and (C) only",
+            "(C) and (E) only",
+            "(B) and (D) only"
+        ],
+        "answer": "(C) and (E) only",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/which-of-the-following-statements-are-correctbrbra-jee-main-physics-units-and-measurements-s2o23ynueufvxjex",
+        "is_numerical": false,
+        "sub_topic": "Laws: Gauss Law for Magnetism",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Monopoles field line confinement"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 2nd September Morning Slot",
+        "question": "Magnetic materials used for making permanent magnets (P) and magnets in a transformer (T) have different properties of the following, which property best matches for the type of magnet required?",
+        "options": [
+            "T : Large retentivity, small coercivity",
+            "P : Large retentivity, large coercivity",
+            "P : Small retentivity, large coercivity",
+            "T : Large retentivity, large coercivity"
+        ],
+        "answer": "P : Large retentivity, large coercivity",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/magnetic-materials-used-for-making-permanent-magnets-p-and-jee-main-physics-magnetics-r7wtl4ddefu3eyqr",
+        "is_numerical": false,
+        "sub_topic": "Material: Hysteresis",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Retentivity coercivity usage"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th April Morning Slot",
+        "question": "A magnetic compass needle oscillates 30 times per minute at a place where the dip is 45 ^o , and 40 times per minute where the dip is 30 ^o . If B _1 and B _2 are respectively the total magnetic field due to the earth at the two places, then the ratio$B1B2$is best given by :",
+        "options": [
+            "1.8",
+            "2.2",
+            "0.7",
+            "3.6"
+        ],
+        "answer": "0.7",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-magnetic-compass-needle-oscillates-30-times-per-minute-at-jee-main-physics-magnetics-uwxamlqk50fsdz1j",
+        "is_numerical": false,
+        "sub_topic": "Dipole: Oscillation",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Oscillation frequency total field"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 8th April Evening Slot",
+        "question": "Two magnetic dipoles X and Y are placed at a separation d, with their axes perpendicular to each other. The dipole moment of Y is twice that of X. A particle of charge q is passing, through their midpoint P, at angle q = 45\u00b0 with the horizontal line, as shown in figure. What would be the magnitude of force on the particle at that instant ? (d is much larger than the dimensions of the dipole) [IMAGE: https://imagex.cdn.examgoal.net/18hoxe66ijwc2w5to/aec950c5-8298-4d01-8b39-730e6cfde0ce/af3e9bc0-83a1-11e9-8081-1d558b7f1d26/file-18hoxe66ijwc2w5tp.png]",
+        "options": [
+            "$(\u03bc04\u03c0)2M(d/2)3\u00d7qv$",
+            "$(\u03bc04\u03c0)M(d/2)3\u00d7qv$",
+            "$2(\u03bc04\u03c0)M(d/2)3\u00d7qv$",
+            "0"
+        ],
+        "answer": "0",
+        "images": [
+            "https://imagex.cdn.examgoal.net/18hoxe66ijwc2w5to/aec950c5-8298-4d01-8b39-730e6cfde0ce/af3e9bc0-83a1-11e9-8081-1d558b7f1d26/file-18hoxe66ijwc2w5tp.png",
+            "https://imagex.cdn.examgoal.net/7kejek10a2tpn/cd552a51-10a4-4df2-81af-a1b0cffba77a/758edbb0-e021-11e9-a7bc-b7b08ce8d541/file-7kejek10a2tpo-404w.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/two-magnetic-dipoles-x-and-y-are-placed-at-a-separation-d-w-jee-main-physics-units-and-measurements-ziovm4zyuy2sqpol",
+        "is_numerical": false,
+        "sub_topic": "Field: Dipole",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Resultant B Lorentz force zero"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 16th March Morning Shift",
+        "question": "A bar magnet of length 14 cm is placed in the magnetic meridian with its north pole pointing towards the geographic north pole. A neutral point is obtained at a distance of 18 cm from the center of the magnet. If B _H = 0.4 G, the magnetic moment of the magnet is : (1G = 10 ^$\u2212$4 T)",
+        "options": [
+            "2.880$\u00d7$10 ^2 J T ^$\u2212$1",
+            "2.880 J T ^$\u2212$1",
+            "2.880$\u00d7$10 ^3 J T ^$\u2212$1",
+            "28.80 J T ^$\u2212$1"
+        ],
+        "answer": "2.880 J T ^$\u2212$1",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1kp4j1qz7/0e440293-128a-4828-b12f-da4cdc631bf7/dd7da940-bd9c-11eb-987e-ff290996e2b7/file-1kp4j1qz8.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-bar-manet-of-length-14-cm-is-placed-in-the-magnetic-meridi-jee-main-physics-units-and-measurements-g0bimoyejjbhtesj",
+        "is_numerical": false,
+        "sub_topic": "Field: Dipole",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Neutral point magnetic moment"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th February Evening Shift",
+        "question": "In a ferromagnetic material, below the curie temperature, a domain is defined as :",
+        "options": [
+            "a macroscopic region with zero magnetization.",
+            "a macroscopic region with saturation magnetization.",
+            "a macroscopic region with randomly oriented magnetic dipoles.",
+            "a macroscopic region with consecutive magnetic dipoles oriented in opposite direction."
+        ],
+        "answer": "a macroscopic region with saturation magnetization.",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-a-ferromagnetic-material-below-the-curie-temperature-a-jee-main-physics-units-and-measurements-zehae6pttutl40g1",
+        "is_numerical": false,
+        "sub_topic": "Material: Ferromagnetism",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Ferromagnetic domain definition"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 7th January Evening Slot",
+        "question": "[IMAGE: https://imagex.cdn.examgoal.net/7k9k2k5f6f69b/a9d967a4-0546-4862-960f-7a2c6df5eaf2/c7b31ff0-3783-11ea-92dd-4b9c3519996f/file-7k9k2k5f6f69c-345w.jpg] The figure gives experimentally measured B vs H variation in a ferromagnetic material. The retentivity, coercivity and saturation, respectively, of the material are :",
+        "options": [
+            "1.0 T, 50A/m and 1.5 T",
+            "1.5 T, 50 A/m and 1.0 T",
+            "1.5 T, 50 A/m and 2.0 T",
+            "150 A/m, 1.0 T and 1.5 T"
+        ],
+        "answer": "1.0 T, 50A/m and 1.5 T",
+        "images": [
+            "https://imagex.cdn.examgoal.net/7k9k2k5f6f69b/a9d967a4-0546-4862-960f-7a2c6df5eaf2/c7b31ff0-3783-11ea-92dd-4b9c3519996f/file-7k9k2k5f6f69c-345w.jpg",
+            "https://imagex.cdn.examgoal.net/7kd4dk6lvrj88/3d5e2cba-656f-4fd9-ad5d-2c6bf4666da2/ceeeb980-4eff-11ea-b62d-51ccc5d4afb6/file-7kd4dk6lvrj89-423w.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/img-srchttpsimagexgateclasscom7k9k2k5f6f69ba9d967-jee-main-physics-magnetics-cj5uq0a5aasdjc6z",
+        "is_numerical": false,
+        "sub_topic": "Graphs: Hysteresis Loop",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "Hysteresis values reading"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 4th September Evening Slot",
+        "question": "A paramagnetic sample shows a net magnetisation of 6 A/m when it is placed in an external magnetic field of 0.4 T at a temperature of 4 K. When the sample is placed in an external magnetic field of 0.3 T at a temperature of 24 K, then the magnetisation will be:",
+        "options": [
+            "4 A/m",
+            "1 A/m",
+            "0.75 A/m",
+            "2.25 A/m"
+        ],
+        "answer": "0.75 A/m",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-paramagnetic-sample-shows-a-net-magnetisation-of-6-am-whe-jee-main-physics-magnetics-lrecjmekhz5nlgvm",
+        "is_numerical": false,
+        "sub_topic": "Material: Temperature Dependence",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Curie law susceptibility"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 3rd September Evening Slot",
+        "question": "A perfectly diamagnetic sphere has a small spherical cavity at its centre, which is filled with a paramagnetic substance. The whole system is placed in a uniform magnetic field$B\u2192$. Then the field inside the paramagnetic substance is : [IMAGE: https://imagex.cdn.examgoal.net/jgy2xukf3us437/38c55d8d-40fb-4f8e-94fd-fcb50f09d6fb/cca36030-f743-11ea-8293-3b6cc591631c/file-jgy2xukf3us438-243w.png]",
+        "options": [
+            "$B\u2192$",
+            "zero",
+            "much large than$|B\u2192|$and parallel to$B\u2192$",
+            "much large than$|B\u2192|$but opposite to$B\u2192$"
+        ],
+        "answer": "zero",
+        "images": [
+            "https://imagex.cdn.examgoal.net/jgy2xukf3us437/38c55d8d-40fb-4f8e-94fd-fcb50f09d6fb/cca36030-f743-11ea-8293-3b6cc591631c/file-jgy2xukf3us438-243w.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-perfectly-diamagnetic-sphere-has-a-small-spherical-cavity-jee-main-physics-magnetics-aqv7qmahi2fbilpj",
+        "is_numerical": false,
+        "sub_topic": "Field: Screening",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Perfect diamagnetism shielding"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 24th February Evening Shift",
+        "question": "A soft ferromagnetic material is placed in an external magnetic field. The magnetic domains :",
+        "options": [
+            "may increase or decrease in size and change its orientation.",
+            "increase in size but no change in orientation.",
+            "decrease in size and changes orientation.",
+            "have no relation with external magnetic field."
+        ],
+        "answer": "may increase or decrease in size and change its orientation.",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-soft-ferromagnetic-material-is-placed-in-an-external-magne-jee-main-physics-units-and-measurements-wh1nusvcjycghxoq",
+        "is_numerical": false,
+        "sub_topic": "Material: Ferromagnetism",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Domain size orientation external field"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 4th September Morning Slot",
+        "question": "A small bar magnet placed with its axis at 30 ^o with an external field of 0.06 T experiences a torque of 0.018 Nm. The minimum work required to rotate it from its stable to unstable equilibrium position is :",
+        "options": [
+            "6.4$\u00d7$10 ^-2 J",
+            "9.2$\u00d7$10 ^-3 J",
+            "7.2$\u00d7$10 ^-2 J",
+            "11.7$\u00d7$10 ^-3 J"
+        ],
+        "answer": "7.2$\u00d7$10 ^-2 J",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-small-bar-magnet-placed-with-its-axis-brat-30suposu-jee-main-physics-magnetics-zjzdmsclghbqpeoz",
+        "is_numerical": false,
+        "sub_topic": "Dipole: Potential Energy",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Minimum work stable to unstable"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 11th January Evening Slot",
+        "question": "A paramagnetic substance in the form of a cube with sides 1 cm has a magnetic dipole moment of 20$\u00d7$10 ^\u20136 J/ T when a magnetic intensity of 60$\u00d7$10 ^3 A/m is applied. Its magnetic susceptibility is",
+        "options": [
+            "3.3$\u00d7$10 ^\u20134",
+            "2.3$\u00d7$10 ^\u20132",
+            "4.3$\u00d7$10 ^\u20132",
+            "3.3$\u00d7$10 ^\u20132"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-paramagnetic-substance-in-the-form-of-a-cube-with-sides-1-jee-main-physics-units-and-measurements-z59peqwenkb4s9sx",
+        "is_numerical": false,
+        "sub_topic": "Material: Susceptibility",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Susceptibility from magnetization"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 10th January Evening Slot",
+        "question": "At some location on earth, the horizontal component of earth\u2019s magnetic field is 18 \u00d7 10 ^\u20136 T. At this location, magnetic needle of length 0.12 m and pole strength 1.8 Am is suspended from its mid-point using a thread, it makes 45 ^o angle with horizontal in equilibrium. To keep this needle horizontal, the vertical force that should be applied at one of its ends is -",
+        "options": [
+            "3.6$\u00d7$10 ^$\u2212$5 N",
+            "1.8$\u00d7$10 ^$\u2212$5 N",
+            "1.3$\u00d7$10 ^$\u2212$5 N",
+            "6.5$\u00d7$10 ^$\u2212$5 N"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/at-some-location-on-earth-the-horizontal-component-of-earth-jee-main-physics-units-and-measurements-ljgxvreu6tw5zs4l",
+        "is_numerical": false,
+        "sub_topic": "Earth: Magnetic Field",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Torque balance dip angle"
+    },
+    {
+        "metadata": "AIEEE 2005",
+        "question": "A magnetic needle is kept in a non-uniform magnetic field. It experiences :",
+        "options": [
+            "neither a force nor a torque",
+            "a torque but not a force",
+            "a force but not a torque",
+            "a force and a torque"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-magnetic-needle-is-kept-in-a-non-uniform-magnetic-field-i-2005-marks-4-niru9jaroftal7h1.htm",
+        "is_numerical": false,
+        "sub_topic": "Dipole: Force and Torque",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Non uniform field torque force"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th January Evening Slot",
+        "question": "A paramagnetic material has 10 ^28 atoms/m ^3 . Its magnetic susceptibility at temperature 350 K is 2.8$\u00d7$10 ^\u20134 . Its susceptibility at 300 K is :",
+        "options": [
+            "3.726$\u00d7$10 ^\u20134",
+            "2.672$\u00d7$10 ^\u20134",
+            "3.672$\u00d7$10 ^\u20134",
+            "3.267$\u00d7$10 ^$\u2212$4"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-paramagnetic-material-has-1028-atomsm3-its-magnetic-susc-jee-main-physics-units-and-measurements-jd44ky7fy117riwe",
+        "is_numerical": false,
+        "sub_topic": "Material: Temperature Dependence",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Curie law temperature scaling"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 10th January Morning Slot",
+        "question": "A magnet of total magnetic moment 10 ^-2$i^$A-m ^2 is placed in a time varying magnetic field, B$i^$(cos$\u03c9t$) where B = 1 Tesla and$\u03c9$= 0.125 rad/s. The work done for reversing the direction of the magnetic moment at t = 1 second, is -",
+        "options": [
+            "0.014 J",
+            "0.028 J",
+            "0.01 J",
+            "0.007 J"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-magnet-of-total-magnetic-moment-10-2widehat-ia-m2-i-jee-main-physics-units-and-measurements-kqp8jrdkkjqvq0uc",
+        "is_numerical": false,
+        "sub_topic": "Dipole: Potential Energy",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Work done reversing moment"
+    },
+    {
+        "metadata": "JEE Main 2016 (Offline)",
+        "question": "Hysteresis loops for two magnetic materials$A$and$B$are given below : [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l7zdpli2/e018a0a8-e34b-4a51-8692-0293b5afaeba/2edb57a0-32f0-11ed-8cf6-c1445513adbd/file-1l7zdpli3.png?format=png] These materials are used to make magnets for electric generators, transformer core and electromagnet core. Then it is proper to use :",
+        "options": [
+            "$A$for transformers and$B$for electric generators.",
+            "$B$for electromagnets and transformers.",
+            "$A$for electric generators and transformers.",
+            "$A$for electromagnets and$B$for electric generators."
+        ],
+        "answer": "N/A",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l7zdpli2/e018a0a8-e34b-4a51-8692-0293b5afaeba/2edb57a0-32f0-11ed-8cf6-c1445513adbd/file-1l7zdpli3.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/hysteresis-loop-for-two-magnetic-materials-a-and-b-a-2016-marks-4-rxbme5rszhfynygm.htm",
+        "is_numerical": false,
+        "sub_topic": "Graphs: Hysteresis Loop",
+        "logic_type": "Graphical",
+        "difficulty": 3,
+        "physics_key": "Hysteresis loop application"
+    },
+    {
+        "metadata": "AIEEE 2008",
+        "question": "Relative permittivity and permeability of a material$\u03b5r$and$\u03bcr,$respectively. Which of the following values of these quantities are allowed for a diamagnetic material?",
+        "options": [
+            "$\u03b5r=0.5,\u03bcr=1.5$",
+            "$\u03b5r=1.5,\u03bcr=0.5$",
+            "$\u03b5r=0.5,\u03bcr=0.5$",
+            "$\u03b5r=1.5,\u03bcr=1.5$"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/relative-permittivity-and-permeability-of-a-material-var-2008-marks-4-d9haj6cs5kmuufpn.htm",
+        "is_numerical": false,
+        "sub_topic": "Material: Diamagnetism",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Diamagnetic permeability range"
+    },
+    {
+        "metadata": "JEE Main 2014 (Offline)",
+        "question": "The coercivity of a small magnet where the ferromagnet gets demagnetized is$3\u00d7103Am\u22121.$The current required to be passed in a solenoid of length$10$$cm$and number of turns$100,$so that the magnet gets demagnetized when inside the solenoid, is :",
+        "options": [
+            "$30$$mA$",
+            "$60$$mA$",
+            "$3$$A$",
+            "$6A$"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-coercivity-of-a-small-magnet-where-the-ferromagnet-gets-2014-marks-4-4a7sjeo13g5jj1je.htm",
+        "is_numerical": false,
+        "sub_topic": "Material: Ferromagnetism",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Demagnetizing current solenoid"
+    },
+    {
+        "metadata": "JEE Main 2013 (Offline)",
+        "question": "Two short bar magnets of length$1$$cm$each have magnetic moments$1.20$$Am2$and$1.00$$Am2$respectively. They are placed on a horizontal table parallel to each other with their$N$poles pointing towards the South. They have a common magnetic equator and are separated by a distance of$20.0$$cm.$The value of the resultant horizontal magnetic induction at the mid-point$O$of the line joining their centres is close to$($Horizontal component of earth's magnetic induction is$3.6\u00d710.5Wb/m2)$",
+        "options": [
+            "$3.6\u00d710.5Wb/m2$",
+            "$2.56\u00d710.4Wb/m2$",
+            "$3.50\u00d710.4Wb/m2$",
+            "$5.80\u00d710.4Wb/m2$"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/two-short-bar-magnets-of-length-1-cm-each-have-magne-2012-marks-4-mhzxixtuzguyvtgl.htm",
+        "is_numerical": false,
+        "sub_topic": "Field: Dipole",
+        "logic_type": "Template",
+        "difficulty": 4,
+        "physics_key": "Equatorial resultant field"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th January Morning Slot",
+        "question": "A bar magnet is demagnetized by inserting it inside a solenoid of length 0.2 m, 100 turns, and carrying a current of 5.2 A. The corecivity of the bar magnet is :",
+        "options": [
+            "285 A/m",
+            "2600 A/m",
+            "520 A/m",
+            "1200 A/m"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-coercivity-of-a-small-magnet-where-the-ferromagnet-gets-jee-main-physics-units-and-measurements-9dl2anpy5ocy4j6o",
+        "is_numerical": false,
+        "sub_topic": "Material: Ferromagnetism",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Coercivity from solenoid demagnetization"
+    },
+    {
+        "metadata": "JEE Main 2018 (Online) 15th April Morning Slot",
+        "question": "The$B$-$H$curve for a ferromagnet is shown in the figure. The ferromagnet is placed inside a long solended with$1000$turns/cm. The current that should be passed in the solended to demagnetise the ferromagnet completely is : [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l7u7foek/7b705f8c-318b-4b3b-9061-bd846cb808e2/b8fc58c0-3017-11ed-ab58-4f43f7f8c851/file-1l7u7foel.png?format=png]",
+        "options": [
+            "$1$$mA$",
+            "$2$$mA$",
+            "$20\u03bcA$",
+            "$40\u03bcA$"
+        ],
+        "answer": "N/A",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l7u7foek/7b705f8c-318b-4b3b-9061-bd846cb808e2/b8fc58c0-3017-11ed-ab58-4f43f7f8c851/file-1l7u7foel.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/the-b-h-curve-for-a-ferromagnet-is-shown-in-the-figu-jee-main-physics-units-and-measurements-umt1div3wxswygwc",
+        "is_numerical": false,
+        "sub_topic": "Graphs: Hysteresis Loop",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "Coercivity demagnetizing current"
+    },
+    {
+        "metadata": "AIEEE 2006",
+        "question": "Needles$N1$,$N2$and$N3$are made of ferromagnetic, a paramagnetic and a diamagnetic substance respectively. A magnet when brought close to them will",
+        "options": [
+            "attract$N1$and$N2$strongly but repel$N3$",
+            "attract$N1$strongly,$N2$weakly and repel$N3$weakly",
+            "attract$N1$strongly, but repel$N2$and$N3$weakly",
+            "attract all three of them"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/needles-n1-n2-and-n3-are-made-of-ferro-2006-marks-4-ert4ys8a74gtkmnb.htm",
+        "is_numerical": false,
+        "sub_topic": "Material: Magnetism Types",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Ferro para dia attraction"
+    },
+    {
+        "metadata": "JEE Main 2017 (Offline)",
+        "question": "A magnetic needle of magnetic moment 6.7$\u00d7$10 ^-2 A m ^2 and moment of inertia 7.5$\u00d7$10 ^-6 kg m ^2 is performing simple harmonic oscillations in a magnetic field of 0.01 T. Time taken for 10 complete oscillations is:",
+        "options": [
+            "8.76 s",
+            "6.65 s",
+            "8.89 s",
+            "6.98 s"
+        ],
+        "answer": "6.65 s",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-magnetic-needle-of-magnetic-moment-67-times-10-2-a-m-2017-marks-4-poqu5cxttzt86nbq.htm",
+        "is_numerical": false,
+        "sub_topic": "Dipole: Oscillation",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Oscillation period uniform field"
+    },
+    {
+        "metadata": "AIEEE 2004",
+        "question": "The length of a magnet is large compared to its width and breadth. The time period of its oscillation in a vibration magnetometer is$2s.$The magnet is cut along its length into three equal parts and these parts are then placed on each other with their like poles together. The time period of this combination will be",
+        "options": [
+            "$23s$",
+            "$23s$",
+            "$2s$",
+            "$23s$"
+        ],
+        "answer": "$23s$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-length-of-a-magnet-is-large-compared-to-its-width-and-br-2004-marks-4-qv4vdlhci7bu9ulg.htm",
+        "is_numerical": false,
+        "sub_topic": "Dipole: Oscillation",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Magnet cutting oscillation period"
+    },
+    {
+        "metadata": "JEE Main 2016 (Online) 10th April Morning Slot",
+        "question": "A fighter plane of length 20 m, wing span (distance from tip of one wing to the tip of the other wing) of 15 m and height 5 m is flying towards east over Delhi. Its speed is 240 ms ^\u22121 . The earth\u2019s magnetic field over Delhi is 5$\u00d7$10 ^\u22125 T with the declination angle ~ 0 ^o and dip of$\u03b8$such that sin$\u03b8$= 2/3 . If the voltage developed is V _B between the lower and upper side of the plane and V _W between the tips of the wings then V _B and V _W are close to :",
+        "options": [
+            "V _B = 45 m _V ; V _W = 120 m _V with right side of pilot at higher voltage",
+            "V _B = 45 m _V ; V _W = 120 m _V with left side of pilot at higher voltage",
+            "V _B = 40 m _V ; V _W = 135 m _V with right side of pilot at high voltage",
+            "V _B = 40 m _V ; V _W = 135 m _V with left side of pilot at higher voltage"
+        ],
+        "answer": "V _B = 45 m _V ; V _W = 120 m _V with left side of pilot at higher voltage",
+        "images": [
+            "https://imagex.cdn.examgoal.net/F3uefPV9VKZqXYV4T/BoAa4rOpZMJ0jHRkBy61LLQ7d4Zgp/ZATdqx8QlRyWJexDJDGSY1/image.png",
+            "https://imagex.cdn.examgoal.net/ShAeG1rEBoAhW3TXy/6iODyY7TBe8JNcISeEoMlekI6Y0Ci/DvTQn8tDfcfg0IODGZMCi5/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-fighter-plane-of-length-20-m-wing-span-distance-from-tip-jee-main-physics-units-and-measurements-md2url52xz6mjrs4",
+        "is_numerical": false,
+        "sub_topic": "EMI: Motional EMF",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Induced EMF moving plane"
+    },
+    {
+        "metadata": "AIEEE 2004",
+        "question": "Curie temperature is the temperature above which",
+        "options": [
+            "a ferromagnetic material becomes paramagnetic",
+            "a paramagnetic material becomes diamagnetic",
+            "a ferromagnetic material becomes diamagnetic",
+            "a paramagnetic material becomes ferromagnetic"
+        ],
+        "answer": "a ferromagnetic material becomes paramagnetic",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/curie-temperature-is-the-temperature-above-which-2004-marks-4-lxi5dqpu8kt455qj.htm",
+        "is_numerical": false,
+        "sub_topic": "Material: Temperature Dependence",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Ferro to para transition"
+    },
+    {
+        "metadata": "AIEEE 2003",
+        "question": "A thin rectangular magnet suspended freely has a period of oscillation equal to$T.$Now it is broken into two equal halves (each having half of the original length) and one piece is made to oscillate freely in the same field. If its period of oscillation is$T\u2032,$the ratio$T\u2032T$is",
+        "options": [
+            "$122$",
+            "$12$",
+            "$2$",
+            "$14$"
+        ],
+        "answer": "$12$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-thin-rectangular-magnet-suspended-freely-has-a-period-of-o-2003-marks-4-o7ddiqkrg322wkfx.htm",
+        "is_numerical": false,
+        "sub_topic": "Dipole: Oscillation",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Magnet length cut oscillation"
+    },
+    {
+        "metadata": "AIEEE 2004",
+        "question": "The materials suitable for making electromagnets should have",
+        "options": [
+            "high retentivity and low coercivity",
+            "low retentivity and low coercivity",
+            "high retentivity and high coercivity",
+            "low retentivity and high coercivity"
+        ],
+        "answer": "low retentivity and low coercivity",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-materials-suitable-for-making-electromagnets-should-have-2004-marks-4-wdtuznjouutiyse6.htm",
+        "is_numerical": false,
+        "sub_topic": "Material: Electromagnets",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Electromagnet core properties"
+    },
+    {
+        "metadata": "AIEEE 2003",
+        "question": "The magnetic lines of force inside a bar magnet",
+        "options": [
+            "are from north-pole to south-pole of the magnet",
+            "do not exist",
+            "depend upon the area of cross-section of the bar magnet",
+            "are from south-pole to north-pole of the Magnet"
+        ],
+        "answer": "are from south-pole to north-pole of the Magnet",
+        "images": [
+            "https://imagex.cdn.examgoal.net/LjydkpWDw1TMq27xj/l3TxNXUeL7V0FyLytcjqoiCsf02Ds/e9W0JNvdk8O70vCFDyO7u4/image.svg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/the-magnetic-lines-of-force-inside-a-bar-magnet-2003-marks-4-fmeav1iepcscekn8.htm",
+        "is_numerical": false,
+        "sub_topic": "Laws: Field Lines",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Bar magnet field line direction"
+    },
+    {
+        "metadata": "AIEEE 2003",
+        "question": "A magnetic needle lying parallel to a magnetic field requires$W$units of work to turn it through$60\u2218.$The torque needed to maintain the needle in this position will be :",
+        "options": [
+            "$3W$",
+            "$W$",
+            "$32W$",
+            "$2W$"
+        ],
+        "answer": "$3W$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-magnetic-needle-lying-parallel-to-a-magnetic-field-require-2003-marks-4-sptemiyb0n0b1xr6.htm",
+        "is_numerical": false,
+        "sub_topic": "Dipole: Work and Torque",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Torque work relation"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 30th January Morning Shift",
+        "question": "The horizontal component of earth's magnetic field at a place is$3.5\u00d710\u22125 T$. A very long straight conductor carrying current of$2 A$in the direction from South east to North West is placed. The force per unit length experienced by the conductor is __________$\u00d710\u22126 N/m$.",
+        "options": [],
+        "answer": "35",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-horizontal-component-of-earths-magnetic-field-at-a-p-jee-main-physics-motion-hg7fugen9wl0io6z",
+        "is_numerical": true,
+        "sub_topic": "Earth: Magnetic Field",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Force wire horizontal field"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 29th January Morning Shift",
+        "question": "The magnetic potential due to a magnetic dipole at a point on its axis situated at a distance of$20 cm$from its center is$1.5\u00d710\u22125 T m$. The magnetic moment of the dipole is _________$A m2$. (Given :$\u03bco4\u03c0=10\u22127TmA\u22121$)",
+        "options": [],
+        "answer": "6",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-magnetic-potential-due-to-a-magnetic-dipole-at-a-poin-jee-main-physics-units-and-measurements-uflb4exab0q8pdz0",
+        "is_numerical": true,
+        "sub_topic": "Field: Dipole",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Magnetic potential dipole axis"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 8th April Morning Shift",
+        "question": "The magnetic intensity at the center of a long current carrying solenoid is found to be$1.6\u00d7103Am\u22121$. If the number of turns is 8 per cm, then the current flowing through the solenoid is __________ A.",
+        "options": [],
+        "answer": "2",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-magnetic-intensity-at-the-center-of-a-long-current-ca-jee-main-physics-motion-zay0vcchrkzf8g3l",
+        "is_numerical": true,
+        "sub_topic": "Field: Solenoid",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Magnetic intensity solenoid formula"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 27th July Morning Shift",
+        "question": "In a uniform magnetic field, the magnetic needle has a magnetic moment 9.85$\u00d7$10 ^$\u2212$2 A/m ^2 and moment of inertia 5$\u00d7$10 ^$\u2212$6 kg m ^2 . If it performs 10 complete oscillations in 5 seconds then the magnitude of the magnetic field is _______________ mT. [Take$\u03c0$^2 as 9.85]",
+        "options": [],
+        "answer": "8",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-a-uniform-magnetic-field-the-magnetic-needle-has-a-magne-jee-main-physics-units-and-measurements-zrxnz1uijtg6ghsu",
+        "is_numerical": true,
+        "sub_topic": "Dipole: Oscillation",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Magnetic field from time period"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 12th April Morning Shift",
+        "question": "A compass needle oscillates 20 times per minute at a place where the dip is$30\u2218$and 30 times per minute where the dip is$60\u2218$. The ratio of total magnetic field due to the earth at two places respectively is$4x$. The value of$x$is",
+        "options": [],
+        "answer": "243",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-compass-needle-oscillates-20-times-per-minute-at-a-plac-jee-main-physics-motion-xqv5z3dzadtdh6jg",
+        "is_numerical": true,
+        "sub_topic": "Dipole: Oscillation",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Frequency dip angle ratio"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th July Morning Shift",
+        "question": "The value of aluminium susceptibility is 2.2$\u00d7$10 ^$\u2212$5 . The percentage increase in the magnetic field if space within a current carrying toroid is filled with aluminium is$x104$. Then the value of x is _________________.",
+        "options": [],
+        "answer": "22",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-value-of-aluminium-susceptibility-is-22-times-10s-jee-main-physics-units-and-measurements-rvtdoykllq0msnz2",
+        "is_numerical": true,
+        "sub_topic": "Material: Susceptibility",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Percentage field increase toroid"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 10th April Morning Shift",
+        "question": "The current required to be passed through a solenoid of 15 cm length and 60 turns in order of demagnetise a bar magnet of magnetic intensity$2.4\u00d7103 Am\u22121$is ___________ A.",
+        "options": [],
+        "answer": "6",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-current-required-to-be-passed-through-a-solenoid-of-1-jee-main-physics-motion-d0ueujqnyuifeisl",
+        "is_numerical": true,
+        "sub_topic": "Material: Ferromagnetism",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Coercivity demagnetizing current"
+    }
+]

@@ -1,0 +1,1290 @@
+[
+    {
+        "metadata": "JEE Main",
+        "question": "A particle of charge$1.6\u03bcC$and mass$16\u03bc g$is present in a strong magnetic field of 6.28 T . The particle is then fired perpendicular to magnetic field. The time required for the particle to return to original location for the first time is _________ s.$(\u03c0=3.14)$",
+        "options": [],
+        "answer": "0",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-particle-of-charge-16-mu-mathrmc-and-mass-16-m-jee-main-physics-units-and-measurements-k1kgrsnvspqp0agd",
+        "is_numerical": true,
+        "sub_topic": "Dynamics: Charged Particle Period",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Period in uniform B-field"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 29th January Morning Shift",
+        "question": "A body of mass \u2018m\u2019 connected to a massless and unstretchable string goes in vertical circle of radius \u2018R\u2019 under gravity g. The other end of the string is fixed at the center of circle. If velocity at top of circular path is$ngR$, where, n \u2265 1, then ratio of kinetic energy of the body at bottom to that at top of the circle is :",
+        "options": [
+            "$n2+4n2$",
+            "$n+4n$",
+            "$n2n2+4$",
+            "$nn+4$"
+        ],
+        "answer": "$n2+4n2$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-body-of-mass-m-connected-to-a-massless-and-unstretcha-jee-main-physics-aen1zuyhnx9sky4p",
+        "is_numerical": false,
+        "sub_topic": "Vertical: String KE Ratio",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Energy conservation vertical circle"
+    },
+    {
+        "metadata": "JEE Main",
+        "question": "A wheel is rolling on a plane surface. The speed of a particle on the highest point of the rim is$8 m/s$. The speed of the particle on the rim of the wheel at the same level as the centre of wheel, will be :",
+        "options": [
+            "$42 m/s$",
+            "$8 m/s$",
+            "$4 m/s$",
+            "$82 m/s$"
+        ],
+        "answer": "$42 m/s$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9rrkmm0/087c268e-2469-4077-81d6-ebedada426b0/57adef80-1f10-11f0-9588-0d31893f02ea/file-jaoe38c1m9rrkmm1.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-wheel-is-rolling-on-a-plane-surface-the-speed-of-a-par-jee-main-physics-units-and-measurements-awteodrbppoq7cai",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Pure Rolling Speeds",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Velocity vector pure rolling"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 8th April Morning Shift",
+        "question": "A clock has$75 cm,60 cm$long second hand and minute hand respectively. In 30 minutes duration the tip of second hand will travel$x$distance more than the tip of minute hand. The value of$x$in meter is nearly (Take$\u03c0=3.14$) :",
+        "options": [
+            "118.9",
+            "140.5",
+            "139.4",
+            "220.0"
+        ],
+        "answer": "139.4",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-clock-has-75-mathrmcm-60-mathrmcm-long-sec-jee-main-physics-motion-trsrmczsfrqppc8t",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Clock Hand Distance",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Arc length angular displacement"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 2nd April Evening Shift",
+        "question": "A sportsman runs around a circular track of radius$r$such that he traverses the path$ABAB$. The distance travelled and displacement, respectively, are [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9fqg1fw/179171f9-902c-40e7-aeef-d7ba24201eff/872b0fd0-1872-11f0-a7dd-51762233016a/file-jaoe38c1m9fqg1fx.png?format=png]",
+        "options": [
+            "$\u03c0r,3r$",
+            "$2r,3\u03c0r$",
+            "$3\u03c0r,2r$",
+            "$3\u03c0r,\u03c0r$"
+        ],
+        "answer": "$3\u03c0r,2r$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9fqg1fw/179171f9-902c-40e7-aeef-d7ba24201eff/872b0fd0-1872-11f0-a7dd-51762233016a/file-jaoe38c1m9fqg1fx.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-sportsman-runs-around-a-circular-track-of-radius-r-such-jee-main-physics-units-and-measurements-018v4cugtjmijabn",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Arc vs Chord",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Distance displacement 3/4 circle"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 6th April Evening Shift",
+        "question": "A car of$800 kg$is taking turn on a banked road of radius$300 m$and angle of banking$30\u2218$. If coefficient of static friction is 0.2 then the maximum speed with which car can negotiate the turn safely:$(g=10 m/s2,3=1.73)$",
+        "options": [
+            "51.4 m/s",
+            "102.8 m/s",
+            "70.4 m/s",
+            "264 m/s"
+        ],
+        "answer": "51.4 m/s",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-car-of-800-mathrmkg-is-taking-turn-on-a-banked-jee-main-physics-motion-yev9xfzzbvy7oh6v",
+        "is_numerical": false,
+        "sub_topic": "Dynamics: Max Speed Banked (Friction)",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Centripetal force with friction"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 22nd January Morning Shift",
+        "question": "A bob of mass$m$is suspended at a point$O$by a light string of length$l$and left to perform vertical motion (circular) as shown in figure. Initially, by applying horizontal velocity$v0$at the point ' A ', the string becomes slack when, the bob reaches at the point '$D$'. The ratio of the kinetic energy of the bob at the points B and C is _________. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6qoyrda/477f7f81-331c-4b14-adc3-3235c1a150eb/b68252e0-e314-11ef-8161-69fc95b6cece/file-jaoe38c1m6qoyrdb.png?format=png]",
+        "options": [
+            "4",
+            "1",
+            "2",
+            "3"
+        ],
+        "answer": "2",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6qoyrda/477f7f81-331c-4b14-adc3-3235c1a150eb/b68252e0-e314-11ef-8161-69fc95b6cece/file-jaoe38c1m6qoyrdb.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m7sl4gxz/a7445784-ab82-46c4-b66f-3cfd8c1d9473/7978cd70-f7eb-11ef-8b6d-918145ecd91c/file-jaoe38c1m7sl4gy0.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-bob-of-mass-m-is-suspended-at-a-point-o-by-a-light-jee-main-physics-units-and-measurements-zz3h8h1mrvglerhy",
+        "is_numerical": false,
+        "sub_topic": "Vertical: Energy Ratio Critical Points",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Energy conservation slack point"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 24th January Morning Shift",
+        "question": "A car of mass '$m$' moves on a banked road having radius '$r$' and banking angle$\u03b8$. To avoid slipping from banked road, the maximum permissible speed of the car is$v0$. The coefficient of friction$\u03bc$between the wheels of the car and the banked road is",
+        "options": [
+            "$\u03bc=v02+rgtan\u2061\u03b8rg+v02tan\u2061\u03b8$",
+            "$\u03bc=v02\u2212rgtan\u2061\u03b8rg\u2212vo2tan\u2061\u03b8$",
+            "$\u03bc=v02\u2212rgtan\u2061\u03b8rg+v02tan\u2061\u03b8$",
+            "$\u03bc=vo2+rgtan\u2061\u03b8rg\u2212vo2tan\u2061\u03b8$"
+        ],
+        "answer": "$\u03bc=v02\u2212rgtan\u2061\u03b8rg+v02tan\u2061\u03b8$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-car-of-mass--m--moves-on-a-banked-road-having-radiu-jee-main-physics-units-and-measurements-nehr0xyabsu39wmg",
+        "is_numerical": false,
+        "sub_topic": "Dynamics: Coefficient from Max Speed",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Max speed banked road formula"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 22nd January Evening Shift",
+        "question": "A body of mass 100 g is moving in circular path of radius 2 m on vertical plane as shown in figure. The velocity of the body at point$A$is$10 m/s$. The ratio of its kinetic energies at point B and C is : [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6rdth2u/1509809a-7f99-41c1-8178-687da3b29a9e/e7be4560-e375-11ef-ab94-bb713ae2a9d6/file-jaoe38c1m6rdth2v.png?format=png] (Take acceleration due to gravity as$10 m/s2$)",
+        "options": [
+            "$3\u221222$",
+            "$2+33$",
+            "$2+23$",
+            "$3+32$"
+        ],
+        "answer": "$3+32$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6rdth2u/1509809a-7f99-41c1-8178-687da3b29a9e/e7be4560-e375-11ef-ab94-bb713ae2a9d6/file-jaoe38c1m6rdth2v.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m7g1bk2z/3bca6c46-862a-4379-9e59-31a64737f455/a02f43b0-f104-11ef-afc4-279cdb88492c/file-jaoe38c1m7g1bk30.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-body-of-mass-100-g-is-moving-in-circular-path-of-radius-jee-main-physics-units-and-measurements-jshhjlkkhsznc9ab",
+        "is_numerical": false,
+        "sub_topic": "Vertical: Energy Ratio General Points",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Energy conservation general point"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 4th April Evening Shift",
+        "question": "A cyclist starts from the point$P$of a circular ground of radius$2 km$and travels along its circumference to the point$S$. The displacement of a cyclist is: [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1lv1s4woi/c1aaf40a-7a12-4206-aab9-8186ad413737/23738520-fb9b-11ee-aecf-73c37d9c3a58/file-1lv1s4woj.png?format=png]",
+        "options": [
+            "$8$km",
+            "4 km",
+            "6 km",
+            "8 km"
+        ],
+        "answer": "$8$km",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lv1s4woi/c1aaf40a-7a12-4206-aab9-8186ad413737/23738520-fb9b-11ee-aecf-73c37d9c3a58/file-1lv1s4woj.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-cyclist-starts-from-the-point-p-of-a-circular-groun-jee-main-physics-motion-zudkntm4wqqxbyk9",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Arc vs Chord",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Displacement at 3/4 circle"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 5th April Evening Shift",
+        "question": "A man carrying a monkey on his shoulder does cycling smoothly on a circular track of radius$9 m$and completes 120 resolutions in 3 minutes. The magnitude of centripetal acceleration of monkey is (in$m/s2$) :",
+        "options": [
+            "$4\u03c02 ms\u22122$",
+            "$16\u03c02 ms\u22122$",
+            "$57600\u03c02 ms\u22122$",
+            "Zero"
+        ],
+        "answer": "$16\u03c02 ms\u22122$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-man-carrying-a-monkey-on-his-shoulder-does-cycling-smoo-jee-main-physics-motion-20pzqwh9m0efljuq",
+        "is_numerical": false,
+        "sub_topic": "Dynamics: Centripetal Acceleration (w)",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "a = omega squared R"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 1st February Morning Shift",
+        "question": "A ball of mass$0.5 kg$is attached to a string of length$50 cm$. The ball is rotated on a horizontal circular path about its vertical axis. The maximum tension that the string can bear is$400 N$. The maximum possible value of angular velocity of the ball in$rad/s$is, :",
+        "options": [
+            "1600",
+            "20",
+            "40",
+            "1000"
+        ],
+        "answer": "40",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-ball-of-mass-05-mathrmkg-is-attached-to-a-string-of-jee-main-physics-qqs9hd3ndhij8tpi",
+        "is_numerical": false,
+        "sub_topic": "Dynamics: Max Angular Velocity",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Max tension centripetal force"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 1st February Morning Shift",
+        "question": "A particle moving in a circle of radius$R$with uniform speed takes time$T$to complete one revolution. If this particle is projected with the same speed at an angle$\u03b8$to the horizontal, the maximum height attained by it is equal to$4R$. The angle of projection$\u03b8$is then given by :",
+        "options": [
+            "$sin\u22121\u2061[2gT2\u03c02R]12$",
+            "$sin\u22121\u2061[\u03c02R2gT2]12$",
+            "$cos\u22121\u2061[\u03c0R2gT2]12$",
+            "$cos\u22121\u2061[2gT2\u03c02R]12$"
+        ],
+        "answer": "$sin\u22121\u2061[2gT2\u03c02R]12$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-particle-moving-in-a-circle-of-radius-mathrmr-with-un-jee-main-physics-ptsosavvkumgpmaf",
+        "is_numerical": false,
+        "sub_topic": "Mixed-Concept: Circular & Projectile",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Centripetal velocity projectile height"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 29th January Evening Shift",
+        "question": "A stone of mass$900 g$is tied to a string and moved in a vertical circle of radius$1 m$making$10 rpm$. The tension in the string, when the stone is at the lowest point is (if$\u03c02=9.8$and$g=9.8 m/s2$) :",
+        "options": [
+            "17.8 N",
+            "97 N",
+            "9.8 N",
+            "8.82 N"
+        ],
+        "answer": "9.8 N",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/6y3zli1lsr7p1jk/c47a89d4-e629-47c6-95c2-1f208c4603e0/ee6d4810-ce32-11ee-9412-cd4f9c6f2c40/file-6y3zli1lsr7p1jl.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-stone-of-mass-900-mathrmg-is-tied-to-a-string-a-jee-main-physics-motion-gl5erqssg2bsgts9",
+        "is_numerical": false,
+        "sub_topic": "Vertical: Tension Lowest Point",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Tension sum at bottom"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 31st January Morning Shift",
+        "question": "A coin is placed on a disc. The coefficient of friction between the coin and the disc is$\u03bc$. If the distance of the coin from the center of the disc is$r$, the maximum angular velocity which can be given to the disc, so that the coin does not slip away, is :",
+        "options": [
+            "$r\u03bcg$",
+            "$\u03bcgr$",
+            "$\u03bcgr$",
+            "$\u03bcrg$"
+        ],
+        "answer": "$\u03bcgr$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/6y3zli1lsluc3m3/d6f96f5a-f4c4-4f9b-a47b-e687d115c288/c494a1b0-cb3e-11ee-ad47-a16d1086e690/file-6y3zli1lsluc3m4.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-coin-is-placed-on-a-disc-the-coefficient-of-friction-b-jee-main-physics-motion-nb67jbe3tjqucdu2",
+        "is_numerical": false,
+        "sub_topic": "Dynamics: Max Angular Velocity (Friction)",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Friction equals centripetal force"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 29th January Morning Shift",
+        "question": "If the radius of curvature of the path of two particles of same mass are in the ratio$3:4$, then in order to have constant centripetal force, their velocities will be in the ratio of :",
+        "options": [
+            "$1:3$",
+            "$2:3$",
+            "$3:2$",
+            "$3:1$"
+        ],
+        "answer": "$3:2$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pif-the-radius-of-curvature-of-the-path-of-two-particles-o-jee-main-physics-units-and-measurements-uwkoe9neuzk96z0c",
+        "is_numerical": false,
+        "sub_topic": "Dynamics: Centripetal Velocity Ratio",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Centripetal force R/v relation"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 11th April Morning Shift",
+        "question": "A coin placed on a rotating table just slips when it is placed at a distance of$1 cm$from the center. If the angular velocity of the table in halved, it will just slip when placed at a distance of _________ from the centre :",
+        "options": [
+            "1 cm",
+            "8 cm",
+            "4 cm",
+            "2 cm"
+        ],
+        "answer": "4 cm",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-coin-placed-on-a-rotating-table-just-slips-when-it-is-p-jee-main-physics-motion-qndkyiimqeo2a98n",
+        "is_numerical": false,
+        "sub_topic": "Dynamics: Slip Radius Scaling",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Max R inverse w squared"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 27th January Morning Shift",
+        "question": "A train is moving with a speed of$12 m/s$on rails which are$1.5 m$apart. To negotiate a curve radius$400 m$, the height by which the outer rail should be raised with respect to the inner rail is (Given,$g=10 m/s2)$:",
+        "options": [
+            "6.0 cm",
+            "5.4 cm",
+            "4.8 cm",
+            "4.2 cm"
+        ],
+        "answer": "5.4 cm",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/6y3zli1lscudf4i/53002a9a-3b22-4fee-9d31-e8f7de906502/db6ffb20-c64b-11ee-9d8b-f1be86a1b2f3/file-6y3zli1lscudf4j.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-train-is-moving-with-a-speed-of-12-mathrmm--mat-jee-main-physics-motion-fiqos0rzolpdccz9",
+        "is_numerical": false,
+        "sub_topic": "Dynamics: Banking Height",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Banking tan theta formula"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 6th April Evening Shift",
+        "question": "As shown in the figure, a particle is moving with constant speed$\u03c0 m/s$. Considering its motion from$A$to$B$, the magnitude of the average velocity is : [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1lh5odxbz/ec1420f6-521b-4334-826d-cab133e5fa6f/950378f0-e894-11ed-8179-292e62481b94/file-1lh5odxc0.png?format=png]",
+        "options": [
+            "$\u03c0 m/s$",
+            "$1.53 m/s$",
+            "$3 m/s$",
+            "$23 m/s$"
+        ],
+        "answer": "$1.53 m/s$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lh5odxbz/ec1420f6-521b-4334-826d-cab133e5fa6f/950378f0-e894-11ed-8179-292e62481b94/file-1lh5odxc0.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lh5odxbz/ec1420f6-521b-4334-826d-cab133e5fa6f/950378f0-e894-11ed-8179-292e62481b94/file-1lh5odxc0.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pas-shown-in-the-figure-a-particle-is-moving-with-constan-jee-main-physics-motion-btnlyy0fu7m4qljh",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Average Velocity Arc",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Displacement divided by time"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 29th January Evening Shift",
+        "question": "An object moves at a constant speed along a circular path in a horizontal plane with center at the origin. When the object is at$x=+2 m$, its velocity is$\u22124j^$m/s. The object's velocity (v) and acceleration (a) at$x=\u22122 m$will be",
+        "options": [
+            "$v=4i^ m/s,a=8j^ m/s2$",
+            "$v=4j^ m/s,a=8i^ m/s2$",
+            "$v=\u22124i^ m/s,a=\u22128j^ m/s2$",
+            "$v=\u22124j^ m/s,a=8i^ m/s2$"
+        ],
+        "answer": "$v=4j^ m/s,a=8i^ m/s2$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1let35sjj/457e1035-e46d-40a0-b724-d3dc666cfc52/bc939de0-ba0f-11ed-bf62-29125e0e0d77/file-1let35sjk.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-object-moves-at-a-constant-speed-along-a-circular-path-jee-main-physics-motion-jy6rsnczmr7uqvid",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Vector V & A",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "V is tangent A is radial"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 6th April Morning Shift",
+        "question": "A small block of mass$100 g$is tied to a spring of spring constant$7.5 N/m$and length$20 cm$. The other end of spring is fixed at a particular point A. If the block moves in a circular path on a smooth horizontal surface with constant angular velocity$5 rad/s$about point$A$, then tension in the spring is -",
+        "options": [
+            "0.50 N",
+            "1.5 N",
+            "0.75 N",
+            "0.25 N"
+        ],
+        "answer": "0.75 N",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-small-block-of-mass-100-mathrmg-is-tied-to-a-sp-jee-main-physics-motion-czog5rwvxfyrrog6",
+        "is_numerical": false,
+        "sub_topic": "Dynamics: Horizontal Spring",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Spring force equals centripetal"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 6th April Morning Shift",
+        "question": "A particle is moving with constant speed in a circular path. When the particle turns by an angle$90\u2218$, the ratio of instantaneous velocity to its average velocity is$\u03c0:x2$. The value of$x$will be -",
+        "options": [
+            "1",
+            "7",
+            "5",
+            "2"
+        ],
+        "answer": "2",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-particle-is-moving-with-constant-speed-in-a-circular-pa-jee-main-physics-motion-u8nobt3dfzf6mw1a",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Average vs Instantaneous",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Average velocity magnitude formula"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 13th April Evening Shift",
+        "question": "A vehicle of mass$200 kg$is moving along a levelled curved road of radius$70 m$with angular velocity of$0.2 rad/s$. The centripetal force acting on the vehicle is:",
+        "options": [
+            "$560 N$",
+            "$14 N$",
+            "$2800 N$",
+            "$2240 N$"
+        ],
+        "answer": "$560 N$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-vehicle-of-mass-200-mathrmkg-is-moving-along-a-jee-main-physics-motion-lm77xv8uyj2mpg2v",
+        "is_numerical": false,
+        "sub_topic": "Dynamics: Centripetal Force (w)",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Centripetal force formula"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 31st January Evening Shift",
+        "question": "A stone of mass$1 kg$is tied to end of a massless string of length$1 m$. If the breaking tension of the string is$400 N$, then maximum linear velocity, the stone can have without breaking the string, while rotating in horizontal plane, is :",
+        "options": [
+            "$20 ms\u22121$",
+            "$40 ms\u22121$",
+            "$400 ms\u22121$",
+            "$10 ms\u22121$"
+        ],
+        "answer": "$20 ms\u22121$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lebeg1j0/b8d95c72-61ba-4228-898f-b8c4675e71f6/c25718b0-b055-11ed-b17f-e3e679a04034/file-1lebeg1j1.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-stone-of-mass-1-mathrmkg-is-tied-to-end-of-a-massles-jee-main-physics-t0lxo2tcwklfxip8",
+        "is_numerical": false,
+        "sub_topic": "Dynamics: Max Linear Velocity",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Max tension centripetal force"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 24th January Evening Shift",
+        "question": "A body of mass 200g is tied to a spring of spring constant 12.5 N/m, while the other end of spring is fixed at point O. If the body moves about O in a circular path on a smooth horizontal surface with constant angular speed 5 rad/s. Then the ratio of extension in the spring to its natural length will be :",
+        "options": [
+            "1 : 2",
+            "2 : 3",
+            "2 : 5",
+            "1 : 1"
+        ],
+        "answer": "2 : 3",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1le4a1hbu/cf5132ff-fd3d-4892-a446-59d2b498fbb0/0c58ae90-ac6b-11ed-8b11-cb59760cfd30/file-1le4a1hbv.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-body-of-mass-200g-is-tied-to-a-spring-of-spring-constan-jee-main-physics-motion-urde94d64pzvn0oq",
+        "is_numerical": false,
+        "sub_topic": "Dynamics: Horizontal Spring Extension",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Spring force equilibrium R/r0"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 29th January Morning Shift",
+        "question": "A car is moving on a horizontal curved road with radius 50 m. The approximate maximum speed of car will be, if friction between tyres and road is 0.34. [take g = 10 ms$\u22122$]",
+        "options": [
+            "3.4 ms$\u22121$",
+            "13 ms$\u22121$",
+            "22.4 ms$\u22121$",
+            "17 ms$\u22121$"
+        ],
+        "answer": "13 ms$\u22121$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-car-is-moving-on-a-horizontal-curved-road-with-radius-5-jee-main-physics-motion-nlmkg7zwvqa4esim",
+        "is_numerical": false,
+        "sub_topic": "Dynamics: Max Speed (Friction)",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Max speed friction centripetal"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 25th January Morning Shift",
+        "question": "A car is moving with a constant speed of 20 m/s in a circular horizontal track of radius 40 m. A bob is suspended from the roof of the car by a massless string. The angle made by the string with the vertical will be : (Take g = 10 m/s$2$)",
+        "options": [
+            "$\u03c02$",
+            "$\u03c06$",
+            "$\u03c04$",
+            "$\u03c03$"
+        ],
+        "answer": "$\u03c04$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1le5jfhmh/21063d45-0704-4c91-a742-33934be23a35/8cb70e90-ad1c-11ed-8bc1-d3bd0941e5b5/file-1le5jfhmi.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1le5jhpbr/0d94830e-6fea-4c2f-a400-9ced2e09681a/ca487870-ad1c-11ed-8bc1-d3bd0941e5b5/file-1le5jhpbs.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-czar-is-moving-with-a-constant-speed-of-20-ms-in-a-cir-jee-main-physics-motion-yjypoiqhhle57mtw",
+        "is_numerical": false,
+        "sub_topic": "Dynamics: Conical Pendulum (Car)",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Angle of dangle in car"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 6th April Evening Shift",
+        "question": "A child of mass$5 kg$is going round a merry-go-round that makes 1 rotation in$3.14 s$. The radius of the merry-go-round is$2 m$. The centrifugal force on the child will be",
+        "options": [
+            "50 N",
+            "80 N",
+            "100 N",
+            "40 N"
+        ],
+        "answer": "40 N",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-child-of-mass-5-mathrmkg-is-going-round-a-merry-jee-main-physics-motion-rtbjaru40irt4pgz",
+        "is_numerical": false,
+        "sub_topic": "Dynamics: Centripetal Force (T)",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Centrifugal force formula"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 29th July Morning Shift",
+        "question": "A smooth circular groove has a smooth vertical wall as shown in figure. A block of mass m moves against the wall with a speed v. Which of the following curve represents the correct relation between the normal reaction on the block by the wall (N) and speed of the block (v) ? [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l6sabhqo/f989a45e-c253-446e-8041-22f2ca130062/37500720-1b3d-11ed-b433-d3d77037ad84/file-1l6sabhqq.png?format=png]",
+        "options": [
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l6sadqp2/47ae5ed7-0c9d-4008-994e-63584ef5c618/75d91770-1b3d-11ed-b433-d3d77037ad84/file-1l6sadqp3.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l6saegj3/44c6e82e-64c8-4528-9775-bb5b7a4f4185/89cde300-1b3d-11ed-91de-637bbeffe542/file-1l6saegj4.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l6saezha/57a4efe6-7375-455e-b937-2bfb03a58e35/987123e0-1b3d-11ed-91de-637bbeffe542/file-1l6saezhb.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l6safiwl/41607d43-a70a-45bf-ae8b-2299f1be60d2/a772b160-1b3d-11ed-91de-637bbeffe542/file-1l6safiwm.png?format=png]"
+        ],
+        "answer": "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l6sadqp2/47ae5ed7-0c9d-4008-994e-63584ef5c618/75d91770-1b3d-11ed-b433-d3d77037ad84/file-1l6sadqp3.png?format=png]",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l6sabhqo/f989a45e-c253-446e-8041-22f2ca130062/37500720-1b3d-11ed-b433-d3d77037ad84/file-1l6sabhqq.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l6sadqp2/47ae5ed7-0c9d-4008-994e-63584ef5c618/75d91770-1b3d-11ed-b433-d3d77037ad84/file-1l6sadqp3.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l6saegj3/44c6e82e-64c8-4528-9775-bb5b7a4f4185/89cde300-1b3d-11ed-91de-637bbeffe542/file-1l6saegj4.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l6saezha/57a4efe6-7375-455e-b937-2bfb03a58e35/987123e0-1b3d-11ed-91de-637bbeffe542/file-1l6saezhb.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l6safiwl/41607d43-a70a-45bf-ae8b-2299f1be60d2/a772b160-1b3d-11ed-91de-637bbeffe542/file-1l6safiwm.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-smooth-circular-groove-has-a-smooth-vertical-wall-as-sh-jee-main-physics-motion-esap7bvxqwtvsu1e",
+        "is_numerical": false,
+        "sub_topic": "Dynamics: Normal Force Graph",
+        "logic_type": "Graphical",
+        "difficulty": 3,
+        "physics_key": "Normal force equals centripetal"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 31st January Evening Shift",
+        "question": "A body is moving with constant speed, in a circle of radius$10 m$. The body completes one revolution in$4 s$. At the end of 3rd second, the displacement of body (in$m$) from its starting point is :",
+        "options": [
+            "$15\u03c0$",
+            "30",
+            "$102$",
+            "$5\u03c0$"
+        ],
+        "answer": "$102$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lebue8j4/7194737a-103a-428c-9211-c9d357a44a3e/2232b3f0-b094-11ed-a9ff-1951bbe50b73/file-1lebue8j5.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-body-is-moving-with-constant-speed-in-a-circle-of-radius-jee-main-physics-lgmaigax7omenveh",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Displacement",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Displacement over time interval"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 28th June Morning Shift",
+        "question": "A particle of mass m is moving in a circular path of constant radius r such that its centripetal acceleration (a) is varying with time t as a = k ^2 rt ^2 , where k is a constant. The power delivered to the particle by the force acting on it is given as",
+        "options": [
+            "zero",
+            "mk ^2 r ^2 t ^2",
+            "mk ^2 r ^2 t",
+            "mk ^2 rt"
+        ],
+        "answer": "mk ^2 r ^2 t",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-particle-of-mass-m-is-moving-in-a-circular-path-of-cons-jee-main-physics-motion-2m7mfqshmkdjjvyl",
+        "is_numerical": false,
+        "sub_topic": "Dynamics: Non-Uniform Power",
+        "logic_type": "Calculus",
+        "difficulty": 4,
+        "physics_key": "Power from tangential acceleration"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th July Morning Shift",
+        "question": "A person moved from A to B on a circular path as shown in figure. If the distance travelled by him is$60 m$, then the magnitude of displacement would be : (Given$cos\u2061135\u2218=\u22120.7)$[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l6eogk80/5d9cf3f1-0f36-4525-abbe-49e953a6f594/8afd8600-13c1-11ed-aaaa-fbfc70dd81e0/file-1l6eogk81.png?format=png]",
+        "options": [
+            "42 m",
+            "47 m",
+            "19 m",
+            "40 m"
+        ],
+        "answer": "47 m",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l6eogk80/5d9cf3f1-0f36-4525-abbe-49e953a6f594/8afd8600-13c1-11ed-aaaa-fbfc70dd81e0/file-1l6eogk81.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-person-moved-from-a-to-b-on-a-circular-path-as-shown-in-jee-main-physics-motion-7709kkxghmjg66xt",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Arc vs Chord",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Distance to chord displacement"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th June Evening Shift",
+        "question": "A stone tide to a spring of length L is whirled in a vertical circle with the other end of the spring at the centre. At a certain instant of time, the stone is at its lowest position and has a speed u. The magnitude of change in its velocity, as it reaches a position where the string is horizontal, is$x(u2\u2212gL)$. The value of x is -",
+        "options": [
+            "3",
+            "2",
+            "1",
+            "5"
+        ],
+        "answer": "2",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l5ifjvd9/19bdec24-cf90-42bb-9f11-b9b2b39390ea/a01583d0-0205-11ed-aa88-69f11483e075/file-1l5ifjvda.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-stone-tide-to-a-spring-of-length-l-is-whirled-in-a-vert-jee-main-physics-motion-lwev3qblrqvevfry",
+        "is_numerical": false,
+        "sub_topic": "Vertical: Change in Velocity",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Velocity change conservation vector"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th June Evening Shift",
+        "question": "A disc with a flat small bottom beaker placed on it at a distance R from its center is revolving about an axis passing through the center and perpendicular to its plane with an angular velocity$\u03c9$. The coefficient of static friction between the bottom of the beaker and the surface of the disc is$\u03bc$. The beaker will revolve with the disc if :",
+        "options": [
+            "$R\u2264\u03bcg2\u03c92$",
+            "$R\u2264\u03bcg\u03c92$",
+            "$R\u2265\u03bcg2\u03c92$",
+            "$R\u2265\u03bcg\u03c92$"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-disc-with-a-flat-small-bottom-beaker-placed-on-it-at-a-jee-main-physics-motion-esfupxaj8c0huoyb",
+        "is_numerical": false,
+        "sub_topic": "Dynamics: Max Angular Velocity (Friction)",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Friction force maximum condition"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 24th June Evening Shift",
+        "question": "A stone of mass m, tied to a string is being whirled in a vertical circle with a uniform speed. The tension in the string is",
+        "options": [
+            "the same throughout the motion.",
+            "minimum at the highest position of the circular path.",
+            "minimum at the lowest position of the circular path.",
+            "minimum when the rope is in the horizontal position."
+        ],
+        "answer": "minimum at the highest position of the circular path.",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l5l6hdcv/7e2054d6-02e0-4296-bf08-104db7f196ee/8256b6f0-0388-11ed-bfd1-873560f9d960/file-1l5l6hdcw.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-stone-of-mass-m-tied-to-a-string-is-being-whirled-in-a-jee-main-physics-motion-7ybwjt1z5shhlodi",
+        "is_numerical": false,
+        "sub_topic": "Vertical: Tension Extremes",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Tension minimum highest point"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th June Morning Shift",
+        "question": "A ball is released from rest from point P of a smooth semi-spherical vessel as shown in figure. The ratio of the centripetal force and normal reaction on the ball at point Q is A while angular position of point Q is$\u03b1$with respect to point P. Which of the following graphs represent the correct relation between A and$\u03b1$when ball goes from Q to R? [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l5bp4pgc/4b5483aa-22b7-4cb8-b790-fe9b4e2faa7d/991f8ab0-fe51-11ec-82bb-836ba7a88df1/file-1l5bp4pgd.png?format=png]",
+        "options": [
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l5bp6iwl/8caae413-17b9-45fa-a71c-27b010be4ac2/cbaecf40-fe51-11ec-b169-b5046c590266/file-1l5bp6iwm.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l5bp7ocl/972c53e9-5eb9-4a64-8383-a47a9f29d7ec/ebb2c350-fe51-11ec-b169-b5046c590266/file-1l5bp7ocm.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l5bp8nf2/8cbd51ab-5ff2-4d06-8b7d-2e73a026a3e9/06c9bae0-fe52-11ec-b169-b5046c590266/file-1l5bp8nf3.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l5bp9gfx/2aab8872-e6e9-4946-9e8f-58a0fdd37277/1d3552d0-fe52-11ec-b169-b5046c590266/file-1l5bp9gfy.png?format=png]"
+        ],
+        "answer": "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l5bp8nf2/8cbd51ab-5ff2-4d06-8b7d-2e73a026a3e9/06c9bae0-fe52-11ec-b169-b5046c590266/file-1l5bp8nf3.png?format=png]",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l5bp4pgc/4b5483aa-22b7-4cb8-b790-fe9b4e2faa7d/991f8ab0-fe51-11ec-82bb-836ba7a88df1/file-1l5bp4pgd.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l5bp6iwl/8caae413-17b9-45fa-a71c-27b010be4ac2/cbaecf40-fe51-11ec-b169-b5046c590266/file-1l5bp6iwm.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l5bp7ocl/972c53e9-5eb9-4a64-8383-a47a9f29d7ec/ebb2c350-fe51-11ec-b169-b5046c590266/file-1l5bp7ocm.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l5bp8nf2/8cbd51ab-5ff2-4d06-8b7d-2e73a026a3e9/06c9bae0-fe52-11ec-b169-b5046c590266/file-1l5bp8nf3.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l5bp9gfx/2aab8872-e6e9-4946-9e8f-58a0fdd37277/1d3552d0-fe52-11ec-b169-b5046c590266/file-1l5bp9gfy.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l5jhr5j1/302ab3e9-b1f4-4544-b636-4c3b0160e5f3/058126d0-029b-11ed-a9b8-43edceee002f/file-1l5jhr5j2.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-ball-is-released-from-rest-from-point-p-of-a-smooth-sem-jee-main-physics-motion-9zndewg576pbruov",
+        "is_numerical": false,
+        "sub_topic": "Vertical: Normal Force Graph",
+        "logic_type": "Graphical",
+        "difficulty": 4,
+        "physics_key": "Normal reaction angle dependence"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th June Evening Shift",
+        "question": "For a particle in uniform circular motion, the acceleration$a\u2192$at any point P(R,$\u03b8$) on the circular path of radius R is (when$\u03b8$is measured from the positive x-axis and v is uniform speed) :",
+        "options": [
+            "$\u2212v2Rsin\u2061\u03b8i^+v2Rcos\u2061\u03b8j^$",
+            "$\u2212v2Rcos\u2061\u03b8i^+v2Rsin\u2061\u03b8j^$",
+            "$\u2212v2Rcos\u2061\u03b8i^\u2212v2Rsin\u2061\u03b8j^$",
+            "$\u2212v2Ri^+v2Rj^$"
+        ],
+        "answer": "$\u2212v2Rcos\u2061\u03b8i^\u2212v2Rsin\u2061\u03b8j^$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l5kpo2ny/38be5e44-dc63-4c88-be0c-45cfdf5a0089/c18c12d0-0346-11ed-8429-27c3de0e24ff/file-1l5kpo2nz.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pfor-a-particle-in-uniform-circular-motion-the-accelerati-jee-main-physics-motion-qvijanub49llfidf",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Vector",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Centripetal vector components"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 24th June Evening Shift",
+        "question": "A fly wheel is accelerated uniformly from rest and rotates through 5 rad in the first second. The angle rotated by the fly wheel in the next second, will be :",
+        "options": [
+            "7.5 rad",
+            "15 rad",
+            "20 rad",
+            "30 rad"
+        ],
+        "answer": "15 rad",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-fly-wheel-is-accelerated-uniformly-from-rest-and-rotate-jee-main-physics-motion-kubbbnnqabo6wn4n",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Angular",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Uniform angular acceleration"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 24th June Morning Shift",
+        "question": "A boy ties a stone of mass 100 g to the end of a 2 m long string and whirls it around in a horizontal plane. The string can withstand the maximum tension of 80 N. If the maximum speed with which the stone can revolve is$K\u03c0$rev./min. The value of K is : (Assume the string is massless and unstretchable)",
+        "options": [
+            "400",
+            "300",
+            "600",
+            "800"
+        ],
+        "answer": "600",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-boy-ties-a-stone-of-mass-100-g-to-the-end-of-a-2-m-long-jee-main-physics-motion-kfuspjctmv3zl0mj",
+        "is_numerical": false,
+        "sub_topic": "Dynamics: Max Angular Velocity",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Max RPM from tension"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 27th August Morning Shift",
+        "question": "A huge circular arc of length 4.4 ly subtends an angle '4s' at the centre of the circle. How long it would take for a body to complete 4 revolution if its speed is 8 AU per second? Given : 1 ly = 9.46$\u00d7$10 ^15 m 1 AU = 1.5$\u00d7$10 ^11 m",
+        "options": [
+            "4.1$\u00d7$10 ^8 s",
+            "4.5$\u00d7$10 ^10 s",
+            "3.5$\u00d7$10 ^6 s",
+            "7.2$\u00d7$10 ^8 s"
+        ],
+        "answer": "4.5$\u00d7$10 ^10 s",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-huge-circular-arc-of-length-44-ly-subtends-an-angle-4s-jee-main-physics-units-and-measurements-ozetevstcjih8ogd",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Units Conversion",
+        "logic_type": "Template",
+        "difficulty": 4,
+        "physics_key": "Arc length conversion complex units"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 18th March Evening Shift",
+        "question": "A particle of mass m moves in a circular orbit under the central potential field,$U(r)=\u2212Cr$, where C is a positive constant. The correct radius$\u2212$velocity graph of the particle's motion is :",
+        "options": [
+            "[IMAGE: https://imagex.cdn.examgoal.net/1kmnktt5m/16d06e68-2bc4-4c5d-a0a7-981ea9a3b022/112903a0-8cb2-11eb-bb7d-75e16383db04/file-1kmnktt5n.jpg]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/1kmnktlwd/92cc9055-dd93-45c2-acab-c9b2823e7de9/0b8decd0-8cb2-11eb-bb7d-75e16383db04/file-1kmnktlwe.jpg]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/1kmnkte32/c2f42ffb-1910-4bfa-9da8-788b34140980/0584aae0-8cb2-11eb-bb7d-75e16383db04/file-1kmnkte33.jpg]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/1kmnkt6bf/e7a2fc99-4bff-40c5-90dd-c0c14f3fbb8d/ff8490b0-8cb1-11eb-bb7d-75e16383db04/file-1kmnkt6bg.jpg]"
+        ],
+        "answer": "[IMAGE: https://imagex.cdn.examgoal.net/1kmnktlwd/92cc9055-dd93-45c2-acab-c9b2823e7de9/0b8decd0-8cb2-11eb-bb7d-75e16383db04/file-1kmnktlwe.jpg]",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1kmnktt5m/16d06e68-2bc4-4c5d-a0a7-981ea9a3b022/112903a0-8cb2-11eb-bb7d-75e16383db04/file-1kmnktt5n.jpg",
+            "https://imagex.cdn.examgoal.net/1kmnktlwd/92cc9055-dd93-45c2-acab-c9b2823e7de9/0b8decd0-8cb2-11eb-bb7d-75e16383db04/file-1kmnktlwe.jpg",
+            "https://imagex.cdn.examgoal.net/1kmnkte32/c2f42ffb-1910-4bfa-9da8-788b34140980/0584aae0-8cb2-11eb-bb7d-75e16383db04/file-1kmnkte33.jpg",
+            "https://imagex.cdn.examgoal.net/1kmnkt6bf/e7a2fc99-4bff-40c5-90dd-c0c14f3fbb8d/ff8490b0-8cb1-11eb-bb7d-75e16383db04/file-1kmnkt6bg.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-particle-of-mass-m-moves-in-a-circular-orbit-under-the-cen-jee-main-physics-units-and-measurements-bhno3bus6r6rgxwk",
+        "is_numerical": false,
+        "sub_topic": "Dynamics: Non-Uniform Potential",
+        "logic_type": "Graphical",
+        "difficulty": 4,
+        "physics_key": "Velocity radius potential graph"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th August Evening Shift",
+        "question": "A particle of mass m is suspended from a ceiling through a string of length L. The particle moves in a horizontal circle of radius r such that$r=L2$. The speed of particle will be :",
+        "options": [
+            "$rg$",
+            "$2rg$",
+            "$2rg$",
+            "$rg2$"
+        ],
+        "answer": "$rg$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1ktfoq5ps/e8c91de7-2547-4c8b-858d-87ba9ff9bcf9/8e998700-12f0-11ec-8d38-4de1d1c65611/file-1ktfoq5pt.jpeg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-particle-of-mass-m-is-suspended-from-a-ceiling-through-a-s-jee-main-physics-units-and-measurements-l9p0yz1tcn8zptp1",
+        "is_numerical": false,
+        "sub_topic": "Dynamics: Conical Pendulum",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Conical pendulum speed radius"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 20th July Morning Shift",
+        "question": "The normal reaction 'N' for a vehicle of 800 kg mass, negotiating a turn on a 30$\u2218$banked road at maximum possible speed without skidding is ____________$\u00d7$10 ^3 kg m/s ^2 . [Given cos30$\u2218$= 0.87,$\u03bc$_s = 0.2]",
+        "options": [
+            "12.4",
+            "7.2",
+            "6.96",
+            "10.2"
+        ],
+        "answer": "10.2",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1kxofybix/398719e0-82dc-4102-981e-6996580a7696/2ac253a0-66f2-11ec-9866-0df874a38238/file-1kxofybiy.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/the-normal-reaction-n-for-a-vehicle-of-800-kg-mass-negoti-jee-main-physics-units-and-measurements-ck8e57mtkgvnaufc",
+        "is_numerical": false,
+        "sub_topic": "Dynamics: Banked Road Normal",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Normal force with max friction"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 16th March Evening Shift",
+        "question": "Statement I : A cyclist is moving on an unbanked road with a speed of 7 kmh ^$\u2212$1 and takes a sharp circular turn along a path of radius of 2m without reducing the speed. The static friction coefficient is 0.2. The cyclist will not slip and pass the curve. (g = 9.8 m/s ^2 ) Statement II : If the road is banked at an angle of 45$\u2218$, cyclist can cross the curve of 2m radius with the speed of 18.5 kmh ^$\u2212$1 without slipping. In the light of the above statements, choose the correct answer from the options given below.",
+        "options": [
+            "Statement I is incorrect and statement II is correct",
+            "Both statement I and statement II are true",
+            "Statement I is correct and statement II is incorrect",
+            "Both statement I and statement II are false"
+        ],
+        "answer": "Both statement I and statement II are true",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/statement-i--a-cyclist-is-moving-on-an-unbanked-road-with-a-jee-main-physics-units-and-measurements-eh1l0flywfhydk7m",
+        "is_numerical": false,
+        "sub_topic": "Dynamics: Banked Road Statements",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Unbanked banked max speed"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 17th March Morning Shift",
+        "question": "A modern grand - prix racing car of mass m is travelling on a flat track in a circular arc of radius R with a speed v. If the coefficient of static friction between the tyres and the track is$\u03bc$_s , then the magnitude of negative lift F _L acting downwards on the car is : (Assume forces on the four tyres are identical and g = acceleration due to gravity) [IMAGE: https://imagex.cdn.examgoal.net/1kmk2sosl/91a4457c-1f1c-4808-a48d-2018ae58cdeb/33b56b50-8ac5-11eb-a550-a93c57882a34/file-1kmk2sosm.jpg]",
+        "options": [
+            "$m(g\u2212v2\u03bcsR)$",
+            "$\u2212m(g+v2\u03bcsR)$",
+            "$m(v2\u03bcsR\u2212g)$",
+            "$m(v2\u03bcsR+g)$"
+        ],
+        "answer": "$m(v2\u03bcsR\u2212g)$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1kmk2sosl/91a4457c-1f1c-4808-a48d-2018ae58cdeb/33b56b50-8ac5-11eb-a550-a93c57882a34/file-1kmk2sosm.jpg",
+            "https://imagex.cdn.examgoal.net/1ko7gc5pd/152dc308-d45c-40c2-8852-d3b7939e08cc/6623ec20-ab6c-11eb-b998-914ca047e327/file-1ko7gc5pe.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-modern-grand-prix-racing-car-of-mass-m-is-travelling-on-jee-main-physics-units-and-measurements-d2laicj32wbmlmo6",
+        "is_numerical": false,
+        "sub_topic": "Dynamics: Max Speed (Negative Lift)",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Friction force lift FBD"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 6th September Morning Slot",
+        "question": "A clock has a continuously moving second's hand of 0.1 m length. The average acceleration of the tip of the hand (in units of ms ^\u20132 ) is of the order of :",
+        "options": [
+            "10 ^-3",
+            "10 ^-1",
+            "10 ^-2",
+            "10 ^-4"
+        ],
+        "answer": "10 ^-3",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-clock-has-a-continuously-moving-seconds-hand-of-01-m-len-jee-main-physics-rotational-motion-dctc9wrjyzc4xpe5",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Average Acceleration",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Average acceleration vector change"
+    },
+    {
+        "metadata": "JEE Main 2017 (Online) 9th April Morning Slot",
+        "question": "A conical pendulum of length 1 m makes an angle$\u03b8$= 45 ^o w.r.t. Z-axis and moves in a circle in the XY plane. The radius of the circle is 0.4 m and its center is vertically below O. The speed of the pendulum, in its circular path, will be: (Take g = 10 ms ^\u22122 ) [IMAGE: https://imagex.cdn.examgoal.net/NydOBhIDP3af2DDfg/rP7ie0Zx4S75d64ocvp6yXPuQE94g/HUvC1Cgdkpah9IVnfjFOR8/image.png]",
+        "options": [
+            "0.4 m/s",
+            "4 m/s",
+            "0.2 m/s",
+            "2 m/s"
+        ],
+        "answer": "N/A",
+        "images": [
+            "https://imagex.cdn.examgoal.net/NydOBhIDP3af2DDfg/rP7ie0Zx4S75d64ocvp6yXPuQE94g/HUvC1Cgdkpah9IVnfjFOR8/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-conical-pendulum-of-length-1-m-makes-an-angle-theta-jee-main-physics-units-and-measurements-jscpy7gduactllri",
+        "is_numerical": false,
+        "sub_topic": "Dynamics: Conical Pendulum",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Conical pendulum tension speed"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 8th January Morning Slot",
+        "question": "A particle of mass m is fixed to one end of a light spring having force constant k and unstretched length$\u2113$. The other end is fixed. The system is given an angular speed$\u03c9$about the fixed end of the spring such that it rotates in a circle in gravity free space. Then the stretch in the spring is :",
+        "options": [
+            "$m\u2113\u03c92k\u2212m\u03c92$",
+            "$m\u2113\u03c92k\u2212m\u03c9$",
+            "$m\u2113\u03c92k+m\u03c92$",
+            "$m\u2113\u03c92k+m\u03c9$"
+        ],
+        "answer": "$m\u2113\u03c92k\u2212m\u03c92$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/7kd4dk6pdkr2r/b4e95418-1fb8-420e-8c3b-3611ca0713aa/d09a9630-50eb-11ea-b62d-51ccc5d4afb6/file-7kd4dk6pdkr2s-215w.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-particle-of-mass-m-is-fixed-to-one-end-of-a-light-spring-h-jee-main-physics-current-electricity-axwzwi9vqhbdudp5",
+        "is_numerical": false,
+        "sub_topic": "Dynamics: Spring Horizontal",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Spring force centripetal space"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 16th March Morning Shift",
+        "question": "A block of 200 g mass moves with a uniform speed in a horizontal circular groove, with vertical side walls of radius 20 cm. If the block takes 40 s to complete one round, the normal force by the side walls of the groove is :",
+        "options": [
+            "9.859$\u00d7$10 ^$\u2212$2 N",
+            "0.0314 N",
+            "9.859$\u00d7$10 ^$\u2212$4 N",
+            "6.28$\u00d7$10 ^$\u2212$3 N"
+        ],
+        "answer": "9.859$\u00d7$10 ^$\u2212$4 N",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-block-of-200-g-mass-moves-with-a-uniform-speed-in-a-horizo-jee-main-physics-units-and-measurements-nmgt0thg3noyhza1",
+        "is_numerical": false,
+        "sub_topic": "Dynamics: Normal Force",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Normal force equals centripetal"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th February Morning Shift",
+        "question": "A particle is moving with uniform speed along the circumference of a circle of radius R under the action of a central fictitious force F which is inversely proportional to R ^3 . Its time period of revolution will be given by :",
+        "options": [
+            "$T\u221dR43$",
+            "$T\u221dR52$",
+            "$T\u221dR32$",
+            "$T\u221dR2$"
+        ],
+        "answer": "$T\u221dR2$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-particle-is-moving-with-uniform-speed-along-the-circumfere-jee-main-physics-units-and-measurements-axujdnmjycjwdamg",
+        "is_numerical": false,
+        "sub_topic": "Dynamics: Fictitious Force Scaling",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Time period force power law"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 11th January Morning Slot",
+        "question": "A body is projected at t = 0 with a velocity 10 ms ^\u20131 at an angle of 60 ^o with the horizontal. The radius of curvature of its trajectory at t = 1s is R. neglecting air resistance and taking acceleration due to gravity g = 10 ms ^\u20132 , the value of R is :",
+        "options": [
+            "2.8 m",
+            "5.1 m",
+            "2.5 m",
+            "10.3 m"
+        ],
+        "answer": "2.8 m",
+        "images": [
+            "https://imagex.cdn.examgoal.net/Sk4PwroXxGHaIFa9a/hNQE4NUgp3jFHCC28nT9IVtETqWjQ/Tga2XxEPbGdJ9JYHQuPvO0/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-body-is-projected-at-t-0-with-a-velocity-10-ms1-at-a-jee-main-physics-units-and-measurements-vp4jowulj8lemlup",
+        "is_numerical": false,
+        "sub_topic": "Mixed-Concept: Projectile Curvature",
+        "logic_type": "Template",
+        "difficulty": 4,
+        "physics_key": "Radius of curvature FBD"
+    },
+    {
+        "metadata": "AIEEE 2012",
+        "question": "Two cars of masses m _1 and m _2 are moving in circles of radii r _1 and r _2 , respectively. Their speeds are such that they make complete circles in the same time t. The ratio of their centripetal acceleration is",
+        "options": [
+            "m _1 r _1 : m _2 r _2",
+            "m _1 : m _2",
+            "r _1 : r _2",
+            "1 : 1"
+        ],
+        "answer": "r _1 : r _2",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/two-cars-of-masses-m1-and-m2-are-moving-in-circles-of-radii-2012-marks-4-qutoe3ixmevywi9a.htm",
+        "is_numerical": false,
+        "sub_topic": "Dynamics: Centripetal Acceleration (T)",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Centripetal acceleration ratio period"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 11th January Morning Slot",
+        "question": "A particle is moving along a circular path with a constant speed of 10 ms ^\u20131 . What is the magnitude of the change in velocity of the particle, when it moves through an angle of 60 ^o around the centre of the circle?",
+        "options": [
+            "zero",
+            "10 m/s",
+            "$102m/s$",
+            "$103m/s$"
+        ],
+        "answer": "10 m/s",
+        "images": [
+            "https://imagex.cdn.examgoal.net/6bxoA3yP6r038PRbo/LAXoCcBwsjRGPwa7oAvvdrLB4DTKE/lN5qYtZdfqbp7pOY1S0PCb/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-particle-is-moving-along-a-circular-path-with-a-constant-s-jee-main-physics-units-and-measurements-gikrujydutrnkdzh",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Velocity Change",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Vector change in velocity"
+    },
+    {
+        "metadata": "JEE Main 2018 (Online) 15th April Evening Slot",
+        "question": "A disc rotates about its axis of symmetry in a horizontal plane at a steady rate of$3.5$revolutions per second. A coin placed at a distnce of 1.25 cm from the axis of rotation remains at rest on the disc. The coefficient of friction between the coin and the disc is : (g = 10 m/s ^2 )",
+        "options": [
+            "0.5",
+            "0.3",
+            "0.7",
+            "0.6"
+        ],
+        "answer": "0.6",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l32myl9a/2586242a-e474-4384-ab16-c8fa737101cc/a02ab3e0-d1bd-11ec-9218-efb2cf12c71b/file-1l32myl9b.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-disc-rotates-about-its-axis-of-symmetry-in-a-horizontal-pl-jee-main-physics-units-and-measurements-lnuv0mseqjqskqlr",
+        "is_numerical": false,
+        "sub_topic": "Dynamics: Max Angular Velocity (Friction)",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Friction coefficient from RPM"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 2nd September Morning Slot",
+        "question": "A bead of mass m stays at point P(a, b) on a wire bent in the shape of a parabola y = 4Cx ^2 and rotating with angular speed$\u03c9$(see figure). The value of$\u03c9$is (neglect friction) : [IMAGE: https://imagex.cdn.examgoal.net/jgy2xukev0n6nt/28d3025a-6c01-4167-b59a-b354236e1833/ac828690-f267-11ea-8293-3b6cc591631c/file-jgy2xukev0n6nu-285w.png]",
+        "options": [
+            "$22gC$",
+            "$2gC$",
+            "$2gCab$",
+            "$2gC$"
+        ],
+        "answer": "$22gC$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/jgy2xukev0n6nt/28d3025a-6c01-4167-b59a-b354236e1833/ac828690-f267-11ea-8293-3b6cc591631c/file-jgy2xukev0n6nu-285w.png",
+            "https://imagex.cdn.examgoal.net/1ki3e6y0s/6d521a9d-457f-41e1-9228-06f9aa88064e/94079fc0-3267-11eb-bf8e-9bdae134a25b/file-1ki3e6y0t-860w.jpeg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-bead-of-mass-m-stays-at-point-pa-b-on-a-wire-bent-in-th-jee-main-physics-rotational-motion-bn0ydpcxmn2z29vs",
+        "is_numerical": false,
+        "sub_topic": "Dynamics: Parabolic Bead",
+        "logic_type": "Calculus",
+        "difficulty": 4,
+        "physics_key": "Angular speed from FBD parabola"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th April Evening Slot",
+        "question": "A smooth wire of length 2$\u03c0$r is bent into a circle and kept in a vertical plane. A bead can slide smoothly on the wire. When the circle is rotating with angular speed$\u03c9$about the vertical diameter AB, as shown in figure, the bead is at rest with respect to the circular ring at position P as shown. Then the value of$\u03c9$^2 is equal to - [IMAGE: https://imagex.cdn.examgoal.net/jf762wkjxwvmwcf/9cfe4a51-7fba-4d5b-8536-a620eade241a/fac09cf0-a2dd-11e9-902e-23ffedc9804e/file-jf762wkjxwvmwcg.png]",
+        "options": [
+            "$3g2r$",
+            "$2g(r3)$",
+            "$(g3)r$",
+            "$2gr$"
+        ],
+        "answer": "$2g(r3)$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/jf762wkjxwvmwcf/9cfe4a51-7fba-4d5b-8536-a620eade241a/fac09cf0-a2dd-11e9-902e-23ffedc9804e/file-jf762wkjxwvmwcg.png",
+            "https://imagex.cdn.examgoal.net/jf762wkjxwxzoub/013c95d7-0da2-45e9-b3c2-b84e830a7914/30bbcd30-a2e7-11e9-902e-23ffedc9804e/file-jf762wkjxwxzouc.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-smooth-wire-of-length-2pi-r-is-bent-into-a-circle-and-jee-main-physics-rotational-motion-6q4ydmyxyisfhw1p",
+        "is_numerical": false,
+        "sub_topic": "Dynamics: Rotating Wire Bead",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Centripetal force from N and mg"
+    },
+    {
+        "metadata": "AIEEE 2010",
+        "question": "For a particle in uniform circular motion the acceleration$a\u2192$at a point P(R, \u03b8) on the circle of radius R is (here \u03b8 is measured from the x\u2013axis)",
+        "options": [
+            "$\u2212v2Rcos\u2061\u03b8i^+v2Rsin\u2061\u03b8j^$",
+            "$\u2212v2Rsin\u2061\u03b8i^+v2Rcos\u2061\u03b8j^$",
+            "$\u2212v2Rcos\u2061\u03b8i^\u2212v2Rsin\u2061\u03b8j^$",
+            "$v2Ri^+v2Rj^$"
+        ],
+        "answer": "$\u2212v2Rcos\u2061\u03b8i^\u2212v2Rsin\u2061\u03b8j^$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/HmIXY29n2ykxUc15r/hagQ7W7mMPP7X7WIGe5LDF1K32bHb/AySi2DBLUT5Z0w8f7vywEC/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/for-a-particle-in-uniform-circular-motion-the-acceleration-2010-marks-4-cyx8eg1zwagihpvr.htm",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Vector",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Centripetal vector components"
+    },
+    {
+        "metadata": "AIEEE 2002",
+        "question": "The minimum velocity (in$ms\u22121$) with which a car driver must traverse a flat curve of radius 150 m and coefficient of friction$0.6$to avoid skidding is",
+        "options": [
+            "$60$",
+            "$30$",
+            "$15$",
+            "$25$"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-minimum-velocity-in-ms-1-with-which-a-car-d-2002-marks-4-9xwdckxih9qnodxb.htm",
+        "is_numerical": false,
+        "sub_topic": "Dynamics: Max Speed (Friction)",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Min velocity max friction"
+    },
+    {
+        "metadata": "AIEEE 2010",
+        "question": "A point$P$moves in counter-clockwise direction on a circular path as shown in the figure. The movement of$P$is such that it sweeps out a length$s=t3+5,$where$s$is in metres and$t$is in seconds. The radius of the path is$20$$m.$The acceleration of$\u2032P\u2032$when$t=2$$s$is nearly. [IMAGE: https://imagex.cdn.examgoal.net/f0DeG8dhIwGb3ocg1/2lEIntz9FPKK9wGStzgJoDawKPaQ4/6390c9OuQ2rOKEjEg0cYv1/image.png]",
+        "options": [
+            "$13m/s2$",
+            "$12m/s2$",
+            "$7.2ms2$",
+            "$14m/s2$"
+        ],
+        "answer": "$14m/s2$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/f0DeG8dhIwGb3ocg1/2lEIntz9FPKK9wGStzgJoDawKPaQ4/6390c9OuQ2rOKEjEg0cYv1/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-point-p-moves-in-counter-clockwise-direction-on-a-circ-2010-marks-4-4cfnbjnfyjkoznxk.htm",
+        "is_numerical": false,
+        "sub_topic": "Dynamics: Non-Uniform",
+        "logic_type": "Calculus",
+        "difficulty": 4,
+        "physics_key": "Total acceleration non-uniform"
+    },
+    {
+        "metadata": "AIEEE 2004",
+        "question": "Which of the following statements is FALSE for a particle moving in a circle with a constant angular speed?",
+        "options": [
+            "The velocity vector is tangent to the circle.",
+            "The acceleration vector is tangent to the circle.",
+            "The acceleration vector points to the centre of the circle.",
+            "The velocity and acceleration vectors are perpendicular to each other."
+        ],
+        "answer": "The acceleration vector is tangent to the circle.",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/which-of-the-following-statements-is-false-for-a-particle-mo-2004-marks-4-t24lssv0vcng1ons.htm",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Vector",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "UCM acceleration direction"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 22nd January Evening Shift",
+        "question": "A tube of length 1 m is filled completely with an ideal liquid of mass 2 M , and closed at both ends. The tube is rotated uniformly in horizontal plane about one of its ends. If the force exerted by the liquid at the other end is F then angular velocity of the tube is$F\u03b1M$in SI unit. The value of$\u03b1$is _________.",
+        "options": [],
+        "answer": "1",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m7g1jzkv/1db4d41d-c413-4dec-a7ee-047a4122a610/8aa0f6f0-f105-11ef-afc4-279cdb88492c/file-jaoe38c1m7g1jzkw.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-tube-of-length-1-m-is-filled-completely-with-an-ideal-l-jee-main-physics-units-and-measurements-fo6czvwctk0w5ps7",
+        "is_numerical": true,
+        "sub_topic": "Dynamics: Fluid Centrifugal",
+        "logic_type": "Calculus",
+        "difficulty": 4,
+        "physics_key": "Fluid pressure centrifugal force"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 24th January Evening Shift",
+        "question": "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6uvauax/0c5115ed-230f-4bd9-9500-3b2bc13e7836/9fdbad90-e560-11ef-918b-9f97f398b68b/file-jaoe38c1m6uvauay.png?format=png] A string of length$L$is fixed at one end and carries a mass of$M$at the other end. The mass makes$(3\u03c0)$rotations per second about the vertical axis passing through end of the string as shown. The tension in the string is __________ ML.",
+        "options": [],
+        "answer": "36",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6uvauax/0c5115ed-230f-4bd9-9500-3b2bc13e7836/9fdbad90-e560-11ef-918b-9f97f398b68b/file-jaoe38c1m6uvauay.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m79b5y4b/08365e27-d2e1-49ad-9bf5-97accd0bded9/a2eb2cb0-ed51-11ef-b738-0f60b25bf061/file-jaoe38c1m79b5y4c.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pimg-srchttpsapp-contentfly-assetsukflywidthim-jee-main-physics-units-and-measurements-dtquj5nlqc3c2dpv",
+        "is_numerical": true,
+        "sub_topic": "Dynamics: Conical Pendulum Tension",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Tension in horizontal rotation"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 29th January Evening Shift",
+        "question": "A car is moving on a circular path of radius 600 m such that the magnitudes of the tangential acceleration and centripetal acceleration are equal. The time taken by the car to complete first quarter of revolution, if it is moving with an initial speed of 54 km/hr is$t(1\u2212e\u2212\u03c0/2)s$. The value of t is ____________.",
+        "options": [],
+        "answer": "40",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-car-is-moving-on-a-circular-path-of-radius-600-m-such-t-jee-main-physics-motion-fpsc2qqcypoy6nbs",
+        "is_numerical": true,
+        "sub_topic": "Dynamics: Non-Uniform Tangential",
+        "logic_type": "Calculus",
+        "difficulty": 5,
+        "physics_key": "Tangential acceleration time integral"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 30th June Morning Shift",
+        "question": "A person starts his journey from centre 'O' of the park and comes back to the same position following path OPQO as shown in the figure. The radius of path taken by the person is 200 m and he takes 3 min 58 sec to complete his journey. The average speed of the person is _____________ ms ^$\u2212$1 . (take$\u03c0$= 3.14) [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l5wil4iy/71002b1f-c281-4859-8696-7efa3e9c7c10/777268a0-09c4-11ed-aacd-cd06ee4162a1/file-1l5wil4iz.png?format=png]",
+        "options": [],
+        "answer": "3",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l5wil4iy/71002b1f-c281-4859-8696-7efa3e9c7c10/777268a0-09c4-11ed-aacd-cd06ee4162a1/file-1l5wil4iz.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-person-starts-his-journey-from-centre-o-of-the-park-a-jee-main-physics-motion-2qhn4x4ij4xgvkl7",
+        "is_numerical": true,
+        "sub_topic": "Kinematics: Average Speed",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Total distance average speed"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 30th January Evening Shift",
+        "question": "A stone tied to$180 cm$long string at its end is making 28 revolutions in horizontal circle in every minute. The magnitude of acceleration of stone is$1936xms\u22122$. The value of$x$________. (Take$\u03c0=227$)",
+        "options": [],
+        "answer": "125",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-stone-tied-to-180-mathrmcm-long-string-at-its-end-is-jee-main-physics-1ulhnsmydpoyc8zl",
+        "is_numerical": true,
+        "sub_topic": "Dynamics: Centripetal Acceleration (T)",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Acceleration from RPM"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 29th January Evening Shift",
+        "question": "A particle is moving in a circle of radius$50 cm$in such a way that at any instant the normal and tangential components of it's acceleration are equal. If its speed at$t=0$is$4 m/s$, the time taken to complete the first revolution will be$1\u03b1[1\u2212e\u22122\u03c0]s$, where$\u03b1=$_________.",
+        "options": [],
+        "answer": "8",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-particle-is-moving-in-a-circle-of-radius-50-mathrm-jee-main-physics-motion-wdmtq6thcbzuo77p",
+        "is_numerical": true,
+        "sub_topic": "Dynamics: Non-Uniform Tangential",
+        "logic_type": "Calculus",
+        "difficulty": 5,
+        "physics_key": "Angular velocity exponential growth"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th February Morning Shift",
+        "question": "A small bob tied at one end of a thin string of length 1 m is describing a vertical circle so that the maximum and minimum tension in the string are in the ratio 5 : 1. The velocity of the bob at the highest position is ________ m/s. (Take g = 10 m/s ^2 )",
+        "options": [],
+        "answer": "5",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1klxzdwpi/dca79f7d-95c1-48df-9efd-1e65831f2b64/9f02b760-7e9e-11eb-8383-4fc3398f351e/file-1klxzdwpj-680w.jpeg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-small-bob-tied-at-one-end-of-a-thin-string-of-length-1-m-i-jee-main-physics-units-and-measurements-o3hlnxaxgtx5szx6",
+        "is_numerical": true,
+        "sub_topic": "Vertical: Tension Ratio",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Tension difference velocity formula"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th June Evening Shift",
+        "question": "A curved in a level road has a radius 75 m. The maximum speed of a car turning this curved road can be 30 m/s without skidding. If radius of curved road is changed to 48 m and the coefficient of friction between the tyres and the road remains same, then maximum allowed speed would be ___________ m/s.",
+        "options": [],
+        "answer": "24",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-curved-in-a-level-road-has-a-radius-75-m-the-maximum-s-jee-main-physics-motion-8jeseouwa6hgw0cg",
+        "is_numerical": true,
+        "sub_topic": "Dynamics: Max Speed (Friction)",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Max speed radius scaling"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th June Morning Shift",
+        "question": "A pendulum of length 2 m consists of a wooden bob of mass 50 g. A bullet of mass 75 g is fired towards the stationary bob with a speed v. The bullet emerges out of the bob with a speed$v3$and the bob just completes the vertical circle. The value of v is ___________ ms ^$\u2212$1 . (if g = 10 m/s ^2 ).",
+        "options": [],
+        "answer": "10",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l9zxsgak/53381e88-7018-4a98-a85a-8506f2484124/239a0bc0-5ad7-11ed-8fe8-b7743a8ec2da/file-1l9zxsgal.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-pendulum-of-length-2-m-consists-of-a-wooden-bob-of-mass-jee-main-physics-motion-aftts0aqxcoccoit",
+        "is_numerical": true,
+        "sub_topic": "Mixed-Concept: Collision & Vertical",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 5,
+        "physics_key": "Momentum energy conservation critical"
+    }
+]

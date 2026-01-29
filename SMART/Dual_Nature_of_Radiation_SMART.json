@@ -1,0 +1,3454 @@
+[
+    {
+        "metadata": "JEE Main",
+        "question": "A photoemissive substance is illuminated with a radiation of wavelength$\u03bbi$so that it releases electrons with de-Broglie wavelength$\u03bbe$. The longest wavelength of radiation that can emit photoelectron is$\u03bbo$. Expression for de-Broglie wavelength is given by: (m: mass of the electron, h: Planck's constant and c: speed of light)",
+        "options": [
+            "$\u03bbe=h\u03bbi2mc$",
+            "$\u03bbe=h2mc(1\u03bbi\u22121\u03bbo)$",
+            "$\u03bbe=h2mc(1\u03bbi\u22121\u03bbo)$",
+            "$\u03bbe=h\u03bb02mc$"
+        ],
+        "answer": "$\u03bbe=h2mc(1\u03bbi\u22121\u03bbo)$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-photoemissive-substance-is-illuminated-with-a-radiation-jee-main-physics-yuadr3j9csn6yyzm",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie & Work Function",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Wavelength kinetic energy relation"
+    },
+    {
+        "metadata": "JEE Main",
+        "question": "An electron is released from rest near an infinite non-conducting sheet of uniform charge density '$\u2212\u03c3$'. The rate of change of de-Broglie wave length associated with the electron varies inversely as n ^th power of time. The numerical value of n is _____.",
+        "options": [],
+        "answer": "2",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-electron-is-released-from-rest-near-an-infinite-non-co-jee-main-physics-wb66ko2mrznvxmfb",
+        "is_numerical": true,
+        "sub_topic": "Dual Nature: De Broglie & E-Field",
+        "logic_type": "Calculus",
+        "difficulty": 4,
+        "physics_key": "Rate of change of wavelength"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 24th January Evening Shift",
+        "question": "The ratio of the power of a light source$S1$to that the light source$S2$is$2.S1$is emitting$2\u00d71015$photons per second at 600 nm . If the wavelength of the source$S2$is 300 nm , then the number of photons per second emitted by$S2$is __________$\u00d71014$.",
+        "options": [],
+        "answer": "5",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-ratio-of-the-power-of-a-light-source-s1-to-that-th-jee-main-physics-units-and-measurements-wf2psjy7tee6xy7q",
+        "is_numerical": true,
+        "sub_topic": "Dual Nature: Photons per Second",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Photons per second power ratio"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 13th April Evening Shift",
+        "question": "An atom absorbs a photon of wavelength$500 nm$and emits another photon of wavelength$600 nm$. The net energy absorbed by the atom in this process is$n\u00d710\u22124 eV$. The value of n is __________. [Assume the atom to be stationary during the absorption and emission process] (Take$h=6.6\u00d710\u221234 Js$and$c=3\u00d7108 m/s$)",
+        "options": [],
+        "answer": "4125",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-atom-absorbs-a-photon-of-wavelength-500-mathrmnm-jee-main-physics-motion-cdanwkwd0fai4jlz",
+        "is_numerical": true,
+        "sub_topic": "Dual Nature: Energy Absorption",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Net energy absorbed-emitted"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 6th April Evening Shift",
+        "question": "In Franck-Hertz experiment, the first dip in the current-voltage graph for hydrogen is observed at$10.2 V$. The wavelength of light emitted by hydrogen atom when excited to the first excitation level is ________ nm. (Given hc$=1245 eV nm,e=1.6\u00d710\u221219C$).",
+        "options": [],
+        "answer": "122",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-franck-hertz-experiment-the-first-dip-in-the-current-jee-main-physics-motion-bwgijh514lywlb53",
+        "is_numerical": true,
+        "sub_topic": "Dual Nature: Franck-Hertz",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "F-H potential wavelength relation"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 24th June Morning Shift",
+        "question": "When light of frequency twice the threshold frequency is incident on the metal plate, the maximum velocity of emitted electron is v _1 . When the frequency of incident radiation is increased to five times the threshold value, the maximum velocity of emitted electron becomes v _2 . If v _2 = x v _1 , the value of x will be __________.",
+        "options": [],
+        "answer": "2",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pwhen-light-of-frequency-twice-the-threshold-frequency-is-jee-main-physics-motion-q9gfpbquihifybtt",
+        "is_numerical": true,
+        "sub_topic": "Dual Nature: Photoelectric Velocity Ratio",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Kinetic energy velocity ratio"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th July Evening Shift",
+        "question": "A light beam of wavelength 500 nm is incident on a metal having work function of 1.25 eV, placed in a magnetic field of intensity B. The electrons emitted perpendicular to the magnetic field B, with maximum kinetic energy are bent into circular are of radius 30 cm. The value of B is ___________$\u00d7$10 ^$\u2212$7 T. Given hc = 20$\u00d7$10 ^$\u2212$26 J-m, mass of electron = 9$\u00d7$10 ^$\u2212$31 kg",
+        "options": [],
+        "answer": "125",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-light-beam-of-wavelength-500-nm-is-incident-on-a-metal-hav-jee-main-physics-units-and-measurements-tn701ju5yppa3orq",
+        "is_numerical": true,
+        "sub_topic": "Dual Nature: Mixed Magnetic Field",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Max KE magnetic radius"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th June Evening Shift",
+        "question": "The stopping potential for photoelectrons emitted from a surface illuminated by light of wavelength 6630$Ao$is 0.42 V. If the threshold frequency is x$\u00d7$10 ^13 /s, where x is _________ (nearest integer). (Given, speed light = 3$\u00d7$10 ^8 m/s, Planck's constant = 6.63$\u00d7$10 ^$\u2212$34 Js)",
+        "options": [],
+        "answer": "35",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-stopping-potential-for-photoelectrons-emitted-from-a-jee-main-physics-motion-vlgza8pdidivflnm",
+        "is_numerical": true,
+        "sub_topic": "Dual Nature: Photoelectric Effect",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Stopping potential threshold frequency"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 27th July Morning Shift",
+        "question": "A particle of mass 9.1$\u00d7$10 ^$\u2212$31 kg travels in a medium with a speed of 10 ^6 m/s and a photon of a radiation of linear momentum 10 ^$\u2212$27 kg m/s travels in vacuum. The wavelength of photon is __________ times the wavelength of the particle.",
+        "options": [],
+        "answer": "910",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-particle-of-mass-91-times-10sup-31sup-kg-tr-jee-main-physics-units-and-measurements-ypybfga3wuur17ty",
+        "is_numerical": true,
+        "sub_topic": "Dual Nature: De Broglie Comparison",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Photon de Broglie wavelength ratio"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th February Evening Shift",
+        "question": "Two stream of photons, possessing energies equal to twice and ten times the work function of metal are incident on the metal surface successively. The value of ratio of maximum velocities of the photoelectrons emitted in the two respective cases is x : y. The value of x is ___________.",
+        "options": [],
+        "answer": "1",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/two-stream-of-photons-possessing-energies-equal-to-twice-an-jee-main-physics-units-and-measurements-nyguviibnyhxfern",
+        "is_numerical": true,
+        "sub_topic": "Dual Nature: Photoelectric Velocity Ratio",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Max velocity energy ratio"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 11th April Morning Shift",
+        "question": "A monochromatic light is incident on a hydrogen sample in ground state. Hydrogen atoms absorb a fraction of light and subsequently emit radiation of six different wavelengths. The frequency of incident light is$x\u00d71015 Hz$. The value of$x$is ____________. (Given h$=4.25\u00d710\u221215 eVs$)",
+        "options": [],
+        "answer": "3",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-monochromatic-light-is-incident-on-a-hydrogen-sample-in-jee-main-physics-motion-8v6l16fwp3nkavw3",
+        "is_numerical": true,
+        "sub_topic": "Atoms: Hydrogen Transitions",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Emission lines energy levels"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 20th July Evening Shift",
+        "question": "A certain metallic surface is illuminated by monochromatic radiation of wavelength$\u03bb$. The stopping potential for photoelectric current for this radiation is 3V _0 . If the same surface is illuminated with a radiation of wavelength 2$\u03bb$, the stopping potential is V _0 . The threshold wavelength of this surface for photoelectric effect is ____________$\u03bb$.",
+        "options": [],
+        "answer": "4",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-certain-metallic-surface-is-illuminated-by-monochromatic-r-jee-main-physics-units-and-measurements-nmz0csrradreidtk",
+        "is_numerical": true,
+        "sub_topic": "Dual Nature: Threshold Wavelength",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Threshold wavelength two-point"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 5th September Evening Slot",
+        "question": "The surface of a metal is illuminated alternately with photons of energies E _1 = 4 eV and E _2 = 2.5 eV respectively. The ratio of maximum speeds of the photoelectrons emitted in the two cases is 2. The work function of the metal in (eV) is _____.",
+        "options": [],
+        "answer": "2",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-surface-of-a-metal-is-illuminated-alternately-with-photo-jee-main-physics-dual-nature-of-radiation-bebebbmwlae1lt9j",
+        "is_numerical": true,
+        "sub_topic": "Dual Nature: Photoelectric Velocity Ratio",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Work function from speed ratio"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 5th September Morning Slot",
+        "question": "A beam of electrons of energy E scatters from a target having atomic spacing of 1$Ao$. The first maximum intensity occurs at$\u03b8$= 60 ^o . Then E (in eV) is ______. (Planck constant h = 6.64 \u00d7 10 ^\u201334 Js, 1 eV = 1.6 \u00d7 10 ^\u201319 J, electron mass m = 9.1 \u00d7 10 ^\u201331 kg)",
+        "options": [],
+        "answer": "50.47",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-beam-of-electrons-of-energy-e-scatters-from-a-target-havin-jee-main-physics-ray-and-wave-optics-adtge5neejswrzqs",
+        "is_numerical": true,
+        "sub_topic": "Dual Nature: De Broglie & Diffraction",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Electron energy Bragg's law"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 2nd September Morning Slot",
+        "question": "When radiation of wavelength$\u03bb$is used to illuminate a metallic surface, the stopping potential is V. When the same surface is illuminated with radiation of wavelength 3$\u03bb$, the stopping potential is$V4$. If the threshold wavelength for the metallic surface is n$\u03bb$then value of n will be __________.",
+        "options": [],
+        "answer": "9",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/when-radiation-of-wavelength-lambda--is-used-to-illumin-jee-main-physics-atoms-and-nuclei-pjt1oigohu40abiy",
+        "is_numerical": true,
+        "sub_topic": "Dual Nature: Threshold Wavelength",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Threshold wavelength two-point"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 7th January Morning Slot",
+        "question": "A beam of electromagnetic radiation of intensity 6.4 \u00d7 10 ^\u20135 W/cm ^2 is comprised of wavelength,$\u03bb$= 310 nm. It falls normally on a metal (work function$\u03d5$= 2eV) of surface area of 1 cm ^2 . If one in 10 ^3 photons ejects an elctron, total number of electrons ejected in 1 s is 10 ^x . (hc = 1240 eVnm, 1eV = 1.6 \u00d7 10 ^\u201319 J), then x is _____.",
+        "options": [],
+        "answer": "11",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-beam-of-electromagnetic-radiation-of-intensity-64--10su-jee-main-physics-heat-and-thermodynamics-quw1joxaebbkz9qx",
+        "is_numerical": true,
+        "sub_topic": "Dual Nature: Photons Ejected",
+        "logic_type": "Template",
+        "difficulty": 4,
+        "physics_key": "Photons ejected intensity count"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 4th April Morning Shift",
+        "question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason$R$Assertion A : In photoelectric effect, on increasing the intensity of incident light the stopping potential increases. Reason R : Increase in intensity of light increases the rate of photoelectrons emitted, provided the frequency of incident light is greater than threshold frequency. In the light of the above statements, choose the correct answer from the options given below",
+        "options": [
+            "Both$A$and$R$are true and$R$is the correct explanation of$A$",
+            "$A$is false but$R$is true",
+            "Both$A$and$R$are true but$R$is NOT the correct explanation of$A$",
+            "$A$is true but$R$is false"
+        ],
+        "answer": "$A$is false but$R$is true",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pgiven-below-are-two-statements-one-is-labelled-as-assert-jee-main-physics-units-and-measurements-nqatdaqpl4yuza0d",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Theory",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Stopping potential intensity relation"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 4th April Morning Shift",
+        "question": "A small mirror of mass$m$is suspended by a massless thread of length$l$. Then the small angle through which the thread will be deflected when a short pulse of laser of energy E falls normal on the mirror ($c=$speed of light in vacuum and$g=$acceleration due to gravity)",
+        "options": [
+            "$\u03b8=Emcgl$",
+            "$\u03b8=E2mcgl$",
+            "$\u03b8=3E4mcgl$",
+            "$\u03b8=2Emcgl$"
+        ],
+        "answer": "$\u03b8=2Emcgl$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9utb6pn/952998a7-8561-48d0-9585-0a8b63429ef9/7d5278b0-20bd-11f0-8bb9-ff6fd656fe58/file-jaoe38c1m9utb6po.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9utddwf/ac0a40bf-5be5-4b58-8743-a738016b4734/ba7e42f0-20bd-11f0-8bb9-ff6fd656fe58/file-jaoe38c1m9utddwg.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-small-mirror-of-mass-m-is-suspended-by-a-massless-thr-jee-main-physics-units-and-measurements-tcvof0zq3ufho4vv",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Radiation Pressure",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Photon momentum angular deflection"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 3rd April Morning Shift",
+        "question": "The work function of a metal is 3 eV . The color of the visible light that is required to cause emission of photoelectrons is",
+        "options": [
+            "Red",
+            "Green",
+            "Blue",
+            "Yellow"
+        ],
+        "answer": "Blue",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-work-function-of-a-metal-is-3-ev--the-color-of-the-visi-jee-main-physics-units-and-measurements-74laezgpgnehe8bj",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Threshold Wavelength",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Work function color range"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 2nd April Evening Shift",
+        "question": "An electron with mass ' m ' with an initial velocity$(t=0)v\u2192=v0i^(v0>0)$enters a magnetic field$B\u2192=B0j^$. If the initial de-Broglie wavelength at$t=0$is$\u03bb0$then its value after time ' t ' would be :",
+        "options": [
+            "$\u03bb01\u2212e2 B02t2 m2$",
+            "$\u03bb0$",
+            "$\u03bb01+e2 B02t2 m2$",
+            "$\u03bb01+e2 B02t2 m2$"
+        ],
+        "answer": "$\u03bb0$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-electron-with-mass--m--with-an-initial-velocity-m-jee-main-physics-units-and-measurements-hzvoxgrkole3us1g",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie & B-Field",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "De Broglie wavelength magnetic field"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 3rd April Morning Shift",
+        "question": "The radiation pressure exerted by a 450 W light source on a perfectly reflecting surface placed at 2 m away from it, is",
+        "options": [
+            "$3\u00d710\u22128$Pascals",
+            "0",
+            "$1.5\u00d710\u22128$Pascals",
+            "$6\u00d710\u22128$Pascals"
+        ],
+        "answer": "$6\u00d710\u22128$Pascals",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-radiation-pressure-exerted-by-a-450-w-light-source-on-a-jee-main-physics-units-and-measurements-7a13pxr0nsoijyou",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Radiation Pressure",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Radiation pressure reflecting surface"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 2nd April Morning Shift",
+        "question": "A monochromatic light is incident on a metallic plate having work function$\u03d5$. An electron, emitted normally to the plate from a point A with maximum kinetic energy, enters a constant magnetic field, perpendicular to the initial velocity of electron. The electron passes through a curve and hits back the plate at a point$B$. The distance between$A$and$B$is : (Given : The magnitude of charge of an electron is e and mass is$m,h$is Planck's constant and c is velocity of light. Take the magnetic field exists throughout the path of electron)",
+        "options": [
+            "$2m(hc\u03bb\u2212\u03d5)/eB$",
+            "$8 m(hc\u03bb\u2212\u03d5)/eB$",
+            "$m(hc/\u03bb\u2212\u03d5)/eB$",
+            "$2 m(hc/\u03bb\u2212\u03d5)/eB$"
+        ],
+        "answer": "$8 m(hc\u03bb\u2212\u03d5)/eB$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-monochromatic-light-is-incident-on-a-metallic-plate-hav-jee-main-physics-units-and-measurements-svab9f4b9w2v39pb",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Mixed Magnetic Field",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Photoelectric emission magnetic trajectory"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 29th January Morning Shift",
+        "question": "If$\u03bb$and$K$are de Broglie wavelength and kinetic energy, respectively, of a particle with constant mass. The correct graphical representation for the particle will be :",
+        "options": [
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6qnqr5j/3b153f86-4194-4ba5-93dd-bcc460bc2453/eebd9070-e30f-11ef-8776-4d1aa8be3497/file-jaoe38c1m6qnqr5k.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6qns4lv/109dcb78-f2db-436c-8af2-5203d789936c/14f16140-e310-11ef-8776-4d1aa8be3497/file-jaoe38c1m6qns4lw.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6qnt1eh/6f62e723-5dff-4f2f-ab98-7817225778c4/2e468490-e310-11ef-8776-4d1aa8be3497/file-jaoe38c1m6qnt1ei.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6qntzzh/3c63ed70-7677-4b80-8c90-ec533f4fc247/48fd81d0-e310-11ef-8776-4d1aa8be3497/file-jaoe38c1m6qntzzi.png?format=png]"
+        ],
+        "answer": "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6qntzzh/3c63ed70-7677-4b80-8c90-ec533f4fc247/48fd81d0-e310-11ef-8776-4d1aa8be3497/file-jaoe38c1m6qntzzi.png?format=png]",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6qnqr5j/3b153f86-4194-4ba5-93dd-bcc460bc2453/eebd9070-e30f-11ef-8776-4d1aa8be3497/file-jaoe38c1m6qnqr5k.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6qns4lv/109dcb78-f2db-436c-8af2-5203d789936c/14f16140-e310-11ef-8776-4d1aa8be3497/file-jaoe38c1m6qns4lw.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6qnt1eh/6f62e723-5dff-4f2f-ab98-7817225778c4/2e468490-e310-11ef-8776-4d1aa8be3497/file-jaoe38c1m6qnt1ei.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6qntzzh/3c63ed70-7677-4b80-8c90-ec533f4fc247/48fd81d0-e310-11ef-8776-4d1aa8be3497/file-jaoe38c1m6qntzzi.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pif-lambda-and-k-are-de-broglie-wavelength-and-kineti-jee-main-physics-aycwg4yskcizqjpj",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie Graph",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "Wavelength kinetic energy graph"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 29th January Morning Shift",
+        "question": "Given below are two statements: one is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A) : Emission of electrons in photoelectric effect can be suppressed by applying a sufficiently negative electron potential to the photoemissive substance. Reason (R) : A negative electric potential, which stops the emission of electrons from the surface of a photoemissive substance, varies linearly with frequency of incident radiation. In the light of the above statements, choose the most appropriate answer from the options given below :",
+        "options": [
+            "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+            "Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+            "(A) is false but (R) is true",
+            "(A) is true but (R) is false"
+        ],
+        "answer": "Both (A) and (R) are true but (R) is not the correct explanation of (A).",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pgiven-below-are-two-statements-one-is-labelled-as-assert-jee-main-physics-uuo0bdrgmet0lg2a",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Theory",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Stopping potential frequency dependence"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 28th January Evening Shift",
+        "question": "Which of the following phenomena cannot be explained by wave theory of light?",
+        "options": [
+            "Refraction of light",
+            "Reflection of light",
+            "Diffraction of light",
+            "Compton effect"
+        ],
+        "answer": "Compton effect",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pwhich-of-the-following-phenomena-cannot-be-explained-by-w-jee-main-physics-xkkvcbe8xwsezmms",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Wave vs Particle",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Wave theory limitations Compton"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 29th January Evening Shift",
+        "question": "In an experiment with photoelectric effect, the stopping potential,",
+        "options": [
+            "is$(1e)$times the maximum kinetic energy of the emitted photoelectrons",
+            "increases with increase in the intensity of the incident light",
+            "decreases with increase in the intensity of the incident light",
+            "increases with increase in the wavelength of the incident light"
+        ],
+        "answer": "is$(1e)$times the maximum kinetic energy of the emitted photoelectrons",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-an-experiment-with-photoelectric-effect-the-stopping-jee-main-physics-puzkvrebvlq3ae0x",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Theory",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Stopping potential kinetic energy relation"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 24th January Evening Shift",
+        "question": "In photoelectric effect, the stopping potential$(V0)v/s$frequency$(v)$curve is plotted. ( h is the Planck's constant and$\u03d50$is work function of metal ) (A)$V0v/sv$is linear. (B) The slope of$V0v/sv$curve$=\u03d50 h$(C) h constant is related to the slope of$V0v/sv$line. (D) The value of electric charge of electron is not required to determine h using the$V0v/sv$curve. (E) The work function can be estimated without knowing the value of$h$. Choose the correct answer from the options given below :",
+        "options": [
+            "(A), (C) and (E) only",
+            "(C) and (D) only",
+            "(A), (B) and (C) only",
+            "(D) and (E) only"
+        ],
+        "answer": "(A), (C) and (E) only",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-photoelectric-effect-the-stopping-potential-leftm-jee-main-physics-units-and-measurements-6sarowyczy7blfpa",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Graph",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Stopping potential frequency graph"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 28th January Morning Shift",
+        "question": "A proton of mass '$mP$' has same energy as that of a photon of wavelength '$\u03bb$'. If the proton is moving at non-relativistic speed, then ratio of its de Broglie wavelength to the wavelength of photon is.",
+        "options": [
+            "$1cEmp$",
+            "$1c2Emp$",
+            "$12cEmp$",
+            "$1cE2 mp$"
+        ],
+        "answer": "$1cE2 mp$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-proton-of-mass--mp--has-same-energy-as-that-of-a-p-jee-main-physics-units-and-measurements-lct7kqbqrmheh0v9",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Proton-Photon Comparison",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "De Broglie wavelength energy ratio"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 24th January Morning Shift",
+        "question": "An electron of mass ' m ' with an initial velocity$v\u2192=v0i^(v0>0)$enters an electric field$E\u2192=\u2212Eok^$. If the initial de Broglie wavelength is$\u03bb0$, the value after time t would be",
+        "options": [
+            "$\u03bbo1\u2212e2Eo2t2 m2vo2$",
+            "$\u03bb0$",
+            "$\u03bbo1+e2Eo2t2 m2vo2$",
+            "$\u03bbo1+e2Eo2t2 m2vo2$"
+        ],
+        "answer": "$\u03bbo1+e2Eo2t2 m2vo2$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-electron-of-mass--m--with-an-initial-velocity-over-jee-main-physics-units-and-measurements-p3fectkiekxssykv",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie & E-Field",
+        "logic_type": "Calculus",
+        "difficulty": 4,
+        "physics_key": "De Broglie wavelength E-field time"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 23rd January Evening Shift",
+        "question": "In photoelectric effect an em-wave is incident on a metal surface and electrons are ejected from the surface. If the work function of the metal is 2.14 eV and stopping potential is 2 V , what is the wavelength of the em-wave? (Given$hc=1242eVnm$where h is the Planck's constant and c is the speed of light in vaccum.)",
+        "options": [
+            "400 nm",
+            "600 nm",
+            "300 nm",
+            "200 nm"
+        ],
+        "answer": "300 nm",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-photoelectric-effect-an-em-wave-is-incident-on-a-metal-jee-main-physics-units-and-measurements-mbmd49xp3wpqpos7",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Effect",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Wavelength from stopping potential"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 23rd January Morning Shift",
+        "question": "A sub-atomic particle of mass$10\u221230 kg$is moving with a velocity$2.21\u00d7106 m/s$. Under the matter wave consideration, the particle will behave closely like$$$(h=6.63\u00d710\u221234 J.s)$",
+        "options": [
+            "X-rays",
+            "Infra-red radiation",
+            "Gamma rays",
+            "Visible radiation"
+        ],
+        "answer": "X-rays",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-sub-atomic-particle-of-mass-10-30-mathrmkg-is-jee-main-physics-units-and-measurements-rgu1xeoxvnginclp",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie & EM Spectrum",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Wavelength matter wave identification"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 22nd January Evening Shift",
+        "question": "A light source of wavelength$\u03bb$illuminates a metal surface and electrons are ejected with maximum kinetic energy of 2 eV . If the same surface is illuminated by a light source of wavelength$\u03bb2$, then the maximum kinetic energy of ejected electrons will be (The work function of metal is 1 eV )",
+        "options": [
+            "5 eV",
+            "3 eV",
+            "2 eV",
+            "6 eV"
+        ],
+        "answer": "5 eV",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-light-source-of-wavelength-lambda-illuminates-a-meta-jee-main-physics-units-and-measurements-hnntlkg4gln3v7ql",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Two-Wavelengths",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Kinetic energy wavelength double"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 22nd January Morning Shift",
+        "question": "The work functions of cesium (Cs) and lithium (Li) metals are 1.9 eV and 2.5 eV , respectively. If we incident a light of wavelength 550 nm on these two metal surfaces, then photo-electric effect is possible for the case of",
+        "options": [
+            "Both Cs and Li",
+            "Neither Cs nor Li",
+            "Li only",
+            "Cs only"
+        ],
+        "answer": "Cs only",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-work-functions-of-cesium-cs-and-lithium-li-metals-jee-main-physics-units-and-measurements-hnqftadmcxfaprzs",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Threshold",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Emission condition work function"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 8th April Morning Shift",
+        "question": "A proton and an electron are associated with same de-Broglie wavelength. The ratio of their kinetic energies is: (Assume h = 6.63$\u00d710\u221234 J s, me=9.0\u00d710\u221231 kg$and$mp=1836$times$me$)",
+        "options": [
+            "$1:11836$",
+            "$1:1836$",
+            "$1:1836$",
+            "$1:11836$"
+        ],
+        "answer": "$1:1836$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-proton-and-an-electron-are-associated-with-same-de-brog-jee-main-physics-motion-coq1eeuylnsswemu",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie KE Ratio",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "KE ratio same de Broglie"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 6th April Evening Shift",
+        "question": "When UV light of wavelength$300 nm$is incident on the metal surface having work function$2.13 eV$, electron emission takes place. The stopping potential is : (Given hc$=1240 eV nm$)",
+        "options": [
+            "4 V",
+            "2 V",
+            "4.1 V",
+            "1.5 V"
+        ],
+        "answer": "2 V",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pwhen-uv-light-of-wavelength-300-mathrmnm-is-incid-jee-main-physics-motion-4xoamztiw6xkysuj",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Effect",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Stopping potential hf relation"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 8th April Evening Shift",
+        "question": "A proton and an electron have the same de Broglie wavelength. If$Kp$and$Ke$be the kinetic energies of proton and electron respectively, then choose the correct relation :",
+        "options": [
+            "$Kp>Ke$",
+            "$Kp=Ke$",
+            "$Kp<Ke$",
+            "$Kp=Ke2$"
+        ],
+        "answer": "$Kp<Ke$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-proton-and-an-electron-have-the-same-de-broglie-wavelen-jee-main-physics-motion-73xlcgucmevn6bt4",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie KE Ratio",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "KE relationship same wavelength"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 6th April Morning Shift",
+        "question": "Which of the following phenomena does not explain by wave nature of light. A. reflection B. diffraction C. photoelectric effect D. interference E. polarization Choose the most appropriate answer from the options given below:",
+        "options": [
+            "C only",
+            "B, D only",
+            "A, C only",
+            "E only"
+        ],
+        "answer": "C only",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pwhich-of-the-following-phenomena-does-not-explain-by-wave-jee-main-physics-motion-rr5l1dsssfyywwc4",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Wave vs Particle",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Particle nature unexplained phenomena"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 6th April Morning Shift",
+        "question": "In photoelectric experiment energy of$2.48 eV$irradiates a photo sensitive material. The stopping potential was measured to be$0.5 V$. Work function of the photo sensitive material is :",
+        "options": [
+            "1.98 eV",
+            "1.68 eV",
+            "2.48 eV",
+            "0.5 eV"
+        ],
+        "answer": "1.98 eV",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-photoelectric-experiment-energy-of-248-mathrmev-jee-main-physics-motion-qrhblk1vwuilpw63",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Effect",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Work function from stopping potential"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 9th April Evening Shift",
+        "question": "UV light of$4.13 eV$is incident on a photosensitive metal surface having work function$3.13 eV$. The maximum kinetic energy of ejected photoelectrons will be:",
+        "options": [
+            "4.13 eV",
+            "1 eV",
+            "7.26 eV",
+            "3.13 eV"
+        ],
+        "answer": "1 eV",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/puv-light-of-413-mathrmev-is-incident-on-a-photos-jee-main-physics-motion-ee2ccwqfp3hcefkp",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Effect",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Max KE from work function"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 22nd January Morning Shift",
+        "question": "An electron in the ground state of the hydrogen atom has the orbital radius of$5.3\u00d710\u221211 m$while that for the electron in third excited state is$8.48\u00d710\u221210 m$. The ratio of the de Broglie wavelengths of electron in the ground state to that in the excited state is",
+        "options": [
+            "4",
+            "3",
+            "9",
+            "16"
+        ],
+        "answer": "4",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-electron-in-the-ground-state-of-the-hydrogen-atom-has-jee-main-physics-units-and-measurements-3nth6kcs5xuwoigm",
+        "is_numerical": false,
+        "sub_topic": "Atoms: De Broglie & Bohr",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "De Broglie wavelength Bohr orbit"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 9th April Morning Shift",
+        "question": "A proton, an electron and an alpha particle have the same energies. Their de-Broglie wavelengths will be compared as :",
+        "options": [
+            "$\u03bbp>\u03bbe>\u03bb\u03b1$",
+            "$\u03bb\u03b1<\u03bbp<\u03bbe$",
+            "$\u03bbe>\u03bb\u03b1>\u03bbp$",
+            "$\u03bbp<\u03bbe<\u03bb\u03b1$"
+        ],
+        "answer": "$\u03bb\u03b1<\u03bbp<\u03bbe$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-proton-an-electron-and-an-alpha-particle-have-the-same-jee-main-physics-motion-hflcepgitnkewmn5",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie Comparison",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Wavelength inverse mass ranking"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 4th April Evening Shift",
+        "question": "Given below are two statements: one is labelled as Assertion$A$and the other is labelled as Reason R. Assertion A: Number of photons increases with increase in frequency of light. Reason R: Maximum kinetic energy of emitted electrons increases with the frequency of incident radiation. In the light of the above statements, choose the most appropriate answer from the options given below:",
+        "options": [
+            "$A$is not correct but$R$is correct.",
+            "$A$is correct but$R$is not correct.",
+            "Both$A$and$R$are correct and$R$is the correct explanation of$A$.",
+            "Both$A$and$R$are correct and$R$is NOT the correct explanation of$A$."
+        ],
+        "answer": "$A$is not correct but$R$is correct.",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pgiven-below-are-two-statements-one-is-labelled-as-assert-jee-main-physics-motion-ngvsqt4y5piekkrk",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Theory",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Photon number vs max KE"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 4th April Morning Shift",
+        "question": "Which figure shows the correct variation of applied potential difference (V) with photoelectric current (I) at two different intensities of light$(I1<I2)$of same wavelengths :",
+        "options": [
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1lv0c72ek/0feeb2ae-ef3c-4577-b53f-97b479d39565/04c672c0-fad0-11ee-891c-2b72d88c1441/file-1lv0c72el.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1lv0c7iqu/65cb3749-4c11-4a50-bdf7-7d9c6ad181bd/1165f460-fad0-11ee-891c-2b72d88c1441/file-1lv0c7iqv.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1lv0c8171/402e6d63-97ec-4c84-b397-b73f02303c42/1fa67bd0-fad0-11ee-891c-2b72d88c1441/file-1lv0c8172.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1lv0c8m6s/7beb730a-63d2-453e-9782-d4ab0a1fa77c/2fde1850-fad0-11ee-891c-2b72d88c1441/file-1lv0c8m6t.png?format=png]"
+        ],
+        "answer": "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1lv0c8171/402e6d63-97ec-4c84-b397-b73f02303c42/1fa67bd0-fad0-11ee-891c-2b72d88c1441/file-1lv0c8172.png?format=png]",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lv0c72ek/0feeb2ae-ef3c-4577-b53f-97b479d39565/04c672c0-fad0-11ee-891c-2b72d88c1441/file-1lv0c72el.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lv0c7iqu/65cb3749-4c11-4a50-bdf7-7d9c6ad181bd/1165f460-fad0-11ee-891c-2b72d88c1441/file-1lv0c7iqv.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lv0c8171/402e6d63-97ec-4c84-b397-b73f02303c42/1fa67bd0-fad0-11ee-891c-2b72d88c1441/file-1lv0c8172.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lv0c8m6s/7beb730a-63d2-453e-9782-d4ab0a1fa77c/2fde1850-fad0-11ee-891c-2b72d88c1441/file-1lv0c8m6t.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pwhich-figure-shows-the-correct-variation-of-applied-poten-jee-main-physics-motion-g1bovigwt9xn0uim",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Graph",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "Current intensity graph analysis"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 5th April Evening Shift",
+        "question": "Which of the following statement is not true about stopping potential$(V0)$?",
+        "options": [
+            "It depends upon frequency of the incident light.",
+            "It is$1/e$times the maximum kinetic energy of electrons emitted.",
+            "It increases with increase in intensity of the incident light.",
+            "It depends on the nature of emitter material."
+        ],
+        "answer": "It increases with increase in intensity of the incident light.",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pwhich-of-the-following-statement-is-not-true-about-stoppi-jee-main-physics-motion-pjyyf1812vs192u9",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Theory",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Stopping potential intensity independence"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 5th April Morning Shift",
+        "question": "Given below are two statements : [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1lv7kycud/e4409fda-6198-47ae-9e38-aa4e977ab0b4/c143db50-fecb-11ee-8116-e195dc03b165/file-1lv7kycue.png?format=png] Statement I : Figure shows the variation of stopping potential with frequency$(v)$for the two photosensitive materials$M1$and$M2$. The slope gives value of$he$, where$h$is Planck's constant, e is the charge of electron. Statement II :$M2$will emit photoelectrons of greater kinetic energy for the incident radiation having same frequency. In the light of the above statements, choose the most appropriate answer from the options given below.",
+        "options": [
+            "Statement I is correct and Statement II is incorrect",
+            "Statement I is incorrect but Statement II is correct",
+            "Both Statement I and Statement II are correct",
+            "Both Statement I and Statement II are incorrect"
+        ],
+        "answer": "Statement I is correct and Statement II is incorrect",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lv7kycud/e4409fda-6198-47ae-9e38-aa4e977ab0b4/c143db50-fecb-11ee-8116-e195dc03b165/file-1lv7kycue.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pgiven-below-are-two-statements-p-pimg-srchttps-jee-main-physics-motion-pffqokzzdenthh6l",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Graph",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "Stopping potential slope work function"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 30th January Evening Shift",
+        "question": "For the photoelectric effect, the maximum kinetic energy$(Ek)$of the photoelectrons is plotted against the frequency$(v)$of the incident photons as shown in figure. The slope of the graph gives [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/6y3zli1lshjabvk/2d77ec72-63a4-4c1e-aa9a-f5aa96f454f6/6c53ba00-c8e0-11ee-8501-bb04786aa212/file-6y3zli1lshjabvl.png?format=png]",
+        "options": [
+            "Planck's constant",
+            "Work function of the metal",
+            "Charge of electron",
+            "Ratio of Planck's constant to electric charge"
+        ],
+        "answer": "Planck's constant",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/6y3zli1lshjabvk/2d77ec72-63a4-4c1e-aa9a-f5aa96f454f6/6c53ba00-c8e0-11ee-8501-bb04786aa212/file-6y3zli1lshjabvl.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pfor-the-photoelectric-effect-the-maximum-kinetic-energy-jee-main-physics-motion-hrckdontwmhyojts",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Graph",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "KE frequency graph slope"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 31st January Evening Shift",
+        "question": "In a photoelectric effect experiment a light of frequency 1.5 times the threshold frequency is made to fall on the surface of photosensitive material. Now if the frequency is halved and intensity is doubled, the number of photo electrons emitted will be:",
+        "options": [
+            "doubled",
+            "halved",
+            "Zero",
+            "quadrupled"
+        ],
+        "answer": "Zero",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-a-photoelectric-effect-experiment-a-light-of-frequency-jee-main-physics-motion-j3fdcldhq5ecnrjk",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Threshold",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Frequency below threshold zero"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 1st February Evening Shift",
+        "question": "Conductivity of a photodiode starts changing only if the wavelength of incident light is less than$660 nm$. The band gap of photodiode is found to be$(X8)eV$. The value of$X$is : (Given,$h=6.6\u00d710\u221234Js,e=1.6\u00d710\u221219C$)",
+        "options": [
+            "11",
+            "13",
+            "15",
+            "21"
+        ],
+        "answer": "15",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/conductivity-of-a-photodiode-starts-changing-only-if-the-wav-jee-main-physics-mbwjhiymbqy5q9cj",
+        "is_numerical": false,
+        "sub_topic": "Device: Photodiode",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Band gap wavelength relation"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 30th January Evening Shift",
+        "question": "If the total energy transferred to a surface in time$t$is$6.48\u00d7105 J$, then the magnitude of the total momentum delivered to this surface for complete absorption will be:",
+        "options": [
+            "$2.16\u00d710\u22123 kg m/s$",
+            "$2.46\u00d710\u22123 kg m/s$",
+            "$1.58\u00d710\u22123 kg m/s$",
+            "$4.32\u00d710\u22123 kg m/s$"
+        ],
+        "answer": "$2.16\u00d710\u22123 kg m/s$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pif-the-total-energy-transferred-to-a-surface-in-time-m-jee-main-physics-motion-nsrweebygn6uv6y7",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Radiation Pressure",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Momentum from total energy"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 1st February Morning Shift",
+        "question": "The de Broglie wavelengths of a proton and an$\u03b1$particle are$\u03bb$and$2\u03bb$respectively. The ratio of the velocities of proton and$\u03b1$particle will be :",
+        "options": [
+            "$8:1$",
+            "$1:2$",
+            "$1:8$",
+            "$4:1$"
+        ],
+        "answer": "$8:1$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-de-broglie-wavelengths-of-a-proton-and-an-alpha-parti-jee-main-physics-x1ts9xx10z6dmjaf",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie Velocity Ratio",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Velocity ratio de Broglie"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 1st February Evening Shift",
+        "question": "Monochromatic light of frequency$6\u00d71014 Hz$is produced by a laser. The power emitted is$2\u00d710\u22123 W$. How many photons per second on an average, are emitted by the source ? (Given$h=6.63\u00d710\u221234Js$)",
+        "options": [
+            "$5\u00d71015$",
+            "$7\u00d71016$",
+            "$6\u00d71015$",
+            "$9\u00d71018$"
+        ],
+        "answer": "$5\u00d71015$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/monochromatic-light-of-frequency-6-times-1014-mathrm-jee-main-physics-2hoqykeupge1btft",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photons per Second",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Photons per second power frequency"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 31st January Morning Shift",
+        "question": "When a metal surface is illuminated by light of wavelength$\u03bb$, the stopping potential is$8 V$. When the same surface is illuminated by light of wavelength$3\u03bb$, stopping potential is$2 V$. The threshold wavelength for this surface is:",
+        "options": [
+            "3$\u03bb$",
+            "9$\u03bb$",
+            "5$\u03bb$",
+            "4.5$\u03bb$"
+        ],
+        "answer": "9$\u03bb$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pwhen-a-metal-surface-is-illuminated-by-light-of-wavelengt-jee-main-physics-motion-jmaehawaqqxvbdpx",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Threshold Wavelength",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Threshold wavelength two-point"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 30th January Morning Shift",
+        "question": "The work function of a substance is$3.0 eV$. The longest wavelength of light that can cause the emission of photoelectrons from this substance is approximately;",
+        "options": [
+            "215 nm",
+            "400 nm",
+            "414 nm",
+            "200 nm"
+        ],
+        "answer": "414 nm",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-work-function-of-a-substance-is-30-mathrmev-jee-main-physics-motion-u7qzlf3vuux3ws17",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Threshold Wavelength",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Longest wavelength work function"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 27th January Evening Shift",
+        "question": "The threshold frequency of a metal with work function$6.63 eV$is :",
+        "options": [
+            "$16\u00d71015 Hz$",
+            "$16\u00d71012 Hz$",
+            "$1.6\u00d71015 Hz$",
+            "$1.6\u00d71012 Hz$"
+        ],
+        "answer": "$1.6\u00d71015 Hz$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-threshold-frequency-of-a-metal-with-work-function-6-jee-main-physics-motion-53pddrgopqhagk1c",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Threshold",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Threshold frequency work function"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 15th April Morning Shift",
+        "question": "The de Broglie wavelength of an electron having kinetic energy$E$is$\u03bb$. If the kinetic energy of electron becomes$E4$, then its de-Broglie wavelength will be :",
+        "options": [
+            "$2\u03bb$",
+            "$2\u03bb$",
+            "$\u03bb2$",
+            "$\u03bb2$"
+        ],
+        "answer": "$2\u03bb$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-de-broglie-wavelength-of-an-electron-having-kinetic-ener-jee-main-physics-k0t0cvuh58k8gutb",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie KE Scaling",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Wavelength inverse root KE"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 13th April Morning Shift",
+        "question": "The difference between threshold wavelengths for two metal surfaces$A$and$B$having work function$\u03d5A=9 eV$and$\u03d5B=4\u22c55 eV$in$nm$is:${$Given, hc$=1242 eVnm}$",
+        "options": [
+            "264",
+            "138",
+            "540",
+            "276"
+        ],
+        "answer": "138",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-difference-between-threshold-wavelengths-for-two-meta-jee-main-physics-motion-uhkagupeneasw85z",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Threshold Wavelength",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Wavelength difference work function"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 29th January Evening Shift",
+        "question": "Two sources of light emit with a power of$200 W$. The ratio of number of photons of visible light emitted by each source having wavelengths$300 nm$and$500 nm$respectively, will be :",
+        "options": [
+            "$5:3$",
+            "$3:5$",
+            "$1:5$",
+            "$1:3$"
+        ],
+        "answer": "$3:5$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/ptwo-sources-of-light-emit-with-a-power-of-200-mathrm-jee-main-physics-motion-vnorwxdfdemrdirp",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photons per Second",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Photon number inverse wavelength"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 29th January Morning Shift",
+        "question": "The de-Broglie wavelength of an electron is the same as that of a photon. If velocity of electron is$25%$of the velocity of light, then the ratio of K.E. of electron and K.E. of photon will be:",
+        "options": [
+            "$14$",
+            "$81$",
+            "$18$",
+            "$11$"
+        ],
+        "answer": "$18$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-de-broglie-wavelength-of-an-electron-is-the-same-as-t-jee-main-physics-units-and-measurements-ia8nmxhgnrzllfov",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie KE Ratio",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "KE ratio electron photon same lambda"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 13th April Evening Shift",
+        "question": "Given below are two statements: Statement I : Out of microwaves, infrared rays and ultraviolet rays, ultraviolet rays are the most effective for the emission of electrons from a metallic surface. Statement II : Above the threshold frequency, the maximum kinetic energy of photoelectrons is inversely proportional to the frequency of the incident light. In the light of above statements, choose the correct answer form the options given below",
+        "options": [
+            "Both Statement I and Statement II are true",
+            "Statement I is true but statement II is false",
+            "Statement I is false but statement II is true",
+            "Both Statement I and Statement II are false"
+        ],
+        "answer": "Statement I is true but statement II is false",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pgiven-below-are-two-statementsp-pstatement-i--out-jee-main-physics-motion-mbcarmzyxlnhofs9",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Theory",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Threshold frequency vs KE frequency"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 12th April Morning Shift",
+        "question": "A proton and an$\u03b1$-particle are accelerated from rest by$2 V$and$4 V$potentials, respectively. The ratio of their de-Broglie wavelength is :",
+        "options": [
+            "4 : 1",
+            "2 : 1",
+            "8 : 1",
+            "16 : 1"
+        ],
+        "answer": "4 : 1",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-proton-and-an-alpha-particle-are-accelerated-from-jee-main-physics-motion-tn6awfbewcpgwhih",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie $\\lambda$-V",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Wavelength ratio accelerated particles"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 11th April Evening Shift",
+        "question": "The ratio of the de-Broglie wavelengths of proton and electron having same Kinetic energy : (Assume$mp=me\u00d71849$)",
+        "options": [
+            "1:43",
+            "1:62",
+            "2:43",
+            "1:30"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-ratio-of-the-de-broglie-wavelengths-of-proton-and-ele-jee-main-physics-motion-oysmui48v4axxxe9",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie KE Ratio",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Wavelength ratio same KE"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 10th April Morning Shift",
+        "question": "The de Broglie wavelength of a molecule in a gas at room temperature (300 K) is$\u03bb1$. If the temperature of the gas is increased to 600 K, then the de Broglie wavelength of the same gas molecule becomes",
+        "options": [
+            "2$\u03bb1$",
+            "$12$$\u03bb1$",
+            "$12$$\u03bb1$",
+            "$2 \u03bb1$"
+        ],
+        "answer": "$12$$\u03bb1$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-de-broglie-wavelength-of-a-molecule-in-a-gas-at-room-jee-main-physics-motion-qlbyipcdeclhlhmj",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie Thermal",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Wavelength inverse square root T"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 10th April Evening Shift",
+        "question": "The variation of stopping potential$(V0)$as a function of the frequency$(v)$of the incident light for a metal is shown in figure. The work function of the surface is [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1lgx2ywk1/5d7131a5-3874-4f09-9916-539a489847a4/8e5e8c10-e3da-11ed-baaf-253646c1f54e/file-1lgx2ywk2.png?format=png]",
+        "options": [
+            "1.36 eV",
+            "18.6 eV",
+            "2.98 eV",
+            "2.07 eV"
+        ],
+        "answer": "2.07 eV",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lgx2ywk1/5d7131a5-3874-4f09-9916-539a489847a4/8e5e8c10-e3da-11ed-baaf-253646c1f54e/file-1lgx2ywk2.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-variation-of-stopping-potential-leftmathrmv0-jee-main-physics-motion-4fdzhu20v48f4zoh",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Graph",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "Work function from V0 intercept"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 11th April Morning Shift",
+        "question": "A metallic surface is illuminated with radiation of wavelength$\u03bb$, the stopping potential is$V0$. If the same surface is illuminated with radiation of wavelength$2\u03bb$. the stopping potential becomes$Vo4$. The threshold wavelength for this metallic surface will be",
+        "options": [
+            "$3\u03bb$",
+            "$4\u03bb$",
+            "$32\u03bb$",
+            "$\u03bb4$"
+        ],
+        "answer": "$3\u03bb$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-metallic-surface-is-illuminated-with-radiation-of-wavel-jee-main-physics-motion-1tjzi7beigvx5im4",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Threshold Wavelength",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Threshold wavelength two-point"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 8th April Evening Shift",
+        "question": "In photo electric effect A. The photocurrent is proportional to the intensity of the incident radiation B. Maximum Kinetic energy with which photoelectrons are emitted depends on the intensity of incident light. C. Max. K.E with which photoelectrons are emitted depends on the frequency of incident light. D. The emission of photoelectrons require a minimum threshold intensity of incident radiation. E. Max. K.E of the photoelectrons is independent of the frequency of the incident light. Choose the correct answer from the options given below:",
+        "options": [
+            "A and E only",
+            "A and B only",
+            "B and C only",
+            "A and C only"
+        ],
+        "answer": "A and C only",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-photo-electric-effectp-pa-the-photocurrent-is-pr-jee-main-physics-motion-bmrzod6etjsnxtqe",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Theory",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Current KE intensity frequency"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 31st January Evening Shift",
+        "question": "If the two metals$A$and$B$are exposed to radiation of wavelength$350 nm$. The work functions of metals$A$and$B$are$4.8eV$and$2.2eV$. Then choose the correct option.",
+        "options": [
+            "Metal B will not emit photo-electrons",
+            "Both metals$A$and$B$will not emit photo-electrons",
+            "Metal A will not emit photo-electrons",
+            "Both metals A and B will emit photo-electrons"
+        ],
+        "answer": "Metal A will not emit photo-electrons",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/if-the-two-metals-mathrma-and-mathrmb-are-exposed-jee-main-physics-ieo14cgqhselii4q",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Threshold",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Emission condition comparison"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 30th January Morning Shift",
+        "question": "A small object at rest, absorbs a light pulse of power$20 mW$and duration$300 ns$. Assuming speed of light as$3\u00d7108 m/s$, the momentum of the object becomes equal to :",
+        "options": [
+            "$1\u00d710\u221217 kg m/s$",
+            "$0.5\u00d710\u221217 kg m/s$",
+            "$3\u00d710\u221217 kg m/s$",
+            "$2\u00d710\u221217 kg m/s$"
+        ],
+        "answer": "$2\u00d710\u221217 kg m/s$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-small-object-at-rest-absorbs-a-light-pulse-of-power--jee-main-physics-motion-kubllk8mwj2nc6zh",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Radiation Pressure",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Momentum from energy pulse"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 31st January Morning Shift",
+        "question": "If a source of electromagnetic radiation having power$15 kW$produces$1016$photons per second, the radiation belongs to a part of spectrum is. (Take Planck constant$h=6\u00d710\u221234Js$)",
+        "options": [
+            "Gamma rays",
+            "Radio waves",
+            "Micro waves",
+            "Ultraviolet rays"
+        ],
+        "answer": "Gamma rays",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pif-a-source-of-electromagnetic-radiation-having-power-1-jee-main-physics-motion-r72wtxgrynnojnmh",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photons & EM Spectrum",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Wavelength from power photon count"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 8th April Morning Shift",
+        "question": "Proton$(P)$and electron (e) will have same de-Broglie wavelength when the ratio of their momentum is (assume,$mp=1849 me$):",
+        "options": [
+            "1 : 1",
+            "1 : 43",
+            "1 : 1849",
+            "43 : 1"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pproton-mathrmp-and-electron-e-will-have-same-d-jee-main-physics-motion-kdqsy1gn5wkirpsl",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie Comparison",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Same de Broglie momentum ratio"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 1st February Evening Shift",
+        "question": "The threshold frequency of a metal is$f0$. When the light of frequency$2f0$is incident on the metal plate, the maximum velocity of photoelectrons is$v1$. When the frequency of incident radiation is increased to$5f0$, the maximum velocity of photoelectrons emitted is$v2$. The ratio of$v1$to$v2$is :",
+        "options": [
+            "$v1v2=12$",
+            "$v1v2=116$",
+            "$v1v2=14$",
+            "$v1v2=18$"
+        ],
+        "answer": "$v1v2=12$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-threshold-frequency-of-a-metal-is-f0-when-the-jee-main-physics-motion-ud2ipvahib7cpmnp",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Velocity Ratio",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Velocity ratio from frequency"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 6th April Evening Shift",
+        "question": "The work functions of Aluminium and Gold are$4.1 eV$and and$5.1 eV$respectively. The ratio of the slope of the stopping potential versus frequency plot for Gold to that of Aluminium is",
+        "options": [
+            "1.5",
+            "1.24",
+            "1",
+            "2"
+        ],
+        "answer": "1",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-work-functions-of-aluminium-and-gold-are-41-math-jee-main-physics-motion-asslnkceu9knpd4q",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Graph",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Slope KE vs frequency"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 30th January Evening Shift",
+        "question": "An electron accelerated through a potential difference$V1$has a de-Broglie wavelength of$\u03bb$. When the potential is changed to$V2$, its de-Broglie wavelength increases by$50%$. The value of$(V1V2)$is equal to",
+        "options": [
+            "$32$",
+            "4",
+            "3",
+            "$94$"
+        ],
+        "answer": "$94$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-electron-accelerated-through-a-potential-difference-v1-jee-main-physics-tyta6zgqttq8p295",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie $\\lambda$-V",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Wavelength inverse root potential"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 31st January Morning Shift",
+        "question": "Given below are two statements : One is labelled as Assertion A and the other is labelled as Reason R Assertion A : The beam of electrons show wave nature and exhibit interference and diffraction. Reason R : Davisson Germer Experimentally verified the wave nature of electrons. In the light of the above statements, choose the most appropriate answer from the options given below :",
+        "options": [
+            "A is not correct but R is correct.",
+            "Both A and R are correct and R is the correct explanation of A",
+            "Both A and R are correct but R is Not the correct explanation of A",
+            "A is correct but R is not correct"
+        ],
+        "answer": "Both A and R are correct and R is the correct explanation of A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pgiven-below-are-two-statements--one-is-labelled-as-asser-jee-main-physics-motion-jqjavplzwdmw1h91",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Wave vs Particle",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Davisson Germer experiment conclusion"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 6th April Morning Shift",
+        "question": "The kinetic energy of an electron,$\u03b1$-particle and a proton are given as$4 K,2 K$and$K$respectively. The de-Broglie wavelength associated with electron$(\u03bbe),\u03b1$-particle$((\u03bb\u03b1)$and the proton$(\u03bbp)$are as follows:",
+        "options": [
+            "$\u03bb\u03b1<\u03bbp<\u03bbe$",
+            "$\u03bb\u03b1>\u03bbp>\u03bbe$",
+            "$\u03bb\u03b1=\u03bbp<\u03bbe$",
+            "$\u03bb\u03b1=\u03bbp>\u03bbe$"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-kinetic-energy-of-an-electron-alpha-particle-an-jee-main-physics-motion-685r1g9zgqomu3i0",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie KE Comparison",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Wavelength inverse mass ranking"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 1st February Morning Shift",
+        "question": "A proton moving with one tenth of velocity of light has a certain de Broglie wavelength of$\u03bb$. An alpha particle having certain kinetic energy has the same de-Brogle wavelength$\u03bb$. The ratio of kinetic energy of proton and that of alpha particle is:",
+        "options": [
+            "1 : 4",
+            "2 : 1",
+            "4 : 1",
+            "1 : 2"
+        ],
+        "answer": "4 : 1",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-proton-moving-with-one-tenth-of-velocity-of-light-has-a-jee-main-physics-motion-qqt0xoigilibhp0m",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie KE Ratio",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "KE ratio same wavelength"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 29th January Evening Shift",
+        "question": "The ratio of de-Broglie wavelength of an$\u03b1$particle and a proton accelerated from rest by the same potential is$1m$, the value of m is -",
+        "options": [
+            "2",
+            "16",
+            "8",
+            "4"
+        ],
+        "answer": "8",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-ratio-of-de-broglie-wavelength-of-an-alpha-parti-jee-main-physics-motion-kbmppxwrwg5os14d",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie $\\lambda$-V",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Wavelength ratio accelerated particles"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 25th January Evening Shift",
+        "question": "Given below are two statements : Statement I : Stopping potential in photoelectric effect does not depend on the power of the light source. Statement II : For a given metal, the maximum kinetic energy of the photoelectron depends on the wavelength of the incident light. In the light of above statements, choose the most appropriate answer from the options given below",
+        "options": [
+            "Both Statement I and Statement II are incorrect",
+            "Statement I is correct but Statement II is incorrect",
+            "Both Statement I and Statement II are correct",
+            "Statement I is incorrect but Statement II is correct"
+        ],
+        "answer": "Both Statement I and Statement II are correct",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pgiven-below-are-two-statements-p-pstatement-i--sto-jee-main-physics-motion-bxr7wpvmiudkzphm",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Theory",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Stopping potential KE wavelength"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 29th January Morning Shift",
+        "question": "The threshold wavelength for photoelectric emission from a material is 5500$Ao$. Photoelectrons will be emitted, when this material is illuminated with monochromatic radiation from a A. 75 W infra-red lamp B. 10 W infra-red lamp C. 75 W ultra-violet lamp D. 10 W ultra-violet lamp Choose the correct answer from the options given below :",
+        "options": [
+            "C only",
+            "A and D only",
+            "C and D only",
+            "B and C only"
+        ],
+        "answer": "C and D only",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-threshold-wavelength-for-photoelectric-emission-from-jee-main-physics-motion-vvve6ledpvmhvtpu",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Threshold",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Emission condition comparison"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 24th January Evening Shift",
+        "question": "An$\u03b1$-particle, a proton and an electron have the same kinetic energy. Which one of the following is correct in case of their de-Broglie wavelength:",
+        "options": [
+            "$\u03bb\u03b1>\u03bbp<\u03bbe$",
+            "$\u03bb\u03b1>\u03bbp>\u03bbe$",
+            "$\u03bb\u03b1=\u03bbp=\u03bbe$",
+            "$\u03bb\u03b1<\u03bbp<\u03bbe$"
+        ],
+        "answer": "$\u03bb\u03b1<\u03bbp<\u03bbe$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-alpha-particle-a-proton-and-an-electron-have-the-sa-jee-main-physics-motion-swssahetwk1vvuxu",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie KE Comparison",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Wavelength inverse mass ranking"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 25th January Morning Shift",
+        "question": "Electron beam used in an electron microscope, when accelerated by a voltage of 20 kV, has a de-Broglie wavelength of$\u03bb0$. IF the voltage is increased to 40 kV, then the de-Broglie wavelength associated with the electron beam would be :",
+        "options": [
+            "3$\u03bb0$",
+            "9$\u03bb0$",
+            "$\u03bb02$",
+            "$\u03bb02$"
+        ],
+        "answer": "$\u03bb02$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pelectron-beam-used-in-an-electron-microscope-when-accele-jee-main-physics-motion-upi1rkm2rnnlvbe9",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie $\\lambda$-V",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Wavelength inverse root potential"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th July Evening Shift",
+        "question": "With reference to the observations in photo-electric effect, identify the correct statements from below : (A) The square of maximum velocity of photoelectrons varies linearly with frequency of incident light. (B) The value of saturation current increases on moving the source of light away from the metal surface. (C) The maximum kinetic energy of photo-electrons decreases on decreasing the power of LED (light emitting diode) source of light. (D) The immediate emission of photo-electrons out of metal surface can not be explained by particle nature of light/electromagnetic waves. (E) Existence of threshold wavelength can not be explained by wave nature of light/ electromagnetic waves. Choose the correct answer from the options given below :",
+        "options": [
+            "(A) and (B) only",
+            "(A) and (E) only",
+            "(C) and (E) only",
+            "(D) and (E) only"
+        ],
+        "answer": "(A) and (E) only",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pwith-reference-to-the-observations-in-photo-electric-effe-jee-main-physics-motion-fhuoamaqvkpa2ube",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Theory",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "KE frequency threshold statements"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 24th January Morning Shift",
+        "question": "From the photoelectric effect experiment, following observations are made. Identify which of these are correct. A. The stopping potential depends only on the work function of the metal. B. The saturation current increases as the intensity of incident light increases. C. The maximum kinetic energy of a photo electron depends on the intensity of the incident light. D. Photoelectric effect can be explained using wave theory of light. Choose the correct answer from the options given below :",
+        "options": [
+            "A, B, D only",
+            "A, C, D only",
+            "B, C only",
+            "B only"
+        ],
+        "answer": "B only",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pfrom-the-photoelectric-effect-experiment-following-obser-jee-main-physics-motion-71is36sion7c7hlc",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Theory",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Saturation current intensity dependence"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th July Evening Shift",
+        "question": "The ratio of wavelengths of proton and deuteron accelerated by potential V _p and V _d is 1 :$2$. Then the ratio of V _p to V _d will be :",
+        "options": [
+            "1 : 1",
+            "$2$: 1",
+            "2 : 1",
+            "4 : 1"
+        ],
+        "answer": "4 : 1",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-ratio-of-wavelengths-of-proton-and-deuteron-accelerat-jee-main-physics-motion-c55f9wm1e8045bxa",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie $\\lambda$-V",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Wavelength ratio accelerated particles"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 28th July Morning Shift",
+        "question": "The equation$\u03bb=1.227x nm$can be used to find the de-Brogli wavelength of an electron. In this equation$x$stands for : Where$m=$mass of electron$P=$momentum of electron$K=$Kinetic energy of electron$V=$Accelerating potential in volts for electron",
+        "options": [
+            "$mK$",
+            "$P$",
+            "$K$",
+            "$V$"
+        ],
+        "answer": "$V$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-equation-lambdafrac1227x-mathrmnm-can-jee-main-physics-motion-izv43rfoyzl5dxuu",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie $\\lambda$-V",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Wavelength accelerating potential formula"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 29th July Morning Shift",
+        "question": "The kinetic energy of emitted electron is E when the light incident on the metal has wavelength$\u03bb$. To double the kinetic energy, the incident light must have wavelength:",
+        "options": [
+            "$hcE\u03bb\u2212hc$",
+            "$hc\u03bbE\u03bb+hc$",
+            "$h\u03bbE\u03bb+hc$",
+            "$hc \u03bbE\u03bb\u2212hc$"
+        ],
+        "answer": "$hc\u03bbE\u03bb+hc$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-kinetic-energy-of-emitted-electron-is-e-when-the-ligh-jee-main-physics-motion-d12w60bbkffjy9ci",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Wavelength Change",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "New wavelength double KE"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 28th July Evening Shift",
+        "question": "Two streams of photons, possessing energies equal to five and ten times the work function of metal are incident on the metal surface successively. The ratio of maximum velocities of the photoelectron emitted, in the two cases respectively, will be",
+        "options": [
+            "1 : 2",
+            "1 : 3",
+            "2 : 3",
+            "3 : 2"
+        ],
+        "answer": "2 : 3",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/ptwo-streams-of-photons-possessing-energies-equal-to-five-jee-main-physics-motion-mthwi6t3vorskybi",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Velocity Ratio",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Velocity ratio energy difference"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th July Morning Shift",
+        "question": "A parallel beam of light of wavelength$900 nm$and intensity$100Wm\u22122$is incident on a surface perpendicular to the beam. The number of photons crossing$1 cm2$area perpendicular to the beam in one second is :",
+        "options": [
+            "$3\u00d71016$",
+            "$4.5\u00d71016$",
+            "$4.5\u00d71017$",
+            "$4.5\u00d71020$"
+        ],
+        "answer": "$4.5\u00d71016$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-parallel-beam-of-light-of-wavelength-900-mathrmnm-jee-main-physics-motion-7p1ukhdbfuq9b1sz",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photons per Second",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Photon number intensity relation"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 29th July Evening Shift",
+        "question": "An$\u03b1$particle and a proton are accelerated from rest through the same potential difference. The ratio of linear momenta acquired by above two particles will be:",
+        "options": [
+            "$2$: 1",
+            "2$2$: 1",
+            "4$2$: 1",
+            "8 : 1"
+        ],
+        "answer": "2$2$: 1",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-alpha-particle-and-a-proton-are-accelerated-from-jee-main-physics-motion-tswatcjoanxwoakp",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Momentum Ratio",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Momentum ratio accelerated particles"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th July Morning Shift",
+        "question": "An electron (mass$m$) with an initial velocity$v\u2192=v0i^(v0>0)$is moving in an electric field$E\u2192=\u2212E0i^(E0>0)$where$E0$is constant. If at$t=0$de Broglie wavelength is$\u03bb0=hmv0$, then its de Broglie wavelength after time t is given by",
+        "options": [
+            "$\u03bb0$",
+            "$\u03bb0(1+eE0tmv0)$",
+            "$\u03bb0t$",
+            "$\u03bb0(1+eE0tmv0)$"
+        ],
+        "answer": "$\u03bb0(1+eE0tmv0)$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-electron-mass-mathrmm-with-an-initial-velocit-jee-main-physics-motion-uqkuqhuecpedinmg",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie & E-Field",
+        "logic_type": "Template",
+        "difficulty": 4,
+        "physics_key": "Wavelength change E-field time"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th July Morning Shift",
+        "question": "A metal exposed to light of wavelength$800 nm$and and emits photoelectrons with a certain kinetic energy. The maximum kinetic energy of photo-electron doubles when light of wavelength$500 nm$is used. The workfunction of the metal is : (Take hc$=1230eV\u2212nm$).",
+        "options": [
+            "1.537 eV",
+            "2.46 eV",
+            "0.615 eV",
+            "1.23 eV"
+        ],
+        "answer": "0.615 eV",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-metal-exposed-to-light-of-wavelength-800-mathrmnm-jee-main-physics-motion-9whtpiocp6vs7kbr",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Two-Wavelengths",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Work function two wavelength method"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 29th June Evening Shift",
+        "question": "The electric field at a point associated with a light wave is given by E = 200 [sin (6$\u00d7$10 ^15 )t + sin (9$\u00d7$10 ^15 )t] Vm ^$\u2212$1 Given : h = 4.14$\u00d7$10 ^$\u2212$15 eVs If this light falls on a metal surface having a work function of 2.50 eV, the maximum kinetic energy of the photoelectrons will be",
+        "options": [
+            "1.90 eV",
+            "3.27 eV",
+            "3.60 eV",
+            "3.42 eV"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-electric-field-at-a-point-associated-with-a-light-wav-jee-main-physics-motion-vs8ho4mlc5idmfwy",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Max KE",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Max KE from highest frequency"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 28th June Evening Shift",
+        "question": "Let K _1 and K _2 be the maximum kinetic energies of photo-electrons emitted when two monochromatic beams of wavelength$\u03bb$_1 and$\u03bb$_2 , respectively are incident on a metallic surface. If$\u03bb$_1 = 3$\u03bb$_2 then :",
+        "options": [
+            "$K1>K23$",
+            "$K1<K23$",
+            "$K1=K23$",
+            "$K2=K13$"
+        ],
+        "answer": "$K1<K23$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/plet-ksub1sub-and-ksub2sub-be-the-maximum-kineti-jee-main-physics-motion-yyiaqmrpmqqjfdtc",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Wavelength Change",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "KE relation inverse wavelength"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 30th June Morning Shift",
+        "question": "A source of monochromatic light liberates 9$\u00d7$10 ^20 photon per second with wavelength 600 nm when operated at 400 W. The number of photons emitted per second with wavelength of 800 nm by the source of monochromatic light operating at same power will be :",
+        "options": [
+            "12$\u00d7$10 ^20",
+            "6$\u00d7$10 ^20",
+            "9$\u00d7$10 ^20",
+            "24$\u00d7$10 ^20"
+        ],
+        "answer": "12$\u00d7$10 ^20",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-source-of-monochromatic-light-liberates-9-times-10-jee-main-physics-motion-2ap56xmrpynsdm0z",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photons per Second",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Photons per second power ratio"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 29th June Morning Shift",
+        "question": "Given below are two statements : one is labelled as Assertion A and the other is labelled as Reason R : Assertion A : The photoelectric effect does not takes place, if the energy of the incident radiation is less than the work function of a metal. Reason R : Kinetic energy of the photoelectrons is zero, if the energy of the incident radiation is equal to the work function of a metal. In the light of the above statements, choose the most appropriate answer from the options given below.",
+        "options": [
+            "Both A and R are correct and R is the correct explanation of A.",
+            "Both A and R are correct but R is not the correct explanation of A.",
+            "A is correct but R is not correct.",
+            "A is not correct but R is correct."
+        ],
+        "answer": "Both A and R are correct but R is not the correct explanation of A.",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pgiven-below-are-two-statements--one-is-labelled-as-asser-jee-main-physics-motion-3uf9mljnhcjpf6cg",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Theory",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Work function threshold statements"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 31st August Evening Shift",
+        "question": "A free electron of 2.6 eV energy collides with a H ^+ ion. This results in the formation of a hydrogen atom in the first excited state and a photon is released. Find the frequency of the emitted photon. (h = 6.6$\u00d7$10 ^$\u2212$34 Js)",
+        "options": [
+            "1.45$\u00d7$10 ^16 MHz",
+            "0.19$\u00d7$10 ^15 MHz",
+            "1.45$\u00d7$10 ^9 MHz",
+            "9.0$\u00d7$10 ^27 MHz"
+        ],
+        "answer": "1.45$\u00d7$10 ^9 MHz",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-free-electron-of-26-ev-energy-collides-with-a-hsupsu-jee-main-physics-units-and-measurements-o2ozshk0z3pzrz9s",
+        "is_numerical": false,
+        "sub_topic": "Atoms: Hydrogen Energy",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Collision energy excited state"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th June Morning Shift",
+        "question": "Given below are two statements : Statement I : Davisson-Germer experiment establishes the wave nature of electrons. Statement II : If electrons have wave nature, they can interfere and show diffraction. In the light of the above statements choose the correct answer from the option given below :",
+        "options": [
+            "Both Statement I and Statement II are true.",
+            "Both Statement I and Statement II are false.",
+            "Statement I is true but Statement II is false.",
+            "Statement I is false but Statement II is true."
+        ],
+        "answer": "Both Statement I and Statement II are true.",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pgiven-below-are-two-statements-p-pstatement-i--dav-jee-main-physics-motion-iovtq7kngjogkbr3",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Wave vs Particle",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Davisson Germer wave nature"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th June Morning Shift",
+        "question": "An$\u03b1$particle and a carbon 12 atom has same kinetic energy K. The ratio of their de-Broglie wavelengths$(\u03bb\u03b1:\u03bbC12)$is :",
+        "options": [
+            "$1:3$",
+            "$3:1$",
+            "$3:1$",
+            "$2:3$"
+        ],
+        "answer": "$3:1$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-alpha-particle-and-a-carbon-12-atom-has-same-kine-jee-main-physics-motion-gb6znwyyb0nzmn1c",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie KE Comparison",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Wavelength ratio inverse root mass"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th June Evening Shift",
+        "question": "A metal surface is illuminated by a radiation of wavelength 4500$Ao$. The ejected photo-electron enters a constant magnetic field of 2 mT making an angle of 90$\u2218$with the magnetic field. If it starts revolving in a circular path of radius 2 mm, the work function of the metal is approximately :",
+        "options": [
+            "1.36 eV",
+            "1.69 eV",
+            "2.78 eV",
+            "2.23 eV"
+        ],
+        "answer": "1.36 eV",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-metal-surface-is-illuminated-by-a-radiation-of-waveleng-jee-main-physics-motion-dndu6gjcvyvev06t",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Mixed Magnetic Field",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Work function from magnetic radius"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 1st September Evening Shift",
+        "question": "The temperature of an ideal gas in 3-dimensions is 300 K. The corresponding de-Broglie wavelength of the electron approximately at 300 K, is : [m _e = mass of electron = 9$\u00d7$10 ^$\u2212$31 kg, h = Planck constant = 6.6$\u00d7$6.6$\u00d7$10 ^$\u2212$34 Js, k _B = Boltzmann constant = 1.38$\u00d7$10 ^$\u2212$23 JK ^$\u2212$1 ]",
+        "options": [
+            "6.26 nm",
+            "8.46 nm",
+            "2.26 nm",
+            "3.25 nm"
+        ],
+        "answer": "6.26 nm",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-temperature-of-an-ideal-gas-in-3-dimensions-is-300-k-th-jee-main-physics-units-and-measurements-lmtkg1jjbbwq8uom",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie Thermal",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Thermal de Broglie wavelength"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th June Evening Shift",
+        "question": "A proton, a neutron, an electron and an$\u03b1$particle have same energy. If$\u03bb$_p ,$\u03bb$_n ,$\u03bb$_e and$\u03bb$_a are the de Broglie's wavelengths of proton, neutron, electron and$\u03b1$particle respectively, then choose the correct relation from the following :",
+        "options": [
+            "$\u03bb$_p =$\u03bb$_n >$\u03bb$_e >$\u03bb$_a",
+            "$\u03bb$_a <$\u03bb$_n <$\u03bb$_p <$\u03bb$_e",
+            "$\u03bb$_e <$\u03bb$_p =$\u03bb$_n >$\u03bb$_a",
+            "$\u03bb$_e =$\u03bb$_p =$\u03bb$_n =$\u03bb$_a"
+        ],
+        "answer": "$\u03bb$_a <$\u03bb$_n <$\u03bb$_p <$\u03bb$_e",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-proton-a-neutron-an-electron-and-an-alpha-partic-jee-main-physics-motion-v6plbc95gjanppmh",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie KE Comparison",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Wavelength inverse root mass ranking"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 31st August Morning Shift",
+        "question": "A moving proton and electron have the same de-Broglie wavelength. If K and P denote the K.E. and momentum respectively. Then choose the correct option :",
+        "options": [
+            "K _p < K _e and P _p = P _e",
+            "K _p = K _e and P _p = P _e",
+            "K _p < K _e an P _p < P _e",
+            "K _p > K _e and P _p = P _e"
+        ],
+        "answer": "K _p < K _e and P _p = P _e",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-moving-proton-and-electron-have-the-same-de-broglie-wavele-jee-main-physics-units-and-measurements-9s22vyyikwmkfwxm",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie Momentum",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Same wavelength equal momentum"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 24th June Evening Shift",
+        "question": "The light of two different frequencies whose photons have energies 3.8 eV and 1.4 eV respectively, illuminate a metallic surface whose work function is 0.6 eV successively. The ratio of maximum speeds of emitted electrons for the two frequencies respectively will be :",
+        "options": [
+            "1 : 1",
+            "2 : 1",
+            "4 : 1",
+            "1 : 4"
+        ],
+        "answer": "2 : 1",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-light-of-two-different-frequencies-whose-photons-have-jee-main-physics-motion-pjhdbnokzye2dj33",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Velocity Ratio",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Speed ratio from work function"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 28th June Morning Shift",
+        "question": "The de Broglie wavelengths for an electron and a photon are$\u03bb$_e and$\u03bb$_p respectively. For the same kinetic energy of electron and photon, which of the following presents the correct relation between the de Broglie wavelengths of two ?",
+        "options": [
+            "$\u03bbp\u221d\u03bbe2$",
+            "$\u03bbp\u221d\u03bbe$",
+            "$\u03bbp\u221d\u03bbe$",
+            "$\u03bbp\u221d1\u03bbe$"
+        ],
+        "answer": "$\u03bbp\u221d\u03bbe2$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-de-broglie-wavelengths-for-an-electron-and-a-photon-a-jee-main-physics-motion-ajjfc6fhnnics1xr",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie Comparison",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Wavelength relation KE same"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 31st August Evening Shift",
+        "question": "Consider two separate ideal gases of electrons and protons having same number of particles. The temperature of both the gases are same. The ratio of the uncertainty in determining the position of an electron to that of a proton is proportional to :-",
+        "options": [
+            "$(mpme)3/2$",
+            "$memp$",
+            "$mpme$",
+            "$mpme$"
+        ],
+        "answer": "$mpme$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/consider-two-separate-ideal-gases-of-electrons-and-protons-h-jee-main-physics-units-and-measurements-ztvekcjeb9pnvdmy",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Uncertainty Principle",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Uncertainty position mass ratio"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th June Morning Shift",
+        "question": "An electron with speed v and a photon with speed c have the same de-Broglie wavelength. If the kinetic energy and momentum of electron are E _e and p _e and that of photon are E _ph and p _ph respectively. Which of the following is correct?",
+        "options": [
+            "$EeEph=2cv$",
+            "$EeEph=v2c$",
+            "$pepph=2cv$",
+            "$pepph=v2c$"
+        ],
+        "answer": "$EeEph=v2c$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-electron-with-speed-v-and-a-photon-with-speed-c-have-t-jee-main-physics-motion-sx9l20bqdnsvm0db",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Electron-Photon Comparison",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "KE momentum ratio same lambda"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th August Morning Shift",
+        "question": "In a photoelectric experiment ultraviolet light of wavelength 280 nm is used with lithium cathode having work function$\u03d5$= 2.5 eV. If the wavelength of incident light is switched to 400 nm, find out the change in the stopping potential. (h = 6.63$\u00d7$10 ^$\u2212$34 Js, c = 3$\u00d7$10 ^8 ms ^$\u2212$1 )",
+        "options": [
+            "1.3 V",
+            "1.1 V",
+            "1.9 V",
+            "0.6 V"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-a-photoelectric-experiment-ultraviolet-light-of-wavelengt-jee-main-physics-units-and-measurements-tiiugmzstiwjxt1o",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Two-Wavelengths",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Stopping potential change two-point"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 27th August Morning Shift",
+        "question": "In a photoelectric experiment, increasing the intensity of incident light :",
+        "options": [
+            "increases the number of photons incident and also increases the K.E. of the ejected electrons",
+            "increases the frequency of photons incident and increases the K.E. of the ejected electrons",
+            "increases the frequency of photons incident and the K.E. of the ejected electrons remains unchanged",
+            "increases the number of photons incident and the K.E. of the ejected electrons remains unchanged"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-a-photoelectric-experiment-increasing-the-intensity-of-i-jee-main-physics-units-and-measurements-i4abophayybhrjve",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Theory",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Intensity number KE relation"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th August Evening Shift",
+        "question": "The de-Broglie wavelength of a particle having kinetic energy E is$\u03bb$. How much extra energy must be given to this particle so that the de-Broglie wavelength reduces to 75% of the initial value?",
+        "options": [
+            "$19$E",
+            "$79$E",
+            "E",
+            "$169$E"
+        ],
+        "answer": "$79$E",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-de-broglie-wavelength-of-a-particle-having-kinetic-energ-jee-main-physics-units-and-measurements-r94eixoyarwrzyhi",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie KE Scaling",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Extra energy for wavelength reduction"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 27th August Evening Shift",
+        "question": "A monochromatic neon lamp with wavelength of 670.5 nm illuminates a photo-sensitive material which has a stopping voltage of 0.48 V. What will be the stopping voltage if the source light is changed with another source of wavelength of 474.6 nm?",
+        "options": [
+            "0.96 V",
+            "1.25 V",
+            "0.24 V",
+            "1.5 V"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-monochromatic-neon-lamp-with-wavelength-of-6705-nm-illumi-jee-main-physics-units-and-measurements-j4gia3pjxx1429jq",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Two-Wavelengths",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Stopping potential work function"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 27th July Evening Shift",
+        "question": "An electron and proton are separated by a large distance. The electron starts approaching the proton with energy 3 eV. The proton captures the electron and forms a hydrogen atom in second excited state. The resulting photon is incident on a photosensitive metal of threshold wavelength 4000$Ao$. What is the maximum kinetic energy of the emitted photoelectron?",
+        "options": [
+            "7.61 eV",
+            "1.41 eV",
+            "3.3 eV",
+            "No photoelectron would be emitted"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-electron-and-proton-are-separated-by-a-large-distance-th-jee-main-physics-units-and-measurements-gna5d6mzinpjqhen",
+        "is_numerical": false,
+        "sub_topic": "Atoms: Hydrogen Transitions",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 5,
+        "physics_key": "Capture energy photoelectric KE"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th July Evening Shift",
+        "question": "When radiation of wavelength$\u03bb$is incident on a metallic surface, the stopping potential of ejected photoelectrons is 4.8 V. If the same surface is illuminated by radiation of double the previous wavelength, then the stopping potential becomes 1.6 V. The threshold wavelength of the metal is :",
+        "options": [
+            "2$\u03bb$",
+            "4$\u03bb$",
+            "8$\u03bb$",
+            "6$\u03bb$"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/when-radiation-of-wavelength-lambda-is-incident-on-a-me-jee-main-physics-units-and-measurements-856rn5gqdczlqyss",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Threshold Wavelength",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Threshold wavelength two-point"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th July Evening Shift",
+        "question": "An electron moving with speed v and a photon moving with speed c, have same D-Broglie wavelength. The ratio of kinetic energy of electron to that of photon is :",
+        "options": [
+            "$3cv$",
+            "$v3c$",
+            "$v2c$",
+            "$2cv$"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-electron-moving-with-speed-v-and-a-photon-moving-with-spe-jee-main-physics-units-and-measurements-wggty1ouvvmchyun",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Electron-Photon Comparison",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "KE ratio same de Broglie"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 17th March Evening Shift",
+        "question": "Two identical photocathodes receive the light of frequencies f _1 and f _2 respectively. If the velocities of the photo-electrons coming out are v _1 and v _2 respectively, then",
+        "options": [
+            "$v1\u2212v2=[2hm(f1\u2212f2)]12$",
+            "$v12+v22=2hm[f1+f2]$",
+            "$v1+v2=[2hm(f1+f2)]12$",
+            "$v12\u2212v22=2hm[f1\u2212f2]$"
+        ],
+        "answer": "$v12\u2212v22=2hm[f1\u2212f2]$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/two-identical-photocathodes-receive-the-light-of-frequencies-jee-main-physics-units-and-measurements-kq0yd2lhnqigujue",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Velocity Ratio",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Velocity squared difference frequency"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 20th July Morning Shift",
+        "question": "The radiation corresponding to 3$\u2192$2 transition of a hydrogen atom falls on a gold surface to generate photoelectrons. The electrons are passed through a magnetic field of 5$\u00d7$10 ^$\u2212$4 T. Assume that the radius of the largest circular path followed by these electrons is 7 mm, the work function of the metal is : (Mass of electron = 9.1$\u00d7$10 ^$\u2212$31 kg)",
+        "options": [
+            "1.36 eV",
+            "1.88 eV",
+            "0.82 eV",
+            "0.16 eV"
+        ],
+        "answer": "0.82 eV",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-radiation-corresponding-to-3-to-2-transition-of-a-h-jee-main-physics-units-and-measurements-jzfpnvpv9umsargd",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Mixed Magnetic Field",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Bohr KE magnetic radius"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th July Morning Shift",
+        "question": "A particle of mass 4M at rest disintegrates into two particles of mass M and 3M respectively having non zero velocities. The ratio of de-Broglie wavelength of particle of mass M to that of mass 3M will be :",
+        "options": [
+            "1 : 3",
+            "3 : 1",
+            "1 :$3$",
+            "1 : 1"
+        ],
+        "answer": "1 : 1",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-particle-of-mass-4m-at-rest-disintegrates-into-two-particl-jee-main-physics-units-and-measurements-phttf58zs9nojt3h",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie Momentum",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 2,
+        "physics_key": "Momentum conservation same wavelength"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 18th March Morning Shift",
+        "question": "A particle is travelling 4 time as fast as an electron. Assuming the ratio of de-Broglie wavelength of a particle to that of electron is 2 : 1, the mass of the particle is :",
+        "options": [
+            "$116$times the mass of e ^$\u2212$",
+            "8 times the mass of e ^$\u2212$",
+            "16 times the mass of e ^$\u2212$",
+            "$18$times the mass of e ^$\u2212$"
+        ],
+        "answer": "$18$times the mass of e ^$\u2212$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-particle-is-travelling-4-time-as-fast-as-an-electron-assu-jee-main-physics-units-and-measurements-ksvdamkjyzajxja8",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie Velocity Ratio",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Mass ratio same de Broglie"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th July Morning Shift",
+        "question": "What should be the order of arrangement of de-Broglie wavelength of electron ($\u03bb$_e ), an$\u03b1$-particle ($\u03bb$_a ) and proton ($\u03bb$_p ) given that all have the same kinetic energy?",
+        "options": [
+            "$\u03bb$_e =$\u03bb$_p =$\u03bb$_$\u03b1$",
+            "$\u03bb$_e <$\u03bb$_p <$\u03bb$_$\u03b1$",
+            "$\u03bb$_e >$\u03bb$_p >$\u03bb$_$\u03b1$",
+            "$\u03bb$_e =$\u03bb$_p >$\u03bb$_$\u03b1$"
+        ],
+        "answer": "$\u03bb$_e >$\u03bb$_p >$\u03bb$_$\u03b1$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/what-should-be-the-order-of-arrangement-of-de-broglie-wavele-jee-main-physics-units-and-measurements-myt00d5qmeitvsdq",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie KE Comparison",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Wavelength inverse mass ranking"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 18th March Evening Shift",
+        "question": "The speed of electrons in a scanning electron microscope is 1$\u00d7$10 ^7 ms ^-1 . If the protons having the same speed are used instead of electrons, then the resolving power of scanning proton microscope will be changed by a factor of :",
+        "options": [
+            "$11837$",
+            "1837",
+            "$1837$",
+            "$11837$"
+        ],
+        "answer": "1837",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-speed-of-electrons-in-a-scanning-electron-microscope-is-jee-main-physics-units-and-measurements-redw5evuvdam2e4p",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie Resolution",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Resolution ratio mass factor"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 20th July Evening Shift",
+        "question": "An electron having de-Broglie wavelength$\u03bb$is incident on a target in a X-ray tube. Cut-off wavelength of emitted X-ray is :",
+        "options": [
+            "0",
+            "$2m2c2\u03bb2h2$",
+            "$2mc\u03bb2h$",
+            "$hcmc$"
+        ],
+        "answer": "$2mc\u03bb2h$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-electron-having-de-broglie-wavelength-lambda-is-inci-jee-main-physics-units-and-measurements-upbegw4f2qh2tdwt",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: X-Ray Cutoff",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Cutoff wavelength electron KE"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 22th July Evening Shift",
+        "question": "An electron of mass m _e and a proton of mass m _p are accelerated through the same potential difference. The ratio of the de-Broglie wavelength associated with the electron to that with the proton is",
+        "options": [
+            "$memp$",
+            "1",
+            "$mpme$",
+            "$mpme$"
+        ],
+        "answer": "$mpme$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-electron-of-mass-msubesub-and-a-proton-of-mass-msub-jee-main-physics-units-and-measurements-sigp8m9ofhesgv2c",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie $\\lambda$-V",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Wavelength ratio accelerated particles"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 16th March Evening Shift",
+        "question": "The de-Broglie wavelength associated with an electron and a proton were calculated by accelerating them through same potential of 100 V. What should nearly be the ratio of their wavelengths? (m _p = 1.00727u m _e = 0.00055u)",
+        "options": [
+            "41.4 : 1",
+            "(1860) ^2 : 1",
+            "1860 : 1",
+            "43 : 1"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-de-broglie-wavelength-associated-with-an-electron-and-a-jee-main-physics-units-and-measurements-zzrkpbhyf1fygtwg",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie $\\lambda$-V",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Wavelength ratio accelerated particles"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th February Evening Shift",
+        "question": "The recoil speed of a hydrogen atom after it emits a photon in going from n = 5 state to n = 1 state will be :",
+        "options": [
+            "4.34 m/s",
+            "2.19 m/s",
+            "3.25 m/s",
+            "4.17 m/s"
+        ],
+        "answer": "4.17 m/s",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-recoil-speed-of-a-hydrogen-atom-after-it-emits-a-photon-jee-main-physics-units-and-measurements-ttb4qyv1sxmlcenz",
+        "is_numerical": false,
+        "sub_topic": "Atoms: Recoil",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Momentum conservation photon recoil"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 17th March Morning Shift",
+        "question": "An electron of mass m and a photon have same energy E. The ratio of wavelength of electron to that of photon is : (c being the velocity of light)",
+        "options": [
+            "$1c(2mE)1/2$",
+            "$1c(E2m)1/2$",
+            "$(E2m)1/2$",
+            "$c(2mE)1/2$"
+        ],
+        "answer": "$1c(E2m)1/2$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-electron-of-mass-m-and-a-photon-have-same-energy-e-the-r-jee-main-physics-units-and-measurements-6czbuxqfw4ny7pak",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Electron-Photon Comparison",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Wavelength ratio same energy"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 16th March Morning Shift",
+        "question": "The stopping potential in the context of photoelectric effect depends on the following property of incident electromagnetic radiation :",
+        "options": [
+            "Phase",
+            "Frequency",
+            "Amnplitude",
+            "Intensity"
+        ],
+        "answer": "Frequency",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-stopping-potential-in-the-context-of-photoelectric-effec-jee-main-physics-units-and-measurements-bbfjcrhcbdn9zwmq",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Theory",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Stopping potential frequency dependence"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th February Evening Shift",
+        "question": "The stopping potential for electrons emitted from a photosensitive surface illuminated by light of wavelength 491 nm is 0.710 V. When the incident wavelength is changed to a new value, the stopping potential is 1.43 V. The new wavelength is :",
+        "options": [
+            "400 nm",
+            "329 nm",
+            "309 nm",
+            "382 nm"
+        ],
+        "answer": "382 nm",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-stopping-potential-for-electrons-emitted-from-a-photosen-jee-main-physics-units-and-measurements-dfr5grvmgmh7x6jh",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Two-Wavelengths",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "New wavelength from two stopping potentials"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 24th February Evening Shift",
+        "question": "The de-Broglie wavelength of a proton and$\u03b1$-particle are equal. The ratio of their velocities is :",
+        "options": [
+            "4 : 2",
+            "4 : 3",
+            "4 : 1",
+            "1 : 4"
+        ],
+        "answer": "4 : 1",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-de-broglie-wavelength-of-a-proton-and-alpha-particl-jee-main-physics-units-and-measurements-np88o8krqdmap4g3",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie Velocity Ratio",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Velocity ratio equal wavelength"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 24th February Evening Shift",
+        "question": "An X-ray tube is operated at 1.24 million volt. The shortest wavelength of the produced photon will be :",
+        "options": [
+            "10 ^$\u2212$2 nm",
+            "10 ^$\u2212$1 nm",
+            "10 ^$\u2212$3 nm",
+            "10 ^$\u2212$4 nm"
+        ],
+        "answer": "10 ^$\u2212$3 nm",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-x-ray-tube-is-operated-at-124-million-volt-the-shortest-jee-main-physics-units-and-measurements-iu24oagegjddi7ls",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: X-Ray Cutoff",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Shortest wavelength potential"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 24th February Morning Shift",
+        "question": "Given below are two statements : Statement I : Two photons having equal linear momenta have equal wavelengths. Statement II : If the wavelength of photon is decreased, then the momentum and energy of a photon will also decrease. In the light of the above statements, choose the correct answer from the options given below.",
+        "options": [
+            "Statement I is false but Statement II is true",
+            "Both Statement I and Statement II are false",
+            "Both Statement I and Statement II are true",
+            "Statement I is true but Statement II is false"
+        ],
+        "answer": "Statement I is true but Statement II is false",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/given-below-are-two-statements--brbrstatement-i--two-jee-main-physics-units-and-measurements-kky9ungbiqjmbqla",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Wave vs Particle",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Momentum wavelength energy statements"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th February Evening Shift",
+        "question": "An electron of mass m _e and a proton of mass m _p = 1836 m _e are moving with the same speed. The ratio of their de Broglie wavelength$\u03bbelectron\u03bbproton$will be :",
+        "options": [
+            "1",
+            "1836",
+            "$11836$",
+            "918"
+        ],
+        "answer": "1836",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-electron-of-mass-msubesub-and-a-proton-of-mass-msub-jee-main-physics-units-and-measurements-z85snuujplryisb0",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie Velocity Ratio",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Wavelength ratio same speed"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 4th September Evening Slot",
+        "question": "In a photoelectric effect experiment, the graph of stopping potential V versus reciprocal of wavelength obtained is shown in the figure. As the intensity of incident radiation is increased : [IMAGE: https://imagex.cdn.examgoal.net/jgy2xukfawchrv/8022135d-f716-4556-a687-c23254dfe693/69114cb0-fb23-11ea-8293-3b6cc591631c/file-jgy2xukfawchrw-219w.png]",
+        "options": [
+            "Slope of the straight line get more steep",
+            "Graph does not change",
+            "Straight line shifts to left",
+            "Straight line shifts to right"
+        ],
+        "answer": "Graph does not change",
+        "images": [
+            "https://imagex.cdn.examgoal.net/jgy2xukfawchrv/8022135d-f716-4556-a687-c23254dfe693/69114cb0-fb23-11ea-8293-3b6cc591631c/file-jgy2xukfawchrw-219w.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/in-a-photoelectric-effect-experiment-the-graph-of-stopping-jee-main-physics-dual-nature-of-radiation-795gl2j0frt3k0zn",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Graph",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "V0 vs 1/lambda intensity"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th February Morning Shift",
+        "question": "An$\u03b1$particle and a proton are accelerated from rest by a potential difference of 200V. After this, their de Broglie wavelengths are$\u03bb$_$\u03b1$and$\u03bb$_p respectively. The ratio$\u03bbp\u03bb\u03b1$is :",
+        "options": [
+            "8",
+            "2.8",
+            "7.8",
+            "3.8"
+        ],
+        "answer": "2.8",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-alpha-particle-and-a-proton-are-accelerated-from-res-jee-main-physics-units-and-measurements-ky78czjl9hvm4vhe",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie $\\lambda$-V",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Wavelength ratio accelerated particles"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th February Morning Shift",
+        "question": "Given below are two statements : one is labeled as Assertion A and the other is labelled as Reason R. Assertion A : An electron microscope can achieve better resolving power than an optical microscope. Reason R : The de Broglie's wavelength of the electrons emitted from an electron gun is much less than wavelength of visible light. In the light of the above statements, choose the correct answer from the options given below :",
+        "options": [
+            "A is false but R is true.",
+            "Both A and R are true but R is NOT the correct explanation of A.",
+            "Both A and R are true and R is the correct explanation of A.",
+            "A is true but R is false."
+        ],
+        "answer": "Both A and R are true and R is the correct explanation of A.",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/given-below-are-two-statements--one-is-labeled-as-assertion-jee-main-physics-units-and-measurements-whgyyuq819vrewmu",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Wave vs Particle",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Microscope resolving power wavelength"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 6th September Evening Slot",
+        "question": "Assuming the nitrogen molecule is moving with r.m.s. velocity at 400 K, the de-Broglie wavelength of nitrogen molecule is close to : (Given : nitrogen molecule weight : 4.64$\u00d7$10 ^\u201326 kg, Boltzman constant: 1.38$\u00d7$10 ^\u201323 J/K, Planck constant : 6.63$\u00d7$10 ^\u201334 J.s)",
+        "options": [
+            "0.44$Ao$",
+            "0.34$Ao$",
+            "0.20$Ao$",
+            "0.24$Ao$"
+        ],
+        "answer": "0.24$Ao$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/assuming-the-nitrogen-molecule-is-moving-with-rms-velocit-jee-main-physics-dual-nature-of-radiation-xerqnooe6upva48c",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie Thermal",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Thermal RMS de Broglie"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 6th September Morning Slot",
+        "question": "An electron, a doubly ionized helium ion (He ^++ ) and a proton are having the same kinetic energy. The relation between their respective de-Broglie wavelengths$\u03bb$_e ,$\u03bb$_He++ and$\u03bb$_p is :",
+        "options": [
+            "$\u03bb$_e >$\u03bb$_He++ >$\u03bb$_p",
+            "$\u03bb$_e <$\u03bb$_p <$\u03bb$_He++",
+            "$\u03bb$_e >$\u03bb$_p >$\u03bb$_He++",
+            "$\u03bb$_e <$\u03bb$_He++ =$\u03bb$_p"
+        ],
+        "answer": "$\u03bb$_e >$\u03bb$_p >$\u03bb$_He++",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-electron-a-doubly-ionized-helium-ion-hesupsup-a-jee-main-physics-dual-nature-of-radiation-kxqt1pidmltf4fae",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie KE Comparison",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Wavelength inverse mass ranking"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 4th September Morning Slot",
+        "question": "Given figure shows few data points in a phot electric effect experiment for a certain metal. The minimum energy for ejection of electron from its surface is: (Plancks constant h = 6.62 \u00d7 10 ^\u201334 J.s) [IMAGE: https://imagex.cdn.examgoal.net/jgy2xukf6is7vp/c8e74113-edd7-40d8-b545-a8eedb3e4192/3bf73150-f8bb-11ea-8293-3b6cc591631c/file-jgy2xukf6is7vq-320w.png]",
+        "options": [
+            "2.10 eV",
+            "2.27 eV",
+            "2.59 eV",
+            "1.93 eV"
+        ],
+        "answer": "2.27 eV",
+        "images": [
+            "https://imagex.cdn.examgoal.net/jgy2xukf6is7vp/c8e74113-edd7-40d8-b545-a8eedb3e4192/3bf73150-f8bb-11ea-8293-3b6cc591631c/file-jgy2xukf6is7vq-320w.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/given-figure-shows-few-data-points-in-a-phot-electric-effect-jee-main-physics-dual-nature-of-radiation-tjces8maccrkcrq7",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Graph",
+        "logic_type": "Graphical",
+        "difficulty": 3,
+        "physics_key": "Work function from graph intercept"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 2nd September Evening Slot",
+        "question": "A particle is moving 5 times as fast as an electron. The ratio of the de-Broglie wavelength of the particle to that of the electron is 1.878$\u00d7$10 ^\u20134 . The mass of the particle is close to",
+        "options": [
+            "1.2$\u00d7$10 ^\u201328 kg",
+            "9.1$\u00d7$10 ^\u201331 kg",
+            "4.8$\u00d7$10 ^\u201327 kg",
+            "9.7$\u00d7$10 ^\u201328 kg"
+        ],
+        "answer": "9.7$\u00d7$10 ^\u201328 kg",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-particle-is-moving-5-times-as-fast-as-an-electron-the-rat-jee-main-physics-dual-nature-of-radiation-jyzuwmoskr1prx3k",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie Velocity Ratio",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Particle mass from wavelength ratio"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 4th September Morning Slot",
+        "question": "Particle A of mass m _A =$m2$moving along the x-axis with velocity v _0 collides elastically with another particle B at rest having mass m _B =$m3$. If both particles move along the x-axis after the collision, the change$\u0394$$\u03bb$in de-Broglie wavlength of particle A, in terms of its de-Broglie wavelength ($\u03bb$_0 ) before collision is :",
+        "options": [
+            "$\u0394$$\u03bb$=$52\u03bb0$",
+            "$\u0394$$\u03bb$=$32\u03bb0$",
+            "$\u0394$$\u03bb$= 2$\u03bb$_0",
+            "$\u0394$$\u03bb$= 4$\u03bb$_0"
+        ],
+        "answer": "$\u0394$$\u03bb$= 4$\u03bb$_0",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/particle-a-of-mass-msubasub--m-over-2-moving-al-jee-main-physics-dual-nature-of-radiation-pt9w9dd1xrgkuixm",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie & Collision",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Wavelength change elastic collision"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 3rd September Morning Slot",
+        "question": "When the wavelength of radiation falling on a metal is changed from 500 nm to 200 nm, the maximum kinetic energy of the photoelectrons becomes three times larger. The work function of the metal is close to :",
+        "options": [
+            "1.02 eV",
+            "0.81 eV",
+            "0.61 eV",
+            "0.52 eV"
+        ],
+        "answer": "0.61 eV",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/when-the-wavelength-of-radiation-falling-on-a-metal-is-chang-jee-main-physics-dual-nature-of-radiation-yq7kztbdsagrnsgq",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Two-Wavelengths",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Work function from two wavelengths"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 9th January Morning Slot",
+        "question": "Radiation, with wavelength 6561$Ao$falls on a metal surface to produce photoelectrons. The electrons are made to enter a uniform magnetic field of 3 \u00d7 10 ^\u20134 T. If the radius of the largest circular path followed by the electrons is 10 mm, the work function of the metal is close to :",
+        "options": [
+            "1.8eV",
+            "0.8eV",
+            "1.1eV",
+            "1.6eV"
+        ],
+        "answer": "1.1eV",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/radiation-with-wavelength-6561-mathop-alimitso--fall-jee-main-physics-dual-nature-of-radiation-ivbsigsbjntzwuok",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Mixed Magnetic Field",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Work function magnetic radius"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 8th January Morning Slot",
+        "question": "When photon of energy 4.0 eV strikes the surface of a metal A, the ejected photoelectrons have maximum kinetic energy T _A eV end de-Broglie wavelength$\u03bbA$. The maximum kinetic energy of photoelectrons liberated from another metal B by photon of energy 4.50 eV is T _B = (T _A \u2013 1.5) eV. If the de-Broglie wavelength of these photoelectrons$\u03bbB$= 2$\u03bbA$, then the work function of metal B is :",
+        "options": [
+            "1.5eV",
+            "4eV",
+            "2eV",
+            "3eV"
+        ],
+        "answer": "4eV",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/when-photon-of-energy-40-ev-strikes-the-surface-of-a-metal-jee-main-physics-current-electricity-9yeauiipemvhqmx1",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Two-Wavelengths",
+        "logic_type": "Template",
+        "difficulty": 4,
+        "physics_key": "Work function from KE ratio"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 9th January Morning Slot",
+        "question": "A particle moving with kinetic energy E has de Broglie wavelength$\u03bb$. If energy$\u0394$E is added to its energy, the wavelength become$\u03bb$/2. Value of$\u0394$E, is :",
+        "options": [
+            "E",
+            "3E",
+            "2E",
+            "4E"
+        ],
+        "answer": "3E",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-particle-moving-with-kinetic-energy-e-has-de-broglie-wavel-jee-main-physics-dual-nature-of-radiation-cuolhnl3yklcvxuz",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie KE Scaling",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Energy change wavelength reduction"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 9th January Evening Slot",
+        "question": "An electron of mass m and magnitude of charge |e| initially at rest gets accelerated by a constant electric field E. The rate of change of de-Broglie wavelength of this electron at time t ignoring relativistic effects is :",
+        "options": [
+            "$\u2212h|e|Et$",
+            "$\u2212h|e|Et$",
+            "$\u2212h|e|Et2$",
+            "$|e|Eth$"
+        ],
+        "answer": "$\u2212h|e|Et2$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-electron-of-mass-m-and-magnitude-of-charge-e-initially-jee-main-physics-dual-nature-of-radiation-a6csabqsczo0ezzq",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie & E-Field",
+        "logic_type": "Calculus",
+        "difficulty": 4,
+        "physics_key": "Rate of change of wavelength"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 3rd September Evening Slot",
+        "question": "Two sources of light emit X-rays of wavelength 1 nm and visible light of wavelength 500 nm, respectively. Both the sources emit light of the same power 200 W. The ratio of the number density of photons of X-rays to the number density of photons of the visible light of the given wavelengths is :",
+        "options": [
+            "$1500$",
+            "500",
+            "250",
+            "$1250$"
+        ],
+        "answer": "$1500$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/two-sources-of-light-emit-x-rays-of-wavelength-1-nm-and-visi-jee-main-physics-dual-nature-of-radiation-fmoswe1pr0fc54w8",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photons per Second",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Photon number density ratio"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 7th January Evening Slot",
+        "question": "An electron (of mass m) and a photon have the same energy E in the range of a few eV. The ratio of the de-Broglie wavelength associated with the electron and the wavelength of the photon is (c = speed of light in vaccuum)",
+        "options": [
+            "$1c(2Em)12$",
+            "$1c(E2m)12$",
+            "$(E2m)12$",
+            "$c(2mE)12$"
+        ],
+        "answer": "$1c(E2m)12$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-electron-of-mass-m-and-a-photon-have-the-same-energy-e-jee-main-physics-dual-nature-of-radiation-ycg63zrkpbbf6jkn",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Electron-Photon Comparison",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Wavelength ratio same energy"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 8th January Evening Slot",
+        "question": "An electron (mass m) with initial velocity$v\u2192=v0i^+v0j^$is in an electric field$E\u2192=\u2212E0k^$. If$\u03bb0$is initial de-Broglie wavelength of electron, its de-Broglie wave length at time t is given by :",
+        "options": [
+            "$\u03bb01+e2E2t2m2v02$",
+            "$\u03bb021+e2E2t2m2v02$",
+            "$\u03bb01+e2E2t22m2v02$",
+            "$\u03bb02+e2E2t2m2v02$"
+        ],
+        "answer": "$\u03bb01+e2E2t22m2v02$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-electron-mass-m-with-initial-velocity-overrightarrow-jee-main-physics-current-electricity-8zpat3bphr0ncaje",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie & E-Field",
+        "logic_type": "Calculus",
+        "difficulty": 5,
+        "physics_key": "Wavelength change 3D velocity"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 10th April Morning Slot",
+        "question": "In a photoelectric effect experiment the threshold wavelength of the light is 380 nm. If the wavelentgh of incident light is 260 nm, the maximum kinetic energy of emitted electrons will be: Given E (in eV) = 1237/$\u03bb$(in nm)",
+        "options": [
+            "4.5 eV",
+            "15.1 eV",
+            "3.0 eV",
+            "1.5 eV"
+        ],
+        "answer": "1.5 eV",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-a-photoelectric-effect-experiment-the-threshold-wavelengt-jee-main-physics-units-and-measurements-nl1oj8vweovdr9rb",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Effect",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Max KE from two wavelengths"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 10th April Evening Slot",
+        "question": "A 2 mW laser operates at wavelength of 500 nm. The number of photons that will be emitted per second is : [Given Planck's constant h = 6.6 \u00d7 10 ^\u201334 Js, speed of light c = 3.0 \u00d7 10 ^8 m/s]",
+        "options": [
+            "5 \u00d7 10 ^15",
+            "1.5 \u00d7 10 ^16",
+            "1 \u00d7 10 ^16",
+            "2 \u00d7 10 ^16"
+        ],
+        "answer": "5 \u00d7 10 ^15",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-2-mw-laser-operates-at-wavelength-of-500-nm-the-number-of-jee-main-physics-modern-physics-m968qipkdof6woq1",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photons per Second",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Photon number per second"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th April Morning Slot",
+        "question": "The electric field of light wave is given as$E\u2192=10\u22123cos\u2061(2\u03c0x5\u00d710\u22127\u22122\u03c0\u00d76\u00d71014t)x\u2227\u2061NC$This light falls on a metal plate of work function 2eV. The stopping potential of the photoelectrons is : Given, E (in eV) = 12375/$\u03bb$(in\u00c5)",
+        "options": [
+            "2.48 V",
+            "0.48 V",
+            "0.72 V",
+            "2.0 V"
+        ],
+        "answer": "0.48 V",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-electric-field-of-light-wave-is-given-as-overrightar-jee-main-physics-units-and-measurements-hdvqpucz8nnwwzhv",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Effect",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Stopping potential wave equation"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th April Morning Slot",
+        "question": "The stopping potential V _0 (in volt) as a function of frequency ($\u03c5$) for a sodium emitter, is shown in the figure. The work function of sodium, from the data plotted in the figure, will be: (Given: Planck\u2019s constant (h) = 6.63 \u00d7 10 ^\u201334 Js, electron charges e = 1.6 \u00d7 10 ^\u201319 C) [IMAGE: https://imagex.cdn.examgoal.net/7kejek1by3qdu/4d299145-faad-4725-89cf-c8254010e8ad/090a2320-e68c-11e9-a7bc-b7b08ce8d541/file-7kejek1by3qdv-257w.jpg]",
+        "options": [
+            "1.95 eV",
+            "2.12 eV",
+            "1.82 eV",
+            "1.66 eV"
+        ],
+        "answer": "1.66 eV",
+        "images": [
+            "https://imagex.cdn.examgoal.net/7kejek1by3qdu/4d299145-faad-4725-89cf-c8254010e8ad/090a2320-e68c-11e9-a7bc-b7b08ce8d541/file-7kejek1by3qdv-257w.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/the-stopping-potential-vsub0sub-in-volt-as-a-function-jee-main-physics-modern-physics-kjvhg7d9ke7cvci7",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Graph",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "Work function from V0 graph"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th April Evening Slot",
+        "question": "A particle 'P' is formed due to a completely inelastic collision of particles 'x' and 'y' having de-Broglie wavelengths '$\u03bb$_x ' and '$\u03bb$_y ' respectively. If x and y were moving in opposite directions, then the de-Broglie wavelength of 'P' is :-",
+        "options": [
+            "$\u03bbx\u2212\u03bby$",
+            "$\u03bbx\u03bby|\u03bbx\u2212\u03bby|$",
+            "$\u03bbx+\u03bby$",
+            "$\u03bbx\u03bby\u03bbx+\u03bby$"
+        ],
+        "answer": "$\u03bbx\u03bby|\u03bbx\u2212\u03bby|$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-particle-p-is-formed-due-to-a-completely-inelastic-colli-jee-main-physics-units-and-measurements-b1qs2ckf7ql6xz9j",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie & Collision",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Wavelength final inelastic collision"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 8th April Morning Slot",
+        "question": "Two particles move at right angle to each other. Their de-Broglie wavelengths are$\u03bb1$and$\u03bb2$respectively. The particles suffer perfectly inelastic collision. The de-Broglie wavelength$\u03bb2$of the final particle, is given by :",
+        "options": [
+            "$\u03bb=\u03bb1+\u03bb22$",
+            "$1\u03bb2=1\u03bb12+1\u03bb22$",
+            "$\u03bb=\u03bb1\u03bb2$",
+            "$2\u03bb=1\u03bb1+1\u03bb2$"
+        ],
+        "answer": "$1\u03bb2=1\u03bb12+1\u03bb22$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/two-particles-move-at-right-angle-to-each-other-their-de-br-jee-main-physics-units-and-measurements-prbawdae3dedvqdw",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie & Collision",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Wavelength perpendicular inelastic"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 11th January Evening Slot",
+        "question": "In a photoelectric experiment, the wavelength of the light incident on a metal is changed from 300 nm to 400 nm. The decrease in the stopping potential is close to: ($hce$= 1240 nm eV)",
+        "options": [
+            "0.5 V",
+            "1.0 V",
+            "2.0 V",
+            "1.5 V"
+        ],
+        "answer": "1.0 V",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-photoelectric-experiment-the-wavelength-of-the-light-inci-jee-main-physics-units-and-measurements-tez9jh0lgh42bh1l",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Two-Wavelengths",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Change in stopping potential"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 10th January Evening Slot",
+        "question": "A metal plate of area 1$\u00d7$10 ^\u20134 m ^2 is illuminated by a radiation of intensity 16 mW/m ^2 . The work function of the metal is 5 eV. The energy of the incident photons is 10 eV and only 10% of it produces photo electrons. The number of emitted photoelectrons per second and their maximum energy, respectively, will be",
+        "options": [
+            "10 ^14 and 10 eV",
+            "10 ^12 and 5 eV",
+            "10 ^11 and 5 eV",
+            "10 ^10 and 5 eV"
+        ],
+        "answer": "10 ^11 and 5 eV",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-metal-plate-of-area-1-times-104-m2-is-illuminate-jee-main-physics-units-and-measurements-47ay5o8bxkfsnk6m",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photons Ejected",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Photoelectrons number maximum KE"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th January Evening Slot",
+        "question": "In a Frank-Hertz experiment, an electron of energy 5.6 eV passes through mercury vapour and emerges with an energy 0.7 eV. The minimum wavelength of photons emitted by mercury atoms is close to :",
+        "options": [
+            "2020 nm",
+            "250 nm",
+            "1700 nm",
+            "220 nm"
+        ],
+        "answer": "250 nm",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-a-frank-hertz-experiment-an-electron-of-energy-56-ev-pa-jee-main-physics-units-and-measurements-sopbw3v8rwhfgdcq",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Franck-Hertz",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Min wavelength F-H energy"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th January Morning Slot",
+        "question": "A particle A of mass 'm' and charge 'q' is accelerated by a potential difference of 50 V. Another particle B of mass ' 4 m' and charge 'q' is accelerated by a potential difference of 2500 V. The ratio of de-Broglie wavelengths$\u03bbA\u03bbB$is close to :",
+        "options": [
+            "4.47",
+            "10.00",
+            "14.14",
+            "0.07"
+        ],
+        "answer": "14.14",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-particle-a-of-mass-m-and-charge-q-is-accelerated-by-a-jee-main-physics-units-and-measurements-ofhlphdr1zahk8m8",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie $\\lambda$-V",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Wavelength ratio accelerated particles"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 8th April Evening Slot",
+        "question": "A nucleus A, with a finite de-broglie wavelength$\u03bb$_A , undergoes spontaneous fission into two nuclei B and C of equal mass. B flies in the same direction as that of A, while C flies in the opposite direction with a velocity equal to half of that of B. The de-Broglie wavelengths$\u03bb$_B and$\u03bb$_C of B and C are respectively :",
+        "options": [
+            "$\u03bb$_A , 2$\u03bb$_A",
+            "2$\u03bb$_A ,$\u03bb$_A",
+            "$\u03bb$_A ,$\u03bb$_A /2",
+            "$\u03bb$_A /2,$\u03bb$_A"
+        ],
+        "answer": "$\u03bb$_A /2,$\u03bb$_A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-nucleus-a-with-a-finite-de-broglie-wavelength-lambda-jee-main-physics-units-and-measurements-dcckzfhoabikuyil",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie & Fission",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Wavelength fission momentum conservation"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th January Evening Slot",
+        "question": "When a certain photosensitive surface is illuminated with monochromatic light of frequency v, the stopping potential for the current is \u2013V _0 /2. When the surface is illuminated by monochromatic light of frequency v/2, the stopping potential is \u2013 V _0 . The threshold frequency for photoelectric emission is :",
+        "options": [
+            "2$v$",
+            "$43v$",
+            "$3v2$",
+            "$5v3$"
+        ],
+        "answer": "$3v2$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/when-a-certain-photosensitive-surface-is-illuminated-with-mo-jee-main-physics-units-and-measurements-amnzhqvhbbhltfru",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Two-Wavelengths",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Threshold frequency two potentials"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 11th January Morning Slot",
+        "question": "If the de Broglie wavelength of an electron is equal to the 10 ^\u20133 times the wavelength of a photon of frequency 6$\u00d7$10 ^14 Hz, then the speed of electron is equal to : (Speed of light = 3$\u00d7$10 ^8 m/s, Planck's constant = 6.63$\u00d7$10 ^\u201334 J.s, Mass of electron = 9.1$\u00d7$10 ^\u201331 kg)",
+        "options": [
+            "1.7$\u00d7$10 ^6 m/s",
+            "1.45$\u00d7$10 ^6 m/s",
+            "1.1$\u00d7$10 ^6 m/s",
+            "1.8$\u00d7$10 ^6 m/s"
+        ],
+        "answer": "1.45$\u00d7$10 ^6 m/s",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/if-the-de-broglie-wavelength-of-an-electron-is-equal-to-the-jee-main-physics-units-and-measurements-2ibijnntbvnntplg",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Electron-Photon Comparison",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Electron speed wavelength match"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 10th January Morning Slot",
+        "question": "In an electron microscope, the resolution that can be achieved is of the order of the wavelength of electrons used. To resolve a width of 7.5 \u00d7 10 ^\u201312 m, the minimum electron energy required is close to -",
+        "options": [
+            "25 keV",
+            "500 keV",
+            "100 keV",
+            "1 keV"
+        ],
+        "answer": "25 keV",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-an-electron-microscope-the-resolution-that-can-be-achiev-jee-main-physics-units-and-measurements-ls3tkem3bclgmt52",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie Resolution",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Min energy resolving width"
+    },
+    {
+        "metadata": "JEE Main 2018 (Online) 15th April Evening Slot",
+        "question": "If the de Broglie wavelengths associated with a proton and an$\u03b1$-particle are equal, then the ratio of velocities of the proton and the$\u03b1$-particle will be :",
+        "options": [
+            "4 : 1",
+            "2 : 1",
+            "1 : 2",
+            "1 : 4"
+        ],
+        "answer": "4 : 1",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/if-the-de-broglie-wavelengths-associated-with-a-proton-and-a-jee-main-physics-units-and-measurements-c0q2wtxbbgssstwq",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie Velocity Ratio",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Velocity ratio same wavelength"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th January Evening Slot",
+        "question": "The magnetic field associated with a light wave is given, at the origin, by B = B _0 [sin(3.14$\u00d7$10 ^7 )ct + sin(6.28$\u00d7$10 ^7 )ct]. If this light falls on a silver plate having a work function of 4.7 eV, what will be the maximum kinetic energy of the photo electrons ? (Take c = 3$\u00d7$10 ^8 ms ^$\u2212$1 , h = 6.6$\u00d7$10 ^$\u2212$34 J-s)",
+        "options": [
+            "6.82 eV",
+            "12.5 eV",
+            "8.52 eV",
+            "7.72 eV"
+        ],
+        "answer": "7.72 eV",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-magnetic-field-associated-with-a-light-wave-is-given-at-jee-main-physics-units-and-measurements-n0n1qsdhekkwhngn",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Mixed Magnetic Field",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Max KE from B-field wave"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th January Morning Slot",
+        "question": "Surface of certain metal is first illuminated with light of wavelength$\u03bb$_1 = 350 nm and then, by light of wavelength$\u03bb$_2 = 540 nm. It is found that the maximum speed of the photo electrons in the two cases differ by a factor of 2. The work function of the metal (in eV) is close to : (Energy of photon n =$1240\u03bb(inmm)$eV)",
+        "options": [
+            "1.8",
+            "2.5",
+            "5.6",
+            "1.4"
+        ],
+        "answer": "1.8",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/light-of-wavelength-lambda-1-350-nm-and-lambda-2-jee-main-physics-units-and-measurements-bu0bffqnork7tckm",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Two-Wavelengths",
+        "logic_type": "Template",
+        "difficulty": 4,
+        "physics_key": "Work function speed ratio"
+    },
+    {
+        "metadata": "JEE Main 2018 (Online) 16th April Morning Slot",
+        "question": "The de-Broglie wavelength ($\u03bb$_B ) associated with the electron orbiting in the second excited state of hydrogen atom is related to that in the ground state ($\u03bb$_G ) by :",
+        "options": [
+            "$\u03bb$_B = 2$\u03bb$_G",
+            "$\u03bb$_B = 3$\u03bb$_G",
+            "$\u03bb$_B =$\u03bb$_G/2",
+            "$\u03bb$_B =$\u03bb$_G/3"
+        ],
+        "answer": "$\u03bb$_B = 3$\u03bb$_G",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-de-broglie-wavelength-lambda-b-associated-with-th-jee-main-physics-units-and-measurements-wzqpertt1fdocjjz",
+        "is_numerical": false,
+        "sub_topic": "Atoms: De Broglie & Bohr",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Wavelength ratio Bohr orbits"
+    },
+    {
+        "metadata": "JEE Main 2018 (Online) 16th April Morning Slot",
+        "question": "Both the nucleus and the atom of some element arein their respective first excited states. They get de-excted by emitting photons of wavelengths ^$\u03bb$N, ^$\u03bb$A respectively. The ratio$\u03bbN\u03bbA$is closest to :",
+        "options": [
+            "10 ^$\u2212$6",
+            "10",
+            "10 ^$\u2212$10",
+            "10 ^$\u2212$1"
+        ],
+        "answer": "10 ^$\u2212$6",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/both-the-nucleus-and-the-atom-of-some-element-arein-their-re-jee-main-physics-units-and-measurements-i7ocpgnflvj6cwcl",
+        "is_numerical": false,
+        "sub_topic": "Nuclei: Excitation Wavelength",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Atom vs Nucleus energy ratio"
+    },
+    {
+        "metadata": "JEE Main 2018 (Online) 15th April Morning Slot",
+        "question": "Two electrons are moving with non-relativistic speed perpendicular to each other. If corresponding de Broglie wavelength are$\u03bb1$and$\u03bb2,$their de Broglie wavelength in the frame of reference attached to their center of masses :",
+        "options": [
+            "$\u03bbCM=\u03bb1=\u03bb2$",
+            "$\u03bbCM=2\u03bb1\u03bb2\u03bb12+\u03bb22$",
+            "$1\u03bbCM=1\u03bb1+1\u03bb2$",
+            "$\u03bbCM=(\u03bb1+\u03bb22)$"
+        ],
+        "answer": "$\u03bbCM=2\u03bb1\u03bb2\u03bb12+\u03bb22$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/two-electrons-are-moving-with-non-relativistic-speed-perpend-jee-main-physics-units-and-measurements-56geosp9dq98ardm",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie & Collision",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 5,
+        "physics_key": "Wavelength CM perpendicular collision"
+    },
+    {
+        "metadata": "JEE Main 2017 (Offline)",
+        "question": "A particle A of mass m and initial velocity v collides with a particle B of mass m/2 which is at rest. The collision is head on, and elastic. The ratio of the de-Broglie wavelengths$\u03bbA$to$\u03bbB$after the collision is:",
+        "options": [
+            "$\u03bbA\u03bbB=13$",
+            "$\u03bbA\u03bbB=2$",
+            "$\u03bbA\u03bbB=23$",
+            "$\u03bbA\u03bbB=12$"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-particle-a-of-mass-m-and-initial-velocity-v-collides-with-2017-marks-4-mgydk8x4u7rd2q4z.htm",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie & Collision",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Wavelength ratio elastic collision"
+    },
+    {
+        "metadata": "JEE Main 2013 (Offline)",
+        "question": "The anode voltage of a photocell is kept fixed. The wavelength$\u03bb$of the light falling on the cathode is gradually changed. The plate current$I$of the photocell varies as follows :",
+        "options": [
+            "[IMAGE: https://imagex.cdn.examgoal.net/XPMkcXpBdhvxuatty/XZKUmlg9hicLyLns5oKjvH4SlUOgo/rwuJHoBesOEekrl9bpUMjw/image.png]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/tY6GzNpCbNuvMkAxK/qv7sVq9FwbMg8X6lmhpmIoH4BLXUL/ZpHOCQhbL8COkXKhKWrKst/image.png]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/MwFBNvJANhHLKbaXU/33SHv133jEIFiXbTg9mYpnfZQYWCe/kb22e5DPux8b1axCIqkYPs/image.png]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/cJEBdd0QeTqoopoA8/9azud4L1F5yelzRbNcXjrAZjegqIh/c6Uecab4vCMMenECdsI9Fr/image.png]"
+        ],
+        "answer": "[IMAGE: https://imagex.cdn.examgoal.net/cJEBdd0QeTqoopoA8/9azud4L1F5yelzRbNcXjrAZjegqIh/c6Uecab4vCMMenECdsI9Fr/image.png]",
+        "images": [
+            "https://imagex.cdn.examgoal.net/XPMkcXpBdhvxuatty/XZKUmlg9hicLyLns5oKjvH4SlUOgo/rwuJHoBesOEekrl9bpUMjw/image.png",
+            "https://imagex.cdn.examgoal.net/tY6GzNpCbNuvMkAxK/qv7sVq9FwbMg8X6lmhpmIoH4BLXUL/ZpHOCQhbL8COkXKhKWrKst/image.png",
+            "https://imagex.cdn.examgoal.net/MwFBNvJANhHLKbaXU/33SHv133jEIFiXbTg9mYpnfZQYWCe/kb22e5DPux8b1axCIqkYPs/image.png",
+            "https://imagex.cdn.examgoal.net/cJEBdd0QeTqoopoA8/9azud4L1F5yelzRbNcXjrAZjegqIh/c6Uecab4vCMMenECdsI9Fr/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/the-anode-voltage-of-a-photocell-is-kept-fixed-the-waveleng-2013-marks-4-efuanhkp3euegxxq.htm",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Graph",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "Photocurrent vs wavelength graph"
+    },
+    {
+        "metadata": "AIEEE 2012",
+        "question": "This question has Statement 1 and Statement 2. Of the four choices given after the statements, choose the one that best describes the two statements. Statement 1 : Davisson - Germer experiment established the wave nature of electrons. Statement 2 : If electrons have wave nature, they can interfere and show diffraction.",
+        "options": [
+            "Statement 1 is true, Statement 2 is false",
+            "Statement 1 is true, Statement 2 is true, Statement 2 is the correct explanation for Statement 1.",
+            "Statement 1 is true, Statement 2 is true, Statement 2 is not the correct explanation of Statement 1.",
+            "Statement 1 is false, Statement 2 is true."
+        ],
+        "answer": "Statement 1 is true, Statement 2 is true, Statement 2 is the correct explanation for Statement 1.",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/this-question-has-statement-1-and-statement-2-of-the-four-c-jee-main-physics-dual-nature-of-radiation-uvdtrtkscthuuiwm",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Wave vs Particle",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Davisson Germer wave nature"
+    },
+    {
+        "metadata": "JEE Main 2015 (Offline)",
+        "question": "Match List -$I$(Fundamental Experiment) with List -$II$(its conclusion) and select the correct option from the choices given below the list: [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l91nvv9r/cf6c00b3-f360-4aeb-9103-56ecca2d696f/c13a39f0-47fd-11ed-8757-0f869593f41f/file-1l91nvv9s.png?format=png]",
+        "options": [
+            "$A\u2212ii;B\u2212i,C\u2212iii$",
+            "$A\u2212iv;B\u2212iii,C\u2212ii$",
+            "$A\u2212i;B\u2212iv,C\u2212iii$",
+            "$A\u2212ii;B\u2212iv,C\u2212iii$"
+        ],
+        "answer": "$A\u2212ii;B\u2212i,C\u2212iii$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l91nvv9r/cf6c00b3-f360-4aeb-9103-56ecca2d696f/c13a39f0-47fd-11ed-8757-0f869593f41f/file-1l91nvv9s.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/match-list-rm-i-fundamental-experiment-with-list-2015-marks-4-lwqrcvkydbhbhkm5.htm",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Wave vs Particle",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Experiment conclusion matching"
+    },
+    {
+        "metadata": "JEE Main 2017 (Online) 9th April Morning Slot",
+        "question": "A Laser light of wavelength 660 nm is used to weld Retina detachment. If a Laser pulse of width 60 ms and power 0.5 kW is used the approximate number of photons in the pulse are : [Take Planck's constant h$=$6.62$\u00d7$10 ^$\u2212$34 Js]",
+        "options": [
+            "10 ^20",
+            "10 ^18",
+            "10 ^22",
+            "10 ^19"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-laser-light-of-wavelength-660-nm-is-used-to-weld-retina-de-jee-main-physics-units-and-measurements-xtmv5c7kj0nn5uqb",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photons per Second",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Photon number from pulse power"
+    },
+    {
+        "metadata": "AIEEE 2011",
+        "question": "This question has Statement -$1$and Statement -$2$. Of the four choices given after the statements, choose the one that best describes the two statements. Statement -$1$: A metallic surface is irradiated by a monochromatic light of frequency$v>v0$(the threshold frequency). The maximum kinetic energy and the stopping potential are$Kmax$and$V0$respectively. If the frequency incident on the surface is doubled, both the$Kmax$anmd$V0$are also doubled. Statement -$2$: The maximum kinetic energy and the stopping potential of photoelectrons emitted from a surface are linearly dependent on the frequency of incident light.",
+        "options": [
+            "Statement -$1$is true, Statement -$2$is true, Statement -$2$is the correct explanation of Statement -$1$.",
+            "Statement -$1$is true, Statement -$2$is true, Statement -$2$is not the correct explanation of Statement -$1$.",
+            "Statement -$1$is false, Statement -$2$is true.",
+            "Statement -$1$is true, Statement -$2$is false."
+        ],
+        "answer": "Statement -$1$is false, Statement -$2$is true.",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/this-question-has-statement-1-and-statement-2-o-2011-marks-4-as1zke4mlkrcglpg.htm",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Theory",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Stopping potential linear dependence"
+    },
+    {
+        "metadata": "JEE Main 2016 (Online) 10th April Morning Slot",
+        "question": "A photoelectric surface is illuminated successively by monochromatic light of wavelengths$\u03bb$and$\u03bb2.$If the maximum kinetic energy of the emitted photoelectrons in the second case is 3 times that in the first case, the work function of the surface is :",
+        "options": [
+            "$hc3\u03bb$",
+            "$hc2\u03bb$",
+            "$hc\u03bb$",
+            "$3hc\u03bb$"
+        ],
+        "answer": "$hc2\u03bb$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-photoelectric-surface-is-illuminated-successively-by-monoc-jee-main-physics-units-and-measurements-gdvw36tc3fmha4iw",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Two-Wavelengths",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Work function from kinetic energy ratio"
+    },
+    {
+        "metadata": "JEE Main 2016 (Online) 9th April Morning Slot",
+        "question": "When photons of wavelength$\u03bb1$are incident on an isolated sphere, the corresponding stopping potential is found to be V. When photons of wavelength$\u03bb2$are used, the corresponding stopping potential was thrice that of the above value. If light of wavelength$\u03bb3$is used then find the stopping potential for this case :",
+        "options": [
+            "$hce[1\u03bb3\u22121\u03bb2\u22121\u03bb1]$",
+            "$hce[1\u03bb3+1\u03bb2\u22121\u03bb1]$",
+            "$hce[1\u03bb3+12\u03bb2\u221232\u03bb1]$",
+            "$hce[1\u03bb3+12\u03bb2\u22121\u03bb1]$"
+        ],
+        "answer": "$hce[1\u03bb3+12\u03bb2\u221232\u03bb1]$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/when-photons-of-wavelength-lambda-1-are-incident-on-jee-main-physics-units-and-measurements-vhzjq0t8at0jwwhx",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Two-Wavelengths",
+        "logic_type": "Template",
+        "difficulty": 4,
+        "physics_key": "Stopping potential third wavelength"
+    },
+    {
+        "metadata": "JEE Main 2017 (Online) 8th April Morning Slot",
+        "question": "The maximum velocity of the photoelectrons emitted from the surface is v when light of frequency n falls on a metal surface. If the incident frequency is increased to 3n, the maximum velocity of the ejected photoelectrons will be :",
+        "options": [
+            "less than$3$v",
+            "v",
+            "more than$3v$",
+            "equal to$3v$"
+        ],
+        "answer": "more than$3v$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-maximum-velocity-of-the-photoelectrons-emitted-from-the-jee-main-physics-units-and-measurements-baya10nrqoikawwt",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Velocity Ratio",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Max velocity frequency non-linear"
+    },
+    {
+        "metadata": "JEE Main 2016 (Offline)",
+        "question": "Radiation of wavelength$\u03bb,$is incident on a photocell. The fastest emitted electron has speed$v.$If the wavelength is changed to$3\u03bb4,$the speed of the fastest emitted electron will be:",
+        "options": [
+            "$=v(43)12$",
+            "$=v(34)12$",
+            "$>v(43)12$",
+            "$<v(43)12$"
+        ],
+        "answer": "$>v(43)12$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/radiation-of-wavelength-lambda-is-incident-on-a-photo-2016-marks-4-xik8lah1nucifyob.htm",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Velocity Ratio",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Speed change with wavelength"
+    },
+    {
+        "metadata": "AIEEE 2010",
+        "question": "If a source of power$4kW$produces$1020$photons/second, the radiation belongs to a part of the spectrum called",
+        "options": [
+            "$X$-rays",
+            "ultraviolet rays",
+            "microwaves",
+            "$\u03b3$- rays"
+        ],
+        "answer": "$X$-rays",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/if-a-source-of-power-4kw-produces-1020-photons-2010-marks-4-2cqpdulk6vwwwyvp.htm",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photons & EM Spectrum",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Wavelength from power photon count"
+    },
+    {
+        "metadata": "JEE Main 2017 (Offline)",
+        "question": "An electron beam is accelerated by a potential difference V to hit a metallic target to produce X\u2013rays. It produces continuous as well as characteristic X-rays. If$\u03bb$_min is the smallest possible wavelength of X-ray in the spectrum, the variation of log$\u03bb$_min with log V is correctly represented in:",
+        "options": [
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l7ymqtm4/f6d3ea65-8ac0-4be3-be22-1d8071b4682e/ba721ac0-3286-11ed-8893-19b23ee4c66d/file-1l7ymqtm5.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l7ymr810/92ce8a74-188d-4195-8c90-dc3c99c16996/c5947240-3286-11ed-8893-19b23ee4c66d/file-1l7ymr811.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l7ymrq4c/94712a6d-f71f-46b4-ac68-8411cf58959b/d38e53c0-3286-11ed-8893-19b23ee4c66d/file-1l7ymrq4d.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l7yms3lq/3bf7f909-a462-463b-a014-09b9422eb94a/ddf8a5e0-3286-11ed-8893-19b23ee4c66d/file-1l7yms3lr.png?format=png]"
+        ],
+        "answer": "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l7ymr810/92ce8a74-188d-4195-8c90-dc3c99c16996/c5947240-3286-11ed-8893-19b23ee4c66d/file-1l7ymr811.png?format=png]",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l7ymqtm4/f6d3ea65-8ac0-4be3-be22-1d8071b4682e/ba721ac0-3286-11ed-8893-19b23ee4c66d/file-1l7ymqtm5.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l7ymr810/92ce8a74-188d-4195-8c90-dc3c99c16996/c5947240-3286-11ed-8893-19b23ee4c66d/file-1l7ymr811.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l7ymrq4c/94712a6d-f71f-46b4-ac68-8411cf58959b/d38e53c0-3286-11ed-8893-19b23ee4c66d/file-1l7ymrq4d.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l7yms3lq/3bf7f909-a462-463b-a014-09b9422eb94a/ddf8a5e0-3286-11ed-8893-19b23ee4c66d/file-1l7yms3lr.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/an-electron-beam-is-accelerated-by-a-potential-difference-v-2017-marks-4-g7bisf9jmp18tn2w.htm",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: X-Ray Cutoff",
+        "logic_type": "Graphical",
+        "difficulty": 3,
+        "physics_key": "Log wavelength vs log voltage graph"
+    },
+    {
+        "metadata": "AIEEE 2010",
+        "question": "Statement -$1$: When ultraviolet light is incident on a photocell, its stopping potential is$V0$and the maximum kinetic energy of the photoelectrons is$Kmax$. When the ultraviolet light is replaced by$X$-rays, both$V0$and$Kmax$increase. Statement -$2$: Photoelectrons are emitted with speeds ranging from zero to a maximum value because of the range of frequencies present in the incident light.",
+        "options": [
+            "Statement -$1$is true, Statement -$2$is true; Statement -$2$is the correct explanation of Statement -$1$",
+            "Statement -$1$is true, Statement -$2$is true; Statement -$2$is not the correct explanation of Statement -$1$",
+            "Statement -$1$is is false, Statement -$2$is true",
+            "Statement -$1$is is true, Statement -$2$is false"
+        ],
+        "answer": "Statement -$1$is true, Statement -$2$is true; Statement -$2$is not the correct explanation of Statement -$1$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/statement-1-when-ultraviolet-light-is-incident-on-a-2010-marks-4-zcdp3u5cqlvarb4n.htm",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Theory",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Stopping potential frequency logic"
+    },
+    {
+        "metadata": "AIEEE 2008",
+        "question": "In an experiment, electrons are made to pass through a narrow slit of width$\u2032d\u2032$comparable to their de Broglie wavelength. They are detected on a screen at a distance$\u2032D\u2032$from the slit (see figure). [IMAGE: https://imagex.cdn.examgoal.net/o0s0xYSCUFvunsQ3V/0gHl8SXjTdSDKMMarKJ4HAvOqC8cz/dI90TkyFjfxq3kEW7zuroA/image.png] Which of the following graphs can be expected to represent the number of electrons$\u2032N\u2032$detected as a function of the detector position$\u2032y\u2032(y=0$corresponds to the middle of the slit$)$",
+        "options": [
+            "[IMAGE: https://imagex.cdn.examgoal.net/gkxNlGpujsXLweYWu/YUxeOFOMhHxQuNTLkNmM9QVzyRCJ3/nrrPludMsWNQBaaqrxaiP2/image.png]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/uZomERVLjz4fZUZ5k/7cAECKr5qXo54jlaWUbLnUlAHsIqt/LPWQfrI977FFKwF8wAruAE/image.png]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/9gFX1i6LFbZ2ikz6O/njgWY1pwRnbucH6LIl4GUILVg2kqF/bZg7oIzQCAstITInvsMPje/image.png]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/yqToGmAWZf4BcHaVo/N2N44YVuK6L5XCPUQsPmAAQhjC7mS/aAH9N2MDTQ60aXuXFW1urD/image.png]"
+        ],
+        "answer": "[IMAGE: https://imagex.cdn.examgoal.net/yqToGmAWZf4BcHaVo/N2N44YVuK6L5XCPUQsPmAAQhjC7mS/aAH9N2MDTQ60aXuXFW1urD/image.png]",
+        "images": [
+            "https://imagex.cdn.examgoal.net/o0s0xYSCUFvunsQ3V/0gHl8SXjTdSDKMMarKJ4HAvOqC8cz/dI90TkyFjfxq3kEW7zuroA/image.png",
+            "https://imagex.cdn.examgoal.net/gkxNlGpujsXLweYWu/YUxeOFOMhHxQuNTLkNmM9QVzyRCJ3/nrrPludMsWNQBaaqrxaiP2/image.png",
+            "https://imagex.cdn.examgoal.net/uZomERVLjz4fZUZ5k/7cAECKr5qXo54jlaWUbLnUlAHsIqt/LPWQfrI977FFKwF8wAruAE/image.png",
+            "https://imagex.cdn.examgoal.net/9gFX1i6LFbZ2ikz6O/njgWY1pwRnbucH6LIl4GUILVg2kqF/bZg7oIzQCAstITInvsMPje/image.png",
+            "https://imagex.cdn.examgoal.net/yqToGmAWZf4BcHaVo/N2N44YVuK6L5XCPUQsPmAAQhjC7mS/aAH9N2MDTQ60aXuXFW1urD/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/in-an-experiment-electrons-are-made-to-pass-through-a-narro-2008-marks-4-nexzcypzn0stxkzj.htm",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Wave vs Particle",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "Electron diffraction intensity pattern"
+    },
+    {
+        "metadata": "AIEEE 2009",
+        "question": "The surface of a metal is illuminated with the light of$400$$nm.$The kinetic energy of the ejected photoelectrons was found to be$1.68$$eV.$The work function of the metal is :$(hc=1240eV.nm)$",
+        "options": [
+            "$1.41$$eV$",
+            "$1.51$$eV$",
+            "$1.68$$eV$",
+            "$3.09$$eV$"
+        ],
+        "answer": "$1.41$$eV$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-surface-of-a-metal-is-illuminated-with-the-light-of-40-2009-marks-4-esxlvylzzlglwc70.htm",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Effect",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Work function from KE and wavelength"
+    },
+    {
+        "metadata": "AIEEE 2008",
+        "question": "Wave property of electrons implies that they will show diffraction effects. Davisson and Germer demonstrated this by diffracting electrons from crystals. The law governing the diffraction from a crystal is obtained by requiring that electron waves reflected from the planes of atoms in a crystal interfere constructively (see figure). [IMAGE: https://imagex.cdn.examgoal.net/R2GzkcczIHDVpGkBs/nIi4fPSW2ayuiJi9ZmKZYqlcG2v2o/NDW1DmQsIsTPI15qyFuMU0/image.png] Electrons accelerated by potential$V$are diffracted from a crystal. If$d=1A\u2218$and$i=30\u2218,V$should be about$(h=6.6\u00d710\u221234Js,me=9.1\u00d710\u221231kg,e=1.6\u00d710\u221219C)$",
+        "options": [
+            "$2000$$V$",
+            "$50$$V$",
+            "$500$$V$",
+            "$1000$$V$"
+        ],
+        "answer": "$50$$V$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/R2GzkcczIHDVpGkBs/nIi4fPSW2ayuiJi9ZmKZYqlcG2v2o/NDW1DmQsIsTPI15qyFuMU0/image.png",
+            "https://imagex.cdn.examgoal.net/NJX55SAizoMcvmfgA/97ay69cqpPJC6mvRr1prv5UsXCNXn/PhAERJh2zZ768pN9oJijLR/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/wave-property-of-electrons-implies-that-they-will-show-diffr-2008-marks-4-li3thzzhgskslynl.htm",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie & Diffraction",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Davisson Germer accelerating potential"
+    },
+    {
+        "metadata": "AIEEE 2006",
+        "question": "The time taken by a photoelectron to come out after the photon strikes is approximately",
+        "options": [
+            "$10\u22124s$",
+            "$10\u221210s$",
+            "$10\u221216s$",
+            "$10\u22121s$"
+        ],
+        "answer": "$10\u221210s$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-time-taken-by-a-photoelectron-to-come-out-after-the-phot-2006-marks-4-ephe4z1ucmtdtbhi.htm",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Theory",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Time delay instantaneous emission"
+    },
+    {
+        "metadata": "AIEEE 2006",
+        "question": "The anode voltage of a photocell is kept fixed. The wavelength$\u03bb$of the light falling on the cathode is gradually changed. The plate current$I$of the photocell varies as follows",
+        "options": [
+            "[IMAGE: https://imagex.cdn.examgoal.net/EFBAodQ9CdX9eUPNH/YP9vgDcOZsj1WUyMyUNlpkpp1CDxK/ea1uMtSs4RUE3SmdNnZgpP/image.png]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/BrPdphRfGFDiJ8Bje/LV6YeVLum9JmrzDVUzya9skfKJFs3/wa1eRZlU0jXdOrNqy19Blo/image.png]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/oU3E6AQH7guWtXkvu/XBAcGolZjC5zy38vM436N5IHCGSar/MAuemHjOgyLG2yWmtj3KYb/image.png]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/CL6zl7esmRBnIT26F/L3kjaFJALfa7nqT3RYZwDR08rkMm7/gODe1ucI5mdyLkpykJpvIX/image.png]"
+        ],
+        "answer": "[IMAGE: https://imagex.cdn.examgoal.net/BrPdphRfGFDiJ8Bje/LV6YeVLum9JmrzDVUzya9skfKJFs3/wa1eRZlU0jXdOrNqy19Blo/image.png]",
+        "images": [
+            "https://imagex.cdn.examgoal.net/EFBAodQ9CdX9eUPNH/YP9vgDcOZsj1WUyMyUNlpkpp1CDxK/ea1uMtSs4RUE3SmdNnZgpP/image.png",
+            "https://imagex.cdn.examgoal.net/BrPdphRfGFDiJ8Bje/LV6YeVLum9JmrzDVUzya9skfKJFs3/wa1eRZlU0jXdOrNqy19Blo/image.png",
+            "https://imagex.cdn.examgoal.net/oU3E6AQH7guWtXkvu/XBAcGolZjC5zy38vM436N5IHCGSar/MAuemHjOgyLG2yWmtj3KYb/image.png",
+            "https://imagex.cdn.examgoal.net/CL6zl7esmRBnIT26F/L3kjaFJALfa7nqT3RYZwDR08rkMm7/gODe1ucI5mdyLkpykJpvIX/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/the-anode-voltage-of-a-photocell-is-kept-fixed-the-waveleng-2006-marks-4-vc6hffy8ml3p14qh.htm",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Graph",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "Photocurrent vs wavelength graph"
+    },
+    {
+        "metadata": "AIEEE 2007",
+        "question": "Photon of frequency$v$has a momentum associated with it. If$c$is the velocity of light, the momentum is",
+        "options": [
+            "$hv/c$",
+            "$v/c$",
+            "$h$$v$$c$",
+            "$hv/c2$"
+        ],
+        "answer": "$hv/c$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/photon-of-frequency-v-has-a-momentum-associated-with-it-2007-marks-4-ve4dqcl01vniebou.htm",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Momentum",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Photon momentum frequency relation"
+    },
+    {
+        "metadata": "AIEEE 2008",
+        "question": "Wave property of electrons implies that they will show diffraction effects. Davisson and Germer demonstrated this by diffracting electrons from crystals. The law governing the diffraction from a crystal is obtained by requiring that electron waves reflected from the planes of atoms in a crystal interfere constructively (see figure). [IMAGE: https://imagex.cdn.examgoal.net/R2GzkcczIHDVpGkBs/nIi4fPSW2ayuiJi9ZmKZYqlcG2v2o/NDW1DmQsIsTPI15qyFuMU0/image.png] If a strong diffraction peak is observed when electrons are incident at an angle$\u2032i\u2032$from the normal to the crystal planes with distance$\u2032d\u2032$between them (see figure), de Broglie wavelength$\u03bbdB$of electrons can be calculated by the relationship ($n$is an integer)",
+        "options": [
+            "$dsini=n\u03bbdB$",
+            "$2dcosi=n\u03bbdB$",
+            "$2dsini=n\u03bbdB$",
+            "$dcosi=n\u03bbdB$"
+        ],
+        "answer": "$2dcosi=n\u03bbdB$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/R2GzkcczIHDVpGkBs/nIi4fPSW2ayuiJi9ZmKZYqlcG2v2o/NDW1DmQsIsTPI15qyFuMU0/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/wave-property-of-electrons-implies-that-they-will-show-diffr-2008-marks-4-dyu6mmd1u34eylzc.htm",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie & Diffraction",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Bragg's law de Broglie"
+    },
+    {
+        "metadata": "AIEEE 2006",
+        "question": "The threshold frequency for a metallic surface corresponds to an energy of$6.2$$eV$and the stopping potential for a radiation incident on this surface is$5V.$The incident radiation lies in",
+        "options": [
+            "ultra-violet region",
+            "infra-red region",
+            "visible region",
+            "$x$-ray region"
+        ],
+        "answer": "ultra-violet region",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-threshold-frequency-for-a-metallic-surface-corresponds-t-2006-marks-4-gxdvcfvoboedgtoh.htm",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Threshold",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Incident region work function"
+    },
+    {
+        "metadata": "AIEEE 2005",
+        "question": "If the kinetic energy of a free electron doubles, it's deBroglie wavelength changes by the factor",
+        "options": [
+            "$2$",
+            "$12$",
+            "$2$",
+            "$12$"
+        ],
+        "answer": "$12$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/if-the-kinetic-energy-of-a-free-electron-doubles-its-debro-2005-marks-4-ales5b54ampqio3x.htm",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: De Broglie KE Scaling",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Wavelength inverse root KE"
+    },
+    {
+        "metadata": "AIEEE 2002",
+        "question": "Sodium and copper have work functions$2.3$$eV$and$4.5$$eV$respectively. Then the ratio of the wavelengths is nearest to",
+        "options": [
+            "$1:2$",
+            "$4:1$",
+            "$2:1$",
+            "$1:4$"
+        ],
+        "answer": "$2:1$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-emission-at-instant-can-be-2002-marks-4-qu7xmy1bpotmhtrv.htm",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Threshold Wavelength",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Threshold wavelength ratio work"
+    },
+    {
+        "metadata": "AIEEE 2003",
+        "question": "Two identical photo-cathodes receive light of frequencies$f1$and$f2$. If the velocities of the photo electrons (of mass$m$) coming out are respectively$v1$and$v2,$then",
+        "options": [
+            "$v12\u2212v22=2hm(f1\u2212f2)$",
+            "$v1+v2=[2hm(f1+f2)]1/2$",
+            "$v12+v22=2hm(f1+f2)$",
+            "$v1\u2212v2=[2hm(f1\u2212f2)]1/2$"
+        ],
+        "answer": "$v12\u2212v22=2hm(f1\u2212f2)$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/two-identical-photo-cathodes-receive-light-of-frequencies-2003-marks-4-witg0xtnyfojbmvh.htm",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Velocity Ratio",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Velocity squared difference frequency"
+    },
+    {
+        "metadata": "AIEEE 2004",
+        "question": "The work function of a substance is$4.0$$eV.$The longest wavelength of light that can cause photo-electron emission from this substance is approximately.",
+        "options": [
+            "$310$$nm$",
+            "$400$$nm$",
+            "$540$$nm$",
+            "$220$$nm$"
+        ],
+        "answer": "$310$$nm$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-work-function-of-a-substance-is-40-ev-the-lon-2004-marks-4-rpql3teyas56lgkw.htm",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Threshold Wavelength",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Longest wavelength work function"
+    },
+    {
+        "metadata": "AIEEE 2005",
+        "question": "A photocell is illuminated by a small bright source placed$1$$m$away. When the same source of light is placed$12$$m$away, the number of electrons emitted by photo-cathode would",
+        "options": [
+            "increases by a factor of$4$",
+            "decreases by a factor of$4$",
+            "increases by a factor of$2$",
+            "decreases by a factor of$2$"
+        ],
+        "answer": "increases by a factor of$4$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-photocell-is-illuminated-by-a-small-bright-source-placed-2005-marks-4-ffdqfsocpcownhli.htm",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Current",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Current inverse distance squared"
+    },
+    {
+        "metadata": "AIEEE 2002",
+        "question": "Formation of covalent bonds in compounds exhibits",
+        "options": [
+            "wave nature of electron",
+            "particle nature of electron",
+            "both wave and particle nature of electron",
+            "none of these"
+        ],
+        "answer": "wave nature of electron",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/formation-of-covalent-bonds-in-compounds-exhibits-2002-marks-4-fsfdtruhdrqdfgrh.htm",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Wave vs Particle",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Bonding wave nature electron"
+    },
+    {
+        "metadata": "AIEEE 2004",
+        "question": "According to Einstein's photoelectric equation, the plot of the kinetic energy of the emitted photo electrons from a metal$Vs$the frequency, of the incident radiation gives as straight the whose slope",
+        "options": [
+            "depends both on the intensity of the radiation and the metal used",
+            "depends on the intensity of the radiation",
+            "depends on the nature of the metal used",
+            "is the same for the all metals and independent of the intensity of the radiation"
+        ],
+        "answer": "is the same for the all metals and independent of the intensity of the radiation",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/according-to-einsteins-photoelectric-equation-the-plot-of-2004-marks-4-nrbsez6ouezem1ex.htm",
+        "is_numerical": false,
+        "sub_topic": "Dual Nature: Photoelectric Graph",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "KE vs frequency slope constant"
+    }
+]

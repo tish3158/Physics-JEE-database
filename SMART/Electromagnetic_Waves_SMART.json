@@ -1,0 +1,2654 @@
+[
+    {
+        "metadata": "JEE Main",
+        "question": "A time varying potential difference is applied between the plates of a parallel plate capacitor of capacitance$2.5\u03bc F$. The dielectric constant of the medium between the capacitor plates is 1 . It produces an instantaneous displacement current of 0.25 mA in the intervening space between the capacitor plates, the magnitude of the rate of change of the potential difference will be _________$Vs\u22121$.",
+        "options": [],
+        "answer": "100",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-time-varying-potential-difference-is-applied-between-th-jee-main-physics-units-and-measurements-o7xbhfk1dqbgxgg0",
+        "is_numerical": true,
+        "sub_topic": "Circuits: Displacement Current",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Displacement Current dV/dt"
+    },
+    {
+        "metadata": "JEE Main",
+        "question": "If microwaves, X rays, infracted, gamma rays, ultra-violet, radio waves and visible parts of the electromagnetic spectrum by M, X, I, G, U, R and V, the following is the arrangement in ascending order of wavelength :",
+        "options": [
+            "R, M, I, V, U, X and G",
+            "M, R, V, X, U, G and I",
+            "G, X, U, V, I, M and R",
+            "I, M, R, U, V, X and G"
+        ],
+        "answer": "G, X, U, V, I, M and R",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/if-denote-microwaves-x-rays-infracted-gamma-rays-ultra-v-jee-main-physics-units-and-measurements-xhhmmui1eisfa4tb",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Spectrum Order",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Wavelength ascending order"
+    },
+    {
+        "metadata": "JEE Main 2014 (Online) 11th April Morning Slot",
+        "question": "An electromagnetic wave of frequency 1$\u00d7$10 ^14 hertz is propagating along z - axis. The amplitude of electric field is 4 V/m. If$\u2208$_0 = 8.8$\u00d7$10 ^$\u2212$12 C ^2 /N-m ^2 , then average energy density of electric field will be :",
+        "options": [
+            "35.2$\u00d7$10 ^$\u2212$10 J/m ^3",
+            "35.2$\u00d7$10 ^$\u2212$11 J/m ^3",
+            "35.2$\u00d7$10 ^$\u2212$12 J/m ^3",
+            "35.2$\u00d7$10 ^$\u2212$13 J/m ^3"
+        ],
+        "answer": "35.2$\u00d7$10 ^$\u2212$12 J/m ^3",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-electromagnetic-wave-of-frequency-1-times-1014-her-jee-main-physics-units-and-measurements-fj2xeturyyzyxwar",
+        "is_numerical": false,
+        "sub_topic": "Power: Energy Density",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "E-field energy density formula"
+    },
+    {
+        "metadata": "JEE Main 2014 (Online) 12th April Morning Slot",
+        "question": "A lamp emits monochromatic green light uniformly in all directions. The lamp is 3% efficient in converting electrical power to electromagnetic waves and consumes 100 W of power. The amplitude of the electric field associated with the electromagnetic radiation at a distance of 5 m from the lamp will be nearly :",
+        "options": [
+            "1.34 V/m",
+            "2.68 V/m",
+            "4.02 V/m",
+            "5.36 V/m"
+        ],
+        "answer": "2.68 V/m",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-lamp-emits-monochromatic-green-light-uniformly-in-all-dire-jee-main-physics-units-and-measurements-hgfamjudtjcgi1ow",
+        "is_numerical": false,
+        "sub_topic": "Power: Intensity",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Intensity E-field Amplitude"
+    },
+    {
+        "metadata": "JEE Main 2014 (Online) 11th April Morning Slot",
+        "question": "Match the List - I (Phenomenon associated with electromagnetic radiation) with List - II (Part of electromagnetic spectrum) and select the correct code from the choices given the lists : List - I List - II (I) Doublet of sodium (A) Visible radiation (II) Wavelength corresponding to temperature associated with the isotropic radiation filling all space (B) Microwave (III Wavelength emitted by atomic hydrogen in interstellar space (C) Short radiowave (IV) Wavelength of radiation arising from two close energy levels in hydrogen (D) X - rays",
+        "options": [
+            "(I)-(A), (II)-(B), (III)-(B), (IV)-(C)",
+            "(I)-(A), (II)-(B), (III)-(C), (IV)-(C)",
+            "(I)-(D), (II)-(C), (III)-(A), (IV)-(B)",
+            "(I)-(B), (II)-(A), (III)-(D), (IV)-(A)"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/match-the-list-i-phenomenon-associated-with-electromagnet-jee-main-physics-units-and-measurements-h2wht8qbh9ryuyl8",
+        "is_numerical": false,
+        "sub_topic": "Device: Application",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Spectrum application match"
+    },
+    {
+        "metadata": "JEE Main 2015 (Online) 11th April Morning Slot",
+        "question": "For plane electromagnetic waves propagating in the z direction, which one of the following combination gives the correct possible direction for$E\u2192$and$B\u2192$field respectively ?",
+        "options": [
+            "$(i^+2j^)$and$(2i^\u2212j^)$",
+            "$(\u22122i^\u22123j^)$and$(3i^\u22122j^)$",
+            "$(2i^+3j^)$and$(i^+2j^)$",
+            "$(3i^+4j^)$and$(4i^\u22123j^)$"
+        ],
+        "answer": "$(\u22122i^\u22123j^)$and$(3i^\u22122j^)$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/for-plane-electromagnetic-waves-propagating-in-the-z-directi-jee-main-physics-units-and-measurements-qgfnnpbzg9eia0gn",
+        "is_numerical": false,
+        "sub_topic": "Waveform: E & B Vector",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "E B perpendicular propagation"
+    },
+    {
+        "metadata": "JEE Main 2014 (Online) 9th April Morning Slot",
+        "question": "Match List I (Wavelength range of electromagnetic spectrum) with List I I . (Method of production of these waves) and select the correct option from the options given below the lists. [IMAGE: https://imagex.cdn.examgoal.net/JfxJVB0TaZfxmxJWm/2xVId2NDFekQlZXqhScDL0vLt0heF/d3qgemoZVPMTVzpWs0Z7Cj/uploadfile.jpg]",
+        "options": [
+            "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+            "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+            "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+            "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"
+        ],
+        "answer": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "images": [
+            "https://imagex.cdn.examgoal.net/JfxJVB0TaZfxmxJWm/2xVId2NDFekQlZXqhScDL0vLt0heF/d3qgemoZVPMTVzpWs0Z7Cj/uploadfile.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/match-list-i-wavelength-range-of-electromagnetic-spectrum-jee-main-physics-units-and-measurements-cdx05vxugpfu1hwp",
+        "is_numerical": false,
+        "sub_topic": "Device: Production",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "EM production method match"
+    },
+    {
+        "metadata": "JEE Main 2015 (Online) 10th April Morning Slot",
+        "question": "An electromagnetic wave travelling in the x-direction has frequency of 23$\u00d7$10 ^14 Hz and electric field amplitude of 27 Vm ^$\u2212$1 . From the options given below, which one describes the magnetic field for this wave ?",
+        "options": [
+            "$B\u2192$(x, t) = (3$\u00d7$10 ^$\u2212$8 T)$j^$sin [ 2$\u03c0$(1.5$\u00d7$10 ^$\u2212$8 x$\u2212$2$\u00d7$10 ^14 t)]",
+            "$B\u2192$(x, t) = (9$\u00d7$10 ^$\u2212$8 T)$k^$sin [ 2$\u03c0$(1.5$\u00d7$10 ^$\u2212$6 x$\u2212$2$\u00d7$10 ^14 t)]",
+            "$B\u2192$(x, t) = (9$\u00d7$10 ^$\u2212$8 T)$i^$sin [ 2$\u03c0$(1.5$\u00d7$10 ^$\u2212$8 x$\u2212$2$\u00d7$10 ^14 t)]",
+            "$B\u2192$(x, t) = (9$\u00d7$10 ^$\u2212$8 T)$j^$sin [(1.5$\u00d7$10 ^$\u2212$6 x$\u2212$2$\u00d7$10 ^14 t)]"
+        ],
+        "answer": "$B\u2192$(x, t) = (9$\u00d7$10 ^$\u2212$8 T)$k^$sin [ 2$\u03c0$(1.5$\u00d7$10 ^$\u2212$6 x$\u2212$2$\u00d7$10 ^14 t)]",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-electromagnetic-wave-travelling-in-the-x-direction-has-fr-jee-main-physics-units-and-measurements-sdrme0mvu9lzhzjc",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Equation Analysis",
+        "logic_type": "Template",
+        "difficulty": 4,
+        "physics_key": "E B c k-vector phase"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 7th April Evening Shift",
+        "question": "The unit of$2I\u03b50c$is : (I = intensity of an electromagnetic wave, c = speed of light)",
+        "options": [
+            "Vm",
+            "NC ^-1",
+            "NC",
+            "Nm"
+        ],
+        "answer": "NC ^-1",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-unit-of-sqrtfrac2ivarepsilon0-c-is-p-jee-main-physics-fzsnbnwldcy6ac4g",
+        "is_numerical": false,
+        "sub_topic": "Power: Intensity",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Unit Dimensional analysis"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 24th January Evening Shift",
+        "question": "Arrange the following in the ascending order of wavelength$(\u03bb)$: (A) Microwaves$(\u03bb1)$(B) Ultraviolet rays$(\u03bb2)$(C) Infrared rays$(\u03bb3)$(D) X-rays$(\u03bb4)$Choose the most appropriate answer from the options given below :",
+        "options": [
+            "$\u03bb4<\u03bb3<\u03bb2<\u03bb1$",
+            "$\u03bb4<\u03bb2<\u03bb3<\u03bb1$",
+            "$\u03bb3<\u03bb4<\u03bb2<\u03bb1$",
+            "$\u03bb4<\u03bb3<\u03bb1<\u03bb2$"
+        ],
+        "answer": "$\u03bb4<\u03bb2<\u03bb3<\u03bb1$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m791krty/8e414818-1277-4347-a68c-69d607bf8d98/23e83860-ed2c-11ef-a68c-ebff1065b3a4/file-jaoe38c1m791krtz.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/parrange-the-following-in-the-ascending-order-of-wavelengt-jee-main-physics-units-and-measurements-d2ptj0p6o5xe2wf3",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Spectrum Order",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Wavelength ascending order"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 28th January Evening Shift",
+        "question": "The magnetic field of an E.M. wave is given by$B\u2192=(32i^+12j^)30sin\u2061[\u03c9(t\u2212zc)]$(S.I. Units). The corresponding electric field in S.I. units is:",
+        "options": [
+            "$E\u2192=(12i^+32j^)30csin\u2061[\u03c9(t+zc)]$",
+            "$E\u2192=(12i^\u221232j^)30csin\u2061[\u03c9(t\u2212zc)]$",
+            "$E\u2192=(32i^\u221212j^)30csin\u2061[\u03c9(t+zc)]$",
+            "$E\u2192=(34i^+14j^)30ccos\u2061[\u03c9(t\u2212zc)]$"
+        ],
+        "answer": "$E\u2192=(12i^\u221232j^)30csin\u2061[\u03c9(t\u2212zc)]$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-magnetic-field-of-an-em-wave-is-given-by-vecb--jee-main-physics-aspwg7dpkwkfkgtt",
+        "is_numerical": false,
+        "sub_topic": "Waveform: E & B Vector",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "E cross B direction"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 28th January Morning Shift",
+        "question": "Due to presence of an em-wave whose electric component is given by$E=100sin\u2061(\u03c9t\u2212kx)NC\u22121$a cylinder of length 200 cm holds certain amount of em-energy inside it. If another cylinder of same length but half diameter than previous one holds same amount of em-energy, the magnitude of the electric field of the corresponding em-wave should be modified as",
+        "options": [
+            "$50sin\u2061(\u03c9t\u2212kx)NC\u22121$",
+            "$400sin\u2061(\u03c9t\u2212kx)NC\u22121$",
+            "$200sin\u2061(\u03c9t\u2212kx)NC\u22121$",
+            "$25sin\u2061(\u03c9t\u2212kx)NC\u22121$"
+        ],
+        "answer": "$200sin\u2061(\u03c9t\u2212kx)NC\u22121$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pdue-to-presence-of-an-em-wave-whose-electric-component-is-jee-main-physics-units-and-measurements-7o7lzrmsmzcng1iz",
+        "is_numerical": false,
+        "sub_topic": "Power: Energy Density",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Energy Volume E-field relation"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 29th January Evening Shift",
+        "question": "A plane electromagnetic wave propagates along the + x direction in free space. The components of the electric field,$E\u2192$and magnetic field,$B\u2192$vectors associated with the wave in Cartesian frame are",
+        "options": [
+            "$Ex,By$",
+            "$Ey,Bx$",
+            "$Ey,Bz$",
+            "$Ez,By$"
+        ],
+        "answer": "$Ey,Bz$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6xl5wzn/92014fdc-c803-4b61-8717-075fc383082a/558b6930-e6df-11ef-b709-83958d5c342e/file-jaoe38c1m6xl5wzo.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-plane-electromagnetic-wave-propagates-along-the--x-dir-jee-main-physics-ooms8qir5csicac6",
+        "is_numerical": false,
+        "sub_topic": "Waveform: E & B Vector",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "E B k-vector Cartesian"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 29th January Morning Shift",
+        "question": "Given below are two statements: one is labelled as Assertion (A) and the other is labelled as Reason (R) . Assertion (A) : Electromagnetic waves carry energy but not momentum. Reason (R) : Mass of a photon is zero. In the light of the above statements, choose the most appropriate answer from the options given below :",
+        "options": [
+            "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+            "(A) is false but (R) is true",
+            "(A) is true but (R) is false"
+        ],
+        "answer": "(A) is false but (R) is true",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pgiven-below-are-two-statements-one-is-labelled-as-bass-jee-main-physics-thd86h0oiczsnuky",
+        "is_numerical": false,
+        "sub_topic": "Power: Momentum",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Momentum of EM wave"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 23rd January Evening Shift",
+        "question": "A plane electromagnetic wave of frequency 20 MHz travels in free space along the$+x$direction. At a particular point in space and time, the electric field vector of the wave is$Ey=9.3Vm\u22121$. Then, the magnetic field vector of the wave at that point is",
+        "options": [
+            "$Bz=1.55\u00d710\u22128 T$",
+            "$Bz=6.2\u00d710\u22128 T$",
+            "$Bz=3.1\u00d710\u22128 T$",
+            "$Bz=9.3\u00d710\u22128 T$"
+        ],
+        "answer": "$Bz=3.1\u00d710\u22128 T$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-plane-electromagnetic-wave-of-frequency-20-mhz-travels-jee-main-physics-units-and-measurements-yegtivnffcxu0l9m",
+        "is_numerical": false,
+        "sub_topic": "Waveform: E & B Vector",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "E B c magnitude relation"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 8th April Morning Shift",
+        "question": "Average force exerted on a non-reflecting surface at normal incidence is$2.4\u00d710\u22124 N$. If$360 W/cm2$is the light energy flux during span of 1 hour 30 minutes, Then the area of the surface is:",
+        "options": [
+            "$20 m2$",
+            "$0.2 m2$",
+            "$0.1 m2$",
+            "$0.02 m2$"
+        ],
+        "answer": "$0.02 m2$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/paverage-force-exerted-on-a-non-reflecting-surface-at-norm-jee-main-physics-motion-yjgg4cpuegnfnwjk",
+        "is_numerical": false,
+        "sub_topic": "Power: Radiation Pressure",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Force intensity non-reflecting"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 6th April Evening Shift",
+        "question": "In the given electromagnetic wave$Ey=600sin\u2061(\u03c9t\u2212kx)Vm\u22121$, intensity of the associated light beam is (in$W/m2$: (Given$\u03f50=9\u00d710\u221212C2 N\u22121 m\u22122$)",
+        "options": [
+            "486",
+            "729",
+            "243",
+            "972"
+        ],
+        "answer": "486",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-the-given-electromagnetic-wave-mathrmemathrmy-jee-main-physics-motion-vrq172e3n6kjkezb",
+        "is_numerical": false,
+        "sub_topic": "Power: Intensity",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Intensity peak E-field formula"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 9th April Evening Shift",
+        "question": "The magnetic field in a plane electromagnetic wave is$By=(3.5\u00d710\u22127)sin\u2061(1.5\u00d7103x+0.5\u00d71011t)T$. The corresponding electric field will be :",
+        "options": [
+            "$Ez=105sin\u2061(1.5\u00d7103x+0.5\u00d71011t)Vm\u22121$",
+            "$Ey=10.5sin\u2061(1.5\u00d7103x+0.5\u00d71011t)Vm\u22121$",
+            "$Ey=1.17sin\u2061(1.5\u00d7103x+0.5\u00d71011t)Vm\u22121$",
+            "$Ez=1.17sin\u2061(1.5\u00d7103x+0.5\u00d71011t)Vm\u22121$"
+        ],
+        "answer": "$Ez=105sin\u2061(1.5\u00d7103x+0.5\u00d71011t)Vm\u22121$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-magnetic-field-in-a-plane-electromagnetic-wave-is--jee-main-physics-motion-ebtogud9jbuudqna",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Equation Analysis",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "E B c k-vector sign"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 9th April Morning Shift",
+        "question": "A plane EM wave is propagating along$x$direction. It has a wavelength of$4 mm$. If electric field is in$y$direction with the maximum magnitude of$60 Vm\u22121$, the equation for magnetic field is :",
+        "options": [
+            "$Bz=2\u00d710\u22127sin\u2061[\u03c02(x\u22123\u00d7108t)]k^T$",
+            "$Bz=2\u00d710\u22127sin\u2061[\u03c02\u00d7103(x\u22123\u00d7108t)]k^T$",
+            "$Bz=60sin\u2061[\u03c02(x\u22123\u00d7108t)]k^T$",
+            "$Bx=60sin\u2061[\u03c02(x\u22123\u00d7108t)]i^T$"
+        ],
+        "answer": "$Bz=2\u00d710\u22127sin\u2061[\u03c02\u00d7103(x\u22123\u00d7108t)]k^T$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-plane-em-wave-is-propagating-along-x-direction-it-jee-main-physics-motion-p3xexjs70qrczarl",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Equation Analysis",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "E B k-vector from wavelength"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 23rd January Morning Shift",
+        "question": "The electric field of an electromagnetic wave in free space is$E\u2192=57cos\u2061[7.5\u00d7106t\u22125\u00d710\u22123(3x+4y)](4i^\u22123j^)N/C$. The associated magnetic field in Tesla is",
+        "options": [
+            "$B\u2192=573\u00d7108cos\u2061[7.5\u00d7106t\u22125\u00d710\u22123(3x+4y)](k^)$",
+            "$B\u2192=573\u00d7108cos\u2061[7.5\u00d7106t\u22125\u00d710\u22123(3x+4y)](5k^)$",
+            "$B\u2192=\u2212573\u00d7108cos\u2061[7.5\u00d7106t\u22125\u00d710\u22123(3x+4y)](k^)$",
+            "$B\u2192=\u2212573\u00d7108cos\u2061[7.5\u00d7106t\u22125\u00d710\u22123(3x+4y)](5k^)$"
+        ],
+        "answer": "$B\u2192=\u2212573\u00d7108cos\u2061[7.5\u00d7106t\u22125\u00d710\u22123(3x+4y)](5k^)$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-electric-field-of-an-electromagnetic-wave-in-free-spa-jee-main-physics-units-and-measurements-w7es2pvm4qyv0qum",
+        "is_numerical": false,
+        "sub_topic": "Waveform: E & B Vector",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "E B k-vector cross product"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 4th April Evening Shift",
+        "question": "Arrange the following in the ascending order of wavelength: A. Gamma rays$(\u03bb1)$B.$x$- rays$(\u03bb2)$C. Infrared waves$(\u03bb3)$D. Microwaves$(\u03bb4)$Choose the most appropriate answer from the options given below",
+        "options": [
+            "$\u03bb1<\u03bb2<\u03bb3<\u03bb4$",
+            "$\u03bb2<\u03bb1<\u03bb4<\u03bb3$",
+            "$\u03bb4<\u03bb3<\u03bb2<\u03bb1$",
+            "$\u03bb4<\u03bb3<\u03bb1<\u03bb2$"
+        ],
+        "answer": "$\u03bb1<\u03bb2<\u03bb3<\u03bb4$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/parrange-the-following-in-the-ascending-order-of-wavelengt-jee-main-physics-motion-gttxqqa03nlppp90",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Spectrum Order",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Wavelength ascending order"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 5th April Evening Shift",
+        "question": "Match List I with List II : LIST I EM-Wave LIST II Wavelength Range A. Infra-red I.$<10\u22123$nm B. Ultraviolet II. 400 nm to 1 nm C. X-rays III. 1 mm to 700 nm D. Gamma rays IV. 1 nm to$10\u22123$nm Choose the correct answer from the options given below :",
+        "options": [
+            "(A)-(I), (B)-(III), (C)-(II), (D)-(IV)",
+            "(A)-(III), (B)-(II), (C)-(IV), (D)-(I)",
+            "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)",
+            "(A)-(II), (B)-(I), (C)-(IV), (D)-(III)"
+        ],
+        "answer": "(A)-(III), (B)-(II), (C)-(IV), (D)-(I)",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pmatch-list-i-with-list-ii-p-pstyle-typetextcss-jee-main-physics-motion-evlttmnys593t0cu",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Spectrum Order",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Spectrum wavelength range"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 31st January Morning Shift",
+        "question": "In a plane EM wave, the electric field oscillates sinusoidally at a frequency of$5\u00d71010 Hz$and an amplitude of$50 Vm\u22121$. The total average energy density of the electromagnetic field of the wave is : [Use$\u03b50=8.85\u00d710\u221212C2/Nm2$]",
+        "options": [
+            "$4.425\u00d710\u22128Jm\u22123$",
+            "$2.212\u00d710\u221210Jm\u22123$",
+            "$2.212\u00d710\u22128Jm\u22123$",
+            "$1.106\u00d710\u22128Jm\u22123$"
+        ],
+        "answer": "$1.106\u00d710\u22128Jm\u22123$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-a-plane-em-wave-the-electric-field-oscillates-sinusoi-jee-main-physics-motion-ju93ngxskf33r70c",
+        "is_numerical": false,
+        "sub_topic": "Power: Energy Density",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Total average energy density"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 6th April Morning Shift",
+        "question": "Electromagnetic waves travel in a medium with speed of$1.5\u00d7108 m s\u22121$. The relative permeability of the medium is 2.0. The relative permittivity will be:",
+        "options": [
+            "4",
+            "1",
+            "2",
+            "5"
+        ],
+        "answer": "2",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pelectromagnetic-waves-travel-in-a-medium-with-speed-of--jee-main-physics-motion-jbad50s3raeiqviq",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Medium Speed",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Speed in medium formula"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 4th April Morning Shift",
+        "question": "The electric field in an electromagnetic wave is given by$E\u2192=i^40cos\u2061\u03c9(t\u2212z/c)NC\u22121$. The magnetic field induction of this wave is (in SI unit) :",
+        "options": [
+            "$B\u2192=j^40ccos\u2061\u03c9(t\u2212z/c)$",
+            "$B\u2192=i^40ccos\u2061\u03c9(t\u2212z/c)$",
+            "$B\u2192=j^40cos\u2061\u03c9(t\u2212z/c)$",
+            "$B\u2192=k^40ccos\u2061\u03c9(t\u2212z/c)$"
+        ],
+        "answer": "$B\u2192=j^40ccos\u2061\u03c9(t\u2212z/c)$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-electric-field-in-an-electromagnetic-wave-is-given-by-jee-main-physics-motion-ql6ys1c7l9egjhx2",
+        "is_numerical": false,
+        "sub_topic": "Waveform: E & B Vector",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "E B k-vector cross product"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 1st February Evening Shift",
+        "question": "If frequency of electromagnetic wave is$60 MHz$and it travels in air along$z$direction then the corresponding electric and magnetic field vectors will be mutually perpendicular to each other and the wavelength of the wave (in$m$) is :",
+        "options": [
+            "2.5",
+            "5",
+            "10",
+            "2"
+        ],
+        "answer": "5",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/if-frequency-of-electromagnetic-wave-is-60-mathrmmhz-a-jee-main-physics-cnjxiz8duc3cifjc",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Equation Analysis",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Speed frequency wavelength"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 30th January Morning Shift",
+        "question": "The electric field of an electromagnetic wave in free space is represented as$E\u2192=E0cos\u2061(\u03c9t\u2212kz)i^$. The corresponding magnetic induction vector will be :",
+        "options": [
+            "$B\u2192=E0Ccos\u2061(\u03c9t+kz)j^$",
+            "$B\u2192=E0Ccos\u2061(\u03c9t\u2212kz)j^$",
+            "$B\u2192=E0Ccos\u2061(\u03c9t\u2212kz)j^$",
+            "$B\u2192=E0Ccos\u2061(\u03c9t+kz)j^$"
+        ],
+        "answer": "$B\u2192=E0Ccos\u2061(\u03c9t\u2212kz)j^$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-electric-field-of-an-electromagnetic-wave-in-free-spa-jee-main-physics-motion-ghe9a9uu5ybbsruq",
+        "is_numerical": false,
+        "sub_topic": "Waveform: E & B Vector",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "E B c k-vector cross product"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 31st January Evening Shift",
+        "question": "Given below are two statements: Statement I: Electromagnetic waves carry energy as they travel through space and this energy is equally shared by the electric and magnetic fields. Statement II: When electromagnetic waves strike a surface, a pressure is exerted on the surface. In the light of the above statements, choose the most appropriate answer from the options given below:",
+        "options": [
+            "Statement I is incorrect but Statement II is correct.",
+            "Both Statement I and Statement II are correct.",
+            "Statement I is correct but Statement II is incorrect.",
+            "Both Statement I and Statement II are incorrect."
+        ],
+        "answer": "Both Statement I and Statement II are correct.",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pgiven-below-are-two-statementsp-pstatement-i-elect-jee-main-physics-motion-cjdvlpt0p3it3gpm",
+        "is_numerical": false,
+        "sub_topic": "Power: Momentum",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Energy Pressure statements"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 29th January Evening Shift",
+        "question": "A plane electromagnetic wave of frequency$35 MHz$travels in free space along the$X$-direction. At a particular point (in space and time)$E\u2192=9.6j^ V/m$. The value of magnetic field at this point is :",
+        "options": [
+            "$9.6j^T$",
+            "$3.2\u00d710\u22128i^T$",
+            "$9.6\u00d710\u22128k^T$",
+            "$3.2\u00d710\u22128k^T$"
+        ],
+        "answer": "$3.2\u00d710\u22128k^T$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-plane-electromagnetic-wave-of-frequency-35-mathrmm-jee-main-physics-motion-hs7gxd8qiavdetmn",
+        "is_numerical": false,
+        "sub_topic": "Waveform: E & B Vector",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "E B c magnitude direction"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 27th January Evening Shift",
+        "question": "An object is placed in a medium of refractive index 3 . An electromagnetic wave of intensity$6\u00d7108 W/m2$falls normally on the object and it is absorbed completely. The radiation pressure on the object would be (speed of light in free space$=3\u00d7108 m/s$) :",
+        "options": [
+            "$6 Nm\u22122$",
+            "$36 Nm\u22122$",
+            "$18 Nm\u22122$",
+            "$2 Nm\u22122$"
+        ],
+        "answer": "$6 Nm\u22122$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-object-is-placed-in-a-medium-of-refractive-index-3--a-jee-main-physics-motion-8uvonterfejfkpwj",
+        "is_numerical": false,
+        "sub_topic": "Power: Radiation Pressure",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Pressure Intensity Refractive Index"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 12th April Morning Shift",
+        "question": "Given below are two statements: one is labelled as Assertion$A$and the other is labelled as Reason$R$Assertion A : EM waves used for optical communication have longer wavelengths than that of microwave, employed in Radar technology. Reason R : Infrared EM waves are more energetic than microwaves, (used in Radar) In the light of given statements, choose the correct answer from the options given below.",
+        "options": [
+            "Both$A$and$R$are true but$R$is NOT the correct explanation of$A$",
+            "$A$is true but$R$is false",
+            "Both$A$and$R$are true and$r$is the correct explanation of$A$",
+            "$A$is false but$R$is true"
+        ],
+        "answer": "$A$is false but$R$is true",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pgiven-below-are-two-statements-one-is-labelled-as-assert-jee-main-physics-motion-v3ckwtudpus2nnrw",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Spectrum Order",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Spectrum Energy Wavelength A/R"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 11th April Evening Shift",
+        "question": "A plane electromagnetic wave of frequency$20 MHz$propagates in free space along$x$-direction. At a particular space and time,$E\u2192=6.6j^ V/m$. What is$B\u2192$at this point?",
+        "options": [
+            "$\u22122.2\u00d710\u22128i^T$",
+            "$2.2\u00d710\u22128i^T$",
+            "$2.2\u00d710\u22128k^T$",
+            "$\u22122.2\u00d710\u22128k^T$"
+        ],
+        "answer": "$2.2\u00d710\u22128k^T$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-plane-electromagnetic-wave-of-frequency-20-mathrmm-jee-main-physics-motion-cuyzlfvsqpnj1ejt",
+        "is_numerical": false,
+        "sub_topic": "Waveform: E & B Vector",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "E B c magnitude direction"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 13th April Evening Shift",
+        "question": "In an electromagnetic wave, at an instant and at particular position, the electric field is along the negative$z$-axis and magnetic field is along the positive$x$-axis. Then the direction of propagation of electromagnetic wave is:",
+        "options": [
+            "at$45\u2218$angle from positive y-axis",
+            "positive$y$-axis",
+            "negative$y$-axis",
+            "positive z-axis"
+        ],
+        "answer": "negative$y$-axis",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-an-electromagnetic-wave-at-an-instant-and-at-particul-jee-main-physics-motion-yz41xuujzqafb02g",
+        "is_numerical": false,
+        "sub_topic": "Waveform: E & B Vector",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "E cross B direction"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 27th January Morning Shift",
+        "question": "A plane electromagnetic wave propagating in$x$-direction is described by$; Ey=(200Vm\u22121)sin\u2061[1.5\u00d7107t\u22120.05x];$The intensity of the wave is : (Use$\u03f50=8.85\u00d710\u221212C2 N\u22121 m\u22122$)",
+        "options": [
+            "$35.4 Wm\u22122$",
+            "$53.1 Wm\u22122$",
+            "$26.6 Wm\u22122$",
+            "$106.2 Wm\u22122$"
+        ],
+        "answer": "$53.1 Wm\u22122$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-plane-electromagnetic-wave-propagating-in-mathrmx-jee-main-physics-motion-5vo3apqdi5al1u9v",
+        "is_numerical": false,
+        "sub_topic": "Power: Intensity",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Intensity RMS E-field formula"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 15th April Morning Shift",
+        "question": "Match List I with List II of Electromagnetic waves with corresponding wavelength range : List I List II (A) Microwave (I)$400 nm$to$1 nm$(B) Ultraviolet (II)$1 nm$to$10\u22123 nm$(C) X-Ray (III)$1 mm$to$700 nm$(D) Infra-red (IV)$0.1 m$to$1 mm$Choose the correct answer from the options given below:",
+        "options": [
+            "(A)-(I), (B)-(IV), (C)-(II), (D)-(III)",
+            "(A)-(IV), (B)-(I), (C)-(II), (D)-(III)",
+            "(A)-(IV), (B)-(I), (C)-(III), (D) -(II)",
+            "(A)-(IV), (B)-(II), (C)-(I), (D)-(III)"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/match-blist-ib-with-blist-iib-of-electromagnetic-w-jee-main-physics-viwszzaii4mq6r8p",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Spectrum Order",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Spectrum wavelength range match"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 11th April Morning Shift",
+        "question": "The electric field in an electromagnetic wave is given as$E\u2192=20sin\u2061\u03c9(t\u2212xc)j\u2192NC\u22121$where$\u03c9$and$c$are angular frequency and velocity of electromagnetic wave respectively. The energy contained in a volume of$5\u00d710\u22124 m3$will be (Given$\u03b50=8.85\u00d710\u221212C2/Nm2$)",
+        "options": [
+            "$17\u22c57\u00d710\u221213 J$",
+            "$28\u22c55\u00d710\u221213 J$",
+            "$8\u22c585\u00d710\u221213 J$",
+            "$88\u22c55\u00d710\u221213 J$"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-electric-field-in-an-electromagnetic-wave-is-given-as-jee-main-physics-motion-4cbdr9sinpbno4as",
+        "is_numerical": false,
+        "sub_topic": "Power: Energy Density",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Energy Volume E-field formula"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 10th April Evening Shift",
+        "question": "The amplitude of magnetic field in an electromagnetic wave propagating along y-axis is$6.0\u00d710\u22127 T$. The maximum value of electric field in the electromagnetic wave is",
+        "options": [
+            "$6.0\u00d710\u22127 Vm\u22121$",
+            "$5\u00d71014 Vm\u22121$",
+            "$180 Vm\u22121$",
+            "$2\u00d71015 Vm\u22121$"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-amplitude-of-magnetic-field-in-an-electromagnetic-wav-jee-main-physics-motion-t2elmfsxq7jvjnpi",
+        "is_numerical": false,
+        "sub_topic": "Waveform: E & B Vector",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "E B c magnitude relation"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 13th April Morning Shift",
+        "question": "Which of the following Maxwell's equation is valid for time varying conditions but not valid for static conditions :",
+        "options": [
+            "$\u222eE\u2192\u22c5dl\u2192=0$",
+            "$\u222eB\u2192\u22c5dl\u2192=\u03bc0I$",
+            "$\u222eE\u2192\u22c5dl\u2192=\u2212\u2202\u03d5B\u2202t$",
+            "$\u222eD\u2192\u22c5dA\u2192=Q$"
+        ],
+        "answer": "$\u222eE\u2192\u22c5dl\u2192=\u2212\u2202\u03d5B\u2202t$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pwhich-of-the-following-maxwells-equation-is-valid-for-ti-jee-main-physics-motion-dhh6vz9eoegytamj",
+        "is_numerical": false,
+        "sub_topic": "Device: General",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Faraday's Law time variant"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 6th April Morning Shift",
+        "question": "For the plane electromagnetic wave given by$E=E0sin\u2061(\u03c9t\u2212kx)$and$B=B0sin\u2061(\u03c9t\u2212kx)$, the ratio of average electric energy density to average magnetic energy density is",
+        "options": [
+            "1",
+            "4",
+            "2",
+            "1/2"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pfor-the-plane-electromagnetic-wave-given-by-ee0-si-jee-main-physics-motion-yd23nkftb2qgkpbv",
+        "is_numerical": false,
+        "sub_topic": "Power: Energy Density",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Equipartition of Energy Density"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 1st February Evening Shift",
+        "question": "The ratio of average electric energy density and total average energy density of electromagnetic wave is :",
+        "options": [
+            "1",
+            "3",
+            "2",
+            "$12$"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-ratio-of-average-electric-energy-density-and-total-av-jee-main-physics-motion-pwn2pqlefdbjbtc2",
+        "is_numerical": false,
+        "sub_topic": "Power: Energy Density",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Equipartition of Energy Density"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 1st February Morning Shift",
+        "question": "Match List I with List II : List I List II A. Microwaves I. Radio active decay of the nucleus B. Gamma rays II. Rapid acceleration and deceleration of electron in aerials C. Radio waves III. Inner shell electrons D. X-rays IV. Klystron valve Choose the correct answer from the options given below :",
+        "options": [
+            "A-I, B-III, C-IV, D-II",
+            "A-IV, B-III, C-II, D-I",
+            "A-IV, B-I, C-II, D-III",
+            "A-I, B-II, C-III, D-IV"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pmatch-list-i-with-list-ii-p-pstyle-typetextcss-jee-main-physics-motion-3fti8ufeaprrqcpa",
+        "is_numerical": false,
+        "sub_topic": "Device: Production",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "EM production source match"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 10th April Morning Shift",
+        "question": "The energy of an electromagnetic wave contained in a small volume oscillates with",
+        "options": [
+            "double the frequency of the wave",
+            "the frequency of the wave",
+            "half the frequency of the wave",
+            "zero frequency"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-energy-of-an-electromagnetic-wave-contained-in-a-smal-jee-main-physics-motion-bkbptweuc830dbbq",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Equation Analysis",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Energy oscillation frequency"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 31st January Evening Shift",
+        "question": "Match List I with List II LIST I LIST II A. Microwaves I. Physiotherapy B. UV rays II. Treatment of cancer C. Infra-red light III. Lasik eye surgery D. X-ray IV. Aircraft navigation Choose the correct answer from the options given below:",
+        "options": [
+            "A - IV, B - III, C - I, D - II",
+            "A - II, B - IV, C - III, D - I",
+            "A - III, B - II, C - I, D - IV",
+            "A - IV, B - I, C - II, D - III"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/match-list-bib-with-list-biibbrbr-style-typ-jee-main-physics-3jyy6anzd0ai2m7i",
+        "is_numerical": false,
+        "sub_topic": "Device: Application",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Spectrum application match"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 6th April Evening Shift",
+        "question": "The energy density associated with electric field$E\u2192$and magnetic field$B\u2192$of an electromagnetic wave in free space is given by$(\u03f50\u2212$permittivity of free space,$\u03bc0\u2212$permeability of free space)",
+        "options": [
+            "$UE=\u03f50E22,UB=B22\u03bc0$",
+            "$UE=E22\u03f50,UB=\u03bc0B22$",
+            "$UE=\u03f50E22,UB=\u03bc0B22$",
+            "$UE=E22\u03f50,UB=B22\u03bc0$"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-energy-density-associated-with-electric-field-vec-jee-main-physics-motion-qvgau7llvlg50bv8",
+        "is_numerical": false,
+        "sub_topic": "Power: Energy Density",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Energy density formula"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 30th January Evening Shift",
+        "question": "A point source of$100 W$emits light with$5%$efficiency. At a distance of$5 m$from the source, the intensity produced by the electric field component is:",
+        "options": [
+            "$140\u03c0Wm2$",
+            "$110\u03c0Wm2$",
+            "$120\u03c0Wm2$",
+            "$12\u03c0Wm2$"
+        ],
+        "answer": "$140\u03c0Wm2$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1leoi23xo/0eb20d87-a1d6-4001-9b1f-f87c1a57bca1/13d4dac0-b78a-11ed-8877-d5d81ac5ff88/file-1leoi23xp.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-point-source-of-100-mathrmw-emits-light-with-5--jee-main-physics-byfocagltp1mtztz",
+        "is_numerical": false,
+        "sub_topic": "Power: Intensity",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Intensity Power Source Law"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 29th January Morning Shift",
+        "question": "Which of the following are true? A. Speed of light in vacuum is dependent on the direction of propagation. B. Speed of light in a medium is independent of the wavelength of light. C. The speed of light is independent of the motion of the source. D. The speed of light in a medium is independent of intensity. Choose the correct answer from the options given below:",
+        "options": [
+            "B and D only",
+            "B and C only",
+            "A and C only",
+            "C and D only"
+        ],
+        "answer": "C and D only",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pwhich-of-the-following-are-truep-pa-speed-of-light-jee-main-physics-motion-nmrfccacb9oh5idh",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Medium Speed",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Speed of light properties"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 29th July Morning Shift",
+        "question": "Match List - I with List - II : List - I List - II (a) UV rays (i) Diagnostic tool in medicine (b) X-rays (ii) Water purification (c) Microwave (iii) Communication, Radar (d) Infrared wave (iv) Improving visibility in foggy days Choose the correct answer from the options given below :",
+        "options": [
+            "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+            "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+            "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+            "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+        ],
+        "answer": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pmatch-list-i-with-list-ii-p-pstyle-typetext-jee-main-physics-motion-e2dgiikkjqecheso",
+        "is_numerical": false,
+        "sub_topic": "Device: Application",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Spectrum application match"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 25th January Evening Shift",
+        "question": "Match List I with List II List I List II A. Gauss's Law in Electrostatics I.$\u222eE\u2192.dl\u2192=\u2212d\u03d5Bdt$B. Faraday's Law II.$\u222eB\u2192.dA\u2192=0$C. Gauss's Law in Magnetism III.$\u222eB\u2192.dl\u2192=\u03bc0ic+\u03bc0\u22080d\u03d5Edt$D. Ampere-Maxwell Law IV.$\u222eE\u2192.ds\u2192=q\u22080$Choose the correct answer from the options given below :",
+        "options": [
+            "A-I, B-II, C-III, D-IV",
+            "A-III, B-IV, C-I, D-II",
+            "A-IV, B-I, C-II, D-III",
+            "A-II, B-III, C-IV, D-I"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pmatch-list-i-with-list-iip-pstyle-typetextcss-jee-main-physics-motion-xbepvpp3vmllftgi",
+        "is_numerical": false,
+        "sub_topic": "Device: General",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Maxwell's equations matching"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 25th January Morning Shift",
+        "question": "An electromagnetic wave is transporting energy in the negative$z$direction. At a certain point and certain time the direction of electric field of the wave is along positive$y$direction. What will be the direction of the magnetic field of the wave at that point and instant?",
+        "options": [
+            "Negative direction of$y$",
+            "Positive direction of$z$",
+            "Positive direction of$x$",
+            "Negative direction$x$"
+        ],
+        "answer": "Positive direction of$x$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-electromagnetic-wave-is-transporting-energy-in-the-neg-jee-main-physics-motion-56cx183e6jlclswj",
+        "is_numerical": false,
+        "sub_topic": "Waveform: E & B Vector",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "E cross B direction"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 29th January Evening Shift",
+        "question": "Given below are two statements : Statement I : Electromagnetic waves are not deflected by electric and magnetic field. Statement II : The amplitude of electric field and the magnetic field in electromagnetic waves are related to each other as$E0=\u03bc0\u03b50B0$. In the light of the above statements, choose the correct answer from the options given below :",
+        "options": [
+            "Both Statement I and Statement II are true",
+            "Statement I is true and Statement II is false",
+            "Both Statement I and Statement II are false",
+            "Statement I is false but Statement II is true"
+        ],
+        "answer": "Statement I is true and Statement II is false",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pgiven-below-are-two-statements-p-pstatement-i--ele-jee-main-physics-motion-iokwskuywdy2i0b2",
+        "is_numerical": false,
+        "sub_topic": "Waveform: E & B Vector",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "E B c ratio deflection"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 24th January Evening Shift",
+        "question": "The electric field and magnetic field components of an electromagnetic wave going through vacuum is described by$Ex=Eosin\u2061(kz\u2212\u03c9t)$$By=Bosin\u2061(kz\u2212\u03c9t)$Then the correct relation between E$0$and B$0$is given by",
+        "options": [
+            "$EoBo=\u03c9k$",
+            "$E0=kB0$",
+            "$kE0=\u03c9B0$",
+            "$\u03c9E0=kB0$"
+        ],
+        "answer": "$kE0=\u03c9B0$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-electric-field-and-magnetic-field-components-of-an-el-jee-main-physics-motion-vper0h8cfpgrxxjq",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Equation Analysis",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "E B $\\omega$ k relation"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 24th January Morning Shift",
+        "question": "In$E\u2192$and$K\u2192$represent electric field and propagation vectors of the EM waves in vacuum, then magnetic field vector is given by : ($\u03c9$- angular frequency) :",
+        "options": [
+            "$1\u03c9(K\u2015\u00d7E\u2015)$",
+            "$K\u2015\u00d7E\u2015$",
+            "$\u03c9(K\u2015\u00d7E\u2015)$",
+            "$\u03c9(E\u2015\u00d7K\u2015)$"
+        ],
+        "answer": "$1\u03c9(K\u2015\u00d7E\u2015)$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-overrightarrow-e--and-overrightarrow-k--repr-jee-main-physics-motion-49nunioklhfagpcd",
+        "is_numerical": false,
+        "sub_topic": "Waveform: E & B Vector",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "B from E and k cross product"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 28th July Evening Shift",
+        "question": "Sun light falls normally on a surface of area$36 cm2$and exerts an average force of$7.2\u00d710\u22129 N$within a time period of 20 minutes. Considering a case of complete absorption, the energy flux of incident light is",
+        "options": [
+            "$25.92\u00d7102 W/cm2$",
+            "$8.64\u00d710\u22126 W/cm2$",
+            "$6.0 W/cm2$",
+            "$0.06 W/cm2$"
+        ],
+        "answer": "$0.06 W/cm2$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/psun-light-falls-normally-on-a-surface-of-area-36-mathr-jee-main-physics-motion-et85ambacw7ceent",
+        "is_numerical": false,
+        "sub_topic": "Power: Radiation Pressure",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Intensity Force Absorbing"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th July Evening Shift",
+        "question": "A velocity selector consists of electric field$E\u2192=Ek^$and magnetic field$B\u2192=Bj^$with$B=12mT$. The value of$E$required for an electron of energy$728eV$moving along the positive$x$-axis to pass undeflected is : (Given, mass of electron$=9.1\u00d710\u221231 kg$)",
+        "options": [
+            "$192kVm\u22121$",
+            "$192mVm\u22121$",
+            "$9600kVm\u22121$",
+            "$16kVm\u22121$"
+        ],
+        "answer": "$192kVm\u22121$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-velocity-selector-consists-of-electric-field-vece-jee-main-physics-motion-vnzcbfcvftwkgnie",
+        "is_numerical": false,
+        "sub_topic": "Mixed-Concept: Lorentz Force",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Lorentz Force Velocity Selector"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th July Morning Shift",
+        "question": "A beam of light travelling along$X$-axis is described by the electric field$Ey=900sin\u2061\u03c9(t\u2212x/c)$. The ratio of electric force to magnetic force on a charge$q$moving along$Y$-axis with a speed of$3\u00d7107 ms\u22121$will be : (Given speed of light$=3\u00d7108 ms\u22121$)",
+        "options": [
+            "1 : 1",
+            "1 : 10",
+            "10 : 1",
+            "1 : 2"
+        ],
+        "answer": "10 : 1",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-beam-of-light-travelling-along-x-axis-is-described-jee-main-physics-motion-fpmmveckylvf4vbi",
+        "is_numerical": false,
+        "sub_topic": "Mixed-Concept: Lorentz Force",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Lorentz Force E/B ratio"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th July Evening Shift",
+        "question": "Identify the correct statements from the following descriptions of various properties of electromagnetic waves. (A) In a plane electromagnetic wave electric field and magnetic field must be perpendicular to each other and direction of propagation of wave should be along electric field or magnetic field. (B) The energy in electromagnetic wave is divided equally between electric and magnetic fields. (C) Both electric field and magnetic field are parallel to each other and perpendicular to the direction of propagation of wave. (D) The electric field, magnetic field and direction of propagation of wave must be perpendicular to each other. (E) The ratio of amplitude of magnetic field to the amplitude of electric field is equal to speed of light. Choose the most appropriate answer from the options given below :",
+        "options": [
+            "(D) only",
+            "(B) and (D) only",
+            "(B), (C) and (E) only",
+            "(A), (B) and (E) only"
+        ],
+        "answer": "(B) and (D) only",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pidentify-the-correct-statements-from-the-following-descri-jee-main-physics-motion-bfkwbqrt0sxz1co1",
+        "is_numerical": false,
+        "sub_topic": "Waveform: E & B Vector",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "EM wave properties truth"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th July Morning Shift",
+        "question": "The magnetic field of a plane electromagnetic wave is given by :$B\u2192=2\u00d710\u22128sin\u2061(0.5\u00d7103x+1.5\u00d71011t)j^ T$. The amplitude of the electric field would be :",
+        "options": [
+            "$6Vm\u22121$along$x$-axis",
+            "$3Vm\u22121$along$z$-axis",
+            "$6Vm\u22121$along$z$-axis",
+            "$2\u00d710\u22128Vm\u22121$along$z$-axis"
+        ],
+        "answer": "$6Vm\u22121$along$z$-axis",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-magnetic-field-of-a-plane-electromagnetic-wave-is-giv-jee-main-physics-motion-ytuwbqptom6x7hjc",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Equation Analysis",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "E B c amplitude relation"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th July Evening Shift",
+        "question": "The oscillating magnetic field in a plane electromagnetic wave is given by$By=5\u00d710\u22126sin\u20611000\u03c0(5x\u22124\u00d7108t)T$. The amplitude of electric field will be :",
+        "options": [
+            "$15\u00d7102Vm\u22121$",
+            "$5\u00d710\u22126Vm\u22121$",
+            "$16\u00d71012Vm\u22121$",
+            "$4\u00d7102Vm\u22121$"
+        ],
+        "answer": "$4\u00d7102Vm\u22121$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-oscillating-magnetic-field-in-a-plane-electromagnetic-jee-main-physics-motion-ykfbtooq1gcf4zqi",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Equation Analysis",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "E B c amplitude relation"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th July Morning Shift",
+        "question": "The rms value of conduction current in a parallel plate capacitor is$6.9\u03bcA$. The capacity of this capacitor, if it is connected to$230 V$ac supply with an angular frequency of$600rad/s$, will be :",
+        "options": [
+            "5 pF",
+            "50 pF",
+            "100 pF",
+            "200 pF"
+        ],
+        "answer": "50 pF",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-rms-value-of-conduction-current-in-a-parallel-plate-c-jee-main-physics-motion-5dd7afnykrl6xjci",
+        "is_numerical": false,
+        "sub_topic": "Circuits: Displacement Current",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "RMS Conduction Current"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th July Evening Shift",
+        "question": "Light wave travelling in air along x-direction is given by$Ey=540sin\u2061\u03c0\u00d7104(x\u2212ct)Vm\u22121$. Then, the peak value of magnetic field of wave will be (Given c = 3$\u00d7$10 ^8 ms ^$\u2212$1 )",
+        "options": [
+            "18$\u00d7$10 ^$\u2212$7 T",
+            "54$\u00d7$10 ^$\u2212$7 T",
+            "54$\u00d7$10 ^$\u2212$8 T",
+            "18$\u00d7$10 ^$\u2212$8 T"
+        ],
+        "answer": "18$\u00d7$10 ^$\u2212$7 T",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/plight-wave-travelling-in-air-along-x-direction-is-given-b-jee-main-physics-motion-rprayqk7mkdd38pp",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Equation Analysis",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "B0 E0 c relation"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 28th June Morning Shift",
+        "question": "A radar sends an electromagnetic signal of electric field (E _0 ) = 2.25 V/m and magnetic field (B _0 ) = 1.5$\u00d7$10 ^$\u2212$8 T which strikes a target on line of sight at a distance of 3 km in a medium. After that, a part of signal (echo) reflects back towards the radar with same velocity and by same path. If the signal was transmitted at time t = 0 from radar, then after how much time echo will reach to the radar?",
+        "options": [
+            "2.0$\u00d7$10 ^$\u2212$5 s",
+            "4.0$\u00d7$10 ^$\u2212$5 s",
+            "1.0$\u00d7$10 ^$\u2212$5 s",
+            "8.0$\u00d7$10 ^$\u2212$5 s"
+        ],
+        "answer": "4.0$\u00d7$10 ^$\u2212$5 s",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-radar-sends-an-electromagnetic-signal-of-electric-field-jee-main-physics-motion-agy7wfsnlb8qglsk",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Medium Speed",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Two way radar travel time"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 28th June Evening Shift",
+        "question": "An EM wave propagating in x-direction has a wavelength of 8 mm. The electric field vibrating y-direction has maximum magnitude of 60 Vm ^$\u2212$1 . Choose the correct equations for electric and magnetic fields if the EM wave is propagating in vacuum :",
+        "options": [
+            "$Ey=60sin\u2061[\u03c04\u00d7103(x\u22123\u00d7108t)]j^Vm\u22121$$Bz=2sin\u2061[\u03c04\u00d7103(x\u22123\u00d7108t)]k^T$",
+            "$Ey=60sin\u2061[\u03c04\u00d7103(x\u22123\u00d7108t)]j^Vm\u22121$$Bz=2\u00d710\u22127sin\u2061[\u03c04\u00d7103(x\u22123\u00d7108t)]k^T$",
+            "$Ey=2\u00d710\u22127sin\u2061[\u03c04\u00d7103(x\u22123\u00d7108t)]j^Vm\u22121$$Bz=60sin\u2061[\u03c04\u00d7103(x\u22123\u00d7108t)]k^T$",
+            "$Ey=2\u00d710\u22127sin\u2061[\u03c04\u00d7104(x\u22124\u00d7108t)]j^Vm\u22121$$Bz=60sin\u2061[\u03c04\u00d7104(x\u22124\u00d7108t)]k^T$"
+        ],
+        "answer": "$Ey=60sin\u2061[\u03c04\u00d7103(x\u22123\u00d7108t)]j^Vm\u22121$$Bz=2\u00d710\u22127sin\u2061[\u03c04\u00d7103(x\u22123\u00d7108t)]k^T$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-em-wave-propagating-in-x-direction-has-a-wavelength-of-jee-main-physics-motion-ua47iavihey5yjpe",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Equation Analysis",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "E B k-vector full equation"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th June Evening Shift",
+        "question": "Given below are two statements : Statement I : A time varying electric field is a source of changing magnetic field and vice-versa. Thus a disturbance in electric or magnetic field creates EM waves. Statement II : In a material medium, the EM wave travels with speed$v=1\u03bc0\u22080$. In the light of the above statements, choose the correct answer from the options given below.",
+        "options": [
+            "Both Statement I and Statement II are true",
+            "Both Statement I and Statement II are false",
+            "Statement I is correct but Statement II is false",
+            "Statement I is incorrect but Statement II is true"
+        ],
+        "answer": "Statement I is correct but Statement II is false",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pgiven-below-are-two-statements-p-pstatement-i--a-t-jee-main-physics-motion-ewe1n910uzcnkkax",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Medium Speed",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Maxwell wave creation speed"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 30th June Morning Shift",
+        "question": "An expression for oscillating electric field in a plane electromagnetic wave is given as E _z = 300 sin(5$\u03c0$$\u00d7$10 ^3 x$\u2212$3$\u03c0$$\u00d7$10 ^11 t) Vm ^$\u2212$1 Then, the value of magnetic field amplitude will be : (Given : speed of light in Vacuum c = 3$\u00d7$10 ^8 ms ^$\u2212$1 )",
+        "options": [
+            "1$\u00d7$10 ^$\u2212$6 T",
+            "5$\u00d7$10 ^$\u2212$6 T",
+            "18$\u00d7$10 ^9 T",
+            "21$\u00d7$10 ^9 T"
+        ],
+        "answer": "5$\u00d7$10 ^$\u2212$6 T",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-expression-for-oscillating-electric-field-in-a-plane-e-jee-main-physics-motion-bfrpk5pd6ba1cc9q",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Equation Analysis",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "E B c amplitude relation"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th June Morning Shift",
+        "question": "In free space, an electromagnetic wave of 3 GHz frequency strikes over the edge of an object of size$\u03bb100$, where$\u03bb$is the wavelength of the wave in free space. The phenomenon, which happens there will be :",
+        "options": [
+            "Reflection",
+            "Refraction",
+            "Diffraction",
+            "Scattering"
+        ],
+        "answer": "Scattering",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-free-space-an-electromagnetic-wave-of-3-ghz-frequency-jee-main-physics-motion-bhvokwaybcnppp6z",
+        "is_numerical": false,
+        "sub_topic": "Device: Application",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Scattering object size rule"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th June Evening Shift",
+        "question": "Which is the correct ascending order of wavelengths?",
+        "options": [
+            "$\u03bb$_visible <$\u03bb$_X-ray <$\u03bb$_gamma-ray <$\u03bb$_microwave",
+            "$\u03bb$_gamma-ray <$\u03bb$_X-ray <$\u03bb$_visible <$\u03bb$_microwave",
+            "$\u03bb$_X-ray <$\u03bb$_gamma-ray <$\u03bb$_visible <$\u03bb$_microwave",
+            "$\u03bb$_microwave <$\u03bb$_visible <$\u03bb$_gamma-ray <$\u03bb$_X-ray"
+        ],
+        "answer": "$\u03bb$_gamma-ray <$\u03bb$_X-ray <$\u03bb$_visible <$\u03bb$_microwave",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pwhich-is-the-correct-ascending-order-of-wavelengthsp-jee-main-physics-motion-gqmbuzc6hs0tl7t7",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Spectrum Order",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Wavelength spectrum order"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th June Morning Shift",
+        "question": "If Electric field intensity of a uniform plane electromagnetic wave is given as$E=\u2212301.6sin\u2061(kz\u2212\u03c9t)a^x+452.4sin\u2061(kz\u2212\u03c9t)a^yVm$. Then magnetic intensity 'H' of this wave in Am ^$\u2212$1 will be : [Given : Speed of light in vacuum$c=3\u00d7108$ms ^$\u2212$1 , Permeability of vacuum$\u03bc0=4\u03c0\u00d710\u22127$NA ^$\u2212$2 ]",
+        "options": [
+            "$+0.8sin\u2061(kz\u2212\u03c9t)a^y+0.8sin\u2061(kz\u2212\u03c9t)a^x$",
+            "$+1.0\u00d710\u22126sin\u2061(kz\u2212\u03c9t)a^y+1.5\u00d710\u22126(kz\u2212\u03c9t)a^x$",
+            "$\u22120.8sin\u2061(kz\u2212\u03c9t)a^y\u22121.2sin\u2061(kz\u2212\u03c9t)a^x$",
+            "$\u22121.0\u00d710\u22126sin\u2061(kz\u2212\u03c9t)a^y\u22121.5\u00d710\u22126sin\u2061(kz\u2212\u03c9t)a^x$"
+        ],
+        "answer": "$\u22120.8sin\u2061(kz\u2212\u03c9t)a^y\u22121.2sin\u2061(kz\u2212\u03c9t)a^x$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pif-electric-field-intensity-of-a-uniform-plane-electromag-jee-main-physics-motion-hbg5hsxkbzz6abnb",
+        "is_numerical": false,
+        "sub_topic": "Waveform: E & B Vector",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "H field E vector relation"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 27th August Morning Shift",
+        "question": "Electric field in a plane electromagnetic wave is given by E = 50 sin(500x$\u2212$10$\u00d7$10 ^10 t) V/m The velocity of electromagnetic wave in this medium is : (Given C = speed of light in vacuum)",
+        "options": [
+            "$32$C",
+            "C",
+            "$23$C",
+            "$C2$"
+        ],
+        "answer": "$23$C",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/electric-field-in-a-plane-electromagnetic-wave-is-given-by-e-jee-main-physics-units-and-measurements-vqyws8abgdlbbvnt",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Medium Speed",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Velocity from $\\omega/k$ ratio"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 24th June Morning Shift",
+        "question": "A plane electromagnetic wave travels in a medium of relative permeability 1.61 and relative permittivity 6.44. If magnitude of magnetic intensity is 4.5$\u00d7$10 ^$\u2212$2 Am ^$\u2212$1 at a point, what will be the approximate magnitude of electric field intensity at that point? (Given : Permeability of free space$\u03bc$_0 = 4$\u03c0$$\u00d7$10 ^$\u2212$7 NA ^$\u2212$2 , speed of light in vacuum c = 3$\u00d7$10 ^8 ms ^$\u2212$1 )",
+        "options": [
+            "16.96 Vm ^$\u2212$1",
+            "2.25$\u00d7$10 ^$\u2212$2 Vm ^$\u2212$1",
+            "8.48 Vm ^$\u2212$1",
+            "6.75$\u00d7$10 ^6 Vm ^$\u2212$1"
+        ],
+        "answer": "8.48 Vm ^$\u2212$1",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-plane-electromagnetic-wave-travels-in-a-medium-of-relat-jee-main-physics-motion-a8s6bccabzlhm2j9",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Medium Speed",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "E H medium impedance"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 1st September Evening Shift",
+        "question": "Electric field of plane electromagnetic wave propagating through a non-magnetic medium is given by E = 20cos(2$\u00d7$10 ^10 t$\u2212$200x) V/m. The dielectric constant of the medium is equal to : (Take$\u03bc$_r = 1)",
+        "options": [
+            "9",
+            "2",
+            "$13$",
+            "3"
+        ],
+        "answer": "9",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/electric-field-of-plane-electromagnetic-wave-propagating-thr-jee-main-physics-units-and-measurements-wuohyqgpwwp0inae",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Medium Speed",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Dielectric constant velocity"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 24th June Evening Shift",
+        "question": "An electric bulb is rated as 200 W. What will be the peak magnetic field at 4 m distance produced by the radiations coming from this bulb? Consider this bulb as a point source with 3.5% efficiency.",
+        "options": [
+            "1.19$\u00d7$10 ^$\u2212$8 T",
+            "1.71$\u00d7$10 ^$\u2212$8 T",
+            "0.84$\u00d7$10 ^$\u2212$8 T",
+            "3.36$\u00d7$10 ^$\u2212$8 T"
+        ],
+        "answer": "1.71$\u00d7$10 ^$\u2212$8 T",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-electric-bulb-is-rated-as-200-w-what-will-be-the-peak-jee-main-physics-motion-xhfjqzyd4p7j31ob",
+        "is_numerical": false,
+        "sub_topic": "Power: Intensity",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "B0 from Intensity and distance"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th June Evening Shift",
+        "question": "The electromagnetic waves travel in a medium at a speed of 2.0$\u00d7$10 ^8 m/s. The relative permeability of the medium is 1.0. The relative permittivity of the medium will be :",
+        "options": [
+            "2.25",
+            "4.25",
+            "6.25",
+            "8.25"
+        ],
+        "answer": "2.25",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-electromagnetic-waves-travel-in-a-medium-at-a-speed-o-jee-main-physics-motion-rarkgivztrooteuq",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Medium Speed",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Permittivity from speed in medium"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 31st August Evening Shift",
+        "question": "The magnetic field vector of an electromagnetic wave is given by$B=B0i^+j^2cos\u2061(kz\u2212\u03c9t)$; where$i^,j^$represents unit vector along x and y-axis respectively. At t = 0s, two electric charges q _1 of 4$\u03c0$coulomb and q _2 of 2$\u03c0$coulomb located at$(0,0,\u03c0k)$and$(0,0,3\u03c0k)$, respectively, have the same velocity of 0.5 c$i^$, (where c is the velocity of light). The ratio of the force acting on charge q _1 to q _2 is :-",
+        "options": [
+            "$22:1$",
+            "$1:2$",
+            "2 : 1",
+            "$2:1$"
+        ],
+        "answer": "2 : 1",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-magnetic-field-vector-of-an-electromagnetic-wave-is-give-jee-main-physics-units-and-measurements-yphnnyqqt3tocui9",
+        "is_numerical": false,
+        "sub_topic": "Mixed-Concept: Lorentz Force",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Lorentz force on charges"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th June Morning Shift",
+        "question": "Match List-I with List-II : List - I List - II (a) Ultraviolet rays (i) Study crystal structure (b) Microwaves (ii) Greenhouse effect (c) Infrared rays (iii) Sterilizing surgical instrument (d) X-rays (iv) Radar system Choose the correct answer from the options given below :",
+        "options": [
+            "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+            "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+            "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+            "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+        ],
+        "answer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pmatch-list-i-with-list-ii-p-pstyle-typetextcss-jee-main-physics-motion-ytkra92eysvpuxah",
+        "is_numerical": false,
+        "sub_topic": "Device: Application",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Spectrum application match"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th June Morning Shift",
+        "question": "The electric field in an electromagnetic wave is given by E = 56.5 sin$\u03c9$(t$\u2212$x/c) NC ^$\u2212$1 . Find the intensity of the wave if it is propagating along x-axis in the free space. (Given :$\u03b5$_0 = 8.85$\u00d7$10 ^$\u2212$12 C ^2 N ^$\u2212$1 m ^$\u2212$2 )",
+        "options": [
+            "5.65 Wm ^$\u2212$2",
+            "4.24 Wm ^$\u2212$2",
+            "1.9$\u00d7$10 ^$\u2212$7 Wm ^$\u2212$2",
+            "56.5 Wm ^$\u2212$2"
+        ],
+        "answer": "4.24 Wm ^$\u2212$2",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-electric-field-in-an-electromagnetic-wave-is-given-by-jee-main-physics-motion-n15ptgo3unp5mhur",
+        "is_numerical": false,
+        "sub_topic": "Power: Intensity",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Intensity RMS E-field formula"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 27th July Morning Shift",
+        "question": "The relative permittivity of distilled water is 81. The velocity of light in it will be : (Given$\u03bc$_r = 1)",
+        "options": [
+            "4.33$\u00d7$10 ^7 m/s",
+            "2.33$\u00d7$10 ^7 m/s",
+            "3.33$\u00d7$10 ^7 m/s",
+            "5.33$\u00d7$10 ^7 m/s"
+        ],
+        "answer": "3.33$\u00d7$10 ^7 m/s",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-relative-permittivity-of-distilled-water-is-81-the-velo-jee-main-physics-units-and-measurements-6rmro9bn5qlk2rsj",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Medium Speed",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Speed in dielectric"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 22th July Evening Shift",
+        "question": "Intensity of sunlight is observed as 0.092 Wm ^$\u2212$2 at a point in free space. What will be the peak value of magnetic field at the point? ($\u03b50=8.85\u00d710\u221212C2N\u22121m\u22122$)",
+        "options": [
+            "2.77$\u00d7$10 ^$\u2212$8 T",
+            "1.96$\u00d7$10 ^$\u2212$8 T",
+            "8.31 T",
+            "5.88 T"
+        ],
+        "answer": "2.77$\u00d7$10 ^$\u2212$8 T",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/intensity-of-sunlight-is-observed-as-0092-wmsup-2su-jee-main-physics-units-and-measurements-wvwwxegg7v9t8keq",
+        "is_numerical": false,
+        "sub_topic": "Power: Intensity",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "B0 from Intensity formula"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th August Evening Shift",
+        "question": "A light beam is described by$E=800sin\u2061\u03c9(t\u2212xc)$. An electron is allowed to move normal to the propagation of light beam with a speed of 3$\u00d7$10 ^7 ms ^$\u2212$1 . What is the maximum magnetic force exerted on the electron?",
+        "options": [
+            "1.28$\u00d7$10 ^$\u2212$18 N",
+            "1.28$\u00d7$10 ^$\u2212$21 N",
+            "12.8$\u00d7$10 ^$\u2212$17 N",
+            "12.8$\u00d7$10 ^$\u2212$18 N"
+        ],
+        "answer": "12.8$\u00d7$10 ^$\u2212$18 N",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-light-beam-is-described-by-e--800sin-omega-left-t-jee-main-physics-units-and-measurements-axfc8t2hqsblprir",
+        "is_numerical": false,
+        "sub_topic": "Mixed-Concept: Lorentz Force",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Lorentz Force B0 velocity"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th July Morning Shift",
+        "question": "A linearly polarized electromagnetic wave in vacuum is$E=3.1cos\u2061[(1.8)z\u2212(5.4\u00d7106)t]i^N/C$is incident normally on a perfectly reflecting wall at z = a. Choose the correct option",
+        "options": [
+            "The wavelength is 5.4 m",
+            "The frequency of electromagnetic wave is 54$\u00d7$10 ^4 Hz.",
+            "The transmitted wave will be$3.1cos\u2061[(1.8)z\u2212(5.4\u00d7106)t]i^N/C$",
+            "The reflected wave will be$3.1cos\u2061[(1.8)z+(5.4\u00d7106)t]i^N/C$"
+        ],
+        "answer": "The reflected wave will be$3.1cos\u2061[(1.8)z+(5.4\u00d7106)t]i^N/C$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-linearly-polarized-electromagnetic-wave-in-vacuum-is-br-jee-main-physics-units-and-measurements-4bkifuvgxlw1nzwc",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Reflection",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Reflected E-field phase change"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 5th September Evening Slot",
+        "question": "The correct match between the entries in column I and column II are : I II Radiation Wavelength (a) Microwave (i) 100 m (b) Gamma rays (ii) 10 ^\u201315 m (c) A.M. radio waves (iii) 10 ^\u201310 m (d) X-rays (iv) 10 ^\u20133 m",
+        "options": [
+            "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+            "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+            "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+            "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"
+        ],
+        "answer": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-correct-match-between-the-entries-in-column-i-and-column-jee-main-physics-dual-nature-of-radiation-elaotddero96vi7s",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Spectrum Order",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Wavelength spectrum match"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 16th March Morning Shift",
+        "question": "For an electromagnetic wave travelling in free space, the relation between average energy densities due to electric (U _e ) and magnetic (U _m ) fields is :",
+        "options": [
+            "U _e = U _m",
+            "U _e$\u2260$U _m",
+            "U _e < U _m",
+            "U _e > U _m"
+        ],
+        "answer": "U _e = U _m",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/for-an-electromagnetic-wave-travelling-in-free-space-the-re-jee-main-physics-units-and-measurements-6lzac5duhpfflhza",
+        "is_numerical": false,
+        "sub_topic": "Power: Energy Density",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Equipartition of Energy Density"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 6th September Evening Slot",
+        "question": "For a plane electromagnetic wave, the magnetic field at a point x and time t is$B\u2192(x,t)$=$[1.2\u00d710\u22127sin\u2061(0.5\u00d7103x+1.5\u00d71011t)k^]$T The instantaneous electric field$E\u2192$corresponding to$B\u2192$is : (speed of light c = 3 \u00d7 10 ^8 ms ^\u20131 )",
+        "options": [
+            "$E\u2192(x,t)=[36sin\u2061(1\u00d7103x+1.5\u00d71011t)i^]$$Vm$",
+            "$E\u2192(x,t)=[36sin\u2061(0.5\u00d7103x+1.5\u00d71011t)k^]Vm$",
+            "$E\u2192(x,t)=[36sin\u2061(1\u00d7103x+0.5\u00d71011t)j^]Vm$",
+            "$E\u2192(x,t)=[\u221236sin\u2061(0.5\u00d7103x+1.5\u00d71011t)j^]Vm$"
+        ],
+        "answer": "$E\u2192(x,t)=[\u221236sin\u2061(0.5\u00d7103x+1.5\u00d71011t)j^]Vm$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/for-a-plane-electromagnetic-wave-the-magnetic-field-at-a-po-jee-main-physics-magnetics-4shwtkwa328ogjy4",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Equation Analysis",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "E B c k-vector sign"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 20th July Evening Shift",
+        "question": "In an electromagnetic wave the electric field vector and magnetic field vector are given as$E\u2192=E0i^$and$B\u2192=B0k^$respectively. The direction of propagation of electromagnetic wave is along :",
+        "options": [
+            "$(k^)$",
+            "$j^$",
+            "$(\u2212k^)$",
+            "$(\u2212j^)$"
+        ],
+        "answer": "$(\u2212j^)$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-an-electromagnetic-wave-the-electric-field-vector-and-mag-jee-main-physics-units-and-measurements-2cnrjs5sng7qrckd",
+        "is_numerical": false,
+        "sub_topic": "Waveform: E & B Vector",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "E cross B direction"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 18th March Morning Shift",
+        "question": "A plane electromagnetic wave of frequency 100 MHz is travelling in vacuum along the x-direction. At a particular point in space and time,$B\u2192=2.0\u00d710\u22128k^T$. (where,$k^$is unit vector along z-direction) What is$E\u2192$at this point?",
+        "options": [
+            "0.6$j^$V/m",
+            "6.0$k^$V/m",
+            "6.0$j^$V/m",
+            "0.6$k^$V/m"
+        ],
+        "answer": "6.0$j^$V/m",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-plane-electromagnetic-wave-of-frequency-100-mhz-is-travell-jee-main-physics-units-and-measurements-vj1osxvkrlbjhwbc",
+        "is_numerical": false,
+        "sub_topic": "Waveform: E & B Vector",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "E B c magnitude direction"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 18th March Evening Shift",
+        "question": "A plane electromagnetic wave propagating along y-direction can have the following pair of electric field$(E\u2192)$and magnetic field$(B\u2192)$components.",
+        "options": [
+            "E _x , B _z or E _z , B _x",
+            "E _x , B _y or E _y , B _x",
+            "E _y , B _y or E _z , B _z",
+            "E _y , B _x or E _x , B _y"
+        ],
+        "answer": "E _x , B _z or E _z , B _x",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1kmr9yfts/9de29d74-9e62-4a40-9d45-b2b9a28320f5/b0163a00-8eba-11eb-a7eb-ef56e427c756/file-1kmr9yftt.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-plane-electromagnetic-wave-propagating-along-y-direction-c-jee-main-physics-units-and-measurements-czy4slhaty5gpsuj",
+        "is_numerical": false,
+        "sub_topic": "Waveform: E & B Vector",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "E B perpendicular propagation"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 16th March Morning Shift",
+        "question": "A plane electromagnetic wave of frequency 500 MHz is travelling in vacuum along y-direction. At a particular point in space and time,$B\u2192$= 8.0$\u00d7$10 ^$\u2212$8$z^$T. The value of electric field at this point is : (speed of light = 3$\u00d7$10 ^8 ms ^$\u2212$1 )$x^$,$y^$,$z^$are unit vectors along x, y and z directions.",
+        "options": [
+            "2.6$x^$V/m",
+            "$\u2212$24$x^$V/m",
+            "24$x^$V/m",
+            "$\u2212$2.6$y^$V/m"
+        ],
+        "answer": "$\u2212$24$x^$V/m",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-plane-electromagnetic-wave-of-frequency-500-mhz-is-travell-jee-main-physics-units-and-measurements-jar1qlm6lz0bjxhn",
+        "is_numerical": false,
+        "sub_topic": "Waveform: E & B Vector",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "E B c magnitude direction"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 4th September Morning Slot",
+        "question": "Choose the correct option relating wave lengths of different parts of electromagnetic wave spectrum:",
+        "options": [
+            "$\u03bb$_radio waves >$\u03bb$_micro waves >$\u03bb$_visible >$\u03bb$_x-rays",
+            "$\u03bb$_visible >$\u03bb$_x-rays >$\u03bb$_radio waves >$\u03bb$_micro waves",
+            "$\u03bb$_visible <$\u03bb$_micro waves <$\u03bb$_radio waves <$\u03bb$_x-rays",
+            "$\u03bb$_x-rays <$\u03bb$_micro waves <$\u03bb$_radio waves <$\u03bb$_visible"
+        ],
+        "answer": "$\u03bb$_radio waves >$\u03bb$_micro waves >$\u03bb$_visible >$\u03bb$_x-rays",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/choose-the-correct-option-relating-wave-lengths-of-different-jee-main-physics-electromagnetic-induction-2nawibmstmp3a17i",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Spectrum Order",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Wavelength descending order"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 4th September Evening Slot",
+        "question": "The electric field of a plane electromagnetic wave is given by$E\u2192=E0(x^+y^)sin\u2061(kz\u2212\u03c9t)$Its magnetic field will be given by :",
+        "options": [
+            "$E0c(x^+y^)sin\u2061(kz\u2212\u03c9t)$",
+            "$E0c(x^\u2212y^)sin\u2061(kz\u2212\u03c9t)$",
+            "$E0c(x^\u2212y^)cos\u2061(kz\u2212\u03c9t)$",
+            "$E0c(\u2212x^+y^)sin\u2061(kz\u2212\u03c9t)$"
+        ],
+        "answer": "$E0c(\u2212x^+y^)sin\u2061(kz\u2212\u03c9t)$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-electric-field-of-a-plane-electromagnetic-wave-is-given-jee-main-physics-magnetics-iawqhnjiosq2l93a",
+        "is_numerical": false,
+        "sub_topic": "Waveform: E & B Vector",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "E B k-vector cross product"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 24th February Evening Shift",
+        "question": "Match List - I with List - II. List I List II (a) Source of microwave frequency (i) Radioactive decay of nucleus (b) Source of infrared frequency (ii) Magnetron (c) Source of Gamma Rays (iii) Inner shell electrons (d) Source of X-rays (iv) Vibration of atoms and molecules (v) LASER (vi) RC circuit Choose the correct answer from the options given below :",
+        "options": [
+            "(a)-(vi), (b)-(v), (c)-(i), (d)-(iv)",
+            "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+            "(a)-(ii), (b)-(iv), (c)-(vi), (d)-(iii)",
+            "(a)-(vi), (b)-(iv), (c)-(i), (d)-(v)"
+        ],
+        "answer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/match-list-i-with-list-iibrbrtable-thead-t-jee-main-physics-units-and-measurements-xb5r7ruthr0asjxj",
+        "is_numerical": false,
+        "sub_topic": "Device: Production",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "EM production source match"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 5th September Morning Slot",
+        "question": "An electron is constrained to move along the y-axis with a speed of 0.1 c (c is the speed of light) in the presence of electromagnetic wave, whose electric field is$E\u2192=30j^sin\u2061(1.5\u00d7107t\u22125\u00d710\u22122x)$V/m. The maximum magnetic force experienced by the electron will be : (given c = 3$\u00d7$10 ^8 ms ^\u20131 and electron charge = 1.6$\u00d7$10 ^\u201319 C)",
+        "options": [
+            "4.8$\u00d7$10 ^\u201319 N",
+            "2.4$\u00d7$10 ^\u201318 N",
+            "3.2$\u00d7$10 ^\u201318 N",
+            "1.6$\u00d7$10 ^\u201318 N"
+        ],
+        "answer": "4.8$\u00d7$10 ^\u201319 N",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-electron-is-constrained-to-move-along-the-y-axis-with-a-s-jee-main-physics-magnetics-05fzfu3f2atunlom",
+        "is_numerical": false,
+        "sub_topic": "Mixed-Concept: Lorentz Force",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Lorentz Force B-field velocity"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 3rd September Evening Slot",
+        "question": "The electric field of a plane electromagnetic wave propagating along the x direction in vacuum is$E\u2192=E0j^cos\u2061(\u03c9t\u2212kx)$. The magnetic field$B\u2192$, at the moment t = 0 is :",
+        "options": [
+            "$B\u2192=E0\u03bc0\u22080cos\u2061(kx)j^$",
+            "$B\u2192=E0\u03bc0\u22080cos\u2061(kx)k^$",
+            "$B\u2192=E0\u03bc0\u22080cos\u2061(kx)k^$",
+            "$B\u2192=E0\u03bc0\u22080cos\u2061(kx)j^$"
+        ],
+        "answer": "$B\u2192=E0\u03bc0\u22080cos\u2061(kx)k^$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1kjguvu23/dc100608-38f2-4c0c-a6e0-5e2017574997/4215b2c0-4d9b-11eb-a753-c3e6b8b70d47/file-1kjguvu24-306w.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/the-electric-field-of-a-plane-electromagnetic-wave-propagati-jee-main-physics-electromagnetic-induction-nbhp1hgqlh3wmzre",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Equation Analysis",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "E B c k-vector phase"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 3rd September Morning Slot",
+        "question": "The magnetic field of a plane electromagnetic wave is$B\u2192=3\u00d710\u22128sin\u2061[200\u03c0(y+ct)]i^$T where c = 3$\u00d7$10 ^8 ms ^\u20131 is the speed of light. The corresponding electric field is :",
+        "options": [
+            "$E\u2192=\u221210\u22126sin\u2061[200\u03c0(y+ct)]k^$V/m",
+            "$E\u2192=\u22129sin\u2061[200\u03c0(y+ct)]k^$V/m",
+            "$E\u2192=9sin\u2061[200\u03c0(y+ct)]k^$V/m",
+            "$E\u2192=3\u00d710\u22128sin\u2061[200\u03c0(y+ct)]k^$"
+        ],
+        "answer": "$E\u2192=\u22129sin\u2061[200\u03c0(y+ct)]k^$V/m",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-magnetic-field-of-a-plane-electromagnetic-wave-is-br-jee-main-physics-electromagnetic-induction-ipbw17c4wetgoy1l",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Equation Analysis",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "E B c k-vector sign"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 7th January Morning Slot",
+        "question": "If the magnetic field in a plane electromagnetic wave is given by$B\u2192$= 3$\u00d7$10 ^-8 sin(1.6$\u00d7$10 ^3 x + 48$\u00d7$10 ^10 t)$j^$T, then what will be expression for electric field ?",
+        "options": [
+            "$E\u2192$= (9sin(1.6$\u00d7$10 ^3 x + 48$\u00d7$10 ^10 t)$k^$V/m)",
+            "$E\u2192$= (60sin(1.6$\u00d7$10 ^3 x + 48$\u00d7$10 ^10 t)$k^$V/m)",
+            "$E\u2192$= (3$\u00d7$10 ^-8 sin(1.6$\u00d7$10 ^3 x + 48$\u00d7$10 ^10 t)$i^$V/m)",
+            "$E\u2192$= (3$\u00d7$10 ^-8 sin(1.6$\u00d7$10 ^3 x + 48$\u00d7$10 ^10 t)$j^$V/m)"
+        ],
+        "answer": "$E\u2192$= (9sin(1.6$\u00d7$10 ^3 x + 48$\u00d7$10 ^10 t)$k^$V/m)",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/if-the-magnetic-field-in-a-plane-electromagnetic-wave-is-giv-jee-main-physics-magnetics-mkau4vjfgdsgdxzc",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Equation Analysis",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "E B c k-vector sign"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 9th January Evening Slot",
+        "question": "A plane electromagnetic wave is propagating along the direction$i^+j^2$, with its polarization along the direction$k^$. The correct form of the magnetic field of the wave would be (here B _0 is an appropriate constant) :",
+        "options": [
+            "$B0i^\u2212j^2cos\u2061(\u03c9t\u2212ki^+j^2)$",
+            "$B0i^+j^2cos\u2061(\u03c9t\u2212ki^+j^2)$",
+            "$B0j^\u2212i^2cos\u2061(\u03c9t+ki^+j^2)$",
+            "$B0k^cos\u2061(\u03c9t\u2212ki^+j^2)$"
+        ],
+        "answer": "$B0i^\u2212j^2cos\u2061(\u03c9t\u2212ki^+j^2)$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-plane-electromagnetic-wave-is-propagating-along-the-direct-jee-main-physics-magnetics-vxljmdq5w0dbusno",
+        "is_numerical": false,
+        "sub_topic": "Waveform: E & B Vector",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "E B k-vector cross product"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 8th January Evening Slot",
+        "question": "A plane electromagnetic wave of frequency 25 GHz is propagating in vacuum along the z-direction. At a particular point in space and time, the magnetic field is given by$B\u2192=5\u00d710\u22128j^T$. The corresponding electric field$E\u2192$is (speed of light c = 3 \u00d7 10 ^8 ms ^\u20131 )",
+        "options": [
+            "15$i^$V / m",
+            "-15$i^$V / m",
+            "1.66 \u00d7 10 ^\u201316$i^$V / m",
+            "-1.66 \u00d7 10 ^\u201316$i^$V / m"
+        ],
+        "answer": "15$i^$V / m",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-plane-electromagnetic-wave-of-frequency-25-ghz-is-propagat-jee-main-physics-current-electricity-9bc9rszzpbmuzkwx",
+        "is_numerical": false,
+        "sub_topic": "Waveform: E & B Vector",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "E B c magnitude direction"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 2nd September Evening Slot",
+        "question": "In a plane electromagnetic wave, the directions of electric field and magnetic field are represented by$k^$and$2i^\u22122j^$, respectively. What is the unit vector along direction of propagation of the wave?",
+        "options": [
+            "$15(i^+2j^)$",
+            "$15(2i^+j^)$",
+            "$12(i^+j^)$",
+            "$12(j^+k^)$"
+        ],
+        "answer": "$12(i^+j^)$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-a-plane-electromagnetic-wave-the-directions-of-electric-jee-main-physics-electromagnetic-induction-q20amappsyhlno9v",
+        "is_numerical": false,
+        "sub_topic": "Waveform: E & B Vector",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "E cross B direction"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 7th January Evening Slot",
+        "question": "The electric field of a plane electromagnetic wave is given by$E\u2192=E0i^+j^2cos\u2061(kz+\u03c9t)$At t = 0, a positively charged particle is at the point (x, y, z) =$(0,0,\u03c0k)$. If its instantaneous velocity at (t = 0) is$v0k^$, the force acting on it due to the wave is :",
+        "options": [
+            "parallel to$k^$",
+            "parallel to$i^+j^2$",
+            "antiparallel to$i^+j^2$",
+            "zero"
+        ],
+        "answer": "antiparallel to$i^+j^2$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-electric-field-of-a-plane-electromagnetic-wave-is-given-jee-main-physics-magnetics-cwhp4nwcdhc8tvtl",
+        "is_numerical": false,
+        "sub_topic": "Mixed-Concept: Lorentz Force",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Lorentz Force at specific point"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 9th January Morning Slot",
+        "question": "The electric fields of two plane electromagnetic plane waves in vacuum are given by$E1\u2192=E0j^cos\u2061(\u03c9t\u2212kx)$and$E2\u2192=E0k^cos\u2061(\u03c9t\u2212ky)$At t = 0, a particle of charge q is at origin with a velocity$v\u2192=0.8cj^$(c is the speed of light in vacuum). The instantaneous force experienced by the particle is :",
+        "options": [
+            "$E0q(0.8i^\u2212j^+0.4k^)$",
+            "$E0q(\u22120.8i^+j^+k^)$",
+            "$E0q(0.8i^+j^+0.2k^)$",
+            "$E0q(0.4i^\u22123j^+0.8k^)$"
+        ],
+        "answer": "$E0q(0.8i^+j^+0.2k^)$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-electric-fields-of-two-plane-electromagnetic-plane-waves-jee-main-physics-magnetics-k7wb3cyj1y4wes79",
+        "is_numerical": false,
+        "sub_topic": "Mixed-Concept: Lorentz Force",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 5,
+        "physics_key": "Lorentz Force Multi-Wave"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th April Evening Slot",
+        "question": "A plane electromagnetic wave having a frequency v = 23.9 GHz propagates along the positive z-direction in free space. The peak value of the Electric Field is 60 V/m. Which among the following is the acceptable magnetic field component in the electromagnetic wave ?",
+        "options": [
+            "$B\u2192$= 2 \u00d7 10 ^\u20137 sin(1.5 \u00d7 10 ^2 x + 0.5 \u00d7 10 ^11 t)$j^$",
+            "$B\u2192$= 60 sin(0.5 \u00d7 10 ^3 x + 0.5 \u00d7 10 ^11 t)$k^$",
+            "$B\u2192$= 2 \u00d7 10 ^\u20137 sin(0.5 \u00d7 10 ^3 z + 1.5 \u00d7 10 ^11 t)$i^$",
+            "$B\u2192$= 2 \u00d7 10 ^\u20137 sin(0.5 \u00d7 10 ^3 z - 1.5 \u00d7 10 ^11 t)$i^$"
+        ],
+        "answer": "$B\u2192$= 2 \u00d7 10 ^\u20137 sin(0.5 \u00d7 10 ^3 z - 1.5 \u00d7 10 ^11 t)$i^$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-plane-electromagnetic-wave-having-a-frequency-v--239-ghz-jee-main-physics-magnetics-cai42dgj4nhsvdgd",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Equation Analysis",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "E B c k-vector sign"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 2nd September Morning Slot",
+        "question": "A plane electromagnetic wave, has frequency of 2.0$\u00d7$10 ^10 Hz and its energy density is 1.02$\u00d7$10 ^\u20138 J/m ^3 in vacuum. The amplitude of the magnetic field of the wave is close to ($14\u03c0\u03b50=9\u00d7109Nm2C2$and speed of light = 3$\u00d7$10 ^8 ms ^\u20131 )",
+        "options": [
+            "190 nT",
+            "150 nT",
+            "160 nT",
+            "180 nT"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-plane-electromagnetic-wave-has-brfrequency-of-20--jee-main-physics-electromagnetic-induction-yu2nopfkgl0usfne",
+        "is_numerical": false,
+        "sub_topic": "Power: Energy Density",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "B0 from energy density"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 10th April Morning Slot",
+        "question": "The electric field of a plane electromagnetic wave is given by$E\u2192=E0i^cos\u2061(kz)cos(\u03c9t)$The corresponding magnetic field$B\u2192$is then given by",
+        "options": [
+            "$B\u2192=E0Cj^sin\u2061(kz)sin\u2061(\u03c9t)$",
+            "$B\u2192=E0Cj^sin\u2061(kz)cos\u2061(\u03c9t)$",
+            "$B\u2192=E0Cj^cos\u2061(kz)sin\u2061(\u03c9t)$",
+            "$B\u2192=E0Ck^sin\u2061(kz)cos\u2061(\u03c9t)$"
+        ],
+        "answer": "$B\u2192=E0Cj^sin\u2061(kz)sin\u2061(\u03c9t)$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-electric-field-of-a-plane-electromagnetic-wave-is-given-jee-main-physics-units-and-measurements-rpimdjt1rlttmudq",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Equation Analysis",
+        "logic_type": "Calculus",
+        "difficulty": 4,
+        "physics_key": "Maxwell's curl E wave"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 10th April Evening Slot",
+        "question": "Light is incident normally on a completely absorbing surface with an energy flux of 25 W cm ^\u20132 . If the surface has an area of 25 cm ^2 , the momentum transferred to the surface in 40 min time duration will be :",
+        "options": [
+            "6.3 \u00d7 10 ^\u20134 Ns",
+            "5.0 \u00d7 10 ^\u20133 Ns",
+            "1.4 \u00d7 10 ^\u20136 Ns",
+            "3.5 \u00d7 10 ^\u20136 Ns"
+        ],
+        "answer": "5.0 \u00d7 10 ^\u20133 Ns",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/light-is-incident-normally-on-a-completely-absorbing-surface-jee-main-physics-heat-and-thermodynamics-bsgkio8iy74kbzuw",
+        "is_numerical": false,
+        "sub_topic": "Power: Radiation Pressure",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Momentum flux time"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th April Evening Slot",
+        "question": "50 W/m ^2 energy density of sunlight is normally incident on the surface of a solar panel. Some part of incident energy (25%) is reflected from the surface and the rest is absorbed. The force exerted on 1m ^2 surface area will be close to (c = 3 \u00d7 108 m/s) :-",
+        "options": [
+            "20 \u00d7 10 ^\u20138 N",
+            "35 \u00d7 10 ^\u20138 N",
+            "10 \u00d7 10\u20138 N",
+            "15 \u00d7 10 ^\u20138 N"
+        ],
+        "answer": "20 \u00d7 10 ^\u20138 N",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/50-wm2-energy-density-of-sunlight-is-normally-incident-on-t-jee-main-physics-units-and-measurements-lownpmtgioytet7i",
+        "is_numerical": false,
+        "sub_topic": "Power: Radiation Pressure",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Pressure reflecting absorbing"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th April Morning Slot",
+        "question": "An electromagnetic wave is represented by the electric field$E\u2192=E0n^sin\u2061[\u03c9t+(6y\u22128z)]$. Taking unit vectors in x, y and z directions to be$i^,j^,k^$, the direction of propagation$s^$, is :",
+        "options": [
+            "$s^=3i^\u22124j^5$",
+            "$s^=\u22124k^+3j^5$",
+            "$s^=(\u22123j^+4k^5)$",
+            "$s^=4j^\u22123k^5$"
+        ],
+        "answer": "$s^=(\u22123j^+4k^5)$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-electromagnetic-wave-is-represented-by-the-electric-field-jee-main-physics-magnetics-ahh3rstojdc5xrge",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Equation Analysis",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "k-vector direction finding"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th April Morning Slot",
+        "question": "The magnetic field of a plane electromagnetic wave is given by :$B\u2015=B0i^[cos\u2061(kz\u2212\u03c9t)]+Bij^cos\u2061(kz+\u03c9t)$B _0 = 3 \u00d7 10 ^\u20135 T and B1 = 2 \u00d7 10 ^\u20136 T. The rms value of the force experienced by a stationary charge Q = 10 ^\u20134 C at z = 0 is closest to :",
+        "options": [
+            "0.6 N",
+            "0.9 N",
+            "3 \u00d7 10 ^\u20132 N",
+            "0.1 N"
+        ],
+        "answer": "0.6 N",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-magnetic-field-of-a-plane-electromagnetic-wave-is-given-jee-main-physics-units-and-measurements-yiluendy3qnonpke",
+        "is_numerical": false,
+        "sub_topic": "Mixed-Concept: Lorentz Force",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Lorentz force RMS field"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 8th April Evening Slot",
+        "question": "The magnetic field of an electromagnetic wave is given by :-$B\u2192=1.6\u00d710\u22126cos\u2061(2\u00d7107z+6\u00d71015t)(2i\u2227+j\u2227)Wbm2$The associated electric field will be :-",
+        "options": [
+            "$E\u2192=4.8\u00d7102cos\u2061(2\u00d7107z\u22126\u00d71015t)(\u22122i\u2227+j\u2227)Vm$",
+            "$E\u2192=4.8\u00d7102cos\u2061(2\u00d7107z\u22126\u00d71015t)(2i\u2227+j\u2227)Vm$",
+            "$E\u2192=4.8\u00d7102cos\u2061(2\u00d7107z+6\u00d71015t)(i\u2227\u22122j\u2227)Vm$",
+            "$E\u2192=4.8\u00d7102cos\u2061(2\u00d7107z+6\u00d71015t)(\u2212i\u2227+2j\u2227)Vm$"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-magnetic-field-of-an-electromagnetic-wave-is-given-by-jee-main-physics-units-and-measurements-e2mewunkfphcb3mj",
+        "is_numerical": false,
+        "sub_topic": "Waveform: E & B Vector",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "E B k-vector check"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th January Evening Slot",
+        "question": "The mean intensity of radiation on the surface of the Sun is about 10 ^8 W/m ^2 . The rms value of the corresponding magnetic field is closet to :",
+        "options": [
+            "10 ^2 T",
+            "10 ^$\u2212$2 T",
+            "10 ^$\u2212$4 T",
+            "1 T"
+        ],
+        "answer": "10 ^$\u2212$4 T",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-mean-intensity-of-radiation-on-the-surface-of-the-sun-is-jee-main-physics-units-and-measurements-ecktltndugysatp5",
+        "is_numerical": false,
+        "sub_topic": "Power: Intensity",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "B_rms from Intensity"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 8th April Morning Slot",
+        "question": "A plane electromagnetic wave travels in free space along the x-direction. The electric field component of the wave at a particular point of space and time is E = 6 V m ^\u20131 along y-direction. Its corresponding magnetic field component, B would be :",
+        "options": [
+            "2 \u00d7 10 ^\u20138 T along y-direction",
+            "6 \u00d7 10 ^\u20138 T along z-direction",
+            "2 \u00d7 10 ^\u20138 T along z-direction",
+            "6 \u00d7 10 ^\u20138 T along x-direction"
+        ],
+        "answer": "2 \u00d7 10 ^\u20138 T along z-direction",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-plane-electromagnetic-wave-travels-in-free-space-along-the-jee-main-physics-units-and-measurements-f5nbsofzndnov8d1",
+        "is_numerical": false,
+        "sub_topic": "Waveform: E & B Vector",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "E B c magnitude direction"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 11th January Evening Slot",
+        "question": "A 27 mW laser beam has a cross-sectional area of 10 mm ^2 . The magnitude of the maximum electric field in this electromagnetic wave is given by : [Given permittivity of space$\u2208$_0 = 9$\u00d7$10 ^\u201312 SI units, Speed of light c = 3$\u00d7$10 ^8 m/s]",
+        "options": [
+            "2 kV/m",
+            "1 kV/m",
+            "1.4 kV/m",
+            "0.7 kV/m"
+        ],
+        "answer": "1.4 kV/m",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-27-mw-laser-beam-has-a-cross-sectional-area-of-10-mm2-the-jee-main-physics-units-and-measurements-l7buhdugb9bkdnhu",
+        "is_numerical": false,
+        "sub_topic": "Power: Intensity",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "E0 from Power Area"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th January Morning Slot",
+        "question": "A light wave is incident normally on a glass slab of refractive index 1.5. If 4 % of light gets reflected and the amplitude of the electric field of the incident light is 30 V/m, then the amplitude of the electric field for the wave propagating in the glass medium will be :",
+        "options": [
+            "6 V/m",
+            "10 V/m",
+            "30 V/m",
+            "24 V/m"
+        ],
+        "answer": "24 V/m",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-light-wave-is-incident-normally-on-a-glass-slab-of-refract-jee-main-physics-units-and-measurements-g7s6fhrcxhop2pun",
+        "is_numerical": false,
+        "sub_topic": "Mixed-Concept: Optics",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Amplitude Reflection Transmission"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 11th January Morning Slot",
+        "question": "An electromagnetic wave of intensity 50 Wm ^\u20132 enters in a medium of refractive index 'n' without any loss. The ratio of the magnitudes of electric, and the ratio of the magnitudes of magnetic fields of the wave before and after entering into the medium are respectively, given by:",
+        "options": [
+            "$(1n,1n)$",
+            "$(n,n)$",
+            "$(n,1n)$",
+            "$(1n,n)$"
+        ],
+        "answer": "$(n,1n)$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-electromagnetic-wave-of-intensity-50-wm2-enters-in-a-m-jee-main-physics-units-and-measurements-ikhlp65kclsttjip",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Medium Speed",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "E B ratio refractive index"
+    },
+    {
+        "metadata": "JEE Main 2018 (Online) 16th April Morning Slot",
+        "question": "A plane electromagnetic wave of wavelength$\u03bb$has an intensity I. It is propagatting along the positive Y-direction. The allowed expressions for the electric and magnetic fields are givn by :",
+        "options": [
+            "[IMAGE: https://gateclass.cdn.examgoal.net/n2mitUHpDA7NRIoNf/I6ZKAl0CpaicXPDjZyiUhnGrjp4wx/XBDxm3tcRXs8sWR6euosg3/uploadfile.jpg]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/zYwzRixHAwCf2b1Ow/YiPXcSFfob98Du0infqOmk5ajEXjR/fUGs791SMbreX6LRiKaIXg/uploadfile.jpg]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/58YnN46zFEBfDT4uR/jTIJcdGBzZINkybTZgI0QIGqvWP6H/Mha5Gf4kEFw2pOkNVRXHeZ/uploadfile.jpg]",
+            "[IMAGE: https://gateclass.static.cdn.examgoal.net/0lo7hLgmHlBXPquld/5C3CdXZxDlZPv2m7iJiBLUn2ozJRg/Ah9CHQxvEja6rz8Gx26N4b/uploadfile.jpg]"
+        ],
+        "answer": "[IMAGE: https://gateclass.cdn.examgoal.net/n2mitUHpDA7NRIoNf/I6ZKAl0CpaicXPDjZyiUhnGrjp4wx/XBDxm3tcRXs8sWR6euosg3/uploadfile.jpg]",
+        "images": [
+            "https://gateclass.cdn.examgoal.net/n2mitUHpDA7NRIoNf/I6ZKAl0CpaicXPDjZyiUhnGrjp4wx/XBDxm3tcRXs8sWR6euosg3/uploadfile.jpg",
+            "https://imagex.cdn.examgoal.net/zYwzRixHAwCf2b1Ow/YiPXcSFfob98Du0infqOmk5ajEXjR/fUGs791SMbreX6LRiKaIXg/uploadfile.jpg",
+            "https://imagex.cdn.examgoal.net/58YnN46zFEBfDT4uR/jTIJcdGBzZINkybTZgI0QIGqvWP6H/Mha5Gf4kEFw2pOkNVRXHeZ/uploadfile.jpg",
+            "https://gateclass.static.cdn.examgoal.net/0lo7hLgmHlBXPquld/5C3CdXZxDlZPv2m7iJiBLUn2ozJRg/Ah9CHQxvEja6rz8Gx26N4b/uploadfile.jpg",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l38tn774/1147fffc-58d3-4f1a-85a5-92e4f86d41f2/7734a300-d524-11ec-aeec-6fd1cdec7420/file-1l38tn775.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-plane-electromagnetic-wave-of-wavelength-lambda-has-jee-main-physics-units-and-measurements-zmetcugxgjvsqsxr",
+        "is_numerical": false,
+        "sub_topic": "Waveform: E & B Vector",
+        "logic_type": "Graphical",
+        "difficulty": 3,
+        "physics_key": "E B k-vector check"
+    },
+    {
+        "metadata": "JEE Main 2017 (Online) 9th April Morning Slot",
+        "question": "The electric field component of a monochromatic radiation is given by$E\u2192$= 2 E _0$i^$cos kz cos$\u03c9$t Its magnetic field$B\u2192$is then given by :",
+        "options": [
+            "$2E0c$$j^$sin kz cos$\u03c9$t",
+            "$\u2212$$2E0c$$j^$sin kz sin$\u03c9$t",
+            "$2E0c$$j^$sin kz sin$\u03c9$t",
+            "$2E0c$$j^$cos kz cos$\u03c9$t"
+        ],
+        "answer": "$2E0c$$j^$sin kz sin$\u03c9$t",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-electric-field-component-of-a-monochromatic-radiation-is-jee-main-physics-units-and-measurements-5vmpgbtigkog63wi",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Equation Analysis",
+        "logic_type": "Calculus",
+        "difficulty": 4,
+        "physics_key": "Maxwell's curl E wave"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 10th January Evening Slot",
+        "question": "The electric field of a plane polarized electromagnetic wave in free space at time t = 0 is given by an expression$E\u2192(x,y)=10j^cos\u2061[(6x+8z)].$The magnetic field$B\u2192$(x,z, t) is given by$\u2212$(c is the velocity of light)",
+        "options": [
+            "$1c(6k^+8i^)cos\u2061[(6x+8z\u221210ct)]$",
+            "$1c(6k^\u22128i^)cos\u2061[(6x+8z\u221210ct)]$",
+            "$1c(6k^+8i^)cos\u2061[(6x\u22128z+10ct)]$",
+            "$1c(6k^\u22128i^)cos\u2061[(6x\u22128z+10ct)]$"
+        ],
+        "answer": "$1c(6k^\u22128i^)cos\u2061[(6x+8z\u221210ct)]$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/VqeFZsjSR630nZY7m/9M5WJtGlEnrxvaxEGbD5328vyp8sW/5TscsdX7sqXs5hwh16AhBa/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/the-electric-field-of-a-plane-polarized-electromagnetic-wave-jee-main-physics-units-and-measurements-124ormmfw0y6gfqk",
+        "is_numerical": false,
+        "sub_topic": "Waveform: E & B Vector",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 5,
+        "physics_key": "Complex B-field vector"
+    },
+    {
+        "metadata": "JEE Main 2018 (Offline)",
+        "question": "An EM wave from air enters a medium. The electric fields are$E1\u2192$=$E01x^cos\u2061[2\u03c0v(zc\u2212t)]$in air and$E2\u2192$=$E02x^cos\u2061[k(2z\u2212ct)]$in medium, where the wave number k and frequency$\u03bd$refer to their values in air. The medium is non-magnetic. If$\u03b5r1$and$\u03b5r2$refer to relative permittivities of air and medium respectively, which of the following options is correct ?",
+        "options": [
+            "$\u03b5r1\u03b5r2=4$",
+            "$\u03b5r1\u03b5r2=2$",
+            "$\u03b5r1\u03b5r2=14$",
+            "$\u03b5r1\u03b5r2=12$"
+        ],
+        "answer": "$\u03b5r1\u03b5r2=14$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-em-wave-from-air-enters-a-medium-the-electric-fields-are-2018-marks-4-gzfiwtar9eimfs1n.htm",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Medium Speed",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Refractive index from k-vector"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th January Evening Slot",
+        "question": "The energy associated with electric field is (U _E ) and with magnetic field is (U _B ) for an electromagnetic wave in free space. Then :",
+        "options": [
+            "$UE=UB2$",
+            "$UE>UB$",
+            "$UE<UB$",
+            "$UE=UB$"
+        ],
+        "answer": "$UE=UB$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-energy-associated-with-electric-field-is-ue-and-with-m-jee-main-physics-units-and-measurements-bfkuh0h90hfqxxkz",
+        "is_numerical": false,
+        "sub_topic": "Power: Energy Density",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Equipartition of Energy Density"
+    },
+    {
+        "metadata": "JEE Main 2018 (Online) 15th April Evening Slot",
+        "question": "A plane polarized monochromatic EM wave is traveling in vacuum along z direction such that at t = t _1 it is found that the electric field is zero at a spatial point z _1 . The next zero that occurs in its neighbourhood is at z _2 . The frequency of the electroagnetic wave is :",
+        "options": [
+            "$3\u00d7108|z2\u2212z1|$",
+            "$1.5\u00d7108|z2\u2212z1|$",
+            "$6\u00d7108|z2\u2212z1|$",
+            "$1t1+|z2\u2212z1|3\u00d7108$"
+        ],
+        "answer": "$1.5\u00d7108|z2\u2212z1|$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-plane-polarized-monochromatic-em-wave-is-traveling-in-vacu-jee-main-physics-units-and-measurements-rbtda8iirzmnmj2t",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Equation Analysis",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Wavelength from zero distance"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th January Morning Slot",
+        "question": "A plane electromagnetic wave of frequency 50 MHz travels in free space along the positive x-direction. At a particular point in space and time,$E\u2192=6.3j^V/m.$The corresponding magnetic field$B,\u2192$at that point will be :",
+        "options": [
+            "18.9$\u00d7$10 ^$\u2212$8$k^$T",
+            "2.1$\u00d7$10 ^$\u2212$8$k^$T",
+            "6.3$\u00d7$10 ^$\u2212$8$k^$T",
+            "18.9$\u00d7$10 ^8$k^$T"
+        ],
+        "answer": "2.1$\u00d7$10 ^$\u2212$8$k^$T",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-a-electromagnetic-wave-electric-field-vector-overrigh-jee-main-physics-units-and-measurements-4bvinwnkqrrw7zon",
+        "is_numerical": false,
+        "sub_topic": "Waveform: E & B Vector",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "E B c magnitude direction"
+    },
+    {
+        "metadata": "JEE Main 2018 (Online) 15th April Morning Slot",
+        "question": "A monochromatic beam of light has a frequency$v=32\u03c0\u00d71012Hz$and is propagating along the direction$i^+j^2.$It is polarized along the$k^$direction. The acceptable form for the magnetic field is :",
+        "options": [
+            "[IMAGE: https://imagex.cdn.examgoal.net/gC8OEg0yrCd2HTV9B/ixYKBbpEPQsn1jG11MKmXaPBQjDSj/is2pq4yhIfVkfET3iSFN83/image.png]",
+            "[IMAGE: https://gateclass.cdn.examgoal.net/HpHDV6FYiJWuASubi/toRSAZUsvZHHcGYNfbny97GvI4Ien/ifn3hJnonQGlGkhtjm7Ne1/uploadfile.jpg]",
+            "[IMAGE: https://gateclass.static.cdn.examgoal.net/TPclL9tbwLoIow4Pf/ziDRlKFhclQHaYSO6f8Rwv0SL2BPU/tn02ApsufHJYAnDEXauPlt/uploadfile.jpg]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/9ftLHWgFc4pSEGAsg/79bxocmXtnytYOsjV1ZcRr4q9G0YM/eEONuQmCazwrooAyx9tYaT/uploadfile.jpg]"
+        ],
+        "answer": "[IMAGE: https://imagex.cdn.examgoal.net/gC8OEg0yrCd2HTV9B/ixYKBbpEPQsn1jG11MKmXaPBQjDSj/is2pq4yhIfVkfET3iSFN83/image.png]",
+        "images": [
+            "https://imagex.cdn.examgoal.net/gC8OEg0yrCd2HTV9B/ixYKBbpEPQsn1jG11MKmXaPBQjDSj/is2pq4yhIfVkfET3iSFN83/image.png",
+            "https://gateclass.cdn.examgoal.net/HpHDV6FYiJWuASubi/toRSAZUsvZHHcGYNfbny97GvI4Ien/ifn3hJnonQGlGkhtjm7Ne1/uploadfile.jpg",
+            "https://gateclass.static.cdn.examgoal.net/TPclL9tbwLoIow4Pf/ziDRlKFhclQHaYSO6f8Rwv0SL2BPU/tn02ApsufHJYAnDEXauPlt/uploadfile.jpg",
+            "https://imagex.cdn.examgoal.net/9ftLHWgFc4pSEGAsg/79bxocmXtnytYOsjV1ZcRr4q9G0YM/eEONuQmCazwrooAyx9tYaT/uploadfile.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-monochromatic-beam-of-light-has-a-frequency-v-3-over-jee-main-physics-units-and-measurements-ke3fksjwy4p6ob8n",
+        "is_numerical": false,
+        "sub_topic": "Waveform: E & B Vector",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "E B k-vector check"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 10th January Morning Slot",
+        "question": "If the magnetic field of a plane electromagnetic wave is given by (the speed of light = 3 \u00d7 10 ^8 B = 100 \u00d7 10 ^\u20136 sin$[2\u03c0\u00d72\u00d71015(t\u2212xc)]$then the maximum electric field associated with it is -",
+        "options": [
+            "4.5$\u00d7$10 ^4 N/C",
+            "4$\u00d7$10 ^4 N/C",
+            "6$\u00d7$10 ^4 N/C",
+            "3$\u00d7$10 ^4 N/C"
+        ],
+        "answer": "3$\u00d7$10 ^4 N/C",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/if-the-magnetic-field-of-a-plane-electromagnetic-wave-is-giv-jee-main-physics-units-and-measurements-yqoyq4dcg3n9sbvy",
+        "is_numerical": false,
+        "sub_topic": "Waveform: E & B Vector",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "E B c magnitude relation"
+    },
+    {
+        "metadata": "JEE Main 2016 (Offline)",
+        "question": "Arrange the following electromagnetic radiations per quantum in the order of increasing energy : A : Blue light B : Yellow light C : X-ray D : Radiowave.",
+        "options": [
+            "C, A, B, D",
+            "B, A, D, C",
+            "D, B, A, C",
+            "A, B, D, C"
+        ],
+        "answer": "D, B, A, C",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/arrange-the-following-electromagnetic-radiations-per-quantum-jee-main-physics-electromagnetic-induction-r3x7p2n6ljqeu5ua",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Spectrum Order",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Energy ascending order"
+    },
+    {
+        "metadata": "JEE Main 2014 (Offline)",
+        "question": "During the propagation of electromagnetic waves in a medium :",
+        "options": [
+            "Electric energy density is double of the magnetic energy density.",
+            "Electric energy density is half of the magnetic energy density.",
+            "Electric energy density is equal to the magnetic energy density.",
+            "Both electric and magnetic energy of densities are zero."
+        ],
+        "answer": "Electric energy density is equal to the magnetic energy density.",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/during-the-propagation-of-electromagnetic-waves-in-a-medium-2014-marks-4-282lzdmywqcd2x5p.htm",
+        "is_numerical": false,
+        "sub_topic": "Power: Energy Density",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Equipartition of Energy Density"
+    },
+    {
+        "metadata": "JEE Main 2016 (Online) 10th April Morning Slot",
+        "question": "Consider an electromagnetic wave propagating in vacuum. Choose the correct statement :",
+        "options": [
+            "For an electromagnetic wave propagating in +x direction the electric field is$E\u2192=12Eyz(x,t)(y^\u2212z^)$and the magnetic field is$B\u2192=12Byz(x,t)(y^+z^)$",
+            "For an electromagnetic wave propagating in +x direction the electric field is$E\u2192=12Eyz(y,z,t)(y^+z^)$and the magnetic field is$B\u2192=12Byz(y,z,t)(y^+z^)$",
+            "For an electromagnetic wave propagating in + y direction the electric field is$E\u2192=12Eyz(x,t)y^$and the magnetic field is$B\u2192=12Byz(x,t)z^$",
+            "For an electromagnetic wave propagating in + y direction the electric field is$E\u2192=12Eyz(x,t)z^$and the magnetic field is$B\u2192=12Bz(x,t)y^$"
+        ],
+        "answer": "For an electromagnetic wave propagating in +x direction the electric field is$E\u2192=12Eyz(x,t)(y^\u2212z^)$and the magnetic field is$B\u2192=12Byz(x,t)(y^+z^)$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/consider-an-electromagnetic-wave-propagating-in-vacuum-choo-jee-main-physics-units-and-measurements-sgwm7rccyvpkcm1g",
+        "is_numerical": false,
+        "sub_topic": "Waveform: E & B Vector",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "E B k-vector cross product"
+    },
+    {
+        "metadata": "JEE Main 2017 (Online) 8th April Morning Slot",
+        "question": "Magnetic field in a plane electromagnetic wave is given by$B\u2192$= B _0 sin (k x +$\u03c9$t)$j^T$Expression for corresponding electric field will be : Where c is speed of light.",
+        "options": [
+            "$E\u2192$= B _0 c sin (k x +$\u03c9$t)$k^$V/m",
+            "$E\u2192$=$B0c$sin (k x +$\u03c9$t)$k^$V/m",
+            "$E\u2192$=$\u2212$B _0 c sin (kx +$\u03c9$t)$k^$V/m",
+            "$E\u2192$= B _0 c sin (kx$\u2212$$\u03c9$t)$k^$V/m"
+        ],
+        "answer": "$E\u2192$= B _0 c sin (k x +$\u03c9$t)$k^$V/m",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/magnetic-field-in-a-plane-electromagnetic-wave-is-given-by-jee-main-physics-units-and-measurements-gwj4f7ba1n53yn5o",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Equation Analysis",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "E B c k-vector sign"
+    },
+    {
+        "metadata": "AIEEE 2006",
+        "question": "The$rms$value of the electric field of the light coming from the Sun is$720$$N/C.$The average total energy density of the electromagnetic wave is",
+        "options": [
+            "$4.58\u00d710\u22126J/m3$",
+            "$6.37\u00d710\u22129J/m3$",
+            "$81.35\u00d710\u221212J/m3$",
+            "$3.3\u00d710\u22123J/m3$"
+        ],
+        "answer": "$4.58\u00d710\u22126J/m3$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-rms-value-of-the-electric-field-of-the-light-coming-2006-marks-4-k9vgbpldlg2csg9j.htm",
+        "is_numerical": false,
+        "sub_topic": "Power: Energy Density",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Total average energy density"
+    },
+    {
+        "metadata": "JEE Main 2016 (Online) 9th April Morning Slot",
+        "question": "Microwave oven acts on the principle of :",
+        "options": [
+            "transferring electrons from lower to higher energy levels in water molecule",
+            "giving rotational energy to water molecules",
+            "giving vibrational energy to water molecules",
+            "giving translational energy to water molecules"
+        ],
+        "answer": "giving vibrational energy to water molecules",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/microwave-oven-acts-on-the-principle-of-jee-main-physics-units-and-measurements-uqtjux6jcqkzqsjs",
+        "is_numerical": false,
+        "sub_topic": "Device: Application",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Rotational energy water"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 31st January Morning Shift",
+        "question": "In a medium the speed of light wave decreases to$0.2$times to its speed in free space The ratio of relative permittivity to the refractive index of the medium is$x:1$. The value of$x$is _________. (Given speed of light in free space$=3\u00d7108 m s\u22121$and for the given medium$\u03bcr=1$)",
+        "options": [],
+        "answer": "5",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-a-medium-the-speed-of-light-wave-decreases-to-02-jee-main-physics-motion-23tfctkk08mwrx16",
+        "is_numerical": true,
+        "sub_topic": "Waveform: Medium Speed",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Speed n permittivity relation"
+    },
+    {
+        "metadata": "AIEEE 2004",
+        "question": "An electromagnetic wave of frequency$v=3.0$$MHz$passes from vacuum into a dielectric medium with permittivity$\u2208=4.0.$Then",
+        "options": [
+            "wave length is halved and frequency remains unchanged",
+            "wave length is doubled and the frequency becomes half",
+            "wave length is doubled and the frequency remains unchanged",
+            "wave length and frequency both remain unchanged."
+        ],
+        "answer": "wave length is halved and frequency remains unchanged",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-electromagnetic-wave-of-frequency-v30-mhz-passe-2004-marks-4-jcrqrb6vurpfastv.htm",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Medium Speed",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Refractive index wavelength"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 22nd January Evening Shift",
+        "question": "A parallel plate capacitor of area$A=16 cm2$and separation between the plates 10 cm , is charged by a DC current. Consider a hypothetical plane surface of area$A0=3.2 cm2$inside the capacitor and parallel to the plates. At an instant, the current through the circuit is 6A. At the same instant the displacement current through$A0$is __________ mA .",
+        "options": [],
+        "answer": "1200",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-parallel-plate-capacitor-of-area-a16-mathrmcm2-jee-main-physics-units-and-measurements-9cqrwgk00tsuy8pd",
+        "is_numerical": true,
+        "sub_topic": "Circuits: Displacement Current",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Area ratio conduction current"
+    },
+    {
+        "metadata": "JEE Main 2013 (Offline)",
+        "question": "The magnetic field in a travelling electromagnetic wave has a peak value of$20$$n$$T$. The peak value of electric field strength is :",
+        "options": [
+            "$3V/m$",
+            "$6V/m$",
+            "$9V/m$",
+            "$12V/m$"
+        ],
+        "answer": "$6V/m$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-magnetic-field-in-a-travelling-electromagnetic-wave-has-2013-marks-4-4c5nihbpa9z8buuz.htm",
+        "is_numerical": false,
+        "sub_topic": "Waveform: E & B Vector",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "E B c magnitude relation"
+    },
+    {
+        "metadata": "JEE Main 2014 (Offline)",
+        "question": "Match List -$1$(Electromagnetic wave type ) with List -$2$(Its association/application) and select the correct option from the choices given below the lists: [IMAGE: https://imagex.cdn.examgoal.net/rEanJXFdb4mqbhl8Q/jvm7ifgAYJFvYZEh9FWi8Z5OZO8Fh/nJdUkZnASIH55IcNPlKh4p/image.png]",
+        "options": [
+            "$1\u2212iv,2\u2212iii,3\u2212ii,4\u2212i$",
+            "$1\u2212i,2\u2212ii,3\u2212iv,4\u2212iii$",
+            "$1\u2212iii,2\u2212ii,3\u2212i,4\u2212iv$",
+            "$1\u2212i,2\u2212ii,3\u2212iii,4\u2212iv$"
+        ],
+        "answer": "$1\u2212i,2\u2212ii,3\u2212iii,4\u2212iv$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/rEanJXFdb4mqbhl8Q/jvm7ifgAYJFvYZEh9FWi8Z5OZO8Fh/nJdUkZnASIH55IcNPlKh4p/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/match-list-1-electromagnetic-wave-type-with-list-2014-marks-4-a7xkirv48f5oj9oh.htm",
+        "is_numerical": false,
+        "sub_topic": "Device: Application",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "EM Application matching"
+    },
+    {
+        "metadata": "AIEEE 2012",
+        "question": "An electromagnetic wave in vacuum has the electric and magnetic field$E\u2192$and$B\u2192$, which are always perpendicular to each other. The direction of polarization is given by$X\u2192$and that of wave propagation by$k\u2192$. Then",
+        "options": [
+            "$X\u2192\u2061||B\u2192$and$X\u2192\u2061||B\u2192\u00d7E\u2192$",
+            "$X\u2192\u2061||E\u2192$and$k\u2192\u2061||E\u2192\u00d7B\u2192$",
+            "$X\u2192\u2061||B\u2192$and$k\u2192\u2061||E\u2192\u00d7B\u2192$",
+            "$X\u2192\u2061||E\u2192$and$k\u2192\u2061||B\u2192\u00d7E\u2192$"
+        ],
+        "answer": "$X\u2192\u2061||E\u2192$and$k\u2192\u2061||E\u2192\u00d7B\u2192$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-electromagnetic-wave-in-vacuum-has-the-electric-and-magne-2012-marks-4-0wlwhn6cgc3ukhir.htm",
+        "is_numerical": false,
+        "sub_topic": "Waveform: E & B Vector",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Polarization E-field k-vector"
+    },
+    {
+        "metadata": "AIEEE 2004",
+        "question": "A radiation of energy$E$falls normally on a perfectly reflecting surface. The momentum transferred to the surface is",
+        "options": [
+            "$Ec$",
+            "$2E/c$",
+            "$E/c$",
+            "$E/c2$"
+        ],
+        "answer": "$2E/c$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-radiation-of-energy-e-falls-normally-on-a-perfectly-re-2004-marks-4-y8ohx2usjudhvfvw.htm",
+        "is_numerical": false,
+        "sub_topic": "Power: Radiation Pressure",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Momentum reflecting surface"
+    },
+    {
+        "metadata": "AIEEE 2002",
+        "question": "Electromagnetic waves are transverse in nature is evident by",
+        "options": [
+            "polarization",
+            "interference",
+            "reflection",
+            "diffraction"
+        ],
+        "answer": "polarization",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/electromagnetic-waves-are-transverse-in-nature-is-evident-by-2002-marks-4-xg2ebdunp2w3gzgq.htm",
+        "is_numerical": false,
+        "sub_topic": "Device: General",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Polarization evidence"
+    },
+    {
+        "metadata": "AIEEE 2002",
+        "question": "Which of the following are not electromagnetic waves?",
+        "options": [
+            "cosmic rays",
+            "gamma rays",
+            "$\u03b2$-rays",
+            "$X$-rays"
+        ],
+        "answer": "$\u03b2$-rays",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/which-of-the-following-are-not-electromagnetic-waves-2002-marks-4-9tyli4ad66ficdgt.htm",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Spectrum Order",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Beta-rays nature"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 29th June Evening Shift",
+        "question": "The displacement current of 4.425$\u03bc$A is developed in the space between the plates of parallel plate capacitor when voltage is changing at a rate of 10 ^6 Vs ^$\u2212$1 . The area of each plate of the capacitor is 40 cm ^2 . The distance between each plate of the capacitor is x$\u00d7$10 ^$\u2212$3 m. The value of x is __________. (Permittivity of free space, E _0 = 8.85$\u00d7$10 ^$\u2212$12 C ^2 N ^$\u2212$1 m ^$\u2212$2 ).",
+        "options": [],
+        "answer": "8",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-displacement-current-of-4425-mua-is-developed-i-jee-main-physics-motion-vpq0mhcevpnpfoyt",
+        "is_numerical": true,
+        "sub_topic": "Circuits: Displacement Current",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Displacement current formula"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 30th January Morning Shift",
+        "question": "A point source of light is placed at the centre of curvature of a hemispherical surface. The source emits a power of$24 W$. The radius of curvature of hemisphere is$10 cm$and the inner surface is completely reflecting. The force on the hemisphere due to the light falling on it is ____________$\u00d7 10\u22128 N$.",
+        "options": [],
+        "answer": "4",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lepxxcug/c3ca6ed1-a3c6-4b09-ab77-d8f46565abdd/ea627c80-b854-11ed-8195-4f3c56fa1eb5/file-1lepxxcuh.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-point-source-of-light-is-placed-at-the-centre-of-curvat-jee-main-physics-motion-fx9ud3vfctqqbcfd",
+        "is_numerical": true,
+        "sub_topic": "Power: Radiation Pressure",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Force Hemisphere Point Source"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 29th July Evening Shift",
+        "question": "Nearly 10% of the power of a$110 W$light bulb is converted to visible radiation. The change in average intensities of visible radiation, at a distance of$1 m$from the bulb to a distance of$5 m$is$a\u00d710\u22122 W/m2$. The value of 'a' will be _________.",
+        "options": [],
+        "answer": "84",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pnearly-10-of-the-power-of-a-110-mathrmw-light-bu-jee-main-physics-motion-1z0zd5uakunvazoz",
+        "is_numerical": true,
+        "sub_topic": "Power: Intensity",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Inverse square law intensity"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 29th June Morning Shift",
+        "question": "The intensity of the light from a bulb incident on a surface is 0.22 W/m ^2 . The amplitude of the magnetic field in this light-wave is ______________$\u00d7$10 ^$\u2212$9 T. (Given : Permittivity of vacuum$\u2208$_0 = 8.85$\u00d7$10 ^$\u2212$12 C ^2 N ^$\u2212$1 -m ^$\u2212$2 , speed of light in vacuum c = 3$\u00d7$10 ^8 ms ^$\u2212$1 )",
+        "options": [],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-intensity-of-the-light-from-a-bulb-incident-on-a-surf-jee-main-physics-motion-fffpdwc8twumjmbr",
+        "is_numerical": true,
+        "sub_topic": "Power: Intensity",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "B0 from Intensity formula"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th February Evening Shift",
+        "question": "The wavelength of an X-ray beam is 10$Ao$. The mass of a fictitious particle having the same energy as that of the X-ray photons is$x3h$kg. The value of x is __________. (h = Planck's constant)",
+        "options": [],
+        "answer": "10",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-wavelength-of-an-x-ray-beam-is-10mathop-alimitso--jee-main-physics-units-and-measurements-pin1n5kt7yzaowpr",
+        "is_numerical": true,
+        "sub_topic": "Mixed-Concept: Relativity",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Energy-mass equivalence"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th February Morning Shift",
+        "question": "A radiation is emitted by 1000W bulb and it generates an electric field and magnetic field at P, placed at a distance of 2m. The efficiency of the bulb is 1.25%. The value of peak electric field at P is x$\u00d7$10 ^$\u2212$1 V/m. Value of x is ___________. (Rounded off to the nearest integer) [Take$\u03b50=8.85\u00d710\u221212$C ^2 N ^$\u2212$1 m ^$\u2212$2 , c =$3\u00d7108$ms ^$\u2212$1 ]",
+        "options": [],
+        "answer": "137",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-radiation-is-emitted-by-1000w-bulb-and-it-generates-an-ele-jee-main-physics-units-and-measurements-b60c8o6rnx3rvnxb",
+        "is_numerical": true,
+        "sub_topic": "Power: Intensity",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "E0 from Power and distance"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th August Morning Shift",
+        "question": "The electric field in a plane electromagnetic wave is given by$E\u2192=200cos\u2061[(0.5\u00d7103m)x\u2212(1.5\u00d71011rads\u00d7t)]Vmj^$. If this wave falls normally on a perfectly reflecting surface having an area of 100 cm ^2 . If the radiation pressure exerted by the E.M. wave on the surface during a 10 minute exposure is$x109Nm2$. Find the value of x .",
+        "options": [],
+        "answer": "354",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-electric-field-in-a-plane-electromagnetic-wave-is-given-jee-main-physics-units-and-measurements-11zgdwi18fg0wxti",
+        "is_numerical": true,
+        "sub_topic": "Power: Radiation Pressure",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Pressure Intensity Reflecting"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 31st August Morning Shift",
+        "question": "The electric field in an electromagnetic wave is given by E = (50 NC ^$\u2212$1 ) sin$\u03c9$(t$\u2212$x/c) The energy contained in a cylinder of volume V is 5.5$\u00d7$10 ^$\u2212$12 J. The value of V is _____________ cm ^3 . (given$\u2208$_0 = 8.8$\u00d7$10 ^$\u2212$12 C ^2 N ^$\u2212$1 m ^$\u2212$2 )",
+        "options": [],
+        "answer": "500",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-electric-field-in-an-electromagnetic-wave-is-given-by-e-jee-main-physics-units-and-measurements-brjejmtcslzve80x",
+        "is_numerical": true,
+        "sub_topic": "Power: Energy Density",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Volume energy density"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 27th August Evening Shift",
+        "question": "A plane electromagnetic wave with frequency of 30 MHz travels in free space. At particular point in space and time, electric field is 6 V/m. The magnetic field at this point will be x$\u00d7$10 ^$\u2212$8 T. The value of x is ___________.",
+        "options": [],
+        "answer": "2",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-plane-electromagnetic-wave-with-frequency-of-30-mhz-travel-jee-main-physics-units-and-measurements-0xhvnzj2flkfmazn",
+        "is_numerical": true,
+        "sub_topic": "Waveform: E & B Vector",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "E B c magnitude relation"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 17th March Evening Shift",
+        "question": "The electric field intensity produced by the radiation coming from a 100 W bulb at a distance of 3 m is E. The electric field intensity produced by the radiation coming from 60W at the same distance is$x5$E. Where the value of x = ____________.",
+        "options": [],
+        "answer": "3",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-electric-field-intensity-produced-by-the-radiation-comin-jee-main-physics-units-and-measurements-ugbq3qvfeynigi69",
+        "is_numerical": true,
+        "sub_topic": "Power: Intensity",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "E-field Intensity ratio"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th February Evening Shift",
+        "question": "The peak electric field produced by the radiation coming from the 8W bulb at a distance of 10 m is$x10\u03bc0c\u03c0Vm$. The efficiency of the bulb is 10% and it is a point source. The value of x is ___________.",
+        "options": [],
+        "answer": "2",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-peak-electric-field-produced-by-the-radiation-coming-fro-jee-main-physics-units-and-measurements-3djvo7c6ogxi0hst",
+        "is_numerical": true,
+        "sub_topic": "Power: Intensity",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "E0 from Power and distance"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 24th February Evening Shift",
+        "question": "An electromagnetic wave of frequency 3 GHz enters a dielectric medium of relative electric permittivity 2.25 from vacuum. The wavelength of this wave in that medium will be _________$\u00d7$10 ^$\u2212$2 cm.",
+        "options": [],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-electromagnetic-wave-of-frequency-3-ghz-enters-a-dielectr-jee-main-physics-units-and-measurements-abkmdwqcq6ma4o8z",
+        "is_numerical": true,
+        "sub_topic": "Waveform: Medium Speed",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Wavelength in medium"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 24th February Morning Shift",
+        "question": "An electromagnetic wave of frequency 5 GHz, is travelling in a medium whose relative electric permittivity and relative magnetic permeability both are 2. Its velocity in this medium is ____________$\u00d7$10 ^7 m/s.",
+        "options": [],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-electromagnetic-wave-of-frequency-5-ghz-is-travelling-in-jee-main-physics-units-and-measurements-k5e74tnglqzv7jjk",
+        "is_numerical": true,
+        "sub_topic": "Waveform: Medium Speed",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Speed in medium formula"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 17th March Morning Shift",
+        "question": "If 2.5$\u00d7$10 ^$\u2212$6 N average force is exerted by a light wave on a non-reflecting surface of 30 cm ^2 area during 40 minutes of time span, the energy flux of light just before it falls on the surface is ___________ W/cm ^2 . (Round off to the Nearest Integer) (Assume complete absorption and normal incidence conditions are there)",
+        "options": [],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/if-25-times-10sup-6sup-n-average-force-is-exe-jee-main-physics-units-and-measurements-1lsi1dh0alpt7v3e",
+        "is_numerical": true,
+        "sub_topic": "Power: Radiation Pressure",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Intensity Force Absorbing"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 17th March Evening Shift",
+        "question": "Seawater at a frequency f = 9$\u00d7$10 ^2 Hz, has permittivity$\u03b5$= 80$\u03b5$_0 and resistivity$\u03c1$= 0.25$\u03a9$m. Imagine a parallel plate capacitor is immersed in seawater and is driven by an alternating voltage source V(t) = V _0 sin(2$\u03c0$ft). Then the conduction current density becomes 10 ^x times the displacement current density after time t =$1800$s. The value of x is _____________. (Given :$14\u03c0\u03b50=9\u00d7109$Nm ^2 C ^$\u2212$2 )",
+        "options": [],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/seawater-at-a-frequency-f--9-times-10sup2sup-hz-jee-main-physics-units-and-measurements-dwgtfrxzkziqa1dz",
+        "is_numerical": true,
+        "sub_topic": "Circuits: Displacement Current",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 5,
+        "physics_key": "Conduction Displacement Ratio"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 6th September Morning Slot",
+        "question": "Suppose that intensity of a laser is$315\u03c0$W/m ^2 . The rms electric field, in units of V/m associated with this source is close to the nearest integer is __________.$\u2208$_0 = 8.86 \u00d7 10 ^\u201312 C ^2 Nm ^\u20132 ; c = 3 \u00d7 10 ^8 ms ^\u20131 )",
+        "options": [],
+        "answer": "194",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/suppose-that-intensity-of-a-laser-is-315-over-pi--jee-main-physics-current-electricity-il9floedlgwn9qvx",
+        "is_numerical": true,
+        "sub_topic": "Power: Intensity",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "E_rms from Intensity"
+    }
+]

@@ -1,0 +1,2459 @@
+[
+    {
+        "metadata": "JEE Main",
+        "question": "A closed and an open organ pipe have same lengths. If the ratio of frequencies of their seventh overtones is$(a\u22121a)$then the value of$a$is _________.",
+        "options": [],
+        "answer": "16",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-closed-and-an-open-organ-pipe-have-same-lengths-if-the-jee-main-physics-motion-8iwj7w55ysfbm0gh",
+        "is_numerical": true,
+        "sub_topic": "Resonance: Organ Pipe Harmonics",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Overtone harmonic ratio"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 8th April Evening Shift",
+        "question": "Two strings with circular cross section and made of same material, are stretched to have same amount of tension. A transverse wave is then made to pass through both the strings. The velocity of the wave in the first string having the radius of cross section R is$v1$, and that in the other string having radius of cross section R/2 is$v2$. Then$v2v1$=",
+        "options": [
+            "8",
+            "4",
+            "2",
+            "$2$"
+        ],
+        "answer": "2",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/ptwo-strings-with-circular-cross-section-and-made-of-same-jee-main-physics-chdnmoc1n1lwmjg3",
+        "is_numerical": false,
+        "sub_topic": "Waves: String Velocity",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Velocity linear density radius"
+    },
+    {
+        "metadata": "JEE Main",
+        "question": "The amplitude and phase of a wave that is formed by the superposition of two harmonic travelling waves,$y1(x,t)=4sin\u2061(kx\u2212\u03c9t)$and$y2(x,t)=2sin\u2061(kx\u2212\u03c9t+2\u03c03)$, are: (Take the angular frequency of initial waves same as$\u03c9$)",
+        "options": [
+            "$[3,\u03c06]$",
+            "$[23,\u03c06]$",
+            "$[6,2\u03c03]$",
+            "$[6,\u03c03]$"
+        ],
+        "answer": "$[23,\u03c06]$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9nqb6a7/79968a76-7e52-4f62-84a1-6a30ff2a3d0d/450eb1f0-1cd8-11f0-9f5f-0b480a650056/file-jaoe38c1m9nqb6a8.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-amplitude-and-phase-of-a-wave-that-is-formed-by-the-s-jee-main-physics-yqmm1mwrclrqhe1l",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Superposition",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Resultant amplitude phasor sum"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 22nd January Morning Shift",
+        "question": "A closed organ and an open organ tube are filled by two different gases having same bulk modulus but different densities$\u03c11$and$\u03c12$, respectively. The frequency of$th 9th$harmonic of closed tube is identical with$th 4th$harmonic of open tube. If the length of the closed tube is 10 cm and the density ratio of the gases is$\u03c11:\u03c12=1:16$, then the length of the open tube is :",
+        "options": [
+            "$157 cm$",
+            "$209 cm$",
+            "$207 cm$",
+            "$159 cm$"
+        ],
+        "answer": "$209 cm$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-closed-organ-and-an-open-organ-tube-are-filled-by-two-d-jee-main-physics-units-and-measurements-izg3hoxsroskloqq",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Organ Pipe Harmonics",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Gas density harmonic equivalence"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 7th April Evening Shift",
+        "question": "The equation of a wave travelling on a string is y = sin[20\u03c0x + 10\u03c0t], where x and t are distance and time in SI units. The minimum distance between two points having the same oscillating speed is :",
+        "options": [
+            "10 cm",
+            "2.5 cm",
+            "20 cm",
+            "5.0 cm"
+        ],
+        "answer": "5.0 cm",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-equation-of-a-wave-traveling-on-a-string-is-iyi-jee-main-physics-78kagopuywvtbkj6",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Velocity",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Speed same phase distance"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 2nd April Evening Shift",
+        "question": "A sinusoidal wave of wavelength 7.5 cm travels a distance of 1.2 cm along the$x$-direction in 0.3 sec . The crest P is at$x=0$at$t=0sec$and maximum displacement of the wave is 2 cm . Which equation correctly represents this wave?",
+        "options": [
+            "$y=2cos\u2061(0.83x\u22123.35t)cm$",
+            "$y=2sin\u2061(0.83x\u22123.5t)cm$",
+            "$y=2cos\u2061(0.13x\u22120.5t)cm$",
+            "$y=2cos\u2061(3.35x\u22120.83t)cm$"
+        ],
+        "answer": "$y=2cos\u2061(0.83x\u22123.35t)cm$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-sinusoidal-wave-of-wavelength-75-cm-travels-a-distance-of-jee-main-physics-units-and-measurements-42tl6edxrwxff1ic",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Equation Formulation",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Wave equation k omega"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 7th April Morning Shift",
+        "question": "Two harmonic waves moving in the same direction superimpose to form a wave$x=acos\u2061(1.5t)cos\u2061(50.5t)$where t is in seconds. Find the period with which they beat. (close to nearest integer)",
+        "options": [
+            "1 s",
+            "4 s",
+            "2 s",
+            "6 s"
+        ],
+        "answer": "2 s",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/ptwo-harmonic-waves-moving-in-the-same-direction-superimpo-jee-main-physics-units-and-measurements-fxupy4ixcloyhz4g",
+        "is_numerical": false,
+        "sub_topic": "Waves: Beats",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Beat period from component frequencies"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 8th April Evening Shift",
+        "question": "A plane progressive wave is given by$y=2cos\u20612\u03c0(330t\u2212x)m$. The frequency of the wave is :",
+        "options": [
+            "660 Hz",
+            "340 Hz",
+            "330 Hz",
+            "165 Hz"
+        ],
+        "answer": "330 Hz",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-plane-progressive-wave-is-given-by-y2-cos-2-pi330-jee-main-physics-motion-ahqn3fqdxnjkuviw",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Equation Analysis",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Frequency from angular frequency"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 4th April Evening Shift",
+        "question": "Displacement of a wave is expressed as$x(t)=5cos\u2061(628t+\u03c02)m$. The wavelength of the wave when its velocity is$300 m/s$is :$(\u03c0=3.14)$",
+        "options": [
+            "0.33 m",
+            "0.5 m",
+            "3 m",
+            "5 m"
+        ],
+        "answer": "3 m",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pdisplacement-of-a-wave-is-expressed-as-xt5-cos-left-jee-main-physics-units-and-measurements-rnaq7wf6e0qjevtz",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Equation Analysis",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Wavelength from omega velocity"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 31st January Morning Shift",
+        "question": "The fundamental frequency of a closed organ pipe is equal to the first overtone frequency of an open organ pipe. If length of the open pipe is$60 cm$, the length of the closed pipe will be:",
+        "options": [
+            "15 cm",
+            "60 cm",
+            "45 cm",
+            "30 cm"
+        ],
+        "answer": "15 cm",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/6y3zli1lsluo2az/0a46530b-3d75-49ab-a7dd-6ded73044d75/114787b0-cb40-11ee-ad47-a16d1086e690/file-6y3zli1lsluo2b0.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-fundamental-frequency-of-a-closed-organ-pipe-is-equal-jee-main-physics-motion-ehy3nzoob4qubbzt",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Organ Pipe Length",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Closed open pipe equivalence"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 28th January Morning Shift",
+        "question": "Given below are two statements : one is labelled as Assertion A and the other is labelled as Reason$R$Assertion A: A sound wave has higher speed in solids than gases. Reason R: Gases have higher value of Bulk modulus than solids. In the light of the above statements, choose the correct answer from the options given below",
+        "options": [
+            "Both$A$and$R$are true and$R$is the correct explanation of$A$",
+            "$A$is false but$R$is true",
+            "$A$is true but$R$is false",
+            "Both$A$and$R$are true but$R$is NOT the correct explanation of$A$"
+        ],
+        "answer": "$A$is true but$R$is false",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pgiven-below-are-two-statements-one-is-labelled-as-math-jee-main-physics-units-and-measurements-orebgrrb58rqzikm",
+        "is_numerical": false,
+        "sub_topic": "Waves: Speed Properties",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Speed Bulk modulus density"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 4th April Morning Shift",
+        "question": "In an experiment with a closed organ pipe, it is filled with water by$(15)$th of its volume. The frequency of the fundamental note will change by",
+        "options": [
+            "$20%$",
+            "$25%$",
+            "$\u221220%$",
+            "$\u221225%$"
+        ],
+        "answer": "$25%$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9uvqk8n/088f6d10-c7b9-44f0-a90f-6231cbb1dd09/fb2ae070-20c6-11f0-8e41-d1a13c0c5e77/file-jaoe38c1m9uvqk8o.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9uvt3la/00a40050-b3ea-4201-bfb5-a2adf11d4a4d/41bbe8e0-20c7-11f0-8e41-d1a13c0c5e77/file-jaoe38c1m9uvt3lb.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-an-experiment-with-a-closed-organ-pipe-it-is-filled-w-jee-main-physics-units-and-measurements-dtfdncdxjn78fkxn",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Organ Pipe Tuning",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Frequency change liquid filling"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 3rd April Evening Shift",
+        "question": "In the resonance experiment, two air columns (closed at one end) of 100 cm and 120 cm long, give 15 beats per second when each one is sounding in the respective fundamental modes. The velocity of sound in the air column is:",
+        "options": [
+            "$370 m/s$",
+            "$340 m/s$",
+            "$335 m/s$",
+            "$360 m/s$"
+        ],
+        "answer": "$360 m/s$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-the-resonance-experiment-two-air-columns-closed-at-o-jee-main-physics-units-and-measurements-k5rzzkjrcq86dck0",
+        "is_numerical": false,
+        "sub_topic": "Waves: Beats",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Beats from two pipe fundamentals"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 23rd January Evening Shift",
+        "question": "The equation of a transverse wave travelling along a string is$y(x,t)=4.0sin\u2061[20\u00d710\u22123x+600t]mm$, where$x$is in mm and$t$is in second. The velocity of the wave is :",
+        "options": [
+            "$\u221260 m/s$",
+            "$+60 m/s$",
+            "$+30 m/s$",
+            "$\u221230 m/s$"
+        ],
+        "answer": "$\u221230 m/s$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-equation-of-a-transverse-wave-travelling-along-a-stri-jee-main-physics-units-and-measurements-ahiwfi4nz7quuitm",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Velocity",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Wave velocity omega k"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 11th April Evening Shift",
+        "question": "A car P travelling at$20 ms\u22121$sounds its horn at a frequency of$400 Hz$. Another car$Q$is travelling behind the first car in the same direction with a velocity$40 ms\u22121$. The frequency heard by the passenger of the car$Q$is approximately [Take, velocity of sound$=360 ms\u22121$]",
+        "options": [
+            "485 Hz",
+            "514 Hz",
+            "421 Hz",
+            "471 Hz"
+        ],
+        "answer": "421 Hz",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-car-p-travelling-at-20-mathrmms-1-sounds-its-jee-main-physics-motion-mzctj8j0vxmwneuw",
+        "is_numerical": false,
+        "sub_topic": "Waves: Doppler Effect",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Two moving objects Doppler"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 8th April Morning Shift",
+        "question": "The engine of a train moving with speed$10 ms\u22121$towards a platform sounds a whistle at frequency$400 Hz$. The frequency heard by a passenger inside the train is: (neglect air speed. Speed of sound in air$=330 ms\u22121$)",
+        "options": [
+            "200 Hz",
+            "412 Hz",
+            "400 Hz",
+            "388 Hz"
+        ],
+        "answer": "400 Hz",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-engine-of-a-train-moving-with-speed-10-mathrmms-jee-main-physics-motion-8mkfnv2lkn6vjcja",
+        "is_numerical": false,
+        "sub_topic": "Waves: Doppler Effect",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Observer moving with source"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 30th June Morning Shift",
+        "question": "Which of the following equations correctly represents a travelling wave having wavelength$\u03bb$= 4.0 cm, frequency v = 100 Hz and travelling in positive x-axis direction?",
+        "options": [
+            "$y=Asin\u2061[(0.50\u03c0cm\u22121)x\u2212(100\u03c0s\u22121)t]$",
+            "$y=Asin2\u03c0[(0.25cm\u22121)x\u2212(50s\u22121)t]$",
+            "$y=Asin\u2061[(2\u03c04cm\u22121)x\u2212(2\u03c0100s\u22121)t]$",
+            "$y=Asin\u03c0[(0.5cm\u22121)x\u2212(200s\u22121)t]$"
+        ],
+        "answer": "$y=Asin\u03c0[(0.5cm\u22121)x\u2212(200s\u22121)t]$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pwhich-of-the-following-equations-correctly-represents-a-t-jee-main-physics-motion-z5zbkzpvse4xqyel",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Equation Formulation",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Equation formulation k omega"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 29th January Morning Shift",
+        "question": "A person observes two moving trains, 'A' reaching the station and 'B' leaving the station with equal speed of$30 m/s$. If both trains emit sounds with frequency$300 Hz$, (Speed of sound:$330 m/s$) approximate difference of frequencies heard by the person will be:",
+        "options": [
+            "10 Hz",
+            "55 Hz",
+            "80 Hz",
+            "33 Hz"
+        ],
+        "answer": "55 Hz",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-person-observes-two-moving-trains-a-reaching-the-sta-jee-main-physics-motion-js8nuzoievrdnkt3",
+        "is_numerical": false,
+        "sub_topic": "Waves: Doppler Effect",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Doppler difference both moving"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 24th January Morning Shift",
+        "question": "A travelling wave is described by the equation$y(x,t)=[0.05sin\u2061(8x\u22124t)]$m The velocity of the wave is : [all the quantities are in SI unit]",
+        "options": [
+            "$4 ms\u22121$",
+            "$2 ms\u22121$",
+            "$8 ms\u22121$",
+            "$0.5 ms\u22121$"
+        ],
+        "answer": "$0.5 ms\u22121$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-travelling-wave-is-described-by-the-equationp-py-jee-main-physics-motion-0qquf4lkgr1v6b91",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Velocity",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Wave speed omega by k"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 1st February Morning Shift",
+        "question": "A steel wire with mass per unit length$7.0\u00d710\u22123 kg m\u22121$is under tension of$70 N$. The speed of transverse waves in the wire will be:",
+        "options": [
+            "$10 m/s$",
+            "$50 m/s$",
+            "$100 m/s$",
+            "$200\u03c0 m/s$"
+        ],
+        "answer": "$100 m/s$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-steel-wire-with-mass-per-unit-length-70-times-10-jee-main-physics-motion-x7ii6wuodoqf14pf",
+        "is_numerical": false,
+        "sub_topic": "Waves: String Velocity",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Speed from Tension density"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 29th June Morning Shift",
+        "question": "A longitudinal wave is represented by$x=10sin\u20612\u03c0(nt\u2212x\u03bb)$cm. The maximum particle velocity will be four times the wave velocity if the determined value of wavelength is equal to :",
+        "options": [
+            "2$\u03c0$",
+            "5$\u03c0$",
+            "$\u03c0$",
+            "$5\u03c02$"
+        ],
+        "answer": "5$\u03c0$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-longitudinal-wave-is-represented-by-x--10sin-2pi--jee-main-physics-motion-whallcerheux06hs",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Velocity",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Max particle velocity wave speed"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 10th April Evening Shift",
+        "question": "For a periodic motion represented by the equation$y=sin\u2061\u03c9t+cos\u2061\u03c9t$the amplitude of the motion is",
+        "options": [
+            "1",
+            "$2$",
+            "0.5",
+            "2"
+        ],
+        "answer": "$2$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pfor-a-periodic-motion-represented-by-the-equationp-p-jee-main-physics-motion-sm0yvq9d9zx2vtbm",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Superposition",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Amplitude sum orthogonal SHMs"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 28th July Morning Shift",
+        "question": "In the wave equation$y=0.5sin\u20612\u03c0\u03bb(400t\u2212x)m$the velocity of the wave will be:",
+        "options": [
+            "200 m/s",
+            "200$2$m/s",
+            "400 m/s",
+            "400$2$m/s"
+        ],
+        "answer": "400 m/s",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-the-wave-equationp-p-y05-sin-frac2-pil-jee-main-physics-motion-wlaadvl4mffzaiqh",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Velocity",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Wave velocity kx-omega t"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 28th June Morning Shift",
+        "question": "The velocity of sound in a gas, in which two wavelengths 4.08 m and 4.16 m produce 40 beats in 12s, will be :",
+        "options": [
+            "282.8 ms ^$\u2212$1",
+            "175.5 ms ^$\u2212$1",
+            "353.6 ms ^$\u2212$1",
+            "707.2 ms ^$\u2212$1"
+        ],
+        "answer": "707.2 ms ^$\u2212$1",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-velocity-of-sound-in-a-gas-in-which-two-wavelengths-jee-main-physics-motion-ckykm7d0djhecx97",
+        "is_numerical": false,
+        "sub_topic": "Waves: Beats",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Velocity beats wavelength difference"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 17th March Evening Shift",
+        "question": "A sound wave of frequency 245 Hz travels with the speed of 300 ms ^$\u2212$1 along the positive x-axis. Each point of the wave moves to and from through a total distance of 6 cm. What will be the mathematical expression of this travelling wave?",
+        "options": [
+            "Y(x, t) = 0.03 [ sin 5.1x$\u2212$(0.2$\u00d7$10 ^3 )t ]",
+            "Y(x, t) = 0.03 [ sin 5.1x$\u2212$(1.5$\u00d7$10 ^3 )t ]",
+            "Y(x, t) = 0.06 [ sin 5.1x$\u2212$(1.5$\u00d7$10 ^3 )t ]",
+            "Y(x, t) = 0.06 [ sin 0.8x$\u2212$(0.5$\u00d7$10 ^3 )t ]"
+        ],
+        "answer": "Y(x, t) = 0.03 [ sin 5.1x$\u2212$(1.5$\u00d7$10 ^3 )t ]",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-sound-wave-of-frequency-245-hz-travels-with-the-speed-of-3-jee-main-physics-units-and-measurements-yicnoo0fymuzoc5c",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Equation Formulation",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Amplitude from total distance"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th June Evening Shift",
+        "question": "If a wave gets refracted into a denser medium, then which of the following is true?",
+        "options": [
+            "wavelength, speed and frequency decreases.",
+            "wavelength increases, sped decreases and frequency remains constant.",
+            "wavelength and speed decreases but frequency remains constant.",
+            "wavelength, speed and frequency increases."
+        ],
+        "answer": "wavelength and speed decreases but frequency remains constant.",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pif-a-wave-gets-refracted-into-a-denser-medium-then-which-jee-main-physics-motion-mpydjcdyef4phqu8",
+        "is_numerical": false,
+        "sub_topic": "Waves: Refraction",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Frequency invariant speed change"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th June Morning Shift",
+        "question": "An observer moves towards a stationary source of sound with a velocity equal to one-fifth of the velocity of sound. The percentage change in the frequency will be :",
+        "options": [
+            "20%",
+            "10%",
+            "5%",
+            "0%"
+        ],
+        "answer": "20%",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-observer-moves-towards-a-stationary-source-of-sound-wi-jee-main-physics-motion-jjggbeofxjatcfpj",
+        "is_numerical": false,
+        "sub_topic": "Waves: Doppler Effect",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Percentage frequency change"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th July Evening Shift",
+        "question": "A transverse wave is represented by$y=2sin\u2061(\u03c9t\u2212kx)cm$. The value of wavelength (in$cm$) for which the wave velocity becomes equal to the maximum particle velocity, will be :",
+        "options": [
+            "4$\u03c0$",
+            "2$\u03c0$",
+            "$\u03c0$",
+            "2"
+        ],
+        "answer": "4$\u03c0$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-transverse-wave-is-represented-by-y2-sin-omega-t-jee-main-physics-motion-xhywpi7pnipfmgcm",
+        "is_numerical": false,
+        "sub_topic": "Waves: String Velocity",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Wave velocity max particle"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 24th June Morning Shift",
+        "question": "The equations of two waves are given by : y _1 = 5 sin 2$\u03c0$(x - vt) cm y _2 = 3 sin 2$\u03c0$(x$\u2212$vt + 1.5) cm These waves are simultaneously passing through a string. The amplitude of the resulting wave is :",
+        "options": [
+            "2 cm",
+            "4 cm",
+            "5.8 cm",
+            "8 cm"
+        ],
+        "answer": "2 cm",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-equations-of-two-waves-are-given-by-p-pysub1-jee-main-physics-motion-rwzwu5b5tzitqd18",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Superposition",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Resultant amplitude phase difference"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 22th July Evening Shift",
+        "question": "The motion of a mass on a spring, with spring constant K is as shown in figure. [IMAGE: https://imagex.cdn.examgoal.net/1krtmj82t/5ed6bb81-15f7-4b8d-a085-a090e8ae052d/85d5fd50-f302-11eb-a506-37d290d1d40d/file-1krtmj82u.jpg] The equation of motion is given by x(t) = A sin$\u03c9$t + B cos$\u03c9$t with$\u03c9$=$Km$Suppose that at time t = 0, the position of mass is x(0) and velocity v(0), then its displacement can also be represented as x(t) = C cos($\u03c9$t$\u2212$$\u03d5$), where C and$\u03d5$are :",
+        "options": [
+            "$C=2v(0)2\u03c92+x(0)2,\u03d5=tan\u22121(x(0)\u03c92v(0))$",
+            "$C=v(0)2\u03c92+x(0)2,\u03d5=tan\u22121(x(0)\u03c9v(0))$",
+            "$C=v(0)2\u03c92+x(0)2,\u03d5=tan\u22121(v(0)x(0)\u03c9)$",
+            "$C=2v(0)2\u03c92+x(0)2,\u03d5=tan\u22121(v(0)x(0)\u03c9)$"
+        ],
+        "answer": "$C=v(0)2\u03c92+x(0)2,\u03d5=tan\u22121(v(0)x(0)\u03c9)$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1krtmj82t/5ed6bb81-15f7-4b8d-a085-a090e8ae052d/85d5fd50-f302-11eb-a506-37d290d1d40d/file-1krtmj82u.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/the-motion-of-a-mass-on-a-spring-with-spring-constant-k-is-jee-main-physics-units-and-measurements-twgipz62izbcxevb",
+        "is_numerical": false,
+        "sub_topic": "Waves: SHM Representation",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "SHM phasor amplitude phase"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th February Morning Shift",
+        "question": "A student is performing the experiment of resonance column. The diameter of the column tube is 6 cm. The frequency of the tuning fork is 504 Hz. Speed of the sound at the given temperature is 336 m/s. The zero of the metre scale coincides with the top end of the resonance column tube. The reading of the water level in the column when the first resonance occurs is :",
+        "options": [
+            "13 cm",
+            "18.4 cm",
+            "16.6 cm",
+            "14.8 cm"
+        ],
+        "answer": "14.8 cm",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1klyuf8ub/00ee2459-cbc2-4cb0-81d6-7ff293833cfa/ff323d30-7f17-11eb-8513-936405db0171/file-1klyuf8uc-680w.jpeg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-student-is-performing-the-experiment-of-resonance-column-jee-main-physics-units-and-measurements-myuumqllmiqd4h1p",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Air Column",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "End correction first resonance"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th February Evening Shift",
+        "question": "A tuning fork A of unknown frequency produces 5 beats/s with a fork of known frequency 340 Hz. When fork A is filed, the beat frequency decreases to 2 beats/s. What is the frequency of fork A?",
+        "options": [
+            "335 Hz",
+            "345 Hz",
+            "338 Hz",
+            "342 Hz"
+        ],
+        "answer": "335 Hz",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-turning-fork-a-of-unknown-frequency-produces-5-beatss-wi-jee-main-physics-units-and-measurements-mh5y289g5wzfrx8m",
+        "is_numerical": false,
+        "sub_topic": "Waves: Beats",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Filing effect on beat frequency"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 24th February Evening Shift",
+        "question": "Which of the following equations represents a travelling wave?",
+        "options": [
+            "y = Ae ^x cos($\u03c9$t$\u2212$$\u03b8$)",
+            "y = Ae ^$\u2212$x2 (vt +$\u03b8$)",
+            "y = A sin (15x$\u2212$2t)",
+            "y = A sinx cos$\u03c9$t"
+        ],
+        "answer": "y = A sin (15x$\u2212$2t)",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/which-of-the-following-equations-represents-a-travelling-wav-jee-main-physics-units-and-measurements-1ay9jvn8z6guiypf",
+        "is_numerical": false,
+        "sub_topic": "Waveform: General Form",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Traveling wave equation form"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 5th September Morning Slot",
+        "question": "In a resonance tube experiment when the tube is filled with water up to a height of 17.0 cm from bottom, it resonates with a given tuning fork. When the water level is raised the next resonance with the same tuning fork occurs at a height of 24.5 cm. If the velocity of sound in air is 330 m/s, the tuning fork frequency is :",
+        "options": [
+            "2200 Hz",
+            "3300 Hz",
+            "1100 Hz",
+            "550 Hz"
+        ],
+        "answer": "2200 Hz",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-a-resonance-tube-experiment-when-the-tube-is-filled-with-jee-main-physics-simple-harmonic-motion-kwwugvzgru9mokyt",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Air Column",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Resonance tube successive lengths"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 6th September Morning Slot",
+        "question": "A sound source S is moving along a straight track with speed v, and is emitting, sound of frequency v _0 (see figure). An observer is standing at a finite distance, at the point O, from the track. The time variation of frequency heard by the observer is best represented by: _ (t _0 represents the instant when the distance between the source and observer is minimum)",
+        "options": [
+            "[IMAGE: https://imagex.cdn.examgoal.net/jgy2xukfrryg0d/8ff1a4e6-e100-49c1-b87f-a42f146148cf/90e683d0-046b-11eb-8293-3b6cc591631c/file-jgy2xukfrryg0e-312w.png]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/jgy2xukfrryst3/77a22f5f-913b-4500-bfb5-d96d98913ad4/9ac95670-046b-11eb-8293-3b6cc591631c/file-jgy2xukfrryst4-322w.png]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/jgy2xukfrrz270/9d251a11-2cee-4843-8620-fef9000102f4/a20991c0-046b-11eb-8293-3b6cc591631c/file-jgy2xukfrrz271-324w.png]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/jgy2xukfrrzbxq/c4065ad4-510c-4b42-85f1-053b693b4128/a99024e0-046b-11eb-8293-3b6cc591631c/file-jgy2xukfrrzbxr-337w.png]"
+        ],
+        "answer": "[IMAGE: https://imagex.cdn.examgoal.net/jgy2xukfrrzbxq/c4065ad4-510c-4b42-85f1-053b693b4128/a99024e0-046b-11eb-8293-3b6cc591631c/file-jgy2xukfrrzbxr-337w.png]",
+        "images": [
+            "https://imagex.cdn.examgoal.net/jgy2xukfrryg0d/8ff1a4e6-e100-49c1-b87f-a42f146148cf/90e683d0-046b-11eb-8293-3b6cc591631c/file-jgy2xukfrryg0e-312w.png",
+            "https://imagex.cdn.examgoal.net/jgy2xukfrryst3/77a22f5f-913b-4500-bfb5-d96d98913ad4/9ac95670-046b-11eb-8293-3b6cc591631c/file-jgy2xukfrryst4-322w.png",
+            "https://imagex.cdn.examgoal.net/jgy2xukfrrz270/9d251a11-2cee-4843-8620-fef9000102f4/a20991c0-046b-11eb-8293-3b6cc591631c/file-jgy2xukfrrz271-324w.png",
+            "https://imagex.cdn.examgoal.net/jgy2xukfrrzbxq/c4065ad4-510c-4b42-85f1-053b693b4128/a99024e0-046b-11eb-8293-3b6cc591631c/file-jgy2xukfrrzbxr-337w.png",
+            "https://imagex.cdn.examgoal.net/jgy2xukgulgmla/ae76d2be-2d3c-441b-bf50-4c069f645b40/bbf8c7e0-19c4-11eb-8293-3b6cc591631c/file-jgy2xukgulgmlb-324w.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-sound-source-s-is-moving-along-a-straight-track-with-speed-jee-main-physics-waves-gtuhsx7r8i9kmqxi",
+        "is_numerical": false,
+        "sub_topic": "Waves: Doppler Effect",
+        "logic_type": "Graphical",
+        "difficulty": 4,
+        "physics_key": "Doppler shift source path"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 5th September Morning Slot",
+        "question": "Assume that the displacement(s) of air is proportional to the pressure difference ($\u0394$p) created by a sound wave. Displacement (s) further depends on the speed of sound (v), density of air ($\u03c1$) and the frequency (f). If$\u0394$p ~ 10 Pa, v ~ 300 m/s,$\u03c1$~ 1 kg/m ^3 and f ~ 1000 Hz, then s will be of the order of (take the multiplicative constant to be 1) :",
+        "options": [
+            "1 mm",
+            "$3100$mm",
+            "10 mm",
+            "$110$mm"
+        ],
+        "answer": "$3100$mm",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/assume-that-the-displacements-of-air-is-proportional-to-th-jee-main-physics-properties-of-matter-n1gfxsbf4ktwlz9c",
+        "is_numerical": false,
+        "sub_topic": "Waves: Speed Properties",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Dimensional analysis pressure displacement"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 3rd September Morning Slot",
+        "question": "A uniform thin rope of length 12 m and mass 6 kg hangs vertically from a rigid support and a block of mass 2 kg is attached to its free end. A transverse short wavetrain of wavelength 6 cm is produced at the lower end of the rope. What is the wavelength of the wavetrain (in cm) when it reaches the top of the rope ?",
+        "options": [
+            "12",
+            "3",
+            "9",
+            "6"
+        ],
+        "answer": "12",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1kir0ee5a/7cd7aab9-b264-4e23-b099-f96650e426d6/72ed83e0-3f64-11eb-9d37-c12600f3cc12/file-1kir0ee5b-340w.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-uniform-thin-rope-of-length-12-m-and-mass-6-kg-hangs-verti-jee-main-physics-waves-kyeootmeo4kcy6eb",
+        "is_numerical": false,
+        "sub_topic": "Waves: String Velocity",
+        "logic_type": "Calculus",
+        "difficulty": 4,
+        "physics_key": "Wavelength change variable tension"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 5th September Evening Slot",
+        "question": "A driver in a car, approaching a vertical wall notices that the frequency of his car horn, has changed from 440 Hz to 480 Hz, when it gets reflected from the wall. If the speed of sound in air is 345 m/s, then the speed of the car is :",
+        "options": [
+            "36 km/hr",
+            "54 km/hr",
+            "24 km/hr",
+            "18 km/hr"
+        ],
+        "answer": "54 km/hr",
+        "images": [
+            "https://imagex.cdn.examgoal.net/jgy2xukgyogdvq/519fbcf8-f79a-47b9-b61b-fc8a7ca25908/933a8e60-1c03-11eb-8293-3b6cc591631c/file-jgy2xukgyogdvr-307w.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-driver-in-a-car-approaching-a-vertical-wall-notices-that-jee-main-physics-waves-uuha79gilqf6hrbg",
+        "is_numerical": false,
+        "sub_topic": "Waves: Doppler Effect",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Reflected sound frequency wall"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 9th January Evening Slot",
+        "question": "A wire of length L and mass per unit length 6.0 \u00d7 10 ^\u20133 kgm ^\u20131 is put under tension of 540 N. Two consecutive frequencies that it resonates at are : 420 Hz and 490 Hz. Then L in meters is :",
+        "options": [
+            "5.1 m",
+            "2.1 m",
+            "1.1 m",
+            "8.1 m"
+        ],
+        "answer": "2.1 m",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-wire-of-length-l-and-mass-per-unit-length-60--10sup3-jee-main-physics-simple-harmonic-motion-rqcslfwxok97gpol",
+        "is_numerical": false,
+        "sub_topic": "Resonance: String Harmonics",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Length from consecutive frequencies"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 9th January Morning Slot",
+        "question": "Three harmonic waves having equal frequency$\u03bd$and same intensity$I0$, have phase angles 0,$\u03c04$and$\u2212\u03c04$respectively. When they are superimposed the intensity of the resultant wave is close to :",
+        "options": [
+            "5.8 I _0",
+            "3 I _0",
+            "0.2 I _0",
+            "I _0"
+        ],
+        "answer": "5.8 I _0",
+        "images": [
+            "https://imagex.cdn.examgoal.net/7kd4dk642giz8/cbee5e1d-fcd2-45d8-a9b2-a2af64524f38/e10dad40-4533-11ea-b62d-51ccc5d4afb6/file-7kd4dk642giz9-261w.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/three-harmonic-waves-having-equal-frequency-nu--and-sam-jee-main-physics-waves-ty4mdp4z7ggim38o",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Superposition",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Resultant intensity phasor addition"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 8th January Evening Slot",
+        "question": "A transverse wave travels on a taut steel wire with a velocity of v when tension in it is 2.06 \u00d7 10 ^4 N. When the tension is changed to T, the velocity changed to v/2. The value of T is close to :",
+        "options": [
+            "30.5 \u00d7 10 ^4 N",
+            "2.50 \u00d7 10 ^4 N",
+            "10.2 \u00d7 10 ^2 N",
+            "5.15 \u00d7 10 ^3 N"
+        ],
+        "answer": "5.15 \u00d7 10 ^3 N",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-transverse-wave-travels-on-a-taut-steel-wire-with-a-veloci-jee-main-physics-current-electricity-fgt0cducwdbxgwqz",
+        "is_numerical": false,
+        "sub_topic": "Waves: String Velocity",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Velocity tension relation ratio"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 4th September Evening Slot",
+        "question": "The driver of a bus approaching a big wall notices that the frequency of his bus's horn changes from 420 Hz to 490 Hz when he hears it after it gets reflected from the wall. Find the speed of the bus if speed of the sound is 330 ms ^\u20131 .",
+        "options": [
+            "91 kmh ^\u20131",
+            "81 kmh ^\u20131",
+            "61 kmh ^\u20131",
+            "71 kmh ^\u20131"
+        ],
+        "answer": "91 kmh ^\u20131",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-driver-of-a-bus-approaching-a-big-wall-notices-that-the-jee-main-physics-waves-k3ybbydluwlhgzkz",
+        "is_numerical": false,
+        "sub_topic": "Waves: Doppler Effect",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Reflected frequency moving source"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 2nd September Morning Slot",
+        "question": "Two identical strings X and Z made of same material have tension T _X and T _Z in them. If their fundamental frequencies are 450 Hz and 300 Hz, respectively, then the ratio T _X /T _Z is",
+        "options": [
+            "2.25",
+            "0.44",
+            "1.25",
+            "1.5"
+        ],
+        "answer": "2.25",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/two-identical-strings-x-and-z-made-of-same-material-have-ten-jee-main-physics-simple-harmonic-motion-3d4snbxe4wm8lm2g",
+        "is_numerical": false,
+        "sub_topic": "Resonance: String Harmonics",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Frequency tension ratio"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 4th September Morning Slot",
+        "question": "For a transverse wave travelling along a straight line, the distance between two peaks (crests) is 5 m, while the distance between one crest and one trough is 1.5 m. The possible wavelengths (in m) of the are :",
+        "options": [
+            "1, 3, 5, .....",
+            "$11,13,15,$.....",
+            "1, 2, 3, .....",
+            "$12,14,16,$"
+        ],
+        "answer": "$11,13,15,$.....",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/for-a-transverse-wave-travelling-along-a-straight-line-the-jee-main-physics-waves-qqzbwfv4l6leezgv",
+        "is_numerical": false,
+        "sub_topic": "Waves: Standing Wave",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Crest trough distance ambiguity"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 7th January Evening Slot",
+        "question": "A stationary observer receives sound from two identical tuning forks, one of which approaches and the other one recedes with the same speed (much less than the speed of sound). The observer hears 2 beats/sec. The oscillation frequency of each tuning fork is v _0 = 1400 Hz and the velocity of sound in air is 350 m/s. The speed of each tuning fork is close to :",
+        "options": [
+            "1 m/s",
+            "$18$m/s",
+            "$14$m/s",
+            "$12$m/s"
+        ],
+        "answer": "$14$m/s",
+        "images": [
+            "https://imagex.cdn.examgoal.net/7kd4dk6m2rk9c/6466a675-e01b-4b31-a52d-d88648c37fbe/2fa20500-4f1b-11ea-b62d-51ccc5d4afb6/file-7kd4dk6m2rk9d-343w.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-stationary-observer-receives-sound-from-two-identical-tuni-jee-main-physics-waves-62yvagunmfvhtdnc",
+        "is_numerical": false,
+        "sub_topic": "Waves: Doppler Effect",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Beats from approaching receding source"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 7th January Morning Slot",
+        "question": "Speed of a transverse wave on a straight wire (mass 6.0 g, length 60 cm and area of cross-section 1.0 mm ^2 ) is 90 ms ^-1 . If the Young's modulus of wire is 16$\u00d7$10 ^11 Nm ^-2 , the extension of wire over its natural length is :",
+        "options": [
+            "0.03 mm",
+            "0.04 mm",
+            "0.02 mm",
+            "0.01 mm"
+        ],
+        "answer": "0.03 mm",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/speed-of-a-transverse-wave-on-a-straight-wire-mass-60-g-l-jee-main-physics-gravitation-9qzqvipkxp5xifnd",
+        "is_numerical": false,
+        "sub_topic": "Waves: String Velocity",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Velocity Young's modulus extension"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th April Evening Slot",
+        "question": "A small speaker delivers 2 W of audio output. At what distance from the speaker will one detect 120 dB intensity sound ? [Given reference intensity of sound as 10 ^\u201312 W/m ^2 ]",
+        "options": [
+            "20 cm",
+            "10 cm",
+            "40 cm",
+            "30 cm"
+        ],
+        "answer": "40 cm",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-small-speaker-delivers-2-w-of-audio-output-at-what-distan-jee-main-physics-waves-lcfxjstdirtljojn",
+        "is_numerical": false,
+        "sub_topic": "Waves: Intensity",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Intensity level spherical source"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th April Evening Slot",
+        "question": "A tuning fork of frequency 480 Hz is used in an experiment for measuring speed of sound (v) in air by resonance tube method. Resonance is observed to occur at two successive lengths of the air column, l _1 = 30 cm and l _2 = 70 cm. Then, v is equal to -",
+        "options": [
+            "338 ms ^\u20131",
+            "384 ms ^\u20131",
+            "379 ms ^\u20131",
+            "332 ms ^\u20131"
+        ],
+        "answer": "384 ms ^\u20131",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-tuning-fork-of-frequency-480-hz-is-used-in-an-experiment-f-jee-main-physics-waves-2jxu2dhjjptrarjr",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Air Column",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Speed from successive resonance lengths"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 10th April Evening Slot",
+        "question": "A source of sound S is moving with a velocity of 50 m/s towards a stationary observer. The observer measures the frequency of the source as 1000 Hz. What will be the apparent frequency of the source when it is moving away from the observer after crossing him? (Take velocity of sound in air is 350 m/s)",
+        "options": [
+            "750 Hz",
+            "857 Hz",
+            "807 Hz",
+            "1143 Hz"
+        ],
+        "answer": "750 Hz",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-source-of-sound-s-is-moving-with-a-velocity-of-50-ms-towa-jee-main-physics-waves-ru8qfpyhnwdinenc",
+        "is_numerical": false,
+        "sub_topic": "Waves: Doppler Effect",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Frequency moving source across observer"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 10th April Evening Slot",
+        "question": "The correct figure that shows, schematically, the wave pattern produced by superposition of two waves of frequencies 9 Hz and 11 Hz, is :",
+        "options": [
+            "[IMAGE: https://imagex.cdn.examgoal.net/3rsa0w2w9jwzis3rt/5daf639d-26b7-4859-82ab-378a3b5a25cb/d76d1090-9085-11e9-86c1-73f7f991b766/file-3rsa0w2w9jwzis3ru.png]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/3rsa0w2w9jwzisgfs/0ef73a30-6a9d-43d5-9584-041a00dc0134/e135cb80-9085-11e9-86c1-73f7f991b766/file-3rsa0w2w9jwzisgft.png]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/3rsa0w2w9jwzit1rk/85660ec5-7982-40d0-9f49-8787052b8d5b/f1af5300-9085-11e9-86c1-73f7f991b766/file-3rsa0w2w9jwzit1rl.png]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/3rsa0w2w9jwzite0q/5873db7e-cb9f-4ca3-a9bc-de2a6879daf6/fb26b9a0-9085-11e9-86c1-73f7f991b766/file-3rsa0w2w9jwzite0r.png]"
+        ],
+        "answer": "[IMAGE: https://imagex.cdn.examgoal.net/3rsa0w2w9jwzit1rk/85660ec5-7982-40d0-9f49-8787052b8d5b/f1af5300-9085-11e9-86c1-73f7f991b766/file-3rsa0w2w9jwzit1rl.png]",
+        "images": [
+            "https://imagex.cdn.examgoal.net/3rsa0w2w9jwzis3rt/5daf639d-26b7-4859-82ab-378a3b5a25cb/d76d1090-9085-11e9-86c1-73f7f991b766/file-3rsa0w2w9jwzis3ru.png",
+            "https://imagex.cdn.examgoal.net/3rsa0w2w9jwzisgfs/0ef73a30-6a9d-43d5-9584-041a00dc0134/e135cb80-9085-11e9-86c1-73f7f991b766/file-3rsa0w2w9jwzisgft.png",
+            "https://imagex.cdn.examgoal.net/3rsa0w2w9jwzit1rk/85660ec5-7982-40d0-9f49-8787052b8d5b/f1af5300-9085-11e9-86c1-73f7f991b766/file-3rsa0w2w9jwzit1rl.png",
+            "https://imagex.cdn.examgoal.net/3rsa0w2w9jwzite0q/5873db7e-cb9f-4ca3-a9bc-de2a6879daf6/fb26b9a0-9085-11e9-86c1-73f7f991b766/file-3rsa0w2w9jwzite0r.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/the-correct-figure-that-shows-schematically-the-wave-patte-jee-main-physics-waves-rm0ciwaicxm4nlsb",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Beats",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "Beat envelope shape visualization"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th April Morning Slot",
+        "question": "A submarine (A) travelling at 18 km/hr is being chased along the line of its velocity by another submarine (B) travelling at 27 km/hr. B sends a sonar signal of 500 Hz to detect A and receives a reflected sound of frequency$\u03c5$. The value of$\u03c5$is close to: (Speed of sound in water =1500 ms ^\u20131 )",
+        "options": [
+            "507 Hz",
+            "502 Hz",
+            "499 Hz",
+            "504 Hz"
+        ],
+        "answer": "502 Hz",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-submarine-a-travelling-at-18-kmhr-is-being-chased-along-jee-main-physics-waves-685h9gamefzwtm6q",
+        "is_numerical": false,
+        "sub_topic": "Waves: Doppler Effect",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Double Doppler shift reflection"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th April Evening Slot",
+        "question": "Two cars A and B are moving away from each other in opposite directions. Both the cars are moving with a speed of 20 ms ^\u20131 with respect to the ground. If an observer in car A detects a frequency 2000 Hz of the sound coming from car B, what is the natural frequency of the sound source in car B ? (speed of sound in air = 340 ms ^\u20131 ) :-",
+        "options": [
+            "2300 Hz",
+            "2060 Hz",
+            "2250 Hz",
+            "2150 Hz"
+        ],
+        "answer": "2250 Hz",
+        "images": [
+            "https://imagex.cdn.examgoal.net/7kejek18948te/5e7f4b76-1dc8-4cc7-bed6-b246c57410f7/f919d820-e483-11e9-a7bc-b7b08ce8d541/file-7kejek18948tf-392w.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/two-cars-a-and-b-are-moving-away-from-each-other-in-opposite-jee-main-physics-units-and-measurements-x3k2wgbhd0rixmxe",
+        "is_numerical": false,
+        "sub_topic": "Waves: Doppler Effect",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Source frequency both moving away"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 10th April Morning Slot",
+        "question": "A stationary source emits sound waves of frequency 500 Hz. Two observers moving along a line passing through the source detect sound to be of frequencies 480 Hz and 530 Hz. Their respective speeds are, in ms\u20131, (Given speed of sound = 300 m/s)",
+        "options": [
+            "12, 18",
+            "16, 14",
+            "12, 16",
+            "8, 18"
+        ],
+        "answer": "12, 18",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-stationary-source-emits-sound-waves-of-frequency-500-hz-t-jee-main-physics-units-and-measurements-6y6mzyozaabrq0op",
+        "is_numerical": false,
+        "sub_topic": "Waves: Doppler Effect",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Observer speeds stationary source"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th April Evening Slot",
+        "question": "Two sources of sound S _1 and S _2 produce sound waves of same frequency 660 Hz. A listener is moving from source S _1 towards S _2 with a constant speed u m/s and he hears 10 beats/s. The velocity of sound is 330 m/s. Then, u equals :",
+        "options": [
+            "10.0 m/s",
+            "5.5 m/s",
+            "15.0 m/s",
+            "2.5 m/s"
+        ],
+        "answer": "2.5 m/s",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/two-sources-of-sound-ssub1sub-and-ssub2sub-produce-jee-main-physics-waves-mwz0shdfhaelhumk",
+        "is_numerical": false,
+        "sub_topic": "Waves: Doppler Effect",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Beats from two Doppler sources"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th April Morning Slot",
+        "question": "A string is clamped at both the ends and it is vibrating in its 4th harmonic. The equation of the stationary wave is Y = 0.3 sin(0.157x) cos(200pt). The length of the string is : (All quantities are in SI units.)",
+        "options": [
+            "60 m",
+            "20 m",
+            "80 m",
+            "40 m"
+        ],
+        "answer": "80 m",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-string-is-clamped-at-both-the-ends-and-it-is-vibrating-in-jee-main-physics-units-and-measurements-pqxqdicg4vzrqqdz",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Standing Wave",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Length from harmonic equation"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th April Morning Slot",
+        "question": "The pressure wave, P = 0.01 sin [1000t \u2013 3x] Nm ^\u20132 , corresponds to the sound produced by a vibrating blade on a day when atmospheric temperature is 0\u00b0C. On some other day, when temperature is T, the speed of sound produced by the same blade and at the same frequency is found to be 336 ms ^\u20131 . Approximate value of T is",
+        "options": [
+            "12\u00b0C",
+            "15\u00b0C",
+            "4\u00b0C",
+            "11\u00b0C"
+        ],
+        "answer": "4\u00b0C",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-pressure-wave-p-001-sin-1000t-3x-nm2-corre-jee-main-physics-units-and-measurements-62yufbhiemddlciv",
+        "is_numerical": false,
+        "sub_topic": "Waves: Speed Properties",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Speed temperature dependence"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 8th April Morning Slot",
+        "question": "[IMAGE: https://imagex.cdn.examgoal.net/XkHXDeLLRIJ4tXYOV/hyMQw3PZmHtk7nYhTiTMrUo0Db6jd/LXazujc3Ochq28PbNoymf1/image.png] A wire of length 2L, is made by joining two wires A and B of same length but different radii r and 2r and made of the same material. It is vibrating at a frequency such that the joint of the two wires forms a node. If the number of antinodes in wire A is p and that in B is q then the ratio p : q is :",
+        "options": [
+            "3 : 5",
+            "4 : 9",
+            "1 : 2",
+            "1 : 4"
+        ],
+        "answer": "1 : 2",
+        "images": [
+            "https://imagex.cdn.examgoal.net/XkHXDeLLRIJ4tXYOV/hyMQw3PZmHtk7nYhTiTMrUo0Db6jd/LXazujc3Ochq28PbNoymf1/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-wire-of-length-2l-is-made-by-joining-two-wires-a-and-b-of-jee-main-physics-units-and-measurements-dqsuacasfo2hkvqc",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Composite String",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Antinode ratio composite wire"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th April Morning Slot",
+        "question": "A progressive wave travelling along the positive x-direction is represented by y(x,t) = Asin(kx \u2013$\u03c9$t +$\u03d5$). Its snapshot at t = 0 is given in the figure. [IMAGE: https://imagex.cdn.examgoal.net/3rsa0w2w9jx3pserq/49f97d57-a229-4069-915a-a46d397d8bb7/626c5660-92d4-11e9-86c1-73f7f991b766/file-3rsa0w2w9jx3pserr.png] For this wave, the phase$\u03d5$is :",
+        "options": [
+            "$\u03c02$",
+            "$\u03c0$",
+            "0",
+            "$\u2212\u03c02$"
+        ],
+        "answer": "$\u03c0$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/3rsa0w2w9jx3pserq/49f97d57-a229-4069-915a-a46d397d8bb7/626c5660-92d4-11e9-86c1-73f7f991b766/file-3rsa0w2w9jx3pserr.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-progressive-wave-travelling-along-the-positive-x-direction-jee-main-physics-waves-ksvrgydhdidsh36z",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Equation Formulation",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "Initial phase from graph"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th April Evening Slot",
+        "question": "A string 2.0 m long and fixed at its ends is driven by a 240 Hz vibrator. The string vibrates in its third harmonic mode. The speed of the wave and its fundamental frequency is :-",
+        "options": [
+            "180m/s, 80 Hz",
+            "180m/s, 120 Hz",
+            "320m/s, 120 Hz",
+            "320m/s, 80 Hz"
+        ],
+        "answer": "320m/s, 80 Hz",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-string-20-m-long-and-fixed-at-its-ends-is-driven-by-a-240-jee-main-physics-units-and-measurements-2c24i3jctbzq3utt",
+        "is_numerical": false,
+        "sub_topic": "Resonance: String Harmonics",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Speed fundamental from harmonic"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th January Evening Slot",
+        "question": "A resonance tube is old and has jagged end. It is still used in the laboratory to determine velocity of sound in air. A tuning fork of frequency 512 Hz produces first resonance when the tube is filled with water to a mark 11 cm below a reference mark, near the open end of the tube. The experiment is repeated with another fork of frequency 256 Hz which produces first resonance when water reaches a mark 27 cm below the reference mark. The velocity of sound in air, obtained in the experiment, is close to :",
+        "options": [
+            "335 ms ^\u20131",
+            "328 ms ^\u20131",
+            "341 ms ^\u20131",
+            "322 ms ^\u20131"
+        ],
+        "answer": "328 ms ^\u20131",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l3318jt5/c00c244f-33d6-4e91-865a-3851e6d314eb/74f29390-d1f5-11ec-b83f-ebfea682138a/file-1l3318jt6.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-resonance-tube-is-old-and-has-jagged-end-it-is-still-used-jee-main-physics-units-and-measurements-jedxytaseqgrirbl",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Air Column",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "End correction two frequencies"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th January Morning Slot",
+        "question": "A travelling harmonic wave is represented by the equation y(x,t) = 10 ^\u20133 sin (50t + 2x), where, x and y are in mater and t is in seconds. Which of the following is a correct statement about the wave ?",
+        "options": [
+            "The wave is propagating along the positive x-axis with speed 100 ms ^\u20131",
+            "The wave is propagating along the positive x-axis with speed 25 ms ^\u20131",
+            "The wave is propagating along the negative x-axis with speed 25 ms ^\u20131",
+            "The wave is propagating along the negative x-axis with speed 100 ms ^\u20131"
+        ],
+        "answer": "The wave is propagating along the negative x-axis with speed 25 ms ^\u20131",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-travelling-harmonic-wave-is-represented-by-the-equation-y-jee-main-physics-units-and-measurements-br5julkgyhif47yj",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Equation Analysis",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Direction speed from k omega"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 11th January Morning Slot",
+        "question": "Equation of travelling wave on a stretched string of linear density 5 g/m is y = 0.03 sin(450 t \u2013 9x) where distance and time are measured in SI units. The tension in the string is :",
+        "options": [
+            "10 N",
+            "7.5 N",
+            "5 N",
+            "12.5 N"
+        ],
+        "answer": "12.5 N",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/equation-of-travelling-wave-on-a-stretched-string-of-linear-jee-main-physics-units-and-measurements-nwb7lt6mq4dlvael",
+        "is_numerical": false,
+        "sub_topic": "Waves: String Velocity",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Tension from wave parameters"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 10th January Morning Slot",
+        "question": "A string of length 1 m and mass 5 g is fixed at both ends. The tension in the string is 8.0 N. The string is set into vibration using an external vibrator of frequency 100 Hz. The separation between successive nodes on the string is close to -",
+        "options": [
+            "16.6 cm",
+            "10.0 cm",
+            "20.0 cm",
+            "33.3 cm"
+        ],
+        "answer": "20.0 cm",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-string-of-length-1-m-and-mass-5-g-is-fixed-at-both-ends-t-jee-main-physics-units-and-measurements-cot4zj7bqasckttx",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Standing Wave",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Node separation frequency string"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 10th January Morning Slot",
+        "question": "A train moves towards a stationary observer with speed 34 m/s. The train sounds a whistle and its frequency registered by the observer is \u0192 _1 . If the speed of the train is reduced to 17 m/s, the frequency registered is \u0192 _2 . If speed of sound is 340 m/s, then the ratio \u0192 _1 /\u0192 _2 is -",
+        "options": [
+            "19/18",
+            "20/19",
+            "21/20",
+            "18/17"
+        ],
+        "answer": "19/18",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-train-moves-towards-a-stationary-observer-with-speed-34-m-jee-main-physics-units-and-measurements-w21madkrbthgjaas",
+        "is_numerical": false,
+        "sub_topic": "Waves: Doppler Effect",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Frequency ratio two speeds"
+    },
+    {
+        "metadata": "JEE Main 2018 (Offline)",
+        "question": "A granite rod of 60 cm length is clamped at its middle point and is set into longitudinal vibrations. The density of granite is 2.7$\u00d7$10 ^3 kg/m ^3 and its Young\u2019s modulus is 9.27$\u00d7$10 ^10 Pa. What will be the fundamental frequency of the longitudinal vibrations ?",
+        "options": [
+            "7.5 kHz",
+            "5 kHz",
+            "2.5 kHz",
+            "10 kHz"
+        ],
+        "answer": "5 kHz",
+        "images": [
+            "https://imagex.cdn.examgoal.net/P1F9stgzeDOCG7eJk/cX8Z5eBtITL4OaxIMd8NKqDwoPpbY/FnsSZ9pvMMuKumDjzx2vud/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-granite-rod-of-60-cm-length-is-clamped-at-its-middle-point-2018-marks-4-cmbfz9iyo51ltrul.htm",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Standing Wave",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Longitudinal frequency Young's modulus"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th January Evening Slot",
+        "question": "A musician using an open flute of length 50 cm producess second harmonic sound waves. A person runs towards the musician from another end of hall at a speed of 10 km/h. If the wave speed is 330 m/s, the frequency heard by the running person shall be close to :",
+        "options": [
+            "666 Hz",
+            "753 Hz",
+            "500 Hz",
+            "333 Hz"
+        ],
+        "answer": "666 Hz",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-musician-using-an-open-flute-of-length-50-cm-producess-sec-jee-main-physics-units-and-measurements-xnequwhkf8xsmfgc",
+        "is_numerical": false,
+        "sub_topic": "Waves: Doppler Effect",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Doppler open pipe second harmonic"
+    },
+    {
+        "metadata": "JEE Main 2018 (Online) 16th April Morning Slot",
+        "question": "Two sitar strings, A and B, playing the note 'Dha' are slightly out of tune and produce beats of frequency 5 Hz. The tension of the string B s slightly increased and the beat frequency is found to decrease by 3Hz. If the frequency of A is 425 Hz, the original frequency of B is :",
+        "options": [
+            "430 Hz",
+            "420 Hz",
+            "428 Hz",
+            "422 Hz"
+        ],
+        "answer": "420 Hz",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/two-sitar-strings-a-and-b-playing-the-note-dha-are-slig-jee-main-physics-units-and-measurements-9fe5tvhd493d7sdc",
+        "is_numerical": false,
+        "sub_topic": "Waves: Beats",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Beats change tension effect"
+    },
+    {
+        "metadata": "JEE Main 2018 (Online) 16th April Morning Slot",
+        "question": "The end correction of a resonance column is 1 cm. If the shortest length resonating with the tunning fork is 10 cm, the next resonating length should be :",
+        "options": [
+            "28 cm",
+            "32 cm",
+            "36 cm",
+            "40 c"
+        ],
+        "answer": "32 cm",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-end-correction-of-a-resonance-column-is-1-cm-if-the-sho-jee-main-physics-units-and-measurements-uibtdnwogdnwug2x",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Air Column",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "End correction resonance lengths"
+    },
+    {
+        "metadata": "JEE Main 2018 (Online) 15th April Morning Slot",
+        "question": "A tuning fork vibrates with frequency$256$$Hz$and gives one beat per second with the third normal mode of vibration of an open pipe. What is the length of the pipe ? (Speed of sound in air is$340ms\u22121$)",
+        "options": [
+            "$220$$cm$",
+            "$190$$cm$",
+            "$180$$cm$",
+            "$200$$cm$"
+        ],
+        "answer": "$200$$cm$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-tuning-fork-vibrates-with-frequency-256-hz-and-giv-jee-main-physics-units-and-measurements-i92v2tkrh0gzpwgd",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Organ Pipe Harmonics",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Beats closed pipe length"
+    },
+    {
+        "metadata": "JEE Main 2017 (Online) 9th April Morning Slot",
+        "question": "A standing wave is formed by the superposition of two waves travelling in opposite directions. The transverse displacement is given by y(x, t) = 0.5 sin$(5\u03c04x)$cos(200$\u03c0$t). What is the speed of the travelling wave moving in the positive x direction ? (x and t are in meter and second, respectively.)",
+        "options": [
+            "160 m/s",
+            "90 m/s",
+            "180 m/s",
+            "120 m/s"
+        ],
+        "answer": "160 m/s",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-standing-wave-is-formed-by-the-superposition-of-two-waves-jee-main-physics-units-and-measurements-yatrfip924bknfwt",
+        "is_numerical": false,
+        "sub_topic": "Waves: Standing Wave",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Speed from standing wave equation"
+    },
+    {
+        "metadata": "JEE Main 2017 (Online) 9th April Morning Slot",
+        "question": "In an experiment to determine the period of a simple pendulum of length 1 m, it is attached to different spherical bobs of radii r _1 and r _2 . The two spherical bobs have uniform mass distribution. If the relative difference in the periods, is found to be 5\u00d710 ^\u22124 s, the difference in radii,$|$r _1$\u2212$r _2$|$is best given by :",
+        "options": [
+            "1 cm",
+            "0.05 cm",
+            "0.5 cm",
+            "0.01 cm"
+        ],
+        "answer": "0.05 cm",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-an-experiment-to-determine-the-period-of-a-simple-pendulu-jee-main-physics-units-and-measurements-t8xwjhzmdid61ubb",
+        "is_numerical": false,
+        "sub_topic": "Waves: SHM Representation",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Pendulum period error analysis"
+    },
+    {
+        "metadata": "JEE Main 2017 (Offline)",
+        "question": "An observer is moving with half the speed of light towards a stationary microwave source emitting waves at frequency 10 GHz. What is the frequency of the microwave measured by the observer? (speed of light = 3 \u00d710 ^8 ms ^\u20131 )",
+        "options": [
+            "15.3 GHz",
+            "10.1 GHz",
+            "12.1 GHz",
+            "17.3 GHz"
+        ],
+        "answer": "17.3 GHz",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-observer-is-moving-with-half-the-speed-of-light-towards-a-2017-marks-4-2kcecq7w09psggxn.htm",
+        "is_numerical": false,
+        "sub_topic": "Waves: Doppler Effect",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Relativistic Doppler shift"
+    },
+    {
+        "metadata": "JEE Main 2017 (Online) 8th April Morning Slot",
+        "question": "Two wires W _1 and W _2 have the same radius r and respective densities$\u03c1$_1 and$\u03c1$_2 such that \u03c1 _2 = 4$\u03c1$_1 . They are joined together at the point O, as shown in the figure. The combination is used as a sonometer wire and kept under tension T. The point O is midway between the two bridges. When a stationary wave is set up in the composite wire, the joint is found to be a node. The ratio of the number of antinodes formed in W _1 to W _2 is : [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l83nzr9f/2aa489a4-5800-4f4b-8b92-76f6d2c12b33/87497130-354b-11ed-8c5c-f3f0850e6b94/file-1l83nzr9g.png?format=png]",
+        "options": [
+            "1 : 1",
+            "1 : 2",
+            "1 : 3",
+            "4 : 1"
+        ],
+        "answer": "1 : 2",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l83nzr9f/2aa489a4-5800-4f4b-8b92-76f6d2c12b33/87497130-354b-11ed-8c5c-f3f0850e6b94/file-1l83nzr9g.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/two-wires-w1-and-w2-have-the-same-radius-r-and-respective-jee-main-physics-units-and-measurements-wnmbq71iklfhcwpo",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Composite String",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Antinode ratio linear density"
+    },
+    {
+        "metadata": "JEE Main 2018 (Online) 15th April Evening Slot",
+        "question": "5 beats / econd are heard when a tuning fork is sounded with a sonometer wire under tension, when the length of the sonometer wire is either 0.95 m or 1 m. The frequency of the fork will be :",
+        "options": [
+            "195 Hz",
+            "150 Hz",
+            "300 Hz",
+            "251 Hz"
+        ],
+        "answer": "195 Hz",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/5-beats-econd-are-heard-when-a-tuning-fork-is-sounded-with-jee-main-physics-units-and-measurements-m0tdekjd2omc6vqt",
+        "is_numerical": false,
+        "sub_topic": "Waves: Beats",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Frequency tuning fork sonometer"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th January Morning Slot",
+        "question": "A heavy ball of mass M is suspendeed from the ceiling of a car by a light string of mass m (m < < M). When the car is at rest, the speed of transverse waves in the string is 60 ms ^$\u2212$1 . When the car has acceleration a, the wave-speed increases to 60.5 ms ^$\u2212$1 . The value of a, in terms of gravitational acceleration g, is closest to :",
+        "options": [
+            "$g30$",
+            "$g5$",
+            "$g10$",
+            "$g20$"
+        ],
+        "answer": "$g5$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/6y3zli1ljexxhav/257f9e0f-db8d-4565-a4ac-a642545d47e9/6393ee70-1545-11ee-a085-a368e58ec1a5/file-6y3zli1ljexxhaw.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-block-of-mass-m-is-suspended-with-a-uniform-string-of-mass-jee-main-physics-units-and-measurements-iivcnwlnwvfkeh7u",
+        "is_numerical": false,
+        "sub_topic": "Waves: String Velocity",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Velocity change car acceleration"
+    },
+    {
+        "metadata": "JEE Main 2015 (Offline)",
+        "question": "A train is moving on a straight track with speed$20ms\u22121.$It is blowing its whistle at the frequency of$1000$$Hz$. The percentage change in the frequency heard by a person standing near the track as the train passes him is (speed of sound$=320ms\u22121$) close to :",
+        "options": [
+            "$18%$",
+            "$24%$",
+            "$6%$",
+            "$12%$"
+        ],
+        "answer": "$12%$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-train-is-moving-on-a-straight-track-with-speed-20ms-2015-marks-4-oexri6lu6uvj7aju.htm",
+        "is_numerical": false,
+        "sub_topic": "Waves: Doppler Effect",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Percentage change Doppler"
+    },
+    {
+        "metadata": "JEE Main 2016 (Online) 10th April Morning Slot",
+        "question": "A toy-car, blowing its horn, is moving with a steady speed of 5 m/s, away from a wall. An observer, towards whom the toy car is moving, is able to hear 5 beats per second. If the velocity of sound in air is 340 m/s, the frequency of the horn of the toy car is close to :",
+        "options": [
+            "680 Hz",
+            "510 Hz",
+            "340 Hz",
+            "170 Hz"
+        ],
+        "answer": "170 Hz",
+        "images": [
+            "https://imagex.cdn.examgoal.net/beEqzZfGZCsiLLcCz/W2KXlCTk332Q4LfsBCdduxR7GbWUq/oWR77h4YpdDLMiNNP0BHjX/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-toy-car-blowing-its-horn-is-moving-with-a-steady-speed-o-jee-main-physics-units-and-measurements-aqd7zzolf06dibdo",
+        "is_numerical": false,
+        "sub_topic": "Waves: Doppler Effect",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Beats from direct and reflected"
+    },
+    {
+        "metadata": "JEE Main 2016 (Online) 9th April Morning Slot",
+        "question": "Two engines pass each other moving in opposite directions with uniform speed of 30 m/s. One of them is blowing a whistle of frequency 540 Hz. Calculate the frequency heard by driver of second engine before they pass each other. Speed of sound is 330 m/sec :",
+        "options": [
+            "450 Hz",
+            "540 Hz",
+            "648 Hz",
+            "270 Hz"
+        ],
+        "answer": "648 Hz",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/two-engines-pass-each-other-moving-in-opposite-directions-wi-jee-main-physics-units-and-measurements-uwmxajaxayo8dh6t",
+        "is_numerical": false,
+        "sub_topic": "Waves: Doppler Effect",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Observer source approaching Doppler"
+    },
+    {
+        "metadata": "JEE Main 2016 (Offline)",
+        "question": "A pipe open at both ends has a fundamental frequency$f$in air. The pipe is dipped vertically in water so that half of it is in water. The fundamental frequency of the air column is now :",
+        "options": [
+            "$2f$",
+            "$f$",
+            "$f2$",
+            "$3f4$"
+        ],
+        "answer": "$f$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l86iub7w/acfb8cc2-3aa0-40d9-b7e2-606784b6ac6e/bc26b8c0-36dd-11ed-a9f0-f56124f74cf4/file-1l86iub7x.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-pipe-open-at-both-ends-has-a-fundamental-frequency-f-i-2016-marks-4-rtknttaugcokrodk.htm",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Organ Pipe Tuning",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Frequency half submerged pipe"
+    },
+    {
+        "metadata": "AIEEE 2010",
+        "question": "The equation of a wave on a string of linear mass density$0.04kgm\u22121$is given by$y=0.02(m)sin\u2061[2\u03c0(t0.04(s)\u2212x0.50(m))].$The tension in the string is",
+        "options": [
+            "$4.0N$",
+            "$12.5$$N$",
+            "$0.5$$N$",
+            "$6.25$$N$"
+        ],
+        "answer": "$6.25$$N$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-equation-of-a-wave-on-a-string-of-linear-mass-density-2010-marks-4-omrgatsrjtlukdvp.htm",
+        "is_numerical": false,
+        "sub_topic": "Waves: String Velocity",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Tension from wave equation"
+    },
+    {
+        "metadata": "JEE Main 2016 (Offline)",
+        "question": "A uniform string of length$20$$m$is suspended from a rigid support. A short wave pulse is introduced at its lowest end. It starts moving up the string. The time taken to reach the supports is : (take$g=10ms\u22122$)",
+        "options": [
+            "$22s$",
+            "$2\u03c02s$",
+            "$2\u03c02s$",
+            "$2$$s$"
+        ],
+        "answer": "$22s$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l86hziky/7e5c11e4-b01b-420c-8967-abd2a693b4e0/63c15b20-36da-11ed-b5bb-c51481bdd3e4/file-1l86hzikz.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-uniform-string-of-length-20-m-is-suspended-from-a-2016-marks-4-6o1hbszmklgfi32x.htm",
+        "is_numerical": false,
+        "sub_topic": "Waves: String Velocity",
+        "logic_type": "Calculus",
+        "difficulty": 4,
+        "physics_key": "Time string variable tension"
+    },
+    {
+        "metadata": "JEE Main 2014 (Offline)",
+        "question": "A pipe of length$85$$cm$is closed from one end. Find the number of possible natural oscillations of air column in the pipe whose frequencies lie below$1250$$Hz$. The velocity of sound in air is$340$$m/s$.",
+        "options": [
+            "$12$",
+            "$8$",
+            "$6$",
+            "$4$"
+        ],
+        "answer": "$6$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-pipe-of-length-85-cm-is-closed-from-one-end-find-2014-marks-4-cnyozyez95rirvz7.htm",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Organ Pipe Harmonics",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Possible frequencies closed pipe"
+    },
+    {
+        "metadata": "AIEEE 2011",
+        "question": "The transverse displacement$y(x,t)$of a wave on a string is given by$y(x,t)=e\u2212(ax2+bt2+2abxt).$This represents$a:$",
+        "options": [
+            "wave moving in$\u2212x$direction with speed$ba$",
+            "standing wave of frequency$b$",
+            "standing wave of frequency$1b$",
+            "wave moving in$+x$direction speed$ab$"
+        ],
+        "answer": "wave moving in$\u2212x$direction with speed$ba$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-transverse-displacement-yx-t-of-a-wave-on-a-strin-2011-marks-4-zutelygzrwononiv.htm",
+        "is_numerical": false,
+        "sub_topic": "Waveform: General Form",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Wave direction speed general form"
+    },
+    {
+        "metadata": "JEE Main 2013 (Offline)",
+        "question": "A sonometer wire of length$1.5$$m$is made of steel. The tension in it produces an elastic strain of$1%$. What is the fundamental frequency of steel if density and elasticity of steel are$7.7\u00d7103kg/m3$and$2.2\u00d71011N/m2$respectively ?",
+        "options": [
+            "$188.5$$Hz$",
+            "$178.2$$Hz$",
+            "$200.5$$Hz$",
+            "$770$$Hz$"
+        ],
+        "answer": "$178.2$$Hz$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-sonometer-wire-of-length-15-m-is-made-of-steel-2013-marks-4-hqq5s6cvcit8jecd.htm",
+        "is_numerical": false,
+        "sub_topic": "Resonance: String Harmonics",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Fundamental frequency elasticity strain"
+    },
+    {
+        "metadata": "AIEEE 2009",
+        "question": "Three sound waves of equal amplitudes have frequencies$(v\u22121),v,(v+1).$They superpose to give beats. The number of beats produced per second will be :",
+        "options": [
+            "$3$",
+            "$2$",
+            "$1$",
+            "$4$"
+        ],
+        "answer": "$2$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/three-sound-waves-of-equal-amplitudes-have-frequencies-le-2009-marks-4-fek2e829uwwupmj5.htm",
+        "is_numerical": false,
+        "sub_topic": "Waves: Beats",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Beats superposition three waves"
+    },
+    {
+        "metadata": "AIEEE 2008",
+        "question": "While measuring the speed of sound by performing a resonance column experiment, a student gets the first resonance condition at a column length of$18$$cm$during winter. Repeating the same experiment during summer, she measures the column length to be$x$$cm$for the second resonance. Then",
+        "options": [
+            "$18>x$",
+            "$x>54$",
+            "$54>x>36$",
+            "$36>x>18$"
+        ],
+        "answer": "$x>54$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/while-measuring-the-speed-of-sound-by-performing-a-resonance-2008-marks-4-jrmc9oomb9ar6zq3.htm",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Air Column",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Resonance length temperature effect"
+    },
+    {
+        "metadata": "AIEEE 2012",
+        "question": "A cylindrical tube, open at both ends, has a fundamental frequency,$f,$in air. The tube is dipped vertically in water so that half of it is in water. The fundamental frequency of the air-column is now :",
+        "options": [
+            "$f$",
+            "$f/2$",
+            "$3/4$",
+            "$2f$"
+        ],
+        "answer": "$f$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-cylindrical-tube-open-at-both-ends-has-a-fundamental-fre-2012-marks-4-qfw7nc5xflugusbz.htm",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Organ Pipe Tuning",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Frequency half submerged pipe"
+    },
+    {
+        "metadata": "AIEEE 2008",
+        "question": "A wave travelling along the$x$-axis is described by the equation$y(x,t)=0.005$$cos(\u03b1x\u2212\u03b2t).$If the wavelength and the time period of the wave are$0.08$$m$and$2.0s$, respectively, then$\u03b1$and$\u03b2$in appropriate units are",
+        "options": [
+            "$\u03b1=25.00\u03c0,\u03b2=\u03c0$",
+            "$\u03b1=0.08\u03c0,\u03b2=2.0\u03c0$",
+            "$\u03b1=0.04\u03c0,\u03b2=1.0\u03c0$",
+            "$\u03b1=12.50\u03c0,\u03b2=\u03c02.0$"
+        ],
+        "answer": "$\u03b1=25.00\u03c0,\u03b2=\u03c0$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-wave-travelling-along-the-x-axis-is-described-by-the-e-2008-marks-4-bgozeovzuyefkaps.htm",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Equation Analysis",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Wave number angular frequency"
+    },
+    {
+        "metadata": "AIEEE 2007",
+        "question": "A sound absorber attenuates the sound level by$20$$dB$. The intensity decreases by a factor of",
+        "options": [
+            "$100$",
+            "$1000$",
+            "$10000$",
+            "$10$"
+        ],
+        "answer": "$100$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-second-absorber-attenuates-the-sound-level-by-20-db-2007-marks-4-fcvli4kkhhjgaezv.htm",
+        "is_numerical": false,
+        "sub_topic": "Waves: Intensity",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Decibel intensity factor"
+    },
+    {
+        "metadata": "AIEEE 2009",
+        "question": "A motor cycle starts from rest and accelerates along a straight path at$2m/s2.$At the starting point of the motor cycle there is a stationary electric siren. How far has the motor cycle gone when the driver hears the frequency of the siren at$94%$of its value when the motor cycle was at rest? (Speed of sound$=330ms\u22121$)",
+        "options": [
+            "$98$$m$",
+            "$147$$m$",
+            "$196m$",
+            "$49$$m$"
+        ],
+        "answer": "$98$$m$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1POnWfVR0Y8DB7eSi/pNjeKMnw9GzZpaWsxVEN8SzzsQbf6/2UepBhXoKr2RLCCACXLmHM/image.svg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-motor-cycle-starts-from-rest-and-accelerates-along-a-strai-2009-marks-4-myrgursys9emm9qi.htm",
+        "is_numerical": false,
+        "sub_topic": "Waves: Doppler Effect",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Doppler uniform acceleration"
+    },
+    {
+        "metadata": "AIEEE 2005",
+        "question": "When two tuning forks (fork$1$and fork$2$) are sounded simultaneously,$4$beats per second are heated. Now, some tape is attached on the prong of the fork$2.$When the tuning forks are sounded again,$6$beats per second are heard. If the frequency of fork$1$is$200$$Hz$, then what was the original frequency of fork$2$?",
+        "options": [
+            "$202$$Hz$",
+            "$200$$Hz$",
+            "$204$$Hz$",
+            "$196$$Hz$"
+        ],
+        "answer": "$196$$Hz$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/when-two-tuning-forks-fork-1-and-fork-2-are-sounde-2005-marks-4-r72caxajntbmhhze.htm",
+        "is_numerical": false,
+        "sub_topic": "Waves: Beats",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Loading prong beat analysis"
+    },
+    {
+        "metadata": "AIEEE 2006",
+        "question": "A whistle producing sound waves of frequencies$9500$$Hz$and above is approaching a stationary person with speed$v$$ms\u22121.$The velocity of sound in air is$300ms\u22121.$If the person can hear frequencies upto a maximum of$10,000$$HZ,$the maximum value of$v$upto which he can hear whistle is",
+        "options": [
+            "$152ms\u22121$",
+            "$152ms\u22121$",
+            "$15ms\u22121$",
+            "$30ms\u22121$"
+        ],
+        "answer": "$15ms\u22121$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-whistle-producing-sound-waves-of-frequencies-9500-hz-2006-marks-4-sikoiadsyz9cp2gd.htm",
+        "is_numerical": false,
+        "sub_topic": "Waves: Doppler Effect",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Max velocity threshold frequency"
+    },
+    {
+        "metadata": "AIEEE 2006",
+        "question": "A string is stretched between fixed points separated by$75.0$$cm.$It is observed to have resonant frequencies of$420$$Hz$and$315$$Hz$. There are no other resonant frequencies between these two. Then, the lowest resonant frequency for this string is",
+        "options": [
+            "$105$$Hz$",
+            "$1.05$$Hz$",
+            "$1050$$Hz$",
+            "$10.5$$Hz$"
+        ],
+        "answer": "$105$$Hz$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-string-is-stretched-between-fixed-points-separated-by-75-2006-marks-4-boo8t7fzf1xcgko3.htm",
+        "is_numerical": false,
+        "sub_topic": "Resonance: String Harmonics",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Lowest frequency consecutive harmonics"
+    },
+    {
+        "metadata": "AIEEE 2005",
+        "question": "An observer moves towards a stationary source of sound, with a velocity one-fifth of the velocity of sound. What is the percentage increase in the apparent frequency ?",
+        "options": [
+            "$0.5%$",
+            "zero",
+            "$20%$",
+            "$5%$"
+        ],
+        "answer": "$20%$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-observer-moves-towards-a-stationary-source-of-sound-with-2005-marks-4-4mofo2vkfhmq6pth.htm",
+        "is_numerical": false,
+        "sub_topic": "Waves: Doppler Effect",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Percentage change moving observer"
+    },
+    {
+        "metadata": "AIEEE 2004",
+        "question": "The displacement$y$of a particle in a medium can be expressed as,$y=10\u22126sin$$(100t+20x+\u03c04)$$m$where$t$is in second and$x$in meter. The speed of the wave is",
+        "options": [
+            "$20m/s$",
+            "$5m/s$",
+            "$2000m/s$",
+            "$5\u03c0m/s$"
+        ],
+        "answer": "$5m/s$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-displacement-y-of-a-particle-in-a-medium-can-be-expr-2004-marks-4-ym7oagwezhc9oe3k.htm",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Velocity",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Wave speed omega k"
+    },
+    {
+        "metadata": "AIEEE 2002",
+        "question": "When temperature increases, the frequency of a tuning fork",
+        "options": [
+            "increases",
+            "decreases",
+            "remains same",
+            "increases or decreases depending on the material"
+        ],
+        "answer": "decreases",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/when-temperature-increases-the-frequency-of-a-tuning-fork-2002-marks-4-kn7awk9rxgnehywl.htm",
+        "is_numerical": false,
+        "sub_topic": "Device: Tuning Fork",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Frequency change temperature"
+    },
+    {
+        "metadata": "AIEEE 2003",
+        "question": "The displacement$y$of a wave travelling in the$x$-direction is given by$y=10\u22124sin\u2061(600t\u22122x+\u03c03)metres$where$x$is expressed in metres and$t$in seconds. The speed of the wave - motion, in$ms\u22121$, is",
+        "options": [
+            "$300$",
+            "$600$",
+            "$1200$",
+            "$200$"
+        ],
+        "answer": "$300$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-displacement-y-of-a-wave-travelling-in-the-x-dir-2003-marks-4-dk49uspnjkhi6cd9.htm",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Velocity",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Wave speed omega k"
+    },
+    {
+        "metadata": "AIEEE 2002",
+        "question": "Tube$A$has bolt ends open while tube$B$has one end closed, otherwise they are identical. The ratio of fundamental frequency of tube$A$and$B$is",
+        "options": [
+            "$1:2$",
+            "$1:4$",
+            "$2:1$",
+            "$4:1$"
+        ],
+        "answer": "$2:1$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/tube-a-has-bolt-ends-open-while-tube-b-has-one-end-c-2002-marks-4-9xffs0a6p88pwph5.htm",
+        "is_numerical": false,
+        "sub_topic": "Resonance: Organ Pipe Harmonics",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Fundamental frequency open closed ratio"
+    },
+    {
+        "metadata": "AIEEE 2002",
+        "question": "A wave$y=a$$sin\u2061(\u03c9t\u2212kx)$on a string meets with another wave producing a node at$x=0.$Then the equation of the unknown wave is",
+        "options": [
+            "$y=asin(\u03c9t+kx)$",
+            "$y=\u2212asin(\u03c9t+kx)$",
+            "$y=asin(\u03c9t\u2212kx)$",
+            "$y=\u2212asin(\u03c9t\u2212kx)$"
+        ],
+        "answer": "$y=\u2212asin(\u03c9t+kx)$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-wave-ya-sin-left-omega-t-kx-right-on-a-2002-marks-4-9ich0kinx8771d3q.htm",
+        "is_numerical": false,
+        "sub_topic": "Waves: Standing Wave",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Reflected wave equation node"
+    },
+    {
+        "metadata": "AIEEE 2002",
+        "question": "length of a string tied to two rigid supports is$40$$cm$. Maximum length (wavelength in$cm$) of a stationary wave produced on it is",
+        "options": [
+            "$20$",
+            "$80$",
+            "$40$",
+            "$120$"
+        ],
+        "answer": "$80$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/Q1tfN63KuicwKX8vp/2CaBh13F9LFCvpaD35KG2VvHjYo52/NOiNqj1FBJORAC6ChD01uh/image.svg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/length-of-a-string-tied-to-two-rigid-supports-is-40-cm-2002-marks-4-qez5vrytu04izt3c.htm",
+        "is_numerical": false,
+        "sub_topic": "Resonance: String Harmonics",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Wavelength fixed string length"
+    },
+    {
+        "metadata": "AIEEE 2003",
+        "question": "A metal wire of linear mass density of$9.8$$g/m$is stretched with a tension of$10$$kg$-$wt$between two rigid supports$1$metre apart. The wire passes at its middle point between the poles of a permanent magnet, and it vibrates in resonance when carrying an alternating current of frequency$n.$The frequency$n$of the alternating source is",
+        "options": [
+            "$50$$Hz$",
+            "$100$$Hz$",
+            "$200$$Hz$",
+            "$25$$Hz$"
+        ],
+        "answer": "$50$$Hz$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-metal-wire-of-linear-mass-density-of-98-gm-is-st-2003-marks-4-qsfc42vbdlakecvd.htm",
+        "is_numerical": false,
+        "sub_topic": "Resonance: String Harmonics",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Frequency string magnetic field"
+    },
+    {
+        "metadata": "AIEEE 2003",
+        "question": "A tuning fork of known frequency$256$$Hz$makes$5$beats per second with the vibrating string of a piano. The beat frequency decreases to$2$beats per second when the tension in the piano string is slightly increased. The frequency of the piano string before increasing the tension was",
+        "options": [
+            "$256+2Hz$",
+            "$256\u22122Hz$",
+            "$256\u22125Hz$",
+            "$256+5Hz$"
+        ],
+        "answer": "$256\u22125Hz$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-tuning-fork-of-known-frequency-256-hz-makes-5-2003-marks-4-plq7irnozqevfyyk.htm",
+        "is_numerical": false,
+        "sub_topic": "Waves: Beats",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Tension change beat analysis"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 5th April Evening Shift",
+        "question": "A sonometer wire of resonating length$90 cm$has a fundamental frequency of$400 Hz$when kept under some tension. The resonating length of the wire with fundamental frequency of$600 Hz$under same tension _______$cm$.",
+        "options": [],
+        "answer": "60",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-sonometer-wire-of-resonating-length-90-mathrmcm-jee-main-physics-motion-dzhfkm6htfeuyzo9",
+        "is_numerical": true,
+        "sub_topic": "Resonance: String Harmonics",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Length frequency inverse relation"
+    },
+    {
+        "metadata": "AIEEE 2002",
+        "question": "A tuning fork arrangement (pair) produces$4$beats/sec with one fork of frequency$288$$cps.$A little wax is placed on the unknown fork and it then produces$2$beats/sec. The frequency of the unknown fork is",
+        "options": [
+            "$286$$cps$",
+            "$292$$cps$",
+            "$294$$cps$",
+            "$288$$cps$"
+        ],
+        "answer": "$292$$cps$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-tuning-fork-arrangement-pair-produces-4-beatssec-wi-2002-marks-4-pvjyp3zhevkb48lj.htm",
+        "is_numerical": false,
+        "sub_topic": "Waves: Beats",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Waxing effect on frequency"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 6th April Evening Shift",
+        "question": "Two open organ pipes of lengths$60 cm$and$90 cm$resonate at$6th$and$5th$harmonics respectively. The difference of frequencies for the given modes is _________$Hz$. (Velocity of sound in air$=333 m/s$)",
+        "options": [],
+        "answer": "740",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/ptwo-open-organ-pipes-of-lengths-60-mathrmcm-and--jee-main-physics-motion-fvg5it8829jmy36w",
+        "is_numerical": true,
+        "sub_topic": "Resonance: Organ Pipe Harmonics",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Frequency difference higher harmonics"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 1st February Morning Shift",
+        "question": "A tuning fork resonates with a sonometer wire of length$1 m$stretched with a tension of$6 N$. When the tension in the wire is changed to$54 N$, the same tuning fork produces 12 beats per second with it. The frequency of the tuning fork is ________________$Hz$.",
+        "options": [],
+        "answer": "6",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-tuning-fork-resonates-with-a-sonometer-wire-of-length-1--jee-main-physics-xwdnzpfmko9qeeip",
+        "is_numerical": true,
+        "sub_topic": "Waves: Beats",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Tension change beat frequency"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 30th January Morning Shift",
+        "question": "In a closed organ pipe, the frequency of fundamental note is$30 Hz$. A certain amount of water is now poured in the organ pipe so that the fundamental frequency is increased to$110 Hz$. If the organ pipe has a cross-sectional area of$2 cm2$, the amount of water poured in the organ tube is __________ g. (Take speed of sound in air is$330 m/s$)",
+        "options": [],
+        "answer": "400",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-a-closed-organ-pipe-the-frequency-of-fundamental-note-jee-main-physics-motion-ugy6dce4degqdwf4",
+        "is_numerical": true,
+        "sub_topic": "Resonance: Organ Pipe Tuning",
+        "logic_type": "Template",
+        "difficulty": 4,
+        "physics_key": "Length change liquid volume"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 15th April Morning Shift",
+        "question": "The fundamental frequency of vibration of a string stretched between two rigid support is$50 Hz$. The mass of the string is$18 g$and its linear mass density is$20 g/m$. The speed of the transverse waves so produced in the string is ___________$ms\u22121$",
+        "options": [],
+        "answer": "90",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-fundamental-frequency-of-vibration-of-a-string-stretched-jee-main-physics-9kmnkc4tcyj9e3wf",
+        "is_numerical": true,
+        "sub_topic": "Resonance: String Harmonics",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Speed from length frequency"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 10th April Morning Shift",
+        "question": "A transverse harmonic wave on a string is given by$y(x,t)=5sin\u2061(6t+0.003x)$where x and y are in cm and t in sec. The wave velocity is _______________ ms$\u22121$.",
+        "options": [],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-transverse-harmonic-wave-on-a-string-is-given-byp-p-jee-main-physics-motion-veokeulpzsa0znpo",
+        "is_numerical": true,
+        "sub_topic": "Waveform: Velocity",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Wave velocity omega k unit conversion"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 27th January Evening Shift",
+        "question": "A closed organ pipe$150 cm$long gives 7 beats per second with an open organ pipe of length$350 cm$, both vibrating in fundamental mode. The velocity of sound is __________$m/s$.",
+        "options": [],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-closed-organ-pipe-150-mathrmcm-long-gives-7-bea-jee-main-physics-motion-iffqe1ehs2xnnxii",
+        "is_numerical": true,
+        "sub_topic": "Waves: Beats",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Beats closed open pipe fundamentals"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 30th January Evening Shift",
+        "question": "A point source is emitting sound waves of intensity$16\u00d710\u22128 Wm\u22122$at the origin. The difference in intensity (magnitude only) at two points located at a distances of$2m$and$4m$from the origin respectively will be _________$\u00d710\u22128 Wm\u22122$.",
+        "options": [],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-point-source-is-emitting-sound-waves-of-intensity-16-jee-main-physics-motion-6urm7mlzcydomk6a",
+        "is_numerical": true,
+        "sub_topic": "Waves: Intensity",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Intensity difference inverse square"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 12th April Morning Shift",
+        "question": "For a certain organ pipe, the first three resonance frequencies are in the ratio of$1:3:5$respectively. If the frequency of fifth harmonic is$405 Hz$and the speed of sound in air is$324 ms\u22121$the length of the organ pipe is _________$m$.",
+        "options": [],
+        "answer": "1",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pfor-a-certain-organ-pipe-the-first-three-resonance-frequ-jee-main-physics-motion-9vy7aml9xzs2uyjs",
+        "is_numerical": true,
+        "sub_topic": "Resonance: Organ Pipe Harmonics",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Pipe type length harmonic"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 13th April Evening Shift",
+        "question": "In an experiment with sonometer when a mass of$180 g$is attached to the string, it vibrates with fundamental frequency of$30 Hz$. When a mass$m$is attached, the string vibrates with fundamental frequency of$50 Hz$. The value of$m$is ___________ g.",
+        "options": [],
+        "answer": "500",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-an-experiment-with-sonometer-when-a-mass-of-180-mat-jee-main-physics-motion-jufnuk3jprrc8meq",
+        "is_numerical": true,
+        "sub_topic": "Resonance: String Harmonics",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Frequency mass relation"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 11th April Morning Shift",
+        "question": "The equation of wave is given by$Y=10\u22122sin\u20612\u03c0(160t\u22120.5x+\u03c0/4)$where$x$and$Y$are in$m$and$t$in$s$. The speed of the wave is ________$km h\u22121$.",
+        "options": [],
+        "answer": "1152",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-equation-of-wave-is-given-byp-pmathrmy10-jee-main-physics-motion-vq4pzneyupmyd43z",
+        "is_numerical": true,
+        "sub_topic": "Waveform: Velocity",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Wave speed k omega unit conversion"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 6th April Morning Shift",
+        "question": "A person driving car at a constant speed of$15 m/s$is approaching a vertical wall. The person notices a change of$40 Hz$in the frequency of his car's horn upon reflection from the wall. The frequency of horn is _______________$Hz$. (Given: Speed of sound :$330 m/s$)",
+        "options": [],
+        "answer": "420",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-person-driving-car-at-a-constant-speed-of-15-mathrm-jee-main-physics-motion-qolbigyznxobtuki",
+        "is_numerical": true,
+        "sub_topic": "Waves: Doppler Effect",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Reflected frequency moving source"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 29th January Morning Shift",
+        "question": "Two simple harmonic waves having equal amplitudes of 8 cm and equal frequency of 10 Hz are moving along the same direction. The resultant amplitude is also 8 cm. The phase difference between the individual waves is _________ degree.",
+        "options": [],
+        "answer": "120",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/ptwo-simple-harmonic-waves-having-equal-amplitudes-of-8-cm-jee-main-physics-motion-8mkmvosi0vmdav1z",
+        "is_numerical": true,
+        "sub_topic": "Waveform: Superposition",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Resultant amplitude phase difference"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 8th April Morning Shift",
+        "question": "An organ pipe$40 cm$long is open at both ends. The speed of sound in air is$360 ms\u22121$. The frequency of the second harmonic is ___________$Hz$.",
+        "options": [],
+        "answer": "900",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-organ-pipe-40-mathrmcm-long-is-open-at-both-en-jee-main-physics-motion-t7h339idx5i9tpd6",
+        "is_numerical": true,
+        "sub_topic": "Resonance: Organ Pipe Harmonics",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Second harmonic open pipe"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 8th April Evening Shift",
+        "question": "A guitar string of length 90 cm vibrates with a fundamental frequency of 120 Hz. The length of the string producing a fundamental frequency of 180 Hz will be _________ cm.",
+        "options": [],
+        "answer": "60",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-guitar-string-of-length-90-cm-vibrates-with-a-fundament-jee-main-physics-motion-tikjujrjcooekkqm",
+        "is_numerical": true,
+        "sub_topic": "Resonance: String Harmonics",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Length frequency fundamental"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 25th January Evening Shift",
+        "question": "A train blowing a whistle of frequency 320 Hz approaches an observer standing on the platform at a speed of 66 m/s. The frequency observed by the observer will be (given speed of sound = 330 ms$\u22121$) __________ Hz.",
+        "options": [],
+        "answer": "400",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-train-blowing-a-whistle-of-frequency-320-hz-approaches-jee-main-physics-motion-4t7a2cib13xzuftf",
+        "is_numerical": true,
+        "sub_topic": "Waves: Doppler Effect",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Source approaching stationary observer"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 31st January Evening Shift",
+        "question": "The displacement equations of two interfering waves are given by$y1=10sin\u2061(\u03c9t+\u03c03)cm,y2=5[sin\u2061\u03c9t+3cos\u2061\u03c9t]cm$respectively. The amplitude of the resultant wave is _______$cm$.",
+        "options": [],
+        "answer": "20",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-displacement-equations-of-two-interfering-waves-are-give-jee-main-physics-yqjcgwwrfgmxtn5e",
+        "is_numerical": true,
+        "sub_topic": "Waveform: Superposition",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Resultant amplitude sum"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 28th July Morning Shift",
+        "question": "The frequency of echo will be __________ Hz if the train blowing a whistle of frequency 320 Hz is moving with a velocity of 36 km/h towards a hill from which an echo is heard by the train driver. Velocity of sound in air is 330 m/s.",
+        "options": [],
+        "answer": "340",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-frequency-of-echo-will-be--hz-if-the-train-jee-main-physics-motion-mpns0bpiu6ai3ixo",
+        "is_numerical": true,
+        "sub_topic": "Waves: Doppler Effect",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Doppler effect echo frequency"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 25th January Morning Shift",
+        "question": "The distance between two consecutive points with phase difference of 60$\u2218$in a wave of frequency 500 Hz is 6.0 m. The velocity with which wave is travelling is __________ km/s",
+        "options": [],
+        "answer": "18",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1le5ky7xx/062183e2-42e3-4295-aca9-366c2da5a2a3/7ebd1e50-ad22-11ed-8bc1-d3bd0941e5b5/file-1le5ky7xy.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-distance-between-two-consecutive-points-with-phase-di-jee-main-physics-motion-vwgt13q1uoluvgx3",
+        "is_numerical": true,
+        "sub_topic": "Waveform: Phase",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Velocity from phase distance"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th July Morning Shift",
+        "question": "When a car is approaching the observer, the frequency of horn is$100 Hz$. After passing the observer, it is$50 Hz$. If the observer moves with the car, the frequency will be$x3 Hz$where$x=$________________.",
+        "options": [],
+        "answer": "200",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pwhen-a-car-is-approaching-the-observer-the-frequency-of-jee-main-physics-motion-xobja69a46cgh3v7",
+        "is_numerical": true,
+        "sub_topic": "Waves: Doppler Effect",
+        "logic_type": "Analytical",
+        "difficulty": 4,
+        "physics_key": "Observer moving with source"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th July Evening Shift",
+        "question": "A wire of length 30 cm, stretched between rigid supports, has it's n ^th and (n + 1) ^th harmonics at 400 Hz and 450 Hz, respectively. If tension in the string is 2700 N, it's linear mass density is ____________ kg/m.",
+        "options": [],
+        "answer": "3",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-wire-of-length-30-cm-stretched-between-rigid-supports-jee-main-physics-motion-bmhexhzxcykwtkxn",
+        "is_numerical": true,
+        "sub_topic": "Resonance: String Harmonics",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Linear density consecutive harmonics"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th July Evening Shift",
+        "question": "Two waves executing simple harmonic motions travelling in the same direction with same amplitude and frequency are superimposed. The resultant amplitude is equal to the$3$times of amplitude of individual motions. The phase difference between the two motions is ___________ (degree).",
+        "options": [],
+        "answer": "60",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/ptwo-waves-executing-simple-harmonic-motions-travelling-in-jee-main-physics-motion-0myk2j3hfx9ojbdq",
+        "is_numerical": true,
+        "sub_topic": "Waveform: Superposition",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Phase difference resultant amplitude"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 29th June Evening Shift",
+        "question": "In an experiment to determine the velocity of sound in air at room temperature using a resonance tube, the first resonance is observed when the air column has a length of 20.0 cm for a tuning fork of frequency 400 Hz is used. The velocity of the sound at room temperature is 336 ms ^$\u2212$1 . The third resonance is observed when the air column has a length of _____________ cm.",
+        "options": [],
+        "answer": "104",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-an-experiment-to-determine-the-velocity-of-sound-in-ai-jee-main-physics-motion-ejie6yjnpdu0rn96",
+        "is_numerical": true,
+        "sub_topic": "Resonance: Air Column",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "End correction third resonance"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th June Morning Shift",
+        "question": "The first overtone frequency of an open organ pipe is equal to the fundamental frequency of a closed organ pipe. If the length of the closed organ pipe is 20 cm. The length of the open organ pipe is _____________ cm.",
+        "options": [],
+        "answer": "80",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-first-overtone-frequency-of-an-open-organ-pipe-is-equ-jee-main-physics-motion-yq8vselurt2g35pv",
+        "is_numerical": true,
+        "sub_topic": "Resonance: Organ Pipe Length",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Open pipe overtone closed pipe fundamental"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 27th August Morning Shift",
+        "question": "Two cars X and Y are approaching each other with velocities 36 km/h and 72 km/h respectively. The frequency of a whistle sound as emitted by a passenger in car X, heard by the passenger in car Y is 1320 Hz. If the velocity of sound in air is 340 m/s, the actual frequency of the whistle sound produced is .................. Hz.",
+        "options": [],
+        "answer": "1210",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/two-cars-x-and-y-are-approaching-each-other-with-velocities-jee-main-physics-units-and-measurements-zezi7ljekcu0nypi",
+        "is_numerical": true,
+        "sub_topic": "Waves: Doppler Effect",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Source observer approaching"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th June Evening Shift",
+        "question": "A set of 20 tuning forks is arranged in a series of increasing frequencies. If each fork gives 4 beats with respect to the preceding fork and the frequency of the last fork is twice the frequency of the first, then the frequency of last fork is _________ Hz.",
+        "options": [],
+        "answer": "152",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-set-of-20-tuning-forks-is-arranged-in-a-series-of-incre-jee-main-physics-motion-7edickfdyvpptq6i",
+        "is_numerical": true,
+        "sub_topic": "Waves: Beats",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Arithmetic series beat frequency"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 27th August Evening Shift",
+        "question": "A tuning fork is vibrating at 250 Hz. The length of the shortest closed organ pipe that will resonate with the tuning fork will be __________ cm. (Take speed of sound in air as 340 ms ^$\u2212$1 )",
+        "options": [],
+        "answer": "34",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1ktqt4in2/3890ac8f-16cb-4252-bc6c-5ff4d44bf488/619257e0-190e-11ec-9e1c-4f8f7e7dad5b/file-1ktqt4in3.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-tuning-fork-is-vibrating-at-250-hz-the-length-of-the-shor-jee-main-physics-units-and-measurements-8ewweh6zrl2aq6rs",
+        "is_numerical": true,
+        "sub_topic": "Resonance: Organ Pipe Length",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Shortest closed pipe length"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 30th June Morning Shift",
+        "question": "An employee of a factory moving away from his workplace by a car listens to the siren of the factory. He drives the car at the speed of 72 kmh ^$\u2212$1 in the direction of wind which is blowing at 72 kmh ^$\u2212$1 speed. Frequency of siren is 720 Hz. The employee hears an apparent frequency of ____________ Hz. (Assume speed of sound to be 340 ms ^$\u2212$1 )",
+        "options": [],
+        "answer": "680",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-employee-of-a-factory-moving-away-from-his-workplace-b-jee-main-physics-motion-ef95pjvsjerzpq9r",
+        "is_numerical": true,
+        "sub_topic": "Waves: Doppler Effect",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Doppler shift with wind"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th July Morning Shift",
+        "question": "An observer is riding on a bicycle and moving towards a hill at$18kmh\u22121$. He hears a sound from a source at some distance behind him directly as well as after its reflection from the hill. If the original frequency of the sound as emitted by source is$640 Hz$and velocity of the sound in air is$320 m/s$, the beat frequency between the two sounds heard by observer will be _____________$Hz$.",
+        "options": [],
+        "answer": "20",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l6tcr1h9/39768849-cae4-40df-acbc-f337b8ee6638/829a8ed0-1bd3-11ed-bd9f-71db3a4811b2/file-1l6tcr1ha.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-observer-is-riding-on-a-bicycle-and-moving-towards-a-h-jee-main-physics-motion-zuubcdigodbg8zz9",
+        "is_numerical": true,
+        "sub_topic": "Waves: Doppler Effect",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Beats direct and reflected sound"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 31st August Morning Shift",
+        "question": "A wire having a linear mass density 9.0$\u00d7$10 ^$\u2212$4 kg/m is stretched between two rigid supports with a tension of 900 N. The wire resonates at a frequency of 500 Hz. The next higher frequency at which the same wire resonates is 550 Hz. The length of the wire is ____________ m.",
+        "options": [],
+        "answer": "10",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-wire-having-a-linear-mass-density-90-times-10sup-jee-main-physics-units-and-measurements-ne5xw6u4n4c3cjqj",
+        "is_numerical": true,
+        "sub_topic": "Resonance: String Harmonics",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Length from consecutive harmonics"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 24th June Evening Shift",
+        "question": "Two travelling waves of equal amplitudes and equal frequencies move in opposite directions along a string. They interfere to produce a stationary wave whose equation is given by$y=(10cos\u2061\u03c0xsin\u20612\u03c0tT)$cm The amplitude of the particle at$x=43$cm will be ___________ cm.",
+        "options": [],
+        "answer": "5",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/ptwo-travelling-waves-of-equal-amplitudes-and-equal-freque-jee-main-physics-motion-oq2c40n7vlpjyyn9",
+        "is_numerical": true,
+        "sub_topic": "Waves: Standing Wave",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Amplitude at a distance x"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 28th June Evening Shift",
+        "question": "A tunning fork of frequency 340 Hz resonates in the fundamental mode with an air column of length 125 cm in a cylindrical tube closed at one end. When water is slowly poured in it, the minimum height of water required for observing resonance once again is ___________ cm. (Velocity of sound in air is 340 ms ^$\u2212$1 )",
+        "options": [],
+        "answer": "50",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-tunning-fork-of-frequency-340-hz-resonates-in-the-funda-jee-main-physics-motion-qypf77burt7h0sxe",
+        "is_numerical": true,
+        "sub_topic": "Resonance: Air Column",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Water minimum height resonance"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th August Morning Shift",
+        "question": "A source and a detector move away from each other in absence of wind with a speed of 20 m/s with respect to the ground. If the detector detects a frequency of 1800 Hz of the sound coming from the source, then the original frequency of source considering speed of sound in air 340 m/s will be ............... Hz.",
+        "options": [],
+        "answer": "2025",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-source-and-a-detector-move-away-from-each-other-in-absence-jee-main-physics-units-and-measurements-7n7d6sg2qllrmvic",
+        "is_numerical": true,
+        "sub_topic": "Waves: Doppler Effect",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Source detector moving away"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th August Morning Shift",
+        "question": "Two travelling waves produces a standing wave represented by equation, y = 1.0 mm cos(1.57 cm ^$\u2212$1 ) x sin(78.5 s ^$\u2212$1 )t. The node closest to the origin in the region x > 0 will be at x = .............. cm.",
+        "options": [],
+        "answer": "1",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/two-travelling-waves-produces-a-standing-wave-represented-by-jee-main-physics-units-and-measurements-egpxhlqak7xuqhje",
+        "is_numerical": true,
+        "sub_topic": "Waves: Standing Wave",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Node position from equation"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th August Evening Shift",
+        "question": "Two waves are simultaneously passing through a string and their equations are : y _1 = A _1 sin k(x$\u2212$vt), y _2 = A _2 sin k(x$\u2212$vt + x _0 ). Given amplitudes A _1 = 12 mm and A _2 = 5 mm, x _0 = 3.5 cm and wave number k = 6.28 cm ^$\u2212$1 . The amplitude of resulting wave will be ................ mm.",
+        "options": [],
+        "answer": "7",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/two-waves-are-simultaneously-passing-through-a-string-and-th-jee-main-physics-units-and-measurements-m1eqzumiaek3u9xe",
+        "is_numerical": true,
+        "sub_topic": "Waveform: Superposition",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Resultant amplitude from phase"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th February Morning Shift",
+        "question": "The mass per unit length of a uniform wire is 0.135 g/cm. A transverse wave of the form y =$\u2212$0.21 sin (x + 30t) is produced in it, where x is in meter and t is in second. Then, the expected value of tension in the wire is x$\u00d7$10 ^$\u2212$2 N. Value of x is _________. (Round off to the nearest integer)",
+        "options": [],
+        "answer": "1215",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-mass-per-unit-length-of-a-uniform-wire-is-0135-gcm-a-jee-main-physics-units-and-measurements-caq2ngdvg8ngiqli",
+        "is_numerical": true,
+        "sub_topic": "Waves: String Velocity",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Tension from wave equation density"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 20th July Morning Shift",
+        "question": "The amplitude of wave disturbance propagating in the positive x-direction is given by$y=1(1+x)2$at time t = 0 and$y=11+(x\u22122)2$at t = 1 s, where x and y are in metres. The shape of wave does not change during the propagation. The velocity of the wave will be ___________ m/s.",
+        "options": [],
+        "answer": "2",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-amplitude-of-wave-disturbance-propagating-in-the-positiv-jee-main-physics-units-and-measurements-grl7upqrstkv8zgl",
+        "is_numerical": true,
+        "sub_topic": "Waveform: Velocity",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Velocity from amplitude displacement"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th February Evening Shift",
+        "question": "The percentage increase in the speed of transverse waves produced in a stretched string if the tension is increased by 4%, will be __________%.",
+        "options": [],
+        "answer": "2",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-percentage-increase-in-the-speed-of-transverse-waves-pro-jee-main-physics-units-and-measurements-u2tppgdz4ojmyus5",
+        "is_numerical": true,
+        "sub_topic": "Waves: String Velocity",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Percentage speed tension change"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 16th March Evening Shift",
+        "question": "A closed organ pipe of length L and an open organ pipe contain gases of densities$\u03c1$_1 and$\u03c1$_2 respectively. The compressibility of gases are equal in both the pipes. Both the pipes are vibrating in their first overtone with same frequency. The length of the open pipe is$x3L\u03c11\u03c12$where x is ___________. (Round off to the Nearest Integer)",
+        "options": [],
+        "answer": "4",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-closed-organ-pipe-of-length-l-and-an-open-organ-pipe-conta-jee-main-physics-units-and-measurements-fexfwolhkqu7jgzc",
+        "is_numerical": true,
+        "sub_topic": "Resonance: Organ Pipe Harmonics",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Open pipe length density ratio"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 24th February Evening Shift",
+        "question": "Two cars are approaching each other at an equal speed of 7.2 km/hr. When they see each other, both blow horns having frequency of 676 Hz. The beat frequency heard by each driver will be ___________ Hz. [Velocity of sound in air is 340 m/s.]",
+        "options": [],
+        "answer": "8",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1krhra5le/0bfdf1a0-5293-4c4c-a275-b80966389706/af7cdb20-ec7b-11eb-9265-c3aa0242958b/file-1krhra5lf.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/two-cars-are-approaching-each-other-at-an-equal-speed-of-72-jee-main-physics-units-and-measurements-cvptfh5imevfvai6",
+        "is_numerical": true,
+        "sub_topic": "Waves: Doppler Effect",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Beats two sources approaching"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 8th January Morning Slot",
+        "question": "A one metre long (both ends open) organ pipe is kept in a gas that has double the density of air at STP. Assuming the speed of sound in air at STP is 300 m/s, the frequency difference between the fundamental and second harmonic of this pipe is ________ Hz.",
+        "options": [],
+        "answer": "105.75",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-one-metre-long-both-ends-open-organ-pipe-is-kept-in-a-ga-jee-main-physics-current-electricity-qdmwzm4kvubeocnz",
+        "is_numerical": true,
+        "sub_topic": "Resonance: Organ Pipe Harmonics",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Frequency change gas density"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 20th July Morning Shift",
+        "question": "The frequency of a car horn encountered a change from 400 Hz to 500 Hz, when the car approaches a vertical wall. If the speed of sound is 330 m/s. Then the speed of car is ___________ km/h.",
+        "options": [],
+        "answer": "132",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-frequency-of-a-car-horn-encountered-a-change-from-400-hz-jee-main-physics-units-and-measurements-3lvfastprdxcdbcb",
+        "is_numerical": true,
+        "sub_topic": "Waves: Doppler Effect",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Reflected frequency moving source"
+    }
+]

@@ -1,0 +1,644 @@
+[
+    {
+        "metadata": "JEE Main",
+        "question": "The angle between vector$Q\u2192$and the resultant of$(2Q\u2192+2P\u2192)$and$(2Q\u2192\u22122P\u2192)$is :",
+        "options": [
+            "$tan\u22121\u2061(P/Q)$",
+            "0$\u2218$",
+            "$tan\u22121\u2061(2Q\u2192\u22122P\u2192)2Q\u2192+2P\u2192$",
+            "$tan\u22121\u2061(2Q/P)$"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-angle-between-vector-vecq-and-the-resultant-of-jee-main-physics-motion-ffq3slhjnqf5nmqj",
+        "is_numerical": false,
+        "sub_topic": "Vector: Resultant Angle",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Parallelogram resultant angle"
+    },
+    {
+        "metadata": "JEE Main",
+        "question": "Two particles are located at equal distance from origin. The position vectors of those are represented by$A\u2192=2i^+3nj^+2k^$and$B\u00af=2i^\u22122j^+4pk^$, respectively. If both the vectors are at right angle to each other, the value of$n\u22121$is ________ .",
+        "options": [],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/ptwo-particles-are-located-at-equal-distance-from-origin-jee-main-physics-units-and-measurements-rwpxsehrxdb8r3xr",
+        "is_numerical": true,
+        "sub_topic": "Vector: Dot Product",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Orthogonal dot product zero"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 9th April Evening Shift",
+        "question": "The resultant of two vectors$A\u2192$and$B\u2192$is perpendicular to$A\u2192$and its magnitude is half that of$B\u2192$. The angle between vectors$A\u2192$and$B\u2192$is _________$\u2218$.",
+        "options": [],
+        "answer": "150",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-resultant-of-two-vectors-veca-and-vecb-jee-main-physics-motion-i65ozl0n1niqhhqt",
+        "is_numerical": true,
+        "sub_topic": "Vector: Resultant Angle",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Resultant perpendicular vector"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 9th April Morning Shift",
+        "question": "If$a\u2192$and$b\u2192$makes an angle$cos\u22121\u2061(59)$with each other, then$|a\u2192+b\u2192|=2|a\u2192\u2212b\u2192|$for$|a\u2192|=n|b\u2192|$The integer value of$n$is _________.",
+        "options": [],
+        "answer": "3",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pif-veca-and-vecb-makes-an-angle-cos--1-jee-main-physics-motion-t4nj3smcjyenovfk",
+        "is_numerical": true,
+        "sub_topic": "Vector: Magnitude Relation",
+        "logic_type": "Template",
+        "difficulty": 4,
+        "physics_key": "Resultant magnitude square ratio"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 28th July Morning Shift",
+        "question": "If the projection of$2i^+4j^\u22122k^$on$i^+2j^+\u03b1k^$is zero. Then, the value of$\u03b1$will be ___________.",
+        "options": [],
+        "answer": "5",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pif-the-projection-of-2-hati4-hatj-2-hatk-on-jee-main-physics-motion-g5truehlyp3thj2n",
+        "is_numerical": true,
+        "sub_topic": "Vector: Dot Product",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Projection zero condition"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 8th April Morning Shift",
+        "question": "Three vectors$OP\u2192,OQ\u2192$and$OR\u2192$each of magnitude$A$are acting as shown in figure. The resultant of the three vectors is$Ax$. The value of$x$is _________. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1lv4u7kip/f416dd14-96aa-44c4-8311-fa132acc705f/99b0e110-fd49-11ee-8075-a71888d2298c/file-1lv4u7kiq.png?format=png]",
+        "options": [],
+        "answer": "3",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lv4u7kip/f416dd14-96aa-44c4-8311-fa132acc705f/99b0e110-fd49-11ee-8075-a71888d2298c/file-1lv4u7kiq.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pthree-vectors-overrightarrowmathrmop-overrighta-jee-main-physics-motion-pa3h02x6bvq9vw9w",
+        "is_numerical": true,
+        "sub_topic": "Vector: Resultant",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "Component summation geometry"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 30th January Evening Shift",
+        "question": "A vector has magnitude same as that of$A\u2192=3i^+4j^$and is parallel to$B\u2192=4i^+3j^$. The$x$and$y$components of this vector in first quadrant are$x$and 3 respectively where$x=$_________.",
+        "options": [],
+        "answer": "4",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-vector-has-magnitude-same-as-that-of-veca3-hati-jee-main-physics-motion-r64eosyxmadytgbx",
+        "is_numerical": true,
+        "sub_topic": "Vector: Component Algebra",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Magnitude unit vector components"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 25th January Morning Shift",
+        "question": "If$P\u2192=3i^+3j^+2k^$and$Q\u2192=4i^+3j^+2.5k^$then, the unit vector in the direction of$P\u2192\u00d7Q\u2192$is$1x(3i^+j^\u221223k^)$. The value of$x$is _________.",
+        "options": [],
+        "answer": "4",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pif-overrightarrow-p--3widehat-i--sqrt-3-widehat-jee-main-physics-motion-pvelr579lsdi0f5z",
+        "is_numerical": true,
+        "sub_topic": "Vector: Cross Product",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Unit vector perpendicular cross"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 6th April Morning Shift",
+        "question": "For three vectors$A\u2192=(\u2212xi^\u22126j^\u22122k^),B\u2192=(\u2212i^+4j^+3k^)$and$C\u2192=(\u22128i^\u2212j^+3k^)$, if$A\u2192\u22c5(B\u2192\u00d7C\u2192)=0$, then value of$x$is ________.",
+        "options": [],
+        "answer": "4",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pfor-three-vectors-veca-x-hati-6-hatj-2-hat-jee-main-physics-motion-mfwoejnzy96cb0gz",
+        "is_numerical": true,
+        "sub_topic": "Vector: Scalar Triple Product",
+        "logic_type": "Template",
+        "difficulty": 4,
+        "physics_key": "Coplanar product zero"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 31st January Evening Shift",
+        "question": "If two vectors$A\u2192$and$B\u2192$having equal magnitude$R$are inclined at angle$\u03b8$, then",
+        "options": [
+            "$|A\u2192+B\u2192|=2Rcos\u2061(\u03b82)$",
+            "$|A\u2192\u2212B\u2192|=2Rcos\u2061(\u03b82)$",
+            "$|A\u2192\u2212B\u2192|=2Rsin\u2061(\u03b82)$",
+            "$|A\u2192+B\u2192|=2Rsin\u2061(\u03b82)$"
+        ],
+        "answer": "$|A\u2192+B\u2192|=2Rcos\u2061(\u03b82)$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pif-two-vectors-veca-and-vecb-having-equal-m-jee-main-physics-motion-olr0x7ktwpx2btay",
+        "is_numerical": false,
+        "sub_topic": "Vector: Magnitude Relation",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Equal vector resultant formula"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 24th January Morning Shift",
+        "question": "Vectors$ai^+bj^+k^$and$2i^\u22123j^+4k^$are perpendicular to each other when$3a+2b=7$, the ratio of$a$to$b$is$x2$. The value of$x$is ____________.",
+        "options": [],
+        "answer": "1",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pvectors-awidehat-i--bwidehat-j--widehat-k-and--jee-main-physics-motion-vovh3exlrrigc1ok",
+        "is_numerical": true,
+        "sub_topic": "Vector: Dot Product",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Perpendicular dot product zero"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 7th January Evening Slot",
+        "question": "The sum of two forces$P\u2192$and$Q\u2192$is$R\u2192$such that$|R\u2192|=|P\u2192|$. The angle$\u03b8$(in degrees) that the resultant of 2$P\u2192$and$Q\u2192$will make with$Q\u2192$is , ..............",
+        "options": [],
+        "answer": "90",
+        "images": [
+            "https://imagex.cdn.examgoal.net/7kd4dk6m8ixbm/ad21460d-d47d-4bdc-b9ee-64a586132196/b6377120-4f31-11ea-b62d-51ccc5d4afb6/file-7kd4dk6m8ixbn-305w.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/the-sum-of-two-forces-overrightarrow-p--and-overrig-jee-main-physics-motion-dsizsxnehecvlnbk",
+        "is_numerical": true,
+        "sub_topic": "Vector: Resultant Angle",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Resultant magnitude substitution angle"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th July Evening Shift",
+        "question": "If$A\u2192=(2i^+3j^\u2212k^)m$and$B\u2192=(i^+2j^+2k^)m$. The magnitude of component of vector$A\u2192$along vector$B\u2192$will be ____________$m$.",
+        "options": [],
+        "answer": "2",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pif-veca2-hati3-hatj-hatk-mathrmm-jee-main-physics-motion-nuqfslrfzsyjmlom",
+        "is_numerical": true,
+        "sub_topic": "Vector: Projection",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Component along vector"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 22th July Evening Shift",
+        "question": "Three particles P, Q and R are moving along the vectors$A\u2192=i^+j^$,$B\u2192=j^+k^$and$C\u2192=\u2212i^+j^$respectively. They strike on a point and start to move in different directions. Now particle P is moving normal to the plane which contains vector$A\u2192$and$B\u2192$. Similarly particle Q is moving normal to the plane which contains vector$A\u2192$and$C\u2192$. The angle between the direction of motion of P and Q is$cos\u22121(1x)$. Then the value of x is _______________.",
+        "options": [],
+        "answer": "3",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/three-particles-p-q-and-r-are-moving-along-the-vectors-o-jee-main-physics-units-and-measurements-zz2gmqrdvlmqjhe2",
+        "is_numerical": true,
+        "sub_topic": "Vector: Cross Product",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Normal vector angle dot product"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th February Evening Shift",
+        "question": "If$P\u2192\u00d7Q\u2192=Q\u2192\u00d7P\u2192$, the angle between$P\u2192$and$Q\u2192$is$\u03b8$(0$\u2218$<$\u03b8$< 360$\u2218$). The value of '$\u03b8$' will be ___________$\u2218$.",
+        "options": [],
+        "answer": "180",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/if-overrightarrow-p-times-overrightarrow-q--overrig-jee-main-physics-units-and-measurements-fylvnqqqhxnfqv9h",
+        "is_numerical": true,
+        "sub_topic": "Vector: Cross Product",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Anti-commutative cross product"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 15th April Morning Shift",
+        "question": "A vector in$x\u2212y$plane makes an angle of$30\u2218$with$y$-axis. The magnitude of$y$-component of vector is$23$. The magnitude of$x$-component of the vector will be :",
+        "options": [
+            "$3$",
+            "2",
+            "6",
+            "$13$"
+        ],
+        "answer": "2",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lgrftl46/423928b0-14e0-4165-ab55-9d871a278628/1d44bc60-e0c0-11ed-9768-bd0baf44cdee/file-1lgrftl47.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-vector-in-x-y-plane-makes-an-angle-of-30circ-with-jee-main-physics-idbazpubsou7jout",
+        "is_numerical": false,
+        "sub_topic": "Vector: Component Algebra",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Trigonometric component resolution"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 8th April Morning Shift",
+        "question": "Two forces having magnitude$A$and$A2$are perpendicular to each other. The magnitude of their resultant is:",
+        "options": [
+            "$5A2$",
+            "$5A4$",
+            "$5A2$",
+            "$5A22$"
+        ],
+        "answer": "$5A2$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/ptwo-forces-having-magnitude-a-and-fraca2-are-jee-main-physics-motion-qzh6epge4fzyyxce",
+        "is_numerical": false,
+        "sub_topic": "Vector: Resultant",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Perpendicular vector resultant"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 24th January Evening Shift",
+        "question": "If two vectors$P\u2192=i^+2mj^+mk^$and$Q\u2192=4i^\u22122j^+mk^$are perpendicular to each other. Then, the value of m will be :",
+        "options": [
+            "$\u22121$",
+            "3",
+            "1",
+            "2"
+        ],
+        "answer": "2",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pif-two-vectors-overrightarrow-p--widehat-i--2mwid-jee-main-physics-motion-98qvnf1naalnb86a",
+        "is_numerical": false,
+        "sub_topic": "Vector: Dot Product",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Orthogonal dot product zero"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 11th April Evening Shift",
+        "question": "When vector$A\u2192=2i^+3j^+2k^$is subtracted from vector$B\u2192$, it gives a vector equal to$2j^$. Then the magnitude of vector$B\u2192$will be :",
+        "options": [
+            "3",
+            "$33$",
+            "$6$",
+            "$5$"
+        ],
+        "answer": "$33$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pwhen-vector-veca2-hati3-hatj2-hatk-is-jee-main-physics-motion-q4ojtkjqfx55rzh5",
+        "is_numerical": false,
+        "sub_topic": "Vector: Component Algebra",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Vector subtraction magnitude"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 29th June Morning Shift",
+        "question": "Two vectors$A\u2192$and$B\u2192$have equal magnitudes. If magnitude of$A\u2192$+$B\u2192$is equal to two times the magnitude of$A\u2192$$\u2212$$B\u2192$, then the angle between$A\u2192$and$B\u2192$will be :",
+        "options": [
+            "$sin\u22121(35)$",
+            "$sin\u22121(13)$",
+            "$cos\u22121(35)$",
+            "$cos\u22121(13)$"
+        ],
+        "answer": "$cos\u22121(35)$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/ptwo-vectors-overrightarrow-a--and-overrightarrow-jee-main-physics-motion-lccbjs7h6khti8bz",
+        "is_numerical": false,
+        "sub_topic": "Vector: Magnitude Relation",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Resultant sum difference ratio"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th June Morning Shift",
+        "question": "$A\u2192$is a vector quantity such that$|A\u2192|$= non-zero constant. Which of the following expression is true for$A\u2192$?",
+        "options": [
+            "$A\u2192.A\u2192=0$",
+            "$A\u2192\u00d7A\u2192<0$",
+            "$A\u2192\u00d7A\u2192=0$",
+            "$A\u2192\u00d7A\u2192>0$"
+        ],
+        "answer": "$A\u2192\u00d7A\u2192=0$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/poverrightarrow-a--is-a-vector-quantity-such-that--jee-main-physics-motion-klkanh6fr6wllpv5",
+        "is_numerical": false,
+        "sub_topic": "Vector: Cross Product",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Self cross product property"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th July Evening Shift",
+        "question": "Two vectors$X\u2192$and$Y\u2192$have equal magnitude. The magnitude of ($X\u2192$$\u2212$$Y\u2192$) is n times the magnitude of ($X\u2192$+$Y\u2192$). The angle between$X\u2192$and$Y\u2192$is :",
+        "options": [
+            "$cos\u22121(\u2212n2\u22121n2\u22121)$",
+            "$cos\u22121(n2\u22121\u2212n2\u22121)$",
+            "$cos\u22121(n2+1\u2212n2\u22121)$",
+            "$cos\u22121(n2+1n2\u22121)$"
+        ],
+        "answer": "$cos\u22121(n2\u22121\u2212n2\u22121)$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/two-vectors-overrightarrow-x--and-overrightarrow-y--jee-main-physics-units-and-measurements-aqai99pvxuseycs7",
+        "is_numerical": false,
+        "sub_topic": "Vector: Magnitude Relation",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Magnitude ratio angle derivation"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 31st August Evening Shift",
+        "question": "Statement I : Two forces$(P\u2192+Q\u2192)$and$(P\u2192\u2212Q\u2192)$where$P\u2192\u22a5Q\u2192$, when act at an angle$\u03b8$_1 to each other, the magnitude of their resultant is$3(P2+Q2)$, when they act at an angle$\u03b8$_2 , the magnitude of their resultant becomes$2(P2+Q2)$. This is possible only when$\u03b81<\u03b82$. Statement II : In the situation given above.$\u03b8$_1 = 60$\u2218$and$\u03b8$_2 = 90$\u2218$In the light of the above statements, choose the most appropriate answer from the options given below :-",
+        "options": [
+            "Statement I is false but Statement II is true",
+            "Both Statement I and Statement II are true",
+            "Statement I is true but Statement II is false",
+            "Both Statement I and Statement II are false."
+        ],
+        "answer": "Both Statement I and Statement II are true",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/statement-i-brbrtwo-forces-left-overrightarrow-jee-main-physics-units-and-measurements-y3tpkji4ei1hjw7a",
+        "is_numerical": false,
+        "sub_topic": "Vector: Resultant Magnitude",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Resultant magnitude with angle"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th June Morning Shift",
+        "question": "Which of the following relations is true for two unit vector$A^$and$B^$making an angle$\u03b8$to each other?",
+        "options": [
+            "$|A^+B^|=|A^\u2212B^|tan\u2061\u03b82$",
+            "$|A^\u2212B^|=|A^+B^|tan\u2061\u03b82$",
+            "$|A^+B^|=|A^\u2212B^|cos\u03b82$",
+            "$|A^\u2212B^|=|A^+B^|cos\u2061\u03b82$"
+        ],
+        "answer": "$|A^\u2212B^|=|A^+B^|tan\u2061\u03b82$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pwhich-of-the-following-relations-is-true-for-two-unit-vec-jee-main-physics-motion-bgdocmbdfdfzelez",
+        "is_numerical": false,
+        "sub_topic": "Vector: Magnitude Relation",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Sum difference magnitude identity"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 27th July Morning Shift",
+        "question": "Assertion A : If A, B, C, D are four points on a semi-circular are with centre at 'O' such that$|AB\u2192|=|BC\u2192|=|CD\u2192|$, then$AB\u2192+AC\u2192+AD\u2192=4AO\u2192+OB\u2192+OC\u2192$Reason R : Polygon law of vector addition yields$AB\u2192+BC\u2192+CD\u2192+AD\u2192=2AO\u2192$[IMAGE: https://imagex.cdn.examgoal.net/1ks0l27wp/967f8c28-4098-48ec-b1ca-176c8cc0937a/405db790-f6d6-11eb-b70a-fb95473082c0/file-1ks0l27wq.jpg] In the light of the above statements, choose the most appropriate answer from the options given below :",
+        "options": [
+            "A is correct but R is not correct.",
+            "A is not correct but R is correct.",
+            "Both A and R are correct and R is the correct explanation of A.",
+            "Both A and R are correct but R is not the correct explanation of A."
+        ],
+        "answer": "A is correct but R is not correct.",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1ks0l27wp/967f8c28-4098-48ec-b1ca-176c8cc0937a/405db790-f6d6-11eb-b70a-fb95473082c0/file-1ks0l27wq.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/assertion-a--if-a-b-c-d-are-four-points-on-a-semi-circul-jee-main-physics-units-and-measurements-a5w38hajflysr2xo",
+        "is_numerical": false,
+        "sub_topic": "Vector: Addition Law",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Polygon law of addition geometry"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 27th August Morning Shift",
+        "question": "The resultant of these forces$OP\u2192,OQ\u2192,OR\u2192,OS\u2192$and$OT\u2192$is approximately .......... N. [Take$3=1.7$,$2=1.4$Given$i^$and$j^$unit vectors along x, y axis] [IMAGE: https://imagex.cdn.examgoal.net/1ktp15hhs/1f8a7d83-9abb-4428-8005-1f57dac1ada1/343abd00-1814-11ec-872b-bb20e4927270/file-1ktp15hht.jpeg]",
+        "options": [
+            "$9.25i^+5j^$",
+            "$3i^+15j^$",
+            "$2.5i^\u221214.5j^$",
+            "$\u22121.5i^\u221215.5j^$"
+        ],
+        "answer": "$9.25i^+5j^$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1ktp15hhs/1f8a7d83-9abb-4428-8005-1f57dac1ada1/343abd00-1814-11ec-872b-bb20e4927270/file-1ktp15hht.jpeg",
+            "https://imagex.cdn.examgoal.net/1ktp16o0l/7c021ccc-eb28-464b-8e98-e5c204921b5b/5513b450-1814-11ec-872b-bb20e4927270/file-1ktp16o0m.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/the-resultant-of-these-forces-overrightarrow-op-overr-jee-main-physics-units-and-measurements-nxhyx5jx9xbndqkq",
+        "is_numerical": false,
+        "sub_topic": "Vector: Resultant",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Component sum resultant finding"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th August Morning Shift",
+        "question": "The magnitude of vectors$OA\u2192$,$OB\u2192$and$OC\u2192$in the given figure are equal. The direction of$OA\u2192$+$OB\u2192$$\u2212$$OC\u2192$with x-axis will be : [IMAGE: https://imagex.cdn.examgoal.net/1ktcdao19/0ffed98d-4e9d-4eea-8040-db2d8d9536c8/816f46c0-111d-11ec-9890-e1f55a1f69a0/file-1ktcdao1a.jpeg]",
+        "options": [
+            "$tan\u22121(1\u22123\u22122)(1+3+2)$",
+            "$tan\u22121(3\u22121+2)(1+3\u22122)$",
+            "$tan\u22121(3\u22121+2)(1\u22123+2)$",
+            "$tan\u22121(1+3\u22122)(1\u22123\u22122)$"
+        ],
+        "answer": "$tan\u22121(1\u22123\u22122)(1+3+2)$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1ktcdao19/0ffed98d-4e9d-4eea-8040-db2d8d9536c8/816f46c0-111d-11ec-9890-e1f55a1f69a0/file-1ktcdao1a.jpeg",
+            "https://imagex.cdn.examgoal.net/1ktcde1qc/677819c4-6c10-4910-b2f5-8fb536dae87d/df717040-111d-11ec-9890-e1f55a1f69a0/file-1ktcde1qd.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/the-magnitude-of-vectors-overrightarrow-oa--overr-jee-main-physics-units-and-measurements-pvkxjblcijmrflr1",
+        "is_numerical": false,
+        "sub_topic": "Vector: Resultant Angle",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Resultant direction component"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th July Morning Shift",
+        "question": "Match List - I with List - II [IMAGE: https://imagex.cdn.examgoal.net/1krw9tdav/742dd05e-7c53-4dd0-a727-40d56fc2c974/233b5a70-f477-11eb-b37c-fd45669cd0a9/file-1krw9tdaw.jpg] Choose the correct answer from the options given below :",
+        "options": [
+            "(a)$\u2192$(iv), (b)$\u2192$(i), (c)$\u2192$(iii), (d)$\u2192$(ii)",
+            "(a)$\u2192$(iv), (b)$\u2192$(iii), (c)$\u2192$(i), (d)$\u2192$(ii)",
+            "(a)$\u2192$(iii), (b)$\u2192$(ii), (c)$\u2192$(iv), (d)$\u2192$(i)",
+            "(a)$\u2192$(i), (b)$\u2192$(iv), (c)$\u2192$(ii), (d)$\u2192$(iii)"
+        ],
+        "answer": "(a)$\u2192$(iv), (b)$\u2192$(iii), (c)$\u2192$(i), (d)$\u2192$(ii)",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1krw9tdav/742dd05e-7c53-4dd0-a727-40d56fc2c974/233b5a70-f477-11eb-b37c-fd45669cd0a9/file-1krw9tdaw.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/match-list-i-with-list-iibrbrstyle-typetextcss-jee-main-physics-units-and-measurements-lolkeiysyyghpaui",
+        "is_numerical": false,
+        "sub_topic": "Vector: Projection",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Projection definition matching"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th August Evening Shift",
+        "question": "The angle between vector$(A\u2192)$and$(A\u2192\u2212B\u2192)$is : [IMAGE: https://imagex.cdn.examgoal.net/1ktemmoys/6d5048d0-5dc3-4d99-bb39-881e3080caec/93535a40-125b-11ec-a4fb-5347f21481c0/file-1ktemmoyt.jpeg]",
+        "options": [
+            "$tan\u22121(\u2212B2A\u2212B32)$",
+            "$tan\u22121(A0.7B)$",
+            "$tan\u22121(3B2A\u2212B)$",
+            "$tan\u22121(Bcos\u2061\u03b8A\u2212Bsin\u2061\u03b8)$"
+        ],
+        "answer": "$tan\u22121(3B2A\u2212B)$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1ktemmoys/6d5048d0-5dc3-4d99-bb39-881e3080caec/93535a40-125b-11ec-a4fb-5347f21481c0/file-1ktemmoyt.jpeg",
+            "https://imagex.cdn.examgoal.net/1ktfq06x7/db40bc84-c372-4390-b0a4-4300eca19419/8ec07db0-12f5-11ec-8d38-4de1d1c65611/file-1ktfq06x8.jpeg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/the-angle-between-vector-left-overrightarrow-a--righ-jee-main-physics-units-and-measurements-x69rwruu2u89vbba",
+        "is_numerical": false,
+        "sub_topic": "Vector: Resultant Angle",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Resultant subtraction angle"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 22th July Evening Shift",
+        "question": "What will be the projection of vector$A\u2192=i^+j^+k^$on vector$B\u2192=i^+j^$?",
+        "options": [
+            "$2(i^+j^+k^)$",
+            "$(i^+j^)$",
+            "$2(i^+j^)$",
+            "$2(i^+j^+k^)$"
+        ],
+        "answer": "$(i^+j^)$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/what-will-be-the-projection-of-vector-overrightarrow-a--jee-main-physics-units-and-measurements-8zcmpf7brfe9iev7",
+        "is_numerical": false,
+        "sub_topic": "Vector: Projection",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Vector projection formula"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 20th July Morning Shift",
+        "question": "If$A\u2192$and$B\u2192$are two vectors satisfying the relation$A\u2192$.$B\u2192$=$|A\u2192\u00d7B\u2192|$. Then the value of$|A\u2192\u2212B\u2192|$will be :",
+        "options": [
+            "$A2+B2+2AB$",
+            "$A2+B2$",
+            "$A2+B2\u22122AB$",
+            "$A2+B2+2AB$"
+        ],
+        "answer": "$A2+B2\u22122AB$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/if-overrightarrow-a--and-overrightarrow-b--are-two-jee-main-physics-units-and-measurements-jxepq96t4mjs15pp",
+        "is_numerical": false,
+        "sub_topic": "Vector: Dot Cross Relation",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Magnitude difference from angle"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 20th July Evening Shift",
+        "question": "Two vectors$P\u2192$and$Q\u2192$have equal magnitudes. If the magnitude of$P\u2192+Q\u2192$is n times the magnitude of$P\u2192\u2212Q\u2192$, then angle between$P\u2192$and$Q\u2192$is :",
+        "options": [
+            "$sin\u22121(n\u22121n+1)$",
+            "$cos\u22121(n\u22121n+1)$",
+            "$sin\u22121(n2\u22121n2+1)$",
+            "$cos\u22121(n2\u22121n2+1)$"
+        ],
+        "answer": "$cos\u22121(n2\u22121n2+1)$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/two-vectors-overrightarrow-p--and-overrightarrow-jee-main-physics-units-and-measurements-aai64zgvnhnbxnbl",
+        "is_numerical": false,
+        "sub_topic": "Vector: Magnitude Relation",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Resultant ratio angle derivation"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th February Morning Shift",
+        "question": "In an octagon ABCDEFGH of equal side, what is the sum of$AB\u2192+AC\u2192+AD\u2192+AE\u2192+AF\u2192+AG\u2192+AH\u2192$, if,$AO\u2192=2i^+3j^\u22124k^$[IMAGE: https://imagex.cdn.examgoal.net/1klse8zob/68032ee0-cc72-4993-92d2-a9ab97ac691e/0b4c26b0-7b8c-11eb-a157-49f87e3afb79/file-1klse8zoc-248w.jpg]",
+        "options": [
+            "$\u221216i^\u221224j^+32k^$",
+            "$16i^+24j^\u221232k^$",
+            "$16i^+24j^+32k^$",
+            "$16i^\u221224j^+32k^$"
+        ],
+        "answer": "$16i^+24j^\u221232k^$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1klse8zob/68032ee0-cc72-4993-92d2-a9ab97ac691e/0b4c26b0-7b8c-11eb-a157-49f87e3afb79/file-1klse8zoc-248w.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/in-an-octagon-abcdefgh-of-equal-side-what-is-the-sum-of-br-jee-main-physics-units-and-measurements-npnk0xx3izxvv2qf",
+        "is_numerical": false,
+        "sub_topic": "Vector: Addition Law",
+        "logic_type": "Analytical",
+        "difficulty": 4,
+        "physics_key": "Octagon vector sum centre"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 10th January Evening Slot",
+        "question": "Two vectors$A\u2192$and$B\u2192$have equal magnitudes. The magnitude of$(A\u2192+B\u2192)$is 'n' times the magnitude of$(A\u2192\u2212B\u2192)$. The angle between$A\u2192$and$B\u2192$is -",
+        "options": [
+            "$sin\u22121[n\u22121n+1]$",
+            "$sin\u22121[n2\u22121n2+1]$",
+            "$cos\u22121[n2\u22121n2+1]$",
+            "$cos\u22121[n\u22121n+1]$"
+        ],
+        "answer": "$cos\u22121[n2\u22121n2+1]$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/two-vectors-overrightarrow-a-and-overrightarrow-b-jee-main-physics-units-and-measurements-ekb7oq19uckv0syr",
+        "is_numerical": false,
+        "sub_topic": "Vector: Magnitude Relation",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Magnitude ratio angle inverse"
+    },
+    {
+        "metadata": "JEE Main 2018 (Online) 16th April Morning Slot",
+        "question": "Let$A\u2192$=$(i^+j^)$and,$B\u2192=(2i^\u2212j^).$The magnitude of a coplanar vector$C\u2192$such that$A\u2192.C\u2192=B\u2192.C\u2192=A\u2192.B\u2192,$is given by :",
+        "options": [
+            "$109$",
+            "$59$",
+            "$209$",
+            "$912$"
+        ],
+        "answer": "$59$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/let-overrightarrow-a-left-widehat-i-widehat-jee-main-physics-units-and-measurements-q9vpezzv04j0illg",
+        "is_numerical": false,
+        "sub_topic": "Vector: Component Algebra",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Coplanar vector magnitude"
+    },
+    {
+        "metadata": "AIEEE 2004",
+        "question": "If$A\u2192\u00d7B\u2192=B\u2192\u00d7A\u2192$, then the angle beetween A and B is",
+        "options": [
+            "$\u03c02$",
+            "$\u03c03$",
+            "$\u03c0$",
+            "$\u03c04$"
+        ],
+        "answer": "$\u03c0$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/if-overrightarrow-a-times-overrightarrow-b-overrig-2004-marks-4-9kfktuc7kzyg4utz.htm",
+        "is_numerical": false,
+        "sub_topic": "Vector: Cross Product",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Commutative cross product"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 10th January Morning Slot",
+        "question": "In the cube of side \u2018a\u2019 shown in the figure, the vector from the central point of the face ABOD to the central point of the face BEFO will be - [IMAGE: https://imagex.cdn.examgoal.net/7xyf27O3dslGKUHF1/BOYW6nD2vyRln04Toe2IZDDzClq1e/pVusq3EVSuskSokhjalv4G/image.png]",
+        "options": [
+            "$12a(k^\u2212i^)$",
+            "$12a(j^\u2212i^)$",
+            "$12a(j^\u2212k^)$",
+            "$12a(i^\u2212k^)$"
+        ],
+        "answer": "$12a(j^\u2212i^)$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/7xyf27O3dslGKUHF1/BOYW6nD2vyRln04Toe2IZDDzClq1e/pVusq3EVSuskSokhjalv4G/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/in-the-cube-of-side-a-shown-in-the-figure-the-vector-jee-main-physics-units-and-measurements-xiwhkrtf974zoawt",
+        "is_numerical": false,
+        "sub_topic": "Vector: Component Algebra",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Vector between midpoints"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 8th April Evening Slot",
+        "question": "Let$|A1\u2192|=3$,$|A2\u2192|=5$and$|A1\u2192+A2\u2192|=5$. The value of$(2A1\u2192+3A2\u2192)(3A1\u2192\u22122A2\u2192)$is :-",
+        "options": [
+            "\u2013118.5",
+            "\u2013112.5",
+            "\u201399.5",
+            "\u2013106.5"
+        ],
+        "answer": "\u2013118.5",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/let-left-mathop-a1limits-to-right-3-jee-main-physics-units-and-measurements-p5bpl8juteqlyefv",
+        "is_numerical": false,
+        "sub_topic": "Vector: Dot Product",
+        "logic_type": "Template",
+        "difficulty": 4,
+        "physics_key": "Dot product expansion identity"
+    }
+]

@@ -1,0 +1,2327 @@
+[
+    {
+        "metadata": "JEE Main 2025 (Online) 28th January Evening Shift",
+        "question": "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6rkwnxo/ff27bc28-74df-4ea5-b4fa-afec5f2d3bea/a05f06c0-e391-11ef-bd37-5bfdd6d633f7/file-jaoe38c1m6rkwnxp.png?format=png] A conducting bar moves on two conducting rails as shown in the figure. A constant magnetic field B exists into the page. The bar starts to move from the vertex at time t = 0 with a constant velocity. If the induced EMF is E \u221d t ^n , then value of n is _________.",
+        "options": [],
+        "answer": "1",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6rkwnxo/ff27bc28-74df-4ea5-b4fa-afec5f2d3bea/a05f06c0-e391-11ef-bd37-5bfdd6d633f7/file-jaoe38c1m6rkwnxp.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m74r7dg4/b4db5220-6096-4150-9813-56a00ddbe1a7/71633940-ead0-11ef-858a-e96cdc71a655/file-jaoe38c1m74r7dg5.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/img-srchttpsapp-contentcdnexamgoalnetflywidthim-jee-main-physics-8h3uiy71x0n1l1zp",
+        "is_numerical": true,
+        "sub_topic": "Motional EMF: Variable Area",
+        "logic_type": "Analytical",
+        "difficulty": 4,
+        "physics_key": "EMF from variable area"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 23rd January Morning Shift",
+        "question": "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6s7ejzi/15bea592-6174-45fb-9568-eabba9dabc47/9ab9fce0-e3e9-11ef-88dd-b362bfa8d3ce/file-jaoe38c1m6s7ejzj.png?format=png] In the given circuit the sliding contact is pulled outwards such that electric current in the circuit changes at the rate of$8 A/s$. At an instant when R is$12\u03a9$, the value of the current in the circuit will be ________ A.",
+        "options": [],
+        "answer": "3",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6s7ejzi/15bea592-6174-45fb-9568-eabba9dabc47/9ab9fce0-e3e9-11ef-88dd-b362bfa8d3ce/file-jaoe38c1m6s7ejzj.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pimg-srchttpsapp-contentfly-assetsukflywidthim-jee-main-physics-units-and-measurements-kanjig6hpfmc0gpe",
+        "is_numerical": true,
+        "sub_topic": "Circuits: LR with Induced EMF",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Kirchhoff's rule L-R"
+    },
+    {
+        "metadata": "JEE Main",
+        "question": "Conductor wire ABCDE with each arm 10 cm in length is placed in magnetic field of$12$Tesla, perpendicular to its plane. When conductor is pulled towards right with constant velocity of$10 cm/s$, induced emf between points A and E is ________ mV . [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9hxk2u0/5d59415c-8739-4b3e-a251-92194b5c0b77/e8aead80-19a7-11f0-ae75-a7596cbc7562/file-jaoe38c1m9hxk2u1.png?format=png]",
+        "options": [],
+        "answer": "10",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9hxk2u0/5d59415c-8739-4b3e-a251-92194b5c0b77/e8aead80-19a7-11f0-ae75-a7596cbc7562/file-jaoe38c1m9hxk2u1.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9uw68u3/5b052c17-5a43-49ff-ac2a-f53b43eb584a/af4de0b0-20c8-11f0-8e41-d1a13c0c5e77/file-jaoe38c1m9uw68u4.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pconductor-wire-abcde-with-each-arm-10-cm-in-length-is-pla-jee-main-physics-units-and-measurements-hnbrigjwsg2gvpqj",
+        "is_numerical": true,
+        "sub_topic": "Motional EMF: Bent Wire",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Effective length BLV"
+    },
+    {
+        "metadata": "JEE Main",
+        "question": "A coil of area A and N turns is rotating with angular velocity$\u03c9$in a uniform magnetic field$B\u2192$about an axis perpendicular to$B\u2192$. Magnetic flux$\u03c6$and induced emf$\u03b5$across it, at an instant when$B\u2192$is parallel to the plane of coil, are :",
+        "options": [
+            "\u03c6 = AB , \u03c6 = NAB \u03c9",
+            "\u03c6 = AB , \u03c6 = 0",
+            "\u03c6 = 0, \u03b5 = 0",
+            "\u03c6 = 0, \u03b5 = NAB \u03c9"
+        ],
+        "answer": "\u03c6 = 0, \u03b5 = NAB \u03c9",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m73exhxq/2d30ba97-4870-4776-bff9-4a8868e6f02d/a89092e0-ea13-11ef-9ed5-b9e3cb3846ec/file-jaoe38c1m73exhxr.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-coil-of-area-a-and-n-tums-is-rotating-with-angular-velo-jee-main-physics-bxv1d5cogli2ahck",
+        "is_numerical": false,
+        "sub_topic": "Motional EMF: Rotating Coil",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Max EMF, Zero Flux condition"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 31st January Evening Shift",
+        "question": "The magnetic flux$\u03d5$(in weber) linked with a closed circuit of resistance$8\u03a9$varies with time (in seconds) as$\u03d5=5t2\u221236t+1$. The induced current in the circuit at$t=2 s$is __________ A.",
+        "options": [],
+        "answer": "2",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-magnetic-flux-phi-in-weber-linked-with-a-close-jee-main-physics-motion-yiyezhsebipofvhp",
+        "is_numerical": true,
+        "sub_topic": "Faraday's Law: Time-Varying Flux",
+        "logic_type": "Calculus",
+        "difficulty": 2,
+        "physics_key": "Induced current from dPhi/dt"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 30th January Morning Shift",
+        "question": "A ceiling fan having 3 blades of length$80 cm$each is rotating with an angular velocity of 1200$rpm$. The magnetic field of earth in that region is$0.5G$and angle of dip is$30\u2218$. The emf induced across the blades is$N\u03c0\u00d710\u22125 V$. The value of$N$is _________.",
+        "options": [],
+        "answer": "32",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-ceiling-fan-having-3-blades-of-length-80-mathrmcm-jee-main-physics-motion-y6zh0jmjzgzlh2q5",
+        "is_numerical": true,
+        "sub_topic": "Motional EMF: Rotating Rod (Earth)",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Induced EMF rotating rod"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 5th April Evening Shift",
+        "question": "The current in an inductor is given by$I=(3t+8)$where$t$is in second. The magnitude of induced emf produced in the inductor is$12 mV$. The self-inductance of the inductor _________$mH$.",
+        "options": [],
+        "answer": "4",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-current-in-an-inductor-is-given-by-mathrmi3-m-jee-main-physics-motion-kjcywlzihhvt1cm1",
+        "is_numerical": true,
+        "sub_topic": "Self Inductance: Basic",
+        "logic_type": "Calculus",
+        "difficulty": 1,
+        "physics_key": "Self-inductance dI/dt"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 31st January Morning Shift",
+        "question": "A small square loop of wire of side$l$is placed inside a large square loop of wire of side$L(L=l2)$. The loops are coplanar and their centers coincide. The value of the mutual inductance of the system is$x\u00d710\u22127H$, where$x=$_________.",
+        "options": [],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-small-square-loop-of-wire-of-side-l-is-placed-insid-jee-main-physics-motion-oxu3vgs67kzlzbpo",
+        "is_numerical": true,
+        "sub_topic": "Mutual Inductance: Square Loops",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Mutual Inductance Square-Square"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 1st February Evening Shift",
+        "question": "A coil of 200 turns and area$0.20 m2$is rotated at half a revolution per second and is placed in uniform magnetic field of$0.01 T$perpendicular to axis of rotation of the coil. The maximum voltage generated in the coil is$2\u03c0\u03b2$volt. The value of$\u03b2$is _______.",
+        "options": [],
+        "answer": "5",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-coil-of-200-turns-and-area-020-mathrmm2-is-rotated-jee-main-physics-hhkn0pvs4qauxkfy",
+        "is_numerical": true,
+        "sub_topic": "Motional EMF: Rotating Coil",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Peak EMF Rotating Coil"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 1st February Morning Shift",
+        "question": "A rectangular loop of sides$12 cm$and$5 cm$, with its sides parallel to the$x$-axis and$y$-axis respectively, moves with a velocity of$5 cm/s$in the positive$x$axis direction, in a space containing a variable magnetic field in the positive$z$direction. The field has a gradient of$10\u22123 T/cm$along the negative$x$direction and it is decreasing with time at the rate of$10\u22123 T/s$. If the resistance of the loop is$6 m\u03a9$, the power dissipated by the loop as heat is __________$\u00d710\u22129 W$.",
+        "options": [],
+        "answer": "216",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lsrmpn5k/8bb0421b-5dee-44c6-a49e-5ddfb61af2af/a80e9870-ce6d-11ee-991d-5322ace9b43e/file-6y3zli1lsrmpn5l.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-rectangular-loop-of-sides-12-mathrmcm-and-5-mathrm-jee-main-physics-v6hcmkzmton6q2o0",
+        "is_numerical": true,
+        "sub_topic": "Faraday's Law: Variable B and Motion",
+        "logic_type": "Calculus",
+        "difficulty": 5,
+        "physics_key": "Induced Power B(x, t)"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 29th January Evening Shift",
+        "question": "A horizontal straight wire$5 m$long extending from east to west falling freely at right angle to horizontal component of earths magnetic field$0.60\u00d710\u22124 Wbm\u22122$. The instantaneous value of emf induced in the wire when its velocity is$10 ms\u22121$is _________$\u00d710\u22123 V$.",
+        "options": [],
+        "answer": "3",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-horizontal-straight-wire-5-mathrmm-long-extendi-jee-main-physics-motion-6e4zfowjygpniwfo",
+        "is_numerical": true,
+        "sub_topic": "Motional EMF: Straight Wire (Earth)",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Induced EMF BLV simple"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 27th January Morning Shift",
+        "question": "Two coils have mutual inductance$0.002 H$. The current changes in the first coil according to the relation$i=i0sin\u2061\u03c9t$, where$i0=5 A$and$\u03c9=50\u03c0$rad/s. The maximum value of emf in the second coil is$\u03c0\u03b1 V$. The value of$\u03b1$is _______.",
+        "options": [],
+        "answer": "2",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/ptwo-coils-have-mutual-inductance-0002-mathrmh-t-jee-main-physics-motion-hztjky4rd8n3ntm8",
+        "is_numerical": true,
+        "sub_topic": "Mutual Inductance: Basic",
+        "logic_type": "Calculus",
+        "difficulty": 2,
+        "physics_key": "Max EMF Mutual Induction"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 15th April Morning Shift",
+        "question": "A$20 cm$long metallic rod is rotated with$210 rpm$about an axis normal to the rod passing through its one end. The other end of the rod is in contact with a circular metallic ring. A constant and uniform magnetic field$0.2 T$parallel to the axis exists everywhere. The emf developed between the centre and the ring is ____________$mV$. Take$\u03c0=227$",
+        "options": [],
+        "answer": "88",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-20-mathrmcm-long-metallic-rod-is-rotated-with-210-jee-main-physics-oii7ehysmvmolxq0",
+        "is_numerical": true,
+        "sub_topic": "Motional EMF: Rotating Rod",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Induced EMF Rotating Rod"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 13th April Evening Shift",
+        "question": "An insulated copper wire of 100 turns is wrapped around a wooden cylindrical core of the cross-sectional area$24 cm2$. The two ends of the wire are connected to a resistor. The total resistance in the circuit is$12 \u03a9$. If an externally applied uniform magnetic field in the core along its axis changes from$1.5 T$in one direction to$1.5 T$in the opposite direction, the charge flowing through a point in the circuit during the change of magnetic field will be ___________$mC$.",
+        "options": [],
+        "answer": "60",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-insulated-copper-wire-of-100-turns-is-wrapped-around-a-jee-main-physics-motion-n10tevljognzscaf",
+        "is_numerical": true,
+        "sub_topic": "Faraday's Law: Induced Charge",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Charge from Flux Change"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 29th January Morning Shift",
+        "question": "A square loop of side$10 cm$and resistance$0.7\u03a9$is placed vertically in east-west plane. A uniform magnetic field of$0.20T$is set up across the plane in north east direction. The magnetic field is decreased to zero in$1 s$at a steady rate. Then, magnitude of induced emf is$x\u00d710\u22123 V$. The value of$x$is __________.",
+        "options": [],
+        "answer": "2",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lt2vwplj/57f7acea-fc42-4254-b91c-29d33a047dfc/3dea4a70-d49e-11ee-8574-81dc091f6c89/file-1lt2vwplk.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-square-loop-of-side-10-mathrmcm-and-resistance-jee-main-physics-units-and-measurements-5ctqflzx2xtumsle",
+        "is_numerical": true,
+        "sub_topic": "Faraday's Law: Time-Varying Flux",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "EMF angle varying B"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 11th April Evening Shift",
+        "question": "A metallic cube of side$15 cm$moving along$y$-axis at a uniform velocity of$2 ms\u22121$. In a region of uniform magnetic field of magnitude$0.5 T$directed along$z$-axis. In equilibrium the potential difference between the faces of higher and lower potential developed because of the motion through the field will be _________ mV. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1lgtudtsr/c7b9881b-532d-4b4e-9213-84468adb7ae2/a143feb0-e212-11ed-a71b-5bec0e8df462/file-1lgtudtss.png?format=png]",
+        "options": [],
+        "answer": "150",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lgtudtsr/c7b9881b-532d-4b4e-9213-84468adb7ae2/a143feb0-e212-11ed-a71b-5bec0e8df462/file-1lgtudtss.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-metallic-cube-of-side-15-mathrmcm-moving-along-jee-main-physics-motion-smljma7bolxzj59g",
+        "is_numerical": true,
+        "sub_topic": "Motional EMF: Hall Potential",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Potential difference BLV"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 12th April Morning Shift",
+        "question": "A conducting circular loop is placed in a uniform magnetic field of$0.4 T$with its plane perpendicular to the field. Somehow, the radius of the loop starts expanding at a constant rate of$1 mm/s$. The magnitude of induced emf in the loop at an instant when the radius of the loop is$2 cm$will be ___________$\u03bcV$.",
+        "options": [],
+        "answer": "50",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-conducting-circular-loop-is-placed-in-a-uniform-magneti-jee-main-physics-motion-hvrgdxnjj5f2xrzj",
+        "is_numerical": true,
+        "sub_topic": "Faraday's Law: Variable Area",
+        "logic_type": "Calculus",
+        "difficulty": 3,
+        "physics_key": "EMF from expanding area"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 11th April Morning Shift",
+        "question": "The magnetic field B crossing normally a square metallic plate of area$4 m2$is changing with time as shown in figure. The magnitude of induced emf in the plate during$t=2s$to$t=4s$, is __________$mV$. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1lgvenhsu/7ec754dc-ac9b-4144-8216-c753cfc6bf99/ad524fe0-e2ee-11ed-b29f-636b60af9e14/file-1lgvenhsv.png?format=png]",
+        "options": [],
+        "answer": "8",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lgvenhsu/7ec754dc-ac9b-4144-8216-c753cfc6bf99/ad524fe0-e2ee-11ed-b29f-636b60af9e14/file-1lgvenhsv.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-magnetic-field-b-crossing-normally-a-square-metallic-jee-main-physics-motion-ywt8gs41wc6n29pb",
+        "is_numerical": true,
+        "sub_topic": "Faraday's Law: Graphical",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "EMF from B-t graph slope"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 30th January Morning Shift",
+        "question": "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1ldrelxdu/f5b30579-144a-4df8-90b9-2a611d67c5cc/b901b220-a556-11ed-803e-f1576252b48d/file-1ldrelxdv.png?format=png] As per the given figure, if$dIdt=\u22121 A/s$then the value of$VAB$at this instant will be ____________$V$.",
+        "options": [],
+        "answer": "30",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1ldrelxdu/f5b30579-144a-4df8-90b9-2a611d67c5cc/b901b220-a556-11ed-803e-f1576252b48d/file-1ldrelxdv.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pimagep-pas-per-the-given-figure-if-fracmathrm-jee-main-physics-motion-8txsjyr8hxvhcjmk",
+        "is_numerical": true,
+        "sub_topic": "Circuits: LR Inductance",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Potential difference VAB L-R"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 10th April Morning Shift",
+        "question": "A 1 m long metal rod XY completes the circuit as shown in figure. The plane of the circuit is perpendicular to the magnetic field of flux density 0.15 T. If the resistance of the circuit is 5$\u03a9$, the force needed to move the rod in direction, as indicated, with a constant speed of 4 m/s will be ____________ 10$\u22123$N. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1lgzn4x67/c3e81dd9-9142-43bd-903f-c7e854cbd952/fd94e7f0-e542-11ed-8d50-d941312069b0/file-1lgzn4x68.png?format=png]",
+        "options": [],
+        "answer": "18",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lgzn4x67/c3e81dd9-9142-43bd-903f-c7e854cbd952/fd94e7f0-e542-11ed-8d50-d941312069b0/file-1lgzn4x68.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/6y3zli1loi4kwvg/704af611-cd17-43e6-9216-6f7ca85969bd/d4d5aac0-7a02-11ee-bbdd-cfc3c972af88/file-6y3zli1loi4kwvh.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-1-m-long-metal-rod-xy-completes-the-circuit-as-shown-in-jee-main-physics-motion-dlplgmeg76wa3lyr",
+        "is_numerical": true,
+        "sub_topic": "Motional EMF: Conducting Rod",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Force for constant speed"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 10th April Evening Shift",
+        "question": "A square loop of side$2.0 cm$is placed inside a long solenoid that has 50 turns per centimetre and carries a sinusoidally varying current of amplitude$2.5 A$and angular frequency$700 rad s\u22121$. The central axes of the loop and solenoid coincide. The amplitude of the emf induced in the loop is$x\u00d710\u22124 V$. The value of$x$is __________.$(Take, ) (Take, \u03c0=227 )$",
+        "options": [],
+        "answer": "44",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-square-loop-of-side-20-mathrmcm-is-placed-insi-jee-main-physics-motion-iqtpdy4v8zldbucp",
+        "is_numerical": true,
+        "sub_topic": "Mutual Inductance: Solenoid-Loop",
+        "logic_type": "Calculus",
+        "difficulty": 4,
+        "physics_key": "EMF in loop from solenoid I(t)"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 6th April Evening Shift",
+        "question": "Two concentric circular coils with radii$1 cm$and$1000 cm$, and number of turns 10 and 200 respectively are placed coaxially with centers coinciding. The mutual inductance of this arrangement will be ___________$\u00d710\u22128H$. (Take,$\u03c02=10$)",
+        "options": [],
+        "answer": "4",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/ptwo-concentric-circular-coils-with-radii-1-mathrmcm-jee-main-physics-motion-rng40naua8hbjcpx",
+        "is_numerical": true,
+        "sub_topic": "Mutual Inductance: Coaxial Coils",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Mutual Inductance Coaxial Coils"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 29th January Morning Shift",
+        "question": "A certain elastic conducting material is stretched into a circular loop. It is placed with its plane perpendicular to a uniform magnetic field B = 0.8 T. When released the radius of the loop starts shrinking at a constant rate of 2 cms$\u22121$. The induced emf in the loop at an instant when the radius of the loop is 10 cm will be __________ mV.",
+        "options": [],
+        "answer": "10",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-certain-elastic-conducting-material-is-stretched-into-a-jee-main-physics-motion-5s3tebvcsffo1eow",
+        "is_numerical": true,
+        "sub_topic": "Faraday's Law: Variable Area",
+        "logic_type": "Calculus",
+        "difficulty": 3,
+        "physics_key": "EMF from shrinking area"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 24th January Evening Shift",
+        "question": "Three identical resistors with resistance R = 12$\u03a9$and two identical inductors with self inductance L = 5 mH are connected to an ideal battery with emf of 12 V as shown in figure. The current through the battery long after the switch has been closed will be _____________ A. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1ldxigfle/5c528e89-50d8-412c-9371-cbe6d9f8ee00/78a1ad20-a8b2-11ed-a3d7-5b81580a6b38/file-1ldxigflf.png?format=png]",
+        "options": [],
+        "answer": "3",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1ldxigfle/5c528e89-50d8-412c-9371-cbe6d9f8ee00/78a1ad20-a8b2-11ed-a3d7-5b81580a6b38/file-1ldxigflf.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1le4deh44/b1217ea3-f19b-4a41-8dbf-ff553ce2b6d6/31164730-ac78-11ed-b725-7db87d3646da/file-1le4deh45.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pthree-identical-resistors-with-resistance-r--12omega-jee-main-physics-motion-ntgp56zkuaiqbwbp",
+        "is_numerical": true,
+        "sub_topic": "Transient: DC steady state",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Inductor short circuit steady"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th July Evening Shift",
+        "question": "A conducting circular loop is placed in$X\u2212Y$plane in presence of magnetic field$B\u2192=(3t3j^+3t2k^)$in SI unit. If the radius of the loop is$1 m$, the induced emf in the loop, at time,$t=2 s$is$n\u03c0V$. The value of$n$is ___________.",
+        "options": [],
+        "answer": "12",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-conducting-circular-loop-is-placed-in-x-y-plane-in-jee-main-physics-motion-jivvr4koxwxokg7c",
+        "is_numerical": true,
+        "sub_topic": "Faraday's Law: Time-Varying Vector B",
+        "logic_type": "Calculus",
+        "difficulty": 3,
+        "physics_key": "EMF from vector B(t)"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 28th July Evening Shift",
+        "question": "For the given circuit the current through battery of 6 V just after closing the switch 'S' will be _________ A. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l6s8r5qj/d6d141e0-67ff-41a3-9adb-eafef6ab986f/18ba09b0-1b37-11ed-91de-637bbeffe542/file-1l6s8r5qk.png?format=png]",
+        "options": [],
+        "answer": "1",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l6s8r5qj/d6d141e0-67ff-41a3-9adb-eafef6ab986f/18ba09b0-1b37-11ed-91de-637bbeffe542/file-1l6s8r5qk.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pfor-the-given-circuit-the-current-through-battery-of-6-v-jee-main-physics-motion-cy53kor6rwz4q9it",
+        "is_numerical": true,
+        "sub_topic": "Transient: DC initial state",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Inductor open circuit initial"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th June Morning Shift",
+        "question": "A 10$\u03a9$, 20 mH coil carrying constant current is connected to a battery of 20 V through a switch. Now after switch is opened current becomes zero in 100$\u03bc$s. The average e.m.f. induced in the coil is ____________ V.",
+        "options": [],
+        "answer": "400",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l5jhw3yo/4d242564-1414-4300-8c7c-e97049b43a97/8f574100-029b-11ed-a9b8-43edceee002f/file-1l5jhw3yp.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-10-omega-20-mh-coil-carrying-constant-current-is-jee-main-physics-motion-tbtwop63b456geur",
+        "is_numerical": true,
+        "sub_topic": "Self Inductance: Basic",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Average EMF from dI/dt"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th July Evening Shift",
+        "question": "In a coil of resistance$8\u03a9$, the magnetic flux due to an external magnetic field varies with time as$\u03d5=23(9\u2212t2)$. The value of total heat produced in the coil, till the flux becomes zero, will be _____________$J$.",
+        "options": [],
+        "answer": "2",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-a-coil-of-resistance-8-omega-the-magnetic-flux-jee-main-physics-motion-owuynbjnfcdenbka",
+        "is_numerical": true,
+        "sub_topic": "Faraday's Law: Heat Dissipation",
+        "logic_type": "Calculus",
+        "difficulty": 4,
+        "physics_key": "Heat from induced current"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th June Evening Shift",
+        "question": "A metallic rod of length 20 cm is placed in North-South direction and is moved at a constant speed of 20 m/s towards East. The horizontal component of the Earth's magnetic field at that place is 4$\u00d7$10 ^$\u2212$3 T and the angle of dip is 45$\u2218$. The emf induced in the rod is ___________ mV.",
+        "options": [],
+        "answer": "16",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-metallic-rod-of-length-20-cm-is-placed-in-north-south-d-jee-main-physics-motion-kbfoiplunhklc9by",
+        "is_numerical": true,
+        "sub_topic": "Motional EMF: Earth's Field",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Induced EMF component method"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th July Evening Shift",
+        "question": "Magnetic flux (in weber) in a closed circuit of resistance 20$\u03a9$varies with time t(s) at$\u03d5$= 8t ^2$\u2212$9t + 5. The magnitude of the induced current at t = 0.25 s will be ____________ mA.",
+        "options": [],
+        "answer": "250",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pmagnetic-flux-in-weber-in-a-closed-circuit-of-resistanc-jee-main-physics-motion-wzkaxne1vvvbnxe9",
+        "is_numerical": true,
+        "sub_topic": "Faraday's Law: Time-Varying Flux",
+        "logic_type": "Calculus",
+        "difficulty": 2,
+        "physics_key": "Induced current from dPhi/dt"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 24th June Evening Shift",
+        "question": "A circular coil of 1000 turns each with area 1m ^2 is rotated about its vertical diameter at the rate of one revolution per second in a uniform horizontal magnetic field of 0.07T. The maximum voltage generation will be ___________ V.",
+        "options": [],
+        "answer": "440",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-circular-coil-of-1000-turns-each-with-area-1msup2su-jee-main-physics-motion-v1mo7twvzfbgjwtf",
+        "is_numerical": true,
+        "sub_topic": "Motional EMF: Rotating Coil",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Peak EMF Rotating Coil"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th June Morning Shift",
+        "question": "The current in a coil of self inductance 2.0 H is increasing according to I = 2 sin(t ^2 ) A. The amount of energy spent during the period when current changes from 0 to 2 A is ____________ J.",
+        "options": [],
+        "answer": "4",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-current-in-a-coil-of-self-inductance-20-h-is-increas-jee-main-physics-motion-tqva8ufp0iod23sm",
+        "is_numerical": true,
+        "sub_topic": "Self Inductance: Energy",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Energy stored in inductor"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th August Evening Shift",
+        "question": "If the maximum value of accelerating potential provided by a ratio frequency oscillator is 12 kV. The number of revolution made by a proton in a cyclotron to achieve one sixth of the speed of light is ............... [m _p = 1.67$\u00d7$10 ^$\u2212$27 kg, e = 1.6$\u00d7$10 ^$\u2212$19 ^ C, Speed of light = 3$\u00d7$10 ^8 m/s]",
+        "options": [],
+        "answer": "543",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/if-the-maximum-value-of-accelerating-potential-provided-by-a-jee-main-physics-units-and-measurements-0u5khznznbpupqna",
+        "is_numerical": true,
+        "sub_topic": "Device: Cyclotron",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Cyclotron energy revolution"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th August Evening Shift",
+        "question": "A circular coil of radius 8.0 cm and 20 turns is rotated about its vertical diameter with an angular speed of 50 rad s ^$\u2212$1 in a uniform horizontal magnetic field of 3.0$\u00d7$10 ^$\u2212$2 T. The maximum emf induced the coil will be .................$\u00d7$10 ^$\u2212$2 volt (rounded off to the nearest integer)",
+        "options": [],
+        "answer": "60",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-circular-coil-of-radius-80-cm-and-20-turns-is-rotated-abo-jee-main-physics-units-and-measurements-dzgxyq0abopvuph1",
+        "is_numerical": true,
+        "sub_topic": "Motional EMF: Rotating Coil",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Peak EMF Rotating Coil"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th February Morning Shift",
+        "question": "A coil of inductance 2 H having negligible resistance is connected to a source of supply whose voltage is given by V = 3t volt. (where t is in second). If the voltage is applied when t = 0, then the energy stored in the coil after 4 s is _______J.",
+        "options": [],
+        "answer": "144",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-coil-of-inductance-2-h-having-negligible-resistance-is-con-jee-main-physics-units-and-measurements-jrpd1pt0feoboplx",
+        "is_numerical": true,
+        "sub_topic": "Self Inductance: Energy",
+        "logic_type": "Calculus",
+        "difficulty": 3,
+        "physics_key": "Energy from time-varying voltage"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th July Morning Shift",
+        "question": "A circular conducting coil of radius 1 m is being heated by the change of magnetic field$B\u2192$passing perpendicular to the plane in which the coil is laid. The resistance of the coil is 2$\u03bc$$\u03a9$. The magnetic field is slowly switched off such that its magnitude changes in time as$B=4\u03c0\u00d710\u22123T(1\u2212t100)$The energy dissipated by the coil before the magnetic field is switched off completely is E = ___________ mJ.",
+        "options": [],
+        "answer": "80",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-circular-conducting-coil-of-radius-1-m-is-being-heated-by-jee-main-physics-units-and-measurements-4b5lbsjy18e7g17t",
+        "is_numerical": true,
+        "sub_topic": "Faraday's Law: Heat Dissipation",
+        "logic_type": "Calculus",
+        "difficulty": 4,
+        "physics_key": "Heat from decaying B-field"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 6th September Morning Slot",
+        "question": "A part of a complete circuit is shown in the figure. At some instant, the value of current I is 1A and it is decreasing at a rate of 10 ^2 A s ^\u20131 . The value of the potential difference V _P \u2013 V _Q , (in volts) at that instant, is _________. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1kwlvrnde/5f5f350a-f6ec-405f-9bb2-c5acbf27dc82/71fc1f20-51bd-11ec-9e89-f95be170c8e5/file-1kwlvrndf.png]",
+        "options": [],
+        "answer": "33",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1kwlvrnde/5f5f350a-f6ec-405f-9bb2-c5acbf27dc82/71fc1f20-51bd-11ec-9e89-f95be170c8e5/file-1kwlvrndf.png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1kwlvsn7y/3aedd075-7075-4e1d-a0c3-dc960fb6e5de/8dad5ae0-51bd-11ec-9e89-f95be170c8e5/file-1kwlvsn7z.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-part-of-a-complete-circuit-is-shownbr-in-the-figure-at-jee-main-physics-heat-and-thermodynamics-dxcotlqbikrbxcco",
+        "is_numerical": true,
+        "sub_topic": "Circuits: LR Inductance",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Potential difference L-R branch"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 27th July Evening Shift",
+        "question": "In the given figure the magnetic flux through the loop increases according to the relation$\u03d5$_B (t) = 10t ^2 + 20t, where$\u03d5$_B is in milliwebers and t is in seconds. The magnitude of current through R = 2$\u03a9$resistor at t = 5 s is ___________ mA. [IMAGE: https://imagex.cdn.examgoal.net/1ks456cbf/1e076f90-11bd-4ed0-8cb2-d43beda61c81/438a2ab0-f8cb-11eb-8274-7f1d731e697f/file-1ks456cbg.jpg]",
+        "options": [],
+        "answer": "60",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1ks456cbf/1e076f90-11bd-4ed0-8cb2-d43beda61c81/438a2ab0-f8cb-11eb-8274-7f1d731e697f/file-1ks456cbg.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/in-the-given-figure-the-magnetic-flux-through-the-loop-incre-jee-main-physics-units-and-measurements-w75dwz1w81hwqmat",
+        "is_numerical": true,
+        "sub_topic": "Faraday's Law: Time-Varying Flux",
+        "logic_type": "Calculus",
+        "difficulty": 2,
+        "physics_key": "Induced current from dPhi/dt"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 23rd January Morning Shift",
+        "question": "Regarding self-inductance: A. The self-inductance of the coil depends on its geometry. B. Self-inductance does not depend on the permeability of the medium. C. Self-induced e.m.f. opposes any change in the current in a circuit. D. Self-inductance is electromagnetic analogue of mass in mechanics. E. Work needs to be done against self-induced e.m.f. in establishing the current. Choose the correct answer from the options given below:",
+        "options": [
+            "A, B, C, E only",
+            "A, B, C, D only",
+            "A, C, D, E only",
+            "B, C, D, E only"
+        ],
+        "answer": "A, C, D, E only",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pregarding-self-inductancep-pa-the-self-inductance-jee-main-physics-units-and-measurements-55nzakicxrm2r9yo",
+        "is_numerical": false,
+        "sub_topic": "Self Inductance: Conceptual",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Inductance definition work"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 7th January Morning Slot",
+        "question": "A loop ABCDEFA of straight edges has six corner points A(0, 0, 0), B(5, 0, 0), C(5, 5, 0), D (0, 5, 0), E(0, 5, 5) and F(0, 0, 5). The magnetic field in this region is$B\u2192=(3i^+4k^)T$. The quantity of flux through the loop ABCDEFA (in Wb) is _______.",
+        "options": [],
+        "answer": "175",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-loop-abcdefa-of-straight-edges-has-six-corner-points-a0-jee-main-physics-heat-and-thermodynamics-8crcsjj9ed7dbdln",
+        "is_numerical": true,
+        "sub_topic": "Faraday's Law: Vector Flux",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Vector area flux component"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 28th January Evening Shift",
+        "question": "A uniform magnetic field of 0.4 T acts perpendicular to a circular copper disc 20 cm in radius. The disc is having a uniform angular velocity of 10$\u03c0$rad s ^-1 about an axis through its centre and perpendicular to the disc. What is the potential difference developed between the axis of the disc and the rim?$(\u03c0=3.14)$",
+        "options": [
+            "0.5024 V",
+            "0.0628 V",
+            "0.2512 V",
+            "0.1256 V"
+        ],
+        "answer": "0.2512 V",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-uniform-magnetic-field-of-04-t-acts-perpendicular-to-a-jee-main-physics-vzncozwuwqkesyfz",
+        "is_numerical": false,
+        "sub_topic": "Motional EMF: Rotating Disc",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Induced EMF Rotating Disc"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 2nd September Morning Slot",
+        "question": "A circular coil of radius 10 cm is placed in a uniform magnetic field of 3.0$\u00d7$10 ^\u20135 T with its plane perpendicular to the field initially. It is rotated at constant angular speed about an axis along the diameter of coil and perpendicular to magnetic field so that it undergoes half of rotation in 0.2 s. The maximum value of EMF induced (in$\u03bc$V) in the coil will be close to the integer _______.",
+        "options": [],
+        "answer": "15",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-circular-coil-of-radius-10-cm-is-placed-in-a-uniform-magne-jee-main-physics-magnetics-ceejmqqspst7c9sy",
+        "is_numerical": true,
+        "sub_topic": "Motional EMF: Rotating Coil",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Peak EMF from rotation time"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 9th January Morning Slot",
+        "question": "In a fluorescent lamp choke (a small transformer) 100 V of reverse voltage is produced when the choke current changes uniformly from 0.25 A to 0 in a duration of 0.025 ms. The self-inductance of the choke (in mH) is estimated to be ________.",
+        "options": [],
+        "answer": "10",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-a-fluorescent-lamp-choke-a-small-transformer-100-v-of-r-jee-main-physics-current-electricity-6i4hjixllnqljwpq",
+        "is_numerical": true,
+        "sub_topic": "Self Inductance: Basic",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Self inductance dI/dt"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 29th January Morning Shift",
+        "question": "Consider I _1 and I _2 are the currents flowing simultaneously in two nearby coils 1 & 2, respectively. If L _1 = self inductance of coil 1, M _12 = mutual inductance of coil 1 with respect to coil 2, then the value of induced emf in coil 1 will be :",
+        "options": [
+            "e _1 = -L _1$dI2dt$- M _12$dI1dt$",
+            "e _1 = -L _1$dI1dt$+ M _12$dI2dt$",
+            "e _1 = -L _1$dI1dt$- M _12$dI1dt$",
+            "e _1 = -L _1$dI1dt$- M _12$dI2dt$"
+        ],
+        "answer": "e _1 = -L _1$dI1dt$- M _12$dI2dt$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pconsider-isub1sub-and-isub2sub-are-the-currents-jee-main-physics-rhj7jfhgiqpwmry1",
+        "is_numerical": false,
+        "sub_topic": "Self Inductance: Conceptual",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Combined Self Mutual EMF"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 5th September Morning Slot",
+        "question": "Two concentric circular coils, C _1 and C _2 are placed in the XY plane. C _1 has 500 turns, and a radius of 1 cm. C _2 has 200 turns and radius of 20 cm. C _2 carries a time dependent current I(t) = (5t ^2 \u2013 2t + 3) A where t is in s. The emf induced in C _1 (in mV), at the instant t = 1 s is$4x$. The value of x is ___ .",
+        "options": [],
+        "answer": "5",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/two-concentric-circular-coils-csub1sub-and-csub2su-jee-main-physics-magnetics-avc7mltm34zvvrvv",
+        "is_numerical": true,
+        "sub_topic": "Mutual Inductance: Coaxial Coils",
+        "logic_type": "Calculus",
+        "difficulty": 3,
+        "physics_key": "EMF from I(t) M formula"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 9th April Evening Shift",
+        "question": "A square loop of side$15 cm$being moved towards right at a constant speed of$2 cm/s$as shown in figure. The front edge enters the$50 cm$wide magnetic field at$t=0$. The value of induced emf in the loop at$t=10 s$will be : [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1luxqayui/1e312204-876c-4ece-9d85-899da1e2fc9d/d71fdbb0-f960-11ee-b4ea-33a950126de8/file-1luxqayuj.png?format=png]",
+        "options": [
+            "zero",
+            "4.5 mV",
+            "0.3 mV",
+            "3 mV"
+        ],
+        "answer": "N/A",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1luxqayui/1e312204-876c-4ece-9d85-899da1e2fc9d/d71fdbb0-f960-11ee-b4ea-33a950126de8/file-1luxqayuj.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-square-loop-of-side-15-mathrmcm-being-moved-tow-jee-main-physics-motion-nxjnmyostjkbnfos",
+        "is_numerical": false,
+        "sub_topic": "Motional EMF: Moving Loop",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Motional EMF boundary check"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 5th April Morning Shift",
+        "question": "Two conducting circular loops A and B are placed in the same plane with their centres coinciding as shown in figure. The mutual inductance between them is: [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1lv7kr8r3/440cd417-88ab-480f-905f-d7a5f5258245/fb70d9f0-feca-11ee-8116-e195dc03b165/file-1lv7kr8r4.png?format=png]",
+        "options": [
+            "$\u03bco2\u03c0\u22c5b2a$",
+            "$\u03bco\u03c0a22 b$",
+            "$\u03bc0\u03c0b22a$",
+            "$\u03bc02\u03c0\u22c5a2b$"
+        ],
+        "answer": "N/A",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lv7kr8r3/440cd417-88ab-480f-905f-d7a5f5258245/fb70d9f0-feca-11ee-8116-e195dc03b165/file-1lv7kr8r4.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/ptwo-conducting-circular-loops-a-and-b-are-placed-in-the-s-jee-main-physics-motion-fhnsnpsux9yecylz",
+        "is_numerical": false,
+        "sub_topic": "Mutual Inductance: Coaxial Coils",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Mutual Inductance Coaxial Loop"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 22nd January Evening Shift",
+        "question": "A rectangular metallic loop is moving out of a uniform magnetic field region to a field free region with a constant speed. When the loop is partially inside the magnate field, the plot of magnitude of induced emf$(\u03b5)$with time$(t)$is given by",
+        "options": [
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6re4tg5/69c5d66b-6187-46ec-b239-a69e3e75f13d/2332f450-e377-11ef-ab94-bb713ae2a9d6/file-jaoe38c1m6re4tg6.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6re53ai/b6e2f236-4e34-4d3a-ae7c-e5bc80e1847e/2acd84a0-e377-11ef-ab94-bb713ae2a9d6/file-jaoe38c1m6re53aj.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6re5d11/0adc9181-3e8b-49a4-867d-bf2d46967aaa/32530650-e377-11ef-ab94-bb713ae2a9d6/file-jaoe38c1m6re5d12.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6re5mga/46d8c8b0-076a-4dbd-96f8-4e3ba03c7af3/399a94a0-e377-11ef-ab94-bb713ae2a9d6/file-jaoe38c1m6re5mgb.png?format=png]"
+        ],
+        "answer": "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6re53ai/b6e2f236-4e34-4d3a-ae7c-e5bc80e1847e/2acd84a0-e377-11ef-ab94-bb713ae2a9d6/file-jaoe38c1m6re53aj.png?format=png]",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6re4tg5/69c5d66b-6187-46ec-b239-a69e3e75f13d/2332f450-e377-11ef-ab94-bb713ae2a9d6/file-jaoe38c1m6re4tg6.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6re53ai/b6e2f236-4e34-4d3a-ae7c-e5bc80e1847e/2acd84a0-e377-11ef-ab94-bb713ae2a9d6/file-jaoe38c1m6re53aj.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6re5d11/0adc9181-3e8b-49a4-867d-bf2d46967aaa/32530650-e377-11ef-ab94-bb713ae2a9d6/file-jaoe38c1m6re5d12.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6re5mga/46d8c8b0-076a-4dbd-96f8-4e3ba03c7af3/399a94a0-e377-11ef-ab94-bb713ae2a9d6/file-jaoe38c1m6re5mgb.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m7fya681/2ce4c19c-530e-47a3-a40a-394715f7f8c9/be482710-f0f8-11ef-b2b3-ebf21cc94d34/file-jaoe38c1m7fya682.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-rectangular-metallic-loop-is-moving-out-of-a-uniform-ma-jee-main-physics-units-and-measurements-n32dkuirl4nqhgf9",
+        "is_numerical": false,
+        "sub_topic": "Motional EMF: Moving Loop (Graphical)",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "Induced EMF constant exit graph"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 1st February Evening Shift",
+        "question": "A transformer has an efficiency of$80%$and works at$10 V$and$4 kW$. If the secondary voltage is$240 V$, then the current in the secondary coil is :",
+        "options": [
+            "$1.33 A$",
+            "$13.33 A$",
+            "$1.59 A$",
+            "$15.1 A$"
+        ],
+        "answer": "$13.33 A$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-transformer-has-an-efficiency-of-80--and-works-at-10-jee-main-physics-fzpjuv2q0h3c5aut",
+        "is_numerical": false,
+        "sub_topic": "Transformer: Efficiency",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Output current from efficiency"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 11th April Evening Shift",
+        "question": "Given below are two statements: one is labelled as Assertion$A$and the other is labelled as Reason$R$Assertion A: A bar magnet dropped through a metallic cylindrical pipe takes more time to come down compared to a non-magnetic bar with same geometry and mass. Reason R: For the magnetic bar, Eddy currents are produced in the metallic pipe which oppose the motion of the magnetic bar. In the light of the above statements, choose the correct answer from the options given below",
+        "options": [
+            "A is true but R is false",
+            "A is false but R is true",
+            "Both A and R are true but R is NOT the correct explanation of A",
+            "Both A and R are true and R is the correct explanation of A"
+        ],
+        "answer": "Both A and R are true and R is the correct explanation of A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pgiven-below-are-two-statements-one-is-labelled-as-assert-jee-main-physics-motion-fs42mv51hkfogwug",
+        "is_numerical": false,
+        "sub_topic": "Faraday's Law: Eddy Current Damping",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Eddy current damping concept"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 30th January Evening Shift",
+        "question": "Match List I with List II List I List II (A) Gauss's law of magnetostatics (I)$\u222eE\u2192\u22c5d\u2192a=1\u03b50\u222b\u03c1dV$(B) Faraday's law of electro magnetic induction (II)$\u222eB\u2192\u22c5d\u2192a=0$(C) Ampere's law (III)$\u222bE\u2192\u22c5d\u2192l=\u2212ddt\u222bB\u2192\u22c5d\u2192a$(D) Gauss's law of electrostatics (IV)$\u222eB\u2192\u22c5d\u2192l=\u03bc0I$Choose the correct answer from the options given below:",
+        "options": [
+            "A-III, B-IV, C-I, D-II",
+            "A-IV, B-II, C-III, D-I",
+            "A-II, B-III, C-IV, D-I",
+            "A-I, B-III, C-IV, D-II"
+        ],
+        "answer": "A-II, B-III, C-IV, D-I",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pmatch-list-i-with-list-iip-pstyle-typetextcss-jee-main-physics-motion-fgeq2jtimoexio8e",
+        "is_numerical": false,
+        "sub_topic": "Faraday's Law: Maxwelleqns",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Maxwell's equations matching"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 6th April Evening Shift",
+        "question": "In a coil, the current changes from$\u22122 A$to$+2 A$in$0.2 s$and induces an emf of$0.1 V$. The self inductance of the coil is :",
+        "options": [
+            "4 mH",
+            "2.5 mH",
+            "1 mH",
+            "5 mH"
+        ],
+        "answer": "5 mH",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-a-coil-the-current-changes-from--2-mathrma-to-jee-main-physics-motion-6khjn9dk6kp7vzlm",
+        "is_numerical": false,
+        "sub_topic": "Self Inductance: Basic",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Self inductance L from dI"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 8th April Morning Shift",
+        "question": "Certain galvanometers have a fixed core made of non magnetic metallic material. The function of this metallic material is",
+        "options": [
+            "to bring the coil to rest quickly",
+            "to produce large deflecting torque on the coil",
+            "to oscillate the coil in magnetic field for longer period of time",
+            "to make the magnetic field radial"
+        ],
+        "answer": "to bring the coil to rest quickly",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pcertain-galvanometers-have-a-fixed-core-made-of-non-magne-jee-main-physics-motion-9qb5ge2hshbdktft",
+        "is_numerical": false,
+        "sub_topic": "Device: Galvanometer",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Eddy damping galvanometer core"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 6th April Morning Shift",
+        "question": "The induced emf can be produced in a coil by A. moving the coil with uniform speed inside uniform magnetic field B. moving the coil with non uniform speed inside uniform magnetic field C. rotating the coil inside the uniform magnetic field D. changing the area of the coil inside the uniform magnetic field Choose the correct answer from the options given below:",
+        "options": [
+            "A and C only",
+            "C and D only",
+            "B and D only",
+            "B and C only"
+        ],
+        "answer": "C and D only",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-induced-emf-can-be-produced-in-a-coil-byp-pa-mo-jee-main-physics-motion-ash1cjirrlfth8pu",
+        "is_numerical": false,
+        "sub_topic": "Faraday's Law: Conceptual",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Induced EMF methods"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 10th April Morning Shift",
+        "question": "Given below are two statements: Statement I : If the number of turns in the coil of a moving coil galvanometer is doubled then the current sensitivity becomes double. Statement II : Increasing current sensitivity of a moving coil galvanometer by only increasing the number of turns in the coil will also increase its voltage sensitivity in the same ratio In the light of the above statements, choose the correct answer from the options given below :",
+        "options": [
+            "Statement I is true but Statement II is false",
+            "Statement I is false but Statement II is true",
+            "Both Statement I and Statement II are false",
+            "Both Statement I and Statement II are true"
+        ],
+        "answer": "Statement I is true but Statement II is false",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pgiven-below-are-two-statementsp-pstatement-i--if-t-jee-main-physics-motion-ienk5pjtjbpsr6to",
+        "is_numerical": false,
+        "sub_topic": "Device: Galvanometer",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Sensitivity turns ratio"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 31st January Morning Shift",
+        "question": "A coil is places perpendicular to a magnetic field of$5000 T$. When the field is changed to$3000 T$in$2 s$, an induced emf of$22 V$is produced in the coil. If the diameter of the coil is$0.02 m$, then the number of turns in the coil is:",
+        "options": [
+            "35",
+            "70",
+            "7",
+            "140"
+        ],
+        "answer": "70",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-coil-is-places-perpendicular-to-a-magnetic-field-of-5-jee-main-physics-motion-dnt4pv9lls6b7qo6",
+        "is_numerical": false,
+        "sub_topic": "Faraday's Law: Time-Varying Flux",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Induced EMF from B-field change"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 8th April Evening Shift",
+        "question": "An emf of$0.08 V$is induced in a metal rod of length$10 cm$held normal to a uniform magnetic field of$0.4 T$, when moves with a velocity of:",
+        "options": [
+            "$20 ms\u22121$",
+            "$2 ms\u22121$",
+            "$3.2 ms\u22121$",
+            "$0.5 ms\u22121$"
+        ],
+        "answer": "$2 ms\u22121$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-emf-of-008-mathrmv-is-induced-in-a-metal-rod-jee-main-physics-motion-40hfvcebfhxtgw2g",
+        "is_numerical": false,
+        "sub_topic": "Motional EMF: Straight Wire",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Induced EMF BLV simple"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 15th April Morning Shift",
+        "question": "$12 V$battery connected to a coil of resistance$6\u03a9$through a switch, drives a constant current in the circuit. The switch is opened in$1 ms$. The emf induced across the coil is$20 V$. The inductance of the coil is :",
+        "options": [
+            "$5 mH$",
+            "$8 mH$",
+            "$10 mH$",
+            "$12 mH$"
+        ],
+        "answer": "$10 mH$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/12-mathrmv-battery-connected-to-a-coil-of-resistance--jee-main-physics-eptenqhccc1kx3rp",
+        "is_numerical": false,
+        "sub_topic": "Self Inductance: Basic",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Inductance from switching EMF"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 29th January Morning Shift",
+        "question": "Match List I with List II List - I List - II (A)$\u222eB\u2192\u22c5dl\u2192=\u03bcoic+\u03bco\u03b5od\u03d5Edt$(I) Gauss' law for electricity (B)$\u222eE\u2192\u22c5dl\u2192=d\u03d5Bdt$(II) Gauss' law for magnetism (C)$\u222eE\u2192\u22c5dA\u2192=Q\u03b5o$(III) Faraday law (D)$\u222eB\u2192\u22c5dA\u2192=0$(IV) Ampere - Maxwell law Choose the correct answer from the options given below:",
+        "options": [
+            "A-IV, B-III, C-I, D-II",
+            "A-I, B-II, C-III, D-IV",
+            "A-IV, B-I, C-III, D-II",
+            "A-II, B-III, C-I, D-IV"
+        ],
+        "answer": "A-IV, B-III, C-I, D-II",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pmatch-list-i-with-list-iip-pstyle-typetextcss-jee-main-physics-units-and-measurements-ttzlbf0ulzuj9e2t",
+        "is_numerical": false,
+        "sub_topic": "Faraday's Law: Maxwelleqns",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Maxwell's equations matching"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 27th January Morning Shift",
+        "question": "A rectangular loop of length$2.5 m$and width$2 m$is placed at$60\u2218$to a magnetic field of$4 T$. The loop is removed from the field in$10 sec$. The average emf induced in the loop during this time is",
+        "options": [
+            "$\u22122 V$",
+            "$+2 V$",
+            "$+1 V$",
+            "$\u22121 V$"
+        ],
+        "answer": "$+1 V$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-rectangular-loop-of-length-25-mathrmm-and-widt-jee-main-physics-motion-v4ju1vjtzhfqrccr",
+        "is_numerical": false,
+        "sub_topic": "Faraday's Law: Time-Varying Flux",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Average EMF from flux change"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 1st February Evening Shift",
+        "question": "A coil is placed in magnetic field such that plane of coil is perpendicular to the direction of magnetic field. The magnetic flux through a coil can be changed : A. By changing the magnitude of the magnetic field within the coil. B. By changing the area of coil within the magnetic field. C. By changing the angle between the direction of magnetic field and the plane of the coil. D. By reversing the magnetic field direction abruptly without changing its magnitude. Choose the most appropriate answer from the options given below :",
+        "options": [
+            "A, B and D only",
+            "A, B and C only",
+            "A and B only",
+            "A and C only"
+        ],
+        "answer": "A, B and C only",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-coil-is-placed-in-magnetic-field-such-that-plane-of-coi-jee-main-physics-motion-8bvqmch6wh4n9dsr",
+        "is_numerical": false,
+        "sub_topic": "Faraday's Law: Conceptual",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Flux change method conceptual"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 29th January Morning Shift",
+        "question": "Find the mutual inductance in the arrangement, when a small circular loop of wire of radius '$R$' is placed inside a large square loop of wire of side$L$$(L\u226bR)$. The loops are coplanar and their centres coincide : [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1ldt14o1v/87d9a522-8e1d-4bc0-9764-56466c9567ab/93a97130-a63b-11ed-8e98-03be028140e9/file-1ldt14o1w.png?format=png]",
+        "options": [
+            "$M=2\u03bc0RL2$",
+            "$M=22\u03bc0RL2$",
+            "$M=22\u03bc0R2L$",
+            "$M=2\u03bc0R2L$"
+        ],
+        "answer": "$M=22\u03bc0R2L$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1ldt14o1v/87d9a522-8e1d-4bc0-9764-56466c9567ab/93a97130-a63b-11ed-8e98-03be028140e9/file-1ldt14o1w.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/@width/image/1lei3q9e1/b707d484-0cd7-4eb2-a354-be8e4d9ce9b0/56a16f90-b405-11ed-8518-6f6f1908382a/file-1lei3q9e2.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pfind-the-mutual-inductance-in-the-arrangement-when-a-sma-jee-main-physics-motion-ozjjtb4xyiuf5qxy",
+        "is_numerical": false,
+        "sub_topic": "Mutual Inductance: Square-Square",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Mutual Inductance large/small loop"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 31st January Morning Shift",
+        "question": "Spherical insulating ball and a spherical metallic ball of same size and mass are dropped from the same height. Choose the correct statement out of the following {Assume negligible air friction}",
+        "options": [
+            "Metal ball will reach the earth's surface earlier than the insulating ball",
+            "Both will reach the earth's surface simultaneously.",
+            "Insulating ball will reach the earth's surface earlier than the metal ball",
+            "Time taken by them to reach the earth's surface will be independent of the properties of their materials"
+        ],
+        "answer": "Insulating ball will reach the earth's surface earlier than the metal ball",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pspherical-insulating-ball-and-a-spherical-metallic-ball-o-jee-main-physics-motion-bql7sgt3pxedb8dt",
+        "is_numerical": false,
+        "sub_topic": "Faraday's Law: Eddy Current Damping",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Eddy damping drag force"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 25th January Evening Shift",
+        "question": "A wire of length 1m moving with velocity 8 m/s at right angles to a magnetic field of 2T. The magnitude of induced emf, between the ends of wire will be __________.",
+        "options": [
+            "20 V",
+            "8 V",
+            "16 V",
+            "12 V"
+        ],
+        "answer": "16 V",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/@width/image/1ledl0tks/6f0abe55-b10a-42f6-b8a8-2562be02de8e/0c43cfc0-b189-11ed-94f5-239612b3abb5/file-1ledl0tkt.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-wire-of-length-1m-moving-with-velocity-8-ms-at-right-a-jee-main-physics-motion-htyx35tqnnjxeoks",
+        "is_numerical": false,
+        "sub_topic": "Motional EMF: Straight Wire",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Induced EMF BLV simple"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 29th January Evening Shift",
+        "question": "A square loop of area 25 cm$2$has a resistance of 10$\u03a9$. The loop is placed in uniform magnetic field of magnitude 40.0 T. The plane of loop is perpendicular to the magnetic field. The work done in pulling the loop out of the magnetic field slowly and uniformly in 1.0 sec, will be",
+        "options": [
+            "$1.0\u00d710\u22123 J$",
+            "$5\u00d710\u22123 J$",
+            "$2.5\u00d710\u22123 J$",
+            "$1.0\u00d710\u22124 J$"
+        ],
+        "answer": "$1.0\u00d710\u22123 J$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-square-loop-of-area-25-cm2-has-a-resistance-of-10-jee-main-physics-motion-i4sb70vkt0s4zppv",
+        "is_numerical": false,
+        "sub_topic": "Faraday's Law: Energy/Work",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Work done flux change"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th July Evening Shift",
+        "question": "The electric current in a circular coil of 2 turns produces a magnetic induction B _1 at its centre. The coil is unwound and in rewound into a circular coil of 5 tuns and the same current produces a magnetic induction B _2 at its centre. The ratio of$B2B1$is",
+        "options": [
+            "$52$",
+            "$254$",
+            "$54$",
+            "$252$"
+        ],
+        "answer": "$254$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-electric-current-in-a-circular-coil-of-2-turns-produc-jee-main-physics-motion-jhcjtg5dwmfzkpxa",
+        "is_numerical": false,
+        "sub_topic": "Self Inductance: Basic",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Magnetic field turns relationship"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 24th January Morning Shift",
+        "question": "A conducting circular loop of radius$10\u03c0$cm is placed perpendicular to a uniform magnetic field of 0.5 T. The magnetic field is decreased to zero in 0.5 s at a steady rate. The induced emf in the circular loop at 0.25 s is :",
+        "options": [
+            "emf = 10 mV",
+            "emf = 5 mV",
+            "emf = 100 mV",
+            "emf = 1 mV"
+        ],
+        "answer": "emf = 10 mV",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-conducting-circular-loop-of-radius-frac10pi-c-jee-main-physics-motion-neqc3kmqzvexwpsc",
+        "is_numerical": false,
+        "sub_topic": "Faraday's Law: Time-Varying Flux",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Induced EMF constant rate"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th July Morning Shift",
+        "question": "A small square loop of wire of side$l$is placed inside a large square loop of wire$L(L>>l)$. Both loops are coplanar and their centres coincide at point$O$as shown in figure. The mutual inductance of the system is : [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l6eozgfw/9a58986b-6ae5-422b-811e-0c741c90d69b/987183c0-13c3-11ed-aaaa-fbfc70dd81e0/file-1l6eozgfx.png?format=png]",
+        "options": [
+            "$22\u03bc0 L2\u03c0l$",
+            "$\u03bc0l222\u03c0L$",
+            "$22\u03bc0l2\u03c0L$",
+            "$\u03bc0 L222\u03c0l$"
+        ],
+        "answer": "$22\u03bc0l2\u03c0L$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l6eozgfw/9a58986b-6ae5-422b-811e-0c741c90d69b/987183c0-13c3-11ed-aaaa-fbfc70dd81e0/file-1l6eozgfx.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-small-square-loop-of-wire-of-side-l-is-placed-insid-jee-main-physics-motion-f2w6e6vuptrv4pvd",
+        "is_numerical": false,
+        "sub_topic": "Mutual Inductance: Square-Square",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Mutual Inductance large/small loop"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 24th January Evening Shift",
+        "question": "A metallic rod of length 'L' is rotated with an angular speed of '$\u03c9$' normal to a uniform magnetic field 'B' about an axis passing through one end of rod as shown in figure. The induced emf will be : [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1ldxieb1r/448bfb52-5e76-4922-a0b2-bdad412dbcae/3d807ff0-a8b2-11ed-a3d7-5b81580a6b38/file-1ldxieb1s.png?format=png]",
+        "options": [
+            "$12B2L2\u03c9$",
+            "$12BL2\u03c9$",
+            "$14BL2\u03c9$",
+            "$14B2L\u03c9$"
+        ],
+        "answer": "$12BL2\u03c9$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1ldxieb1r/448bfb52-5e76-4922-a0b2-bdad412dbcae/3d807ff0-a8b2-11ed-a3d7-5b81580a6b38/file-1ldxieb1s.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1le4bpg6w/e90105a5-c32b-4a16-88ea-feaa85527ea7/90048290-ac71-11ed-a551-772121b6ed7f/file-1le4bpg6x.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-metallic-rod-of-length-l-is-rotated-with-an-angular-s-jee-main-physics-motion-wbcoekk6acetzfpj",
+        "is_numerical": false,
+        "sub_topic": "Motional EMF: Rotating Rod",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Induced EMF rotating rod"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th June Morning Shift",
+        "question": "The magnetic flux through a coil perpendicular to its plane is varying according to the relation$\u03d5=(5t3+4t2+2t\u22125)$Weber. If the resistance of the coil is 5 ohm, then the induced current through the coil at t = 2 s will be,",
+        "options": [
+            "15.6 A",
+            "16.6 A",
+            "17.6 A",
+            "18.6 A"
+        ],
+        "answer": "15.6 A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-magnetic-flux-through-a-coil-perpendicular-to-its-pla-jee-main-physics-motion-zxkfq2oiozxeri3g",
+        "is_numerical": false,
+        "sub_topic": "Faraday's Law: Time-Varying Flux",
+        "logic_type": "Calculus",
+        "difficulty": 2,
+        "physics_key": "Induced current from dPhi/dt"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 28th June Evening Shift",
+        "question": "A coil is placed in a time varying magnetic field. If the number of turns in the coil were to be halved and the radius of wire doubled, the electrical power dissipated due to the current induced in the coil would be : (Assume the coil to be short circuited.)",
+        "options": [
+            "Halved",
+            "Quadrupled",
+            "The same",
+            "Doubled"
+        ],
+        "answer": "Doubled",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-coil-is-placed-in-a-time-varying-magnetic-field-if-the-jee-main-physics-motion-ylmsrftgc5dwk0al",
+        "is_numerical": false,
+        "sub_topic": "Faraday's Law: Power Dissipation",
+        "logic_type": "Analytical",
+        "difficulty": 4,
+        "physics_key": "Power dissipation N, R scaling"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 31st August Evening Shift",
+        "question": "A coil is placed in a magnetic field$B\u2192$as shown below : [IMAGE: https://imagex.cdn.examgoal.net/1kujwtp1j/bfd459b7-659f-4eb6-874c-1bfc3665553d/93f75170-290f-11ec-b648-5143843e279d/file-1kujwtp1k.jpg] A current is induced in the coil because$B\u2192$is :",
+        "options": [
+            "Outward and decreasing with time",
+            "Parallel to the plane of coil and decreasing with time",
+            "Outward and increasing with time",
+            "Parallel to the plane of coil and increasing with time"
+        ],
+        "answer": "Outward and decreasing with time",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1kujwtp1j/bfd459b7-659f-4eb6-874c-1bfc3665553d/93f75170-290f-11ec-b648-5143843e279d/file-1kujwtp1k.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-coil-is-placed-in-a-magnetic-field-overrightarrow-b--jee-main-physics-units-and-measurements-xfrn56po3fn6jw2s",
+        "is_numerical": false,
+        "sub_topic": "Faraday's Law: Conceptual",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Flux change direction Lenz's"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th June Evening Shift",
+        "question": "A metallic conductor of length 1 m rotates in a vertical plane parallel to east-west direction about one of its end with angular velocity 5 rad s ^$\u2212$1 . If the horizontal component of earth's magnetic field is 0.2$\u00d7$10 ^$\u2212$4 T, then emf induced between the two ends of the conductor is :",
+        "options": [
+            "5$\u03bc$V",
+            "50$\u03bc$V",
+            "5 mV",
+            "50 mv"
+        ],
+        "answer": "50$\u03bc$V",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-metallic-conductor-of-length-1-m-rotates-in-a-vertical-jee-main-physics-motion-9nykqx2zpun0avqr",
+        "is_numerical": false,
+        "sub_topic": "Motional EMF: Rotating Rod (Earth)",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Induced EMF rotating rod B_H"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 1st September Evening Shift",
+        "question": "A square loop of side 20 cm and resistance 1$\u03a9$is moved towards right with a constant speed v _0 . The right arm of the loop is in a uniform magnetic field of 5T. The field is perpendicular to the plane of the loop and is going into it. The loop is connected to a network of resistors each of value 4$\u03a9$. What should be the value of v _0 so that a steady current of 2 mA flows in the loop? [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1kx9suidr/12dbe242-2546-48c8-83d1-a9941db95493/d5c191f0-5ee4-11ec-9c4b-9f471c110c87/file-1kx9suids.png?format=png]",
+        "options": [
+            "1 m/s",
+            "1 cm/s",
+            "10 ^2 m/s",
+            "10 ^$\u2212$2 cm/s"
+        ],
+        "answer": "1 cm/s",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1kx9suidr/12dbe242-2546-48c8-83d1-a9941db95493/d5c191f0-5ee4-11ec-9c4b-9f471c110c87/file-1kx9suids.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1kx9wir0q/8ef16fdb-1a5f-4e75-bc68-09ca53231c0d/333c5aa0-5ef3-11ec-85b8-4b78fdd0cc43/file-1kx9wir0r.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-square-loop-of-side-20-cm-and-resistance-1omega-is-mo-jee-main-physics-units-and-measurements-7qqu3ubyitmuuhxc",
+        "is_numerical": false,
+        "sub_topic": "Motional EMF: Moving Loop",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Motional EMF external R"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th June Evening Shift",
+        "question": "Two coils of self inductance L _1 and L _2 are connected in series combination having mutual inductance of the coils as M. The equivalent self inductance of the combination will be : [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l5ahkxtr/6f9e532b-510c-4c29-a50b-c27bca756c76/4adaecf0-fda7-11ec-9895-953d7c4166fb/file-1l5ahkxts.png?format=png]",
+        "options": [
+            "$1L1+1L2+1M$",
+            "$L1+L2+M$",
+            "$L1+L2+2M$",
+            "$L1+L2\u22122M$"
+        ],
+        "answer": "$L1+L2\u22122M$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l5ahkxtr/6f9e532b-510c-4c29-a50b-c27bca756c76/4adaecf0-fda7-11ec-9895-953d7c4166fb/file-1l5ahkxts.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/ptwo-coils-of-self-inductance-lsub1sub-and-lsub2s-jee-main-physics-motion-3qqxto6kkfvxmzv2",
+        "is_numerical": false,
+        "sub_topic": "Circuits: Inductance Combination",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Series opposing inductance formula"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 27th August Morning Shift",
+        "question": "A bar magnet is passing through a conducting loop of radius R with velocity$\u03c5$. The radius of the bar magnet is such that it just passes through the loop. The induced e.m.f. in the loop can be represented by the approximate curve : [IMAGE: https://imagex.cdn.examgoal.net/1ktp1ox17/a8d976ff-1aed-4d17-90a1-64f6e0bbfd7f/509b60b0-1816-11ec-872b-bb20e4927270/file-1ktp1ox18.jpeg]",
+        "options": [
+            "[IMAGE: https://imagex.cdn.examgoal.net/1ktp1pzio/f81855c0-181a-49d4-9931-8d6f6edf8856/6e560100-1816-11ec-872b-bb20e4927270/file-1ktp1pzip.jpeg]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/1ktp1qaxv/6024db14-7412-4020-b4ed-1e726650630b/7728c330-1816-11ec-872b-bb20e4927270/file-1ktp1qaxw.jpeg]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/1ktp1ql4k/20a56cf8-67ad-40e6-880a-3b6e0117d33c/7f071340-1816-11ec-872b-bb20e4927270/file-1ktp1ql4l.jpeg]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/1ktp1qvhe/352ce4e6-ed9a-4792-814c-fb253239700a/87071c20-1816-11ec-872b-bb20e4927270/file-1ktp1qvhf.jpeg]"
+        ],
+        "answer": "[IMAGE: https://imagex.cdn.examgoal.net/1ktp1ql4k/20a56cf8-67ad-40e6-880a-3b6e0117d33c/7f071340-1816-11ec-872b-bb20e4927270/file-1ktp1ql4l.jpeg]",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1ktp1ox17/a8d976ff-1aed-4d17-90a1-64f6e0bbfd7f/509b60b0-1816-11ec-872b-bb20e4927270/file-1ktp1ox18.jpeg",
+            "https://imagex.cdn.examgoal.net/1ktp1pzio/f81855c0-181a-49d4-9931-8d6f6edf8856/6e560100-1816-11ec-872b-bb20e4927270/file-1ktp1pzip.jpeg",
+            "https://imagex.cdn.examgoal.net/1ktp1qaxv/6024db14-7412-4020-b4ed-1e726650630b/7728c330-1816-11ec-872b-bb20e4927270/file-1ktp1qaxw.jpeg",
+            "https://imagex.cdn.examgoal.net/1ktp1ql4k/20a56cf8-67ad-40e6-880a-3b6e0117d33c/7f071340-1816-11ec-872b-bb20e4927270/file-1ktp1ql4l.jpeg",
+            "https://imagex.cdn.examgoal.net/1ktp1qvhe/352ce4e6-ed9a-4792-814c-fb253239700a/87071c20-1816-11ec-872b-bb20e4927270/file-1ktp1qvhf.jpeg",
+            "https://imagex.cdn.examgoal.net/1ktp1rubj/2ad30da6-6abf-4521-9a0d-9d3cdc3d9491/a1f04cf0-1816-11ec-872b-bb20e4927270/file-1ktp1rubk.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-bar-magnet-is-passing-through-a-conducting-loop-of-radius-jee-main-physics-units-and-measurements-35re1gbszg5zcf1k",
+        "is_numerical": false,
+        "sub_topic": "Faraday's Law: Graphical",
+        "logic_type": "Graphical",
+        "difficulty": 3,
+        "physics_key": "Bar magnet EMF graph"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 27th August Evening Shift",
+        "question": "A constant magnetic field of 1T is applied in the x > 0 region. A metallic circular ring of radius 1m is moving with a constant velocity of 1 m/s along the x-axis. At t = 0s, the centre of O of the ring is at x =$\u2212$1m. What will be the value of the induced emf in the ring at t = 1s? (Assume the velocity of the ring does not change.) [IMAGE: https://imagex.cdn.examgoal.net/1ktqshofy/88210a8b-75f9-46d4-9441-2370455c5352/e67191e0-190b-11ec-9e1c-4f8f7e7dad5b/file-1ktqshofz.jpeg]",
+        "options": [
+            "1V",
+            "2$\u03c0$V",
+            "2V",
+            "0V"
+        ],
+        "answer": "2V",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1ktqshofy/88210a8b-75f9-46d4-9441-2370455c5352/e67191e0-190b-11ec-9e1c-4f8f7e7dad5b/file-1ktqshofz.jpeg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-constant-magnetic-field-of-1t-is-applied-in-the-x--0-regi-jee-main-physics-units-and-measurements-jbizeyawruf1c5ky",
+        "is_numerical": false,
+        "sub_topic": "Motional EMF: Moving Loop",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "EMF when entering uniform B"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th August Morning Shift",
+        "question": "An inductor coil stores 64 J of magnetic field energy and dissipates energy at the rate of 640 W when a current of 8A is passed through it. If this coil is joined across an ideal battery, find the time constant of the circuit in seconds :",
+        "options": [
+            "0.4",
+            "0.8",
+            "0.125",
+            "0.2"
+        ],
+        "answer": "0.2",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-inductor-coil-stores-64-j-of-magnetic-field-energy-and-di-jee-main-physics-units-and-measurements-8lbi3x2qilethwfa",
+        "is_numerical": false,
+        "sub_topic": "Transient: RL circuit",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Time constant energy power"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 31st August Morning Shift",
+        "question": "A small square loop of side 'a' and one turn is placed inside a larger square loop of side b and one turn (b >> a). The two loops are coplanar with their centres coinciding. If a current I is passed in the square loop of side 'b', then the coefficient of mutual inductance between the two loops is :",
+        "options": [
+            "$\u03bc04\u03c082a2b$",
+            "$\u03bc04\u03c082a$",
+            "$\u03bc04\u03c082b2a$",
+            "$\u03bc04\u03c082b$"
+        ],
+        "answer": "$\u03bc04\u03c082a2b$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1ku8ee9b8/202b174c-cdc0-48b9-9830-985de070c4d2/e3358640-22ba-11ec-92a0-35c33c2a328d/file-1ku8ee9b9.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-small-square-loop-of-side-a-and-one-turn-is-placed-insid-jee-main-physics-units-and-measurements-thbsvbbtkrlg2dgp",
+        "is_numerical": false,
+        "sub_topic": "Mutual Inductance: Square-Square",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Mutual Inductance derivation"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 20th July Morning Shift",
+        "question": "The arm PQ of a rectangular conductor is moving from x = 0 to x = 2b outwards and then inwards from x = 2b to x = 0 as shown in the figure. A uniform magnetic field perpendicular to the plane is acting from x = 0 to x = b. Identify the graph showing the variation of different quantities with distance. [IMAGE: https://imagex.cdn.examgoal.net/1krq84j58/1898befb-a0e7-44a1-a5f0-91a1c5274f2b/d37df9d0-f123-11eb-a221-f3b1f28d3393/file-1krq84j59.jpg]",
+        "options": [
+            "A-Flux, B-Power dissipated, C-EMF",
+            "A-Flux, B-EMF, C-Power dissipated",
+            "A-Power dissipated, B-Flux, C-EMF",
+            "A-EMF, B-Power dissipated, C-Flux"
+        ],
+        "answer": "A-Flux, B-EMF, C-Power dissipated",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1krq84j58/1898befb-a0e7-44a1-a5f0-91a1c5274f2b/d37df9d0-f123-11eb-a221-f3b1f28d3393/file-1krq84j59.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/the-arm-pq-of-a-rectangular-conductor-is-moving-from-x--0-t-jee-main-physics-units-and-measurements-waufrfahpntoc2tk",
+        "is_numerical": false,
+        "sub_topic": "Motional EMF: Moving Loop (Graphical)",
+        "logic_type": "Graphical",
+        "difficulty": 4,
+        "physics_key": "EMF Flux Power moving loop"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 18th March Evening Shift",
+        "question": "The time taken for the magnetic energy to reach 25% of its maximum value, when a solenoid of resistance R, inductance L is connected to a battery, is :",
+        "options": [
+            "infinite",
+            "$LR$ln10",
+            "$LR$ln2",
+            "$LR$ln5"
+        ],
+        "answer": "$LR$ln2",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-time-taken-for-the-magnetic-energy-to-reach-25-of-its-m-jee-main-physics-units-and-measurements-nedhw47ces3uwbam",
+        "is_numerical": false,
+        "sub_topic": "Transient: RL circuit",
+        "logic_type": "Calculus",
+        "difficulty": 3,
+        "physics_key": "Energy stored time constant"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 24th February Evening Shift",
+        "question": "Figure shows a circuit that contains four identical resistors with resistance R = 2.0$\u03a9$, two identical inductors with inductance L = 2.0 mH and an ideal battery with emf E = 9V. The current 'i' just after the switch 'S' is closed will be : [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1la258352/b75b1fb5-df31-449b-b45d-469704b08f93/c7973860-5c0d-11ed-b429-1bdcfc436fa3/file-1la258353.png?format=png]",
+        "options": [
+            "3.0 A",
+            "3.37 A",
+            "9 A",
+            "2.25 A"
+        ],
+        "answer": "2.25 A",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1la258352/b75b1fb5-df31-449b-b45d-469704b08f93/c7973860-5c0d-11ed-b429-1bdcfc436fa3/file-1la258353.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1kxkkcxgi/77599bb9-17fe-4078-8b6c-5b05e876fa3c/42f2b420-64d0-11ec-b334-61c7774f09f5/file-1kxkkcxgj.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/figure-shows-a-circuit-that-contains-four-identical-resistor-jee-main-physics-units-and-measurements-dhpokheyahbq6czt",
+        "is_numerical": false,
+        "sub_topic": "Transient: DC initial state",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Inductor open circuit initial"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th February Evening Shift",
+        "question": "An aeroplane, with its wings spread 10 m, is flying at a speed of 180 km/h in a horizontal direction. The total intensity of earth's field at that part is 2.5$\u00d7$10 ^$\u2212$4 Wb/m ^2 and the angle of dip is 60$\u2218$. The emf induced between the tips of the plane wings will be __________.",
+        "options": [
+            "88.37 mV",
+            "62.50 mV",
+            "54.125 mV",
+            "108.25 mV"
+        ],
+        "answer": "108.25 mV",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-aeroplane-with-its-wings-spread-10-m-is-flying-at-a-spe-jee-main-physics-units-and-measurements-oeusxyhnytm8w1mi",
+        "is_numerical": false,
+        "sub_topic": "Motional EMF: Earth's Field",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "EMF B_V component"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 16th March Evening Shift",
+        "question": "The magnetic field in a region is given by$B\u2192=Bo(xa)k^$. A square loop of side d is placed with its edges along the x and y axes. The loop is moved with a constant velocity$v\u2192$= v _0$i^$. The emf induced in the loop is : [IMAGE: https://imagex.cdn.examgoal.net/1kmj0tavp/ea73e10a-b27c-4a3a-9a95-57fd3999dd9e/a9dcdf60-8a30-11eb-91cf-1f26b16dd4dd/file-1kmj0tavq.jpg]",
+        "options": [
+            "$Bovod22a$",
+            "$Bovo2d2a$",
+            "$Bovod2a$",
+            "$Bovod2a$"
+        ],
+        "answer": "$Bovod2a$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1kmj0tavp/ea73e10a-b27c-4a3a-9a95-57fd3999dd9e/a9dcdf60-8a30-11eb-91cf-1f26b16dd4dd/file-1kmj0tavq.jpg",
+            "https://imagex.cdn.examgoal.net/1kqs21hf7/8ed0113a-fc07-44d0-a435-e91fa8cb8f72/61e0f340-de59-11eb-b38a-e51f7a3230ff/file-1kqs21hf8.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/the-magnetic-field-in-a-region-is-given-by-overrightarrow-jee-main-physics-units-and-measurements-eed1h1culqcclcbl",
+        "is_numerical": false,
+        "sub_topic": "Motional EMF: Non-uniform B",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Motional EMF non-uniform B"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 16th March Morning Shift",
+        "question": "A conducting bar of length L is free to slide on two parallel conducting rails as shown in the figure [IMAGE: https://imagex.cdn.examgoal.net/1kmilq5ig/6a67b0da-5f2d-4712-8082-dde2a0f335e6/a959ce80-89f5-11eb-9c26-d9a423ffb060/file-1kmilq5ih.jpg] Two resistors R _1 and R _2 are connected across the ends of the rails. There is a uniform magnetic field$B\u2192$pointing into the page. An external agent pulls the bar to the left at a constant speed v. The correct statement about the directions of induced currents I _1 and I _2 flowing through R _1 and R _2 respectively is :",
+        "options": [
+            "Both I _1 and I _2 are in clockwise direction",
+            "I _1 is in clockwise direction and I _2 is in anticlockwise direction",
+            "I _1 is in anticlockwise direction and I _2 is in clockwise direction",
+            "Both I _1 and I _2 are in anticlockwise direction"
+        ],
+        "answer": "I _1 is in clockwise direction and I _2 is in anticlockwise direction",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1kmilq5ig/6a67b0da-5f2d-4712-8082-dde2a0f335e6/a959ce80-89f5-11eb-9c26-d9a423ffb060/file-1kmilq5ih.jpg",
+            "https://imagex.cdn.examgoal.net/1kp5iu1rn/65392048-5076-4640-8a20-d22f1f877e2b/d0009340-be28-11eb-81f3-c51a1255b226/file-1kp5iu1ro.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-conducting-bar-of-length-l-is-free-to-slide-on-two-paralle-jee-main-physics-units-and-measurements-66jwnpegowa1crmw",
+        "is_numerical": false,
+        "sub_topic": "Motional EMF: Conducting Rod",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Lenz's Law current direction"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 3rd September Morning Slot",
+        "question": "An elliptical loop having resistance R, of semi major axis a, and semi minor axis b is placed in magnetic field as shown in the figure. If the loop is rotated about the x-axis with angular frequency$\u03c9$, the average power loss in the loop due to Joule heating is : [IMAGE: https://imagex.cdn.examgoal.net/jgy2xukf16nx50/0cc7d670-bf47-4605-98a2-8f65672b2a85/eba27440-f5cb-11ea-8293-3b6cc591631c/file-jgy2xukf16nx51-472w.png]",
+        "options": [
+            "$\u03c0abB\u03c9R$",
+            "$\u03c02a2b2B2\u03c92R$",
+            "$\u03c02a2b2B2\u03c922R$",
+            "Zero"
+        ],
+        "answer": "$\u03c02a2b2B2\u03c922R$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/jgy2xukf16nx50/0cc7d670-bf47-4605-98a2-8f65672b2a85/eba27440-f5cb-11ea-8293-3b6cc591631c/file-jgy2xukf16nx51-472w.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/an-elliptical-loop-having-resistance-r-of-semi-major-axis-a-jee-main-physics-magnetics-bdonb7xsvzvacnen",
+        "is_numerical": false,
+        "sub_topic": "Faraday's Law: Rotating Loop Power",
+        "logic_type": "Calculus",
+        "difficulty": 4,
+        "physics_key": "Joule heating elliptical loop"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 8th January Evening Slot",
+        "question": "A shown in the figure, a battery of emf$\u03b5$is connected to an inductor L and resistance R in series. The switch is closed at t = 0. The total charge that flows from the battery, between t = 0 and t = t _c (t _c is the time constant of the circuit) is : [IMAGE: https://imagex.cdn.examgoal.net/7k9k2k5hh0k9k/d152bcde-5a7e-4566-af3e-f4f0dfd2f1a4/c71a2180-38c6-11ea-92dd-4b9c3519996f/file-7k9k2k5hh0k9l-302w.jpg]",
+        "options": [
+            "$\u03b5LeR2$",
+            "$\u03b5LR2$",
+            "$\u03b5LR2(1\u22121e)$",
+            "$\u03b5ReL2$"
+        ],
+        "answer": "$\u03b5LeR2$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/7k9k2k5hh0k9k/d152bcde-5a7e-4566-af3e-f4f0dfd2f1a4/c71a2180-38c6-11ea-92dd-4b9c3519996f/file-7k9k2k5hh0k9l-302w.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-shown-in-the-figure-a-battery-of-emf-varepsilon--is-jee-main-physics-current-electricity-eh97brc2xm234muy",
+        "is_numerical": false,
+        "sub_topic": "Transient: RL circuit",
+        "logic_type": "Calculus",
+        "difficulty": 4,
+        "physics_key": "Total charge flow RL"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 4th September Morning Slot",
+        "question": "A small bar magnet is moved through a coil at constant speed from one end to the other. Which of the following series of observations will be seen on the galvanometer G attached across the coil? [IMAGE: https://imagex.cdn.examgoal.net/jgy2xukeu0wtu7/27084a62-2de9-407d-ae4e-240149c80e46/f00bf9f0-f1db-11ea-8293-3b6cc591631c/file-jgy2xukeu0wtu8-324w.jpg] Three positions shown describe : (a) the magnet's entry (b) magnet is completely inside and (c) magnet's exit.",
+        "options": [
+            "[IMAGE: https://imagex.cdn.examgoal.net/jgy2xukeu0zljz/75fc2607-22fa-4d22-9d93-65bbd73f1598/3d1336f0-f1dc-11ea-8293-3b6cc591631c/file-jgy2xukeu0zlk0-259w.jpg]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/jgy2xukeu1266x/df1d97ff-64ab-42ba-8579-9e6270650d91/84a2c3a0-f1dc-11ea-8293-3b6cc591631c/file-jgy2xukeu1266y-257w.jpg]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/jgy2xukeu10l9t/84f3ed24-35ac-415b-bb96-1db7655d31bc/58aa8210-f1dc-11ea-8293-3b6cc591631c/file-jgy2xukeu10l9u-255w.jpg]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/jgy2xukeu135nu/0141f847-ff51-4fe4-b4b5-64df52c7cbd5/a008eca0-f1dc-11ea-8293-3b6cc591631c/file-jgy2xukeu135nv-258w.jpg]"
+        ],
+        "answer": "[IMAGE: https://imagex.cdn.examgoal.net/jgy2xukeu10l9t/84f3ed24-35ac-415b-bb96-1db7655d31bc/58aa8210-f1dc-11ea-8293-3b6cc591631c/file-jgy2xukeu10l9u-255w.jpg]",
+        "images": [
+            "https://imagex.cdn.examgoal.net/jgy2xukeu0wtu7/27084a62-2de9-407d-ae4e-240149c80e46/f00bf9f0-f1db-11ea-8293-3b6cc591631c/file-jgy2xukeu0wtu8-324w.jpg",
+            "https://imagex.cdn.examgoal.net/jgy2xukeu0zljz/75fc2607-22fa-4d22-9d93-65bbd73f1598/3d1336f0-f1dc-11ea-8293-3b6cc591631c/file-jgy2xukeu0zlk0-259w.jpg",
+            "https://imagex.cdn.examgoal.net/jgy2xukeu1266x/df1d97ff-64ab-42ba-8579-9e6270650d91/84a2c3a0-f1dc-11ea-8293-3b6cc591631c/file-jgy2xukeu1266y-257w.jpg",
+            "https://imagex.cdn.examgoal.net/jgy2xukeu10l9t/84f3ed24-35ac-415b-bb96-1db7655d31bc/58aa8210-f1dc-11ea-8293-3b6cc591631c/file-jgy2xukeu10l9u-255w.jpg",
+            "https://imagex.cdn.examgoal.net/jgy2xukeu135nu/0141f847-ff51-4fe4-b4b5-64df52c7cbd5/a008eca0-f1dc-11ea-8293-3b6cc591631c/file-jgy2xukeu135nv-258w.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-small-bar-magnet-is-moved-through-a-coil-at-constant-speed-jee-main-physics-magnetics-5uogzwhwaoatu7n4",
+        "is_numerical": false,
+        "sub_topic": "Faraday's Law: Graphical",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "Magnet entry exit EMF graph"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 5th September Evening Slot",
+        "question": "An infinitely long, straight wire carrying current I, one side opened rectangular loop and a conductor C with a sliding connector are located in the same plane, as shown, in the figure. The connector has length$l$and resistance R. It slides to the right with a velocity v. The resistance of the conductor and the self inductance of the loop are negligible. The induced current in the loop, as a function of separation r, between the connector and the straight wire is : [IMAGE: https://imagex.cdn.examgoal.net/jgy2xukforxg3c/2f4348d1-59eb-4b3d-a6f0-a812841f177f/1b351a90-02c5-11eb-8293-3b6cc591631c/file-jgy2xukforxg3d-344w.png]",
+        "options": [
+            "$\u03bc04\u03c0IvlRr$",
+            "$\u03bc0\u03c0IvlRr$",
+            "$\u03bc02\u03c0IvlRr$",
+            "$2\u03bc0\u03c0IvlRr$"
+        ],
+        "answer": "$\u03bc02\u03c0IvlRr$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/jgy2xukforxg3c/2f4348d1-59eb-4b3d-a6f0-a812841f177f/1b351a90-02c5-11eb-8293-3b6cc591631c/file-jgy2xukforxg3d-344w.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/an-infinitely-long-straight-wire-carrying-current-i-one-si-jee-main-physics-magnetics-ycya2aviy1ebeds8",
+        "is_numerical": false,
+        "sub_topic": "Motional EMF: Non-uniform B",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Motional EMF logarithmic B-field"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 3rd September Evening Slot",
+        "question": "A uniform magnetic field B exists in a direction perpendicular to the plane of a square loop made of a metal wire. The wire has a diameter of 4 mm and a total length of 30 cm. The magnetic field changes with time at a steady rate$dBdt$= 0.032 Ts ^\u20131 . The induced current in the loop is close to (Resistivity of the metal wire is 1.23$\u00d7$10 ^\u20138$\u03a9$m)",
+        "options": [
+            "0.53 A",
+            "0.43 A",
+            "0.34 A",
+            "0.61 A"
+        ],
+        "answer": "0.61 A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-uniform-magnetic-field-b-exists-in-a-direction-perpendicul-jee-main-physics-magnetics-1cqgjn2yuhtzm6oq",
+        "is_numerical": false,
+        "sub_topic": "Faraday's Law: Time-Varying Flux",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Induced current resistance"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 8th January Morning Slot",
+        "question": "At time t = 0 magnetic field of 1000 Gauss is passing perpendicularly through the area defined by the closed loop shown in the figure. If the magnetic field reduces linearly to 500 Gauss, in the next 5s, then induced EMF in the loop is : [IMAGE: https://imagex.cdn.examgoal.net/7k9k2k5gxztyz/680272da-0988-41c2-be35-ec3d4ebf786f/655634b0-387c-11ea-92dd-4b9c3519996f/file-7k9k2k5gxztz0-359w.jpg]",
+        "options": [
+            "48 \u03bcV",
+            "28 \u03bcV",
+            "56 \u03bcV",
+            "36 \u03bcV"
+        ],
+        "answer": "56 \u03bcV",
+        "images": [
+            "https://imagex.cdn.examgoal.net/7k9k2k5gxztyz/680272da-0988-41c2-be35-ec3d4ebf786f/655634b0-387c-11ea-92dd-4b9c3519996f/file-7k9k2k5gxztz0-359w.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/at-time-t--0-magnetic-field-of-100-gauss-is-passing-perpend-jee-main-physics-current-electricity-gyd4pso9gsrabgnh",
+        "is_numerical": false,
+        "sub_topic": "Faraday's Law: Time-Varying Flux",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "EMF from B-field change"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th April Evening Slot",
+        "question": "Two coils 'P' and 'Q' are separated by some distance. When a current of 3 A flows through coil 'P', a magnetic flux of 10 ^\u20133 Wb passes through 'Q'. No current is passed through 'Q'. When no current passes through 'P' and a current of 2 A passes through 'Q', the flux through 'P' is :-",
+        "options": [
+            "3.67 \u00d7 10 ^\u20134 Wb",
+            "3.67 \u00d7 10 ^\u20133 Wb",
+            "6.67 \u00d7 10 ^\u20134 Wb",
+            "6.67 \u00d7 10 ^\u20133 Wb"
+        ],
+        "answer": "6.67 \u00d7 10 ^\u20134 Wb",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/two-coils-p-and-q-are-separated-by-some-distance-when-a-jee-main-physics-units-and-measurements-uh1tubmpdxi7kfnw",
+        "is_numerical": false,
+        "sub_topic": "Mutual Inductance: Basic",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Mutual flux symmetry"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 7th January Morning Slot",
+        "question": "Consider a circular coil of wire carrying constant current I, forming a magnetic dipole. The magnetic flux through an infinite plane that contains the circular coil and excluding the circular coil area is given by$\u03d5$_i . The magnetic flux through the area of the circular coil area is given by$\u03d5$_0 . Which of the following option is correct?",
+        "options": [
+            "$\u03d5$_i =$\u03d5$_0",
+            "$\u03d5$_i <$\u03d5$_0",
+            "$\u03d5$_i$>$$\u03d5$_0",
+            "$\u03d5$_i = -$\u03d5$_0"
+        ],
+        "answer": "$\u03d5$_i = -$\u03d5$_0",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/consider-a-circular-coil-of-wire-carrying-constant-current-i-jee-main-physics-gravitation-gaopxgeyk4wwrhll",
+        "is_numerical": false,
+        "sub_topic": "Faraday's Law: Flux Topology",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Flux self vs infinite plane"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 7th January Evening Slot",
+        "question": "A planar loop of wire rotates in a uniform magnetic field. Initially at t = 0, the plane of the loop is perpendicular to the magnetic field. If it rotates with a period of 10 s about an axis in its plane then the magnitude of induced emf will be maximum and minimum, respectively at :",
+        "options": [
+            "2.5 s and 7.5 s",
+            "5.0 s and 10.0 s",
+            "5.0 s and 7.5 s",
+            "2.5 s and 5.0 s"
+        ],
+        "answer": "2.5 s and 5.0 s",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-planar-loop-of-wire-rotates-in-a-uniform-magnetic-field-i-jee-main-physics-magnetics-gimtvvt4fixjecyt",
+        "is_numerical": false,
+        "sub_topic": "Motional EMF: Rotating Coil",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Max min EMF phase timing"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 7th January Morning Slot",
+        "question": "A long solenoid of radius R carries a time (t) - dependent current I(t)=I _0 t(1 - t). A ring of radius 2R is placed coaxially near its middle. During the time interval 0$\u2264$t$\u2264$1, the induced current (I _R ) and the induced EMF(V _R ) in the ring change as :",
+        "options": [
+            "Direction of I _R remains unchanged and V _R is zero at t = 0.25",
+            "Direction of I _R remains unchanged and V _R is maximum at t = 0.5",
+            "At t = 0.25 direction of I _R reverses and V _R is maximum",
+            "At t = 0.5 direction of I _R reverses and V _R is zero"
+        ],
+        "answer": "At t = 0.5 direction of I _R reverses and V _R is zero",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-long-solenoid-of-radius-r-carries-a-time-t-dependent-c-jee-main-physics-gravitation-dlpigsmot0dpncdz",
+        "is_numerical": false,
+        "sub_topic": "Mutual Inductance: Solenoid-Loop",
+        "logic_type": "Calculus",
+        "difficulty": 4,
+        "physics_key": "EMF zero/reversal time"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th April Morning Slot",
+        "question": "The figure shows a square loop L of side 5 cm which is connected to a network of resistances. The whole setup is moving towards right with a constant speed of 1 cm s ^-1 . At some instant, a part of L is in a uniform magnetic field of 1 T, perpendicular to the plane of the loop. If the resistance of L is 1.7$\u03a9$, the current in the loop at that instant will be close to : [IMAGE: https://imagex.cdn.examgoal.net/7kejek1bxbopi/6b8f496c-32ef-4557-acbe-466236eea827/fd16c760-e688-11e9-a7bc-b7b08ce8d541/file-7kejek1bxbopj-320w.jpg]",
+        "options": [
+            "115$\u03bc$A",
+            "170$\u03bc$A",
+            "60$\u03bc$A",
+            "150$\u03bc$A"
+        ],
+        "answer": "170$\u03bc$A",
+        "images": [
+            "https://imagex.cdn.examgoal.net/7kejek1bxbopi/6b8f496c-32ef-4557-acbe-466236eea827/fd16c760-e688-11e9-a7bc-b7b08ce8d541/file-7kejek1bxbopj-320w.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/the-figure-shows-a-square-loop-l-of-side-5-cm-which-is-conne-jee-main-physics-magnetics-d4n7pq9jnyylkdwg",
+        "is_numerical": false,
+        "sub_topic": "Motional EMF: Moving Loop",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Motional EMF resistance network"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th April Morning Slot",
+        "question": "The total number of turns and cross-section area in a solenoid is fixed. However, its length L is varied by adjusting the separation between windings. The inductance of solenoid will be proportional to :",
+        "options": [
+            "1/L ^2",
+            "1/L",
+            "L",
+            "L ^2"
+        ],
+        "answer": "1/L",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-total-number-of-turns-and-cross-section-area-in-a-soleno-jee-main-physics-units-and-measurements-ugwzcnogbaejo2gc",
+        "is_numerical": false,
+        "sub_topic": "Self Inductance: Solenoid",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Inductance length relationship"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 8th April Morning Slot",
+        "question": "A 20 Henry inductor coil is connected to a 10 ohm resistance in series as shown in figure. The time at which rate of dissipation of energy (joule's heat) across resistance is equal to the rate at which magnetic energy is stored in the inductor is : [IMAGE: https://imagex.cdn.examgoal.net/3C7NwsuddbspKwS5y/JsvtyuFMjr8Y71xXSPIUUFKGzVY0Y/MTRjRT6G2B1shwJOWON819/image.png]",
+        "options": [
+            "$2ln\u20612$",
+            "$ln\u20612$",
+            "$2ln\u20612$",
+            "$12ln\u20612$"
+        ],
+        "answer": "$2ln\u20612$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/3C7NwsuddbspKwS5y/JsvtyuFMjr8Y71xXSPIUUFKGzVY0Y/MTRjRT6G2B1shwJOWON819/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-20-henry-inductor-coil-is-connected-to-a-10-ohm-resistance-jee-main-physics-units-and-measurements-ynunulysvpda7kzi",
+        "is_numerical": false,
+        "sub_topic": "Transient: RL circuit",
+        "logic_type": "Calculus",
+        "difficulty": 3,
+        "physics_key": "Power ratio Joule stored"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 11th January Morning Slot",
+        "question": "There are two long co-axial solenoids of same length$l$. The inner and outer coils have radii r _1 and r _2 and number of turns per unit length n _1 and n _2 , respectively. The ratio of mutual inductance to the self - inductance of the inner-coil is :",
+        "options": [
+            "$n2n1.r22r12$",
+            "$n2n1$",
+            "$n1n2$",
+            "$n2n1.r1r2$"
+        ],
+        "answer": "$n2n1$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/there-are-two-long-co-axial-solenoids-of-same-length-l-jee-main-physics-units-and-measurements-t4wp5hovxw63z2lo",
+        "is_numerical": false,
+        "sub_topic": "Mutual Inductance: Solenoid-Solenoid",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Mutual Self Inductance ratio"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th April Evening Slot",
+        "question": "A very long solenoid of radius R is carrying current I(t) = kte ^\u2013at (k > 0), as a function of time (t$\u2265$0). counter clockwise current is taken to be positive. A circular conducting coil of radius 2R is placed in the equatorial plane of the solenoid and concentric with the solenoid. The current induced in the outer coil is correctly depicted, as a function of time, by :-",
+        "options": [
+            "[IMAGE: https://imagex.cdn.examgoal.net/18hoxe66ijwniek3n/6759a721-e238-48be-b9fd-ad684652cb83/f6eb2930-89ea-11e9-8081-1d558b7f1d26/file-18hoxe66ijwniek3o.png]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/18hoxe66ijwniewrj/7494defc-92d6-4a18-8229-b32e44f512a5/00b36ef0-89eb-11e9-8081-1d558b7f1d26/file-18hoxe66ijwniewrk.png]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/18hoxe66ijwnifc5h/57894a7d-5b65-4403-bb8c-e8fe927a8c7a/0c965750-89eb-11e9-8081-1d558b7f1d26/file-18hoxe66ijwnifc5i.png]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/18hoxe66ijwnifzp2/6da92f40-4590-4c51-9b41-bcf824b06d61/1ec64160-89eb-11e9-8081-1d558b7f1d26/file-18hoxe66ijwnifzp3.png]"
+        ],
+        "answer": "[IMAGE: https://imagex.cdn.examgoal.net/18hoxe66ijwniek3n/6759a721-e238-48be-b9fd-ad684652cb83/f6eb2930-89ea-11e9-8081-1d558b7f1d26/file-18hoxe66ijwniek3o.png]",
+        "images": [
+            "https://imagex.cdn.examgoal.net/18hoxe66ijwniek3n/6759a721-e238-48be-b9fd-ad684652cb83/f6eb2930-89ea-11e9-8081-1d558b7f1d26/file-18hoxe66ijwniek3o.png",
+            "https://imagex.cdn.examgoal.net/18hoxe66ijwniewrj/7494defc-92d6-4a18-8229-b32e44f512a5/00b36ef0-89eb-11e9-8081-1d558b7f1d26/file-18hoxe66ijwniewrk.png",
+            "https://imagex.cdn.examgoal.net/18hoxe66ijwnifc5h/57894a7d-5b65-4403-bb8c-e8fe927a8c7a/0c965750-89eb-11e9-8081-1d558b7f1d26/file-18hoxe66ijwnifc5i.png",
+            "https://imagex.cdn.examgoal.net/18hoxe66ijwnifzp2/6da92f40-4590-4c51-9b41-bcf824b06d61/1ec64160-89eb-11e9-8081-1d558b7f1d26/file-18hoxe66ijwnifzp3.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-very-long-solenoid-of-radius-r-is-carrying-current-it-jee-main-physics-units-and-measurements-eaf1gjpkwp3jr4yq",
+        "is_numerical": false,
+        "sub_topic": "Faraday's Law: Graphical",
+        "logic_type": "Calculus",
+        "difficulty": 4,
+        "physics_key": "Induced current graph from I(t)"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th January Evening Slot",
+        "question": "A 10 m long horizontal wire extends from North East to South West. It is falling with a speed of 5.0 ms ^\u20131 , at right angles to the horizontal component of the earth's magnetic field of 0.3$\u00d7$10 ^\u20134 ^ Wb/m ^2 . The value of the induced emf in wire is :",
+        "options": [
+            "0.3$\u00d7$10 ^\u20133 V",
+            "2.5$\u00d7$10 ^\u20133 V",
+            "1.5$\u00d7$10 ^\u20133 V",
+            "1.1$\u00d7$10 ^\u20133 V"
+        ],
+        "answer": "1.1$\u00d7$10 ^\u20133 V",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-10-m-long-horizontal-wire-extends-from-north-east-to-south-jee-main-physics-units-and-measurements-uqg0twsk0fpflp29",
+        "is_numerical": false,
+        "sub_topic": "Motional EMF: Earth's Field",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "EMF B_H component"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 10th January Morning Slot",
+        "question": "A solid metal cube of edge length 2 cm is moving in a positive y-direction at a constant speed of 6 m/s. There is a uniform magnetic field of 0.1 T in the positive z-direction. The potential difference between the two faces of the cube perpendicular to the x-axis, is -",
+        "options": [
+            "2mV",
+            "12 mV",
+            "6 mV",
+            "1 mV"
+        ],
+        "answer": "12 mV",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-solid-metal-cube-of-edge-length-2-cm-is-moving-in-a-positi-jee-main-physics-units-and-measurements-kge2rx9mqisdct9r",
+        "is_numerical": false,
+        "sub_topic": "Motional EMF: Hall Potential",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Potential difference BLV"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 11th January Evening Slot",
+        "question": "A copper wire is wound on a wooden frame, whose shape is that of an equilateral triangle. If the linear dimension of each side of the frame is increased by a factor of 3, keeping the number of turns of the coil per unit length of the frame the same, then the self inductance of the coil:",
+        "options": [
+            "decreases by a factor of$93$",
+            "increases by a factor of 27",
+            "decreases by a factor of 9",
+            "increases by a factor of 3"
+        ],
+        "answer": "increases by a factor of 3",
+        "images": [
+            "https://imagex.cdn.examgoal.net/RRFhCDlAmWm9mWrf0/hDv3RgnvMZ52QEIwWyeP6abAErBRA/NlUvnieUoYrRCpjfBESXSO/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-copper-wire-is-wound-on-a-wooden-frame-whose-shape-is-tha-jee-main-physics-units-and-measurements-mzzx12ytlot7hdrr",
+        "is_numerical": false,
+        "sub_topic": "Self Inductance: Geometry",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Inductance scaling geometry"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 10th January Evening Slot",
+        "question": "The self induced emf of a coil is 25 volts. When the current in it is changed at uniform rate from 10 A to 25 A in 1s, the change in the energy of the inductance is -",
+        "options": [
+            "740 J",
+            "637.5 J",
+            "540 J",
+            "437.5 J"
+        ],
+        "answer": "437.5 J",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-self-induced-emf-of-a-coil-is-25-volts-when-the-current-jee-main-physics-units-and-measurements-xs2pog0dac9agjfy",
+        "is_numerical": false,
+        "sub_topic": "Self Inductance: Energy",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Change in energy inductance"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th January Morning Slot",
+        "question": "A conducting circular loop made of a thin wire, has area 3.5$\u00d7$10 ^$\u2212$3 m ^2 and resistance 10$\u03a9$. It is placed perpendicular to a time dependent magnetic field B(t) = (0.4T)sin(50$\u03c0$t). The field is uniform in space. Then the net charge flowing through the loop during t = 0 s and t = 10 ms is close to :",
+        "options": [
+            "0.14 mC",
+            "0.7 mC",
+            "0.21 mC",
+            "0.6 mC"
+        ],
+        "answer": "0.14 mC",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-loop-whose-area-is-5-103m2-and-resistance-is-10-jee-main-physics-units-and-measurements-yjogpxg9zlibcu3a",
+        "is_numerical": false,
+        "sub_topic": "Faraday's Law: Induced Charge",
+        "logic_type": "Calculus",
+        "difficulty": 3,
+        "physics_key": "Charge from instantaneous flux"
+    },
+    {
+        "metadata": "JEE Main 2017 (Online) 9th April Morning Slot",
+        "question": "A uniform magnetic field B of 0.3 T is along the positive Z-direction. A rectangular loop (abcd) of sides 10 cm \u00d7 5 cm carries a current I of 12 A. Out of the following different orientations which one corresponds to stable equilibrium ?",
+        "options": [
+            "[IMAGE: https://imagex.cdn.examgoal.net/BI7Airmbs8AGon2Ds/y4r4Ew8V6vAx4l7HpkA4tRo9ovtAT/CSrvit42CfAceZ91BCcN0b/image.png]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/jpPPj0zGtJXFqweuS/vaaX903DfDcwwMGXHxuTPsrsV2XuK/ScelCFo05boI6seksl19cj/image.png]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/4Qm05JPLqvs11nM56/uQUurP9L9w5JrVzIPrW1CL3Lu4lzJ/hyBO8oCPVYR1HyXsy01naZ/image.png]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/bRufsh3R98nQJPvI4/PXqXk7qtAEGSuDYeYGy41vLdg5A6a/XJlPoeevWS3gkOcnAON5Lx/image.png]"
+        ],
+        "answer": "[IMAGE: https://imagex.cdn.examgoal.net/4Qm05JPLqvs11nM56/uQUurP9L9w5JrVzIPrW1CL3Lu4lzJ/hyBO8oCPVYR1HyXsy01naZ/image.png]",
+        "images": [
+            "https://imagex.cdn.examgoal.net/BI7Airmbs8AGon2Ds/y4r4Ew8V6vAx4l7HpkA4tRo9ovtAT/CSrvit42CfAceZ91BCcN0b/image.png",
+            "https://imagex.cdn.examgoal.net/jpPPj0zGtJXFqweuS/vaaX903DfDcwwMGXHxuTPsrsV2XuK/ScelCFo05boI6seksl19cj/image.png",
+            "https://imagex.cdn.examgoal.net/4Qm05JPLqvs11nM56/uQUurP9L9w5JrVzIPrW1CL3Lu4lzJ/hyBO8oCPVYR1HyXsy01naZ/image.png",
+            "https://imagex.cdn.examgoal.net/bRufsh3R98nQJPvI4/PXqXk7qtAEGSuDYeYGy41vLdg5A6a/XJlPoeevWS3gkOcnAON5Lx/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-uniform-magnetic-field-b-of-03-t-is-along-the-positive-z-jee-main-physics-units-and-measurements-nlcrsfhbemffxov2",
+        "is_numerical": false,
+        "sub_topic": "Device: Magnetic Torque",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Stable equilibrium magnetic dipole"
+    },
+    {
+        "metadata": "JEE Main 2018 (Online) 15th April Evening Slot",
+        "question": "At the center of a fixed large circular coil of radius R, a much smaller circular coil of radius r is placed. The two coils are concentric and are in the same plane. The larger coil carries a current I. The smaller coil is set to rotate with a constant angular velocity$\u03c9$about an axis along their common diameter. Calculate the emf induced in their smaller coil after a time t of its start of rotation.",
+        "options": [
+            "$\u03bcoI2R$$\u03c9$$\u03c0$r ^2 sin$\u03c9$t",
+            "$\u03bcoI4R$$\u03c9$$\u03c0$r ^2 sin$\u03c9$t",
+            "$\u03bcoI4R$$\u03c9$r ^2 sin$\u03c9$t",
+            "$\u03bcoI2R$$\u03c9$r ^2 sin$\u03c9$t"
+        ],
+        "answer": "$\u03bcoI2R$$\u03c9$$\u03c0$r ^2 sin$\u03c9$t",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/at-the-center-of-a-fixed-large-circular-coil-of-radius-r-a-jee-main-physics-units-and-measurements-k8sr2mveubapa0ne",
+        "is_numerical": false,
+        "sub_topic": "Motional EMF: Rotating Coil",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "EMF rotating coil mutual B"
+    },
+    {
+        "metadata": "JEE Main 2018 (Online) 16th April Morning Slot",
+        "question": "A coil of cross-sectional area A having n turns is placed in a uniform magnetic field B. When it is rotated with an angular velocity$\u03c9,$the maxium e.m.f. induced in the coil will be:",
+        "options": [
+            "3 nBA$\u03c9$",
+            "$32$nBA$\u03c9$",
+            "nBA$\u03c9$",
+            "$12$nBA$\u03c9$"
+        ],
+        "answer": "nBA$\u03c9$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-coil-of-cross-sectional-area-a-having-n-turns-is-placed-in-jee-main-physics-units-and-measurements-bevbmn94rzk4mbhj",
+        "is_numerical": false,
+        "sub_topic": "Motional EMF: Rotating Coil",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Maximum EMF induced N B A w"
+    },
+    {
+        "metadata": "AIEEE 2010",
+        "question": "A rectangular loop has a sliding connector$PQ$of length$l$and resistance$R$$\u03a9$and it is moving with a speed$v$as shown. The set-up is placed in a uniform magnetic field going into the plane of the paper. The three currents$I1,I2$and$I$are [IMAGE: https://imagex.cdn.examgoal.net/ylQh66aBKi0m0PMxu/8VbCmo71VCuQJ8DaLVcQfjMxx5Ry8/PYNwEh4WtF6tSkmWR2r6rV/image.png]",
+        "options": [
+            "$I1=\u2212I2=Blv6R,I=2Blv6R$",
+            "$I1=I2=Blv3R,I=2Blv3R$",
+            "$I1=I2=I=BlvR$",
+            "$I1=I2=Blv6R,I=Blv3R$"
+        ],
+        "answer": "$I1=I2=Blv3R,I=2Blv3R$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/ylQh66aBKi0m0PMxu/8VbCmo71VCuQJ8DaLVcQfjMxx5Ry8/PYNwEh4WtF6tSkmWR2r6rV/image.png",
+            "https://imagex.cdn.examgoal.net/cAPXjr95a6PxqipmF/Ay9e4fDmwzupqJ6FLhrOJEu6jX54Z/jefsk6Toh1Wzdg1IqUg0Hq/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-rectangular-loop-has-a-sliding-connector-pq-of-length-2010-marks-4-m5lsmeb48zyu0c42.htm",
+        "is_numerical": false,
+        "sub_topic": "Motional EMF: Conducting Rod",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Currents in sliding rod network"
+    },
+    {
+        "metadata": "JEE Main 2018 (Online) 15th April Evening Slot",
+        "question": "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l7wzmlp0/f33072c8-8737-44f4-9043-6086cf5a8de4/8a78b140-319f-11ed-b3ea-45214d807530/file-1l7wzmlp1.png?format=png] A copper rod of mass m slides under gravity on two smooth parallel rails, with separation l and set at an angle of$\u03b8$with the horizontal. At the bottom rails are joined by a resistance R. There is a uniform magnetic field B normal to the plane of the rails, as shown in the igure. The terminal speed of the copper rod is :",
+        "options": [
+            "$mgRtan\u03b8B2l2$",
+            "$mgRcot\u03b8B2l2$",
+            "$mgRsin\u03b8B2l2$",
+            "$mgRcos\u03b8B2l2$"
+        ],
+        "answer": "$mgRsin\u03b8B2l2$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l7wzmlp0/f33072c8-8737-44f4-9043-6086cf5a8de4/8a78b140-319f-11ed-b3ea-45214d807530/file-1l7wzmlp1.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l32mqbq7/7960c7f5-51eb-4c2c-984b-318e756629a9/ba551e00-d1bc-11ec-9218-efb2cf12c71b/file-1l32mqbq8.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/-a-copper-rod-of-mass-m-slides-under-gravity-on-two-smooth-p-jee-main-physics-units-and-measurements-ddxlzurybasbv6fy",
+        "is_numerical": false,
+        "sub_topic": "Motional EMF: Conducting Rod",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Terminal velocity inclined rails"
+    },
+    {
+        "metadata": "AIEEE 2008",
+        "question": "Two coaxial solenoids are made by winding thin insulated wire over a pipe of cross-sectional area$A=$$10cm2$and length$=20$$cm$. If one of the solenoid has$300$turns and the other$400$turns, their mutual inductance is$(\u03bc0=4\u03c0\u00d710\u22127TmA\u22121)$",
+        "options": [
+            "$2.4\u03c0\u00d710\u22125H$",
+            "$4.8\u03c0\u00d710\u22124H$",
+            "$4.8\u03c0\u00d710\u22125H$",
+            "$2.4\u03c0\u00d710\u22124H$"
+        ],
+        "answer": "$2.4\u03c0\u00d710\u22124H$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/two-coaxial-solenoids-are-made-by-winding-thin-insulated-wir-2008-marks-4-xxjsa907za7zqy9v.htm",
+        "is_numerical": false,
+        "sub_topic": "Mutual Inductance: Solenoid-Solenoid",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Mutual inductance formula"
+    },
+    {
+        "metadata": "JEE Main 2017 (Online) 8th April Morning Slot",
+        "question": "A small circular loop of wire of radius a is located at the centre of a much larger circular wire loop of radius b. The two loops are in the same plane. The outer loop of radius b carries an alternating current I = I _o cos ($\u03c9$t). The emf induced in the smaller inner loop is nearly :",
+        "options": [
+            "$\u03c0\u03bcoIo2.a2b\u03c9sin\u2061(\u03c9t)$",
+            "$\u03c0\u03bcoIo2.a2b\u03c9cos\u2061(\u03c9t)$",
+            "$\u03c0\u03bcoIoa2b\u03c9sin\u2061(\u03c9t)$",
+            "$\u03c0\u03bcoIob2a\u03c9cos\u2061(\u03c9t)$"
+        ],
+        "answer": "$\u03c0\u03bcoIo2.a2b\u03c9sin\u2061(\u03c9t)$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-small-circular-loop-of-wire-of-radius-a-is-located-at-the-jee-main-physics-units-and-measurements-dcpl1mszjaeee9rb",
+        "is_numerical": false,
+        "sub_topic": "Mutual Inductance: Coaxial Coils",
+        "logic_type": "Calculus",
+        "difficulty": 3,
+        "physics_key": "EMF from alternating current"
+    },
+    {
+        "metadata": "AIEEE 2012",
+        "question": "A coil is suspended in a uniform magnetic field, with the plane of the coil parallel to the magnetic lines of force. When a current is passed through the coil it starts oscillating; It is very difficult to stop. But if an aluminium plate is placed near to the coil, it stops. This is due to :",
+        "options": [
+            "development of air current when the plate is placed",
+            "induction of electrical charge on the plate",
+            "shielding of magnetic lines of force as aluminium is a para-magnetic material.",
+            "electromagnetic induction in the aluminium plate giving rise to electromagnetic damping."
+        ],
+        "answer": "electromagnetic induction in the aluminium plate giving rise to electromagnetic damping.",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-coil-is-suspended-in-a-uniform-magnetic-field-with-the-pl-2012-marks-4-t535uqwrp4k8kujp.htm",
+        "is_numerical": false,
+        "sub_topic": "Faraday's Law: Eddy Current Damping",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Eddy current damping explanation"
+    },
+    {
+        "metadata": "JEE Main 2013 (Offline)",
+        "question": "A metallic rod of length$\u2032\u2113\u2032$is tied to a string of length$2$$\u2113$and made to rotate with angular speed$w$on a horizontal table with one end of the string fixed. If there is a vertical magnetic field$\u2032B\u2032$in the region, the$e.m.f$induced across the ends of the rod is [IMAGE: https://imagex.cdn.examgoal.net/kByvEZD3N1qLaqiUB/gtJITfczyik9Qsf70MmjORI0smYK5/Pe00KG5fwMk7AgvbgeBUus/image.png]",
+        "options": [
+            "$2B\u03c9\u21132$",
+            "$3B\u03c9\u21132$",
+            "$4B\u03c9\u211322$",
+            "$5B\u03c9\u211322$"
+        ],
+        "answer": "$5B\u03c9\u211322$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/kByvEZD3N1qLaqiUB/gtJITfczyik9Qsf70MmjORI0smYK5/Pe00KG5fwMk7AgvbgeBUus/image.png",
+            "https://imagex.cdn.examgoal.net/EvScFZDE5tPJuICfq/BfCuTNYZWsETotnhQUoFLY8YNdnLm/FZ8crh0Yi5J05ZoLEMSCgF/image.svg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-metallic-rod-of-length-ell-is-tied-to-a-string-of-2013-marks-4-t51yn2trmag4bh27.htm",
+        "is_numerical": false,
+        "sub_topic": "Motional EMF: Rotating Rod",
+        "logic_type": "Calculus",
+        "difficulty": 3,
+        "physics_key": "Induced EMF off-center rotation"
+    },
+    {
+        "metadata": "JEE Main 2013 (Offline)",
+        "question": "A circular loop of radius$0.3$$cm$lies center of the small loop is on the axis of the bigger loop. The distance between their centers is$15$$cm.$If a current of$2.0$$A$flows through the smaller loop, than the flux linked with bigger loop is",
+        "options": [
+            "$9.1\u00d710\u221211$weber",
+            "$6\u00d710\u221211$weber",
+            "$3.3\u00d710\u221211$weber",
+            "$6.6\u00d710\u22129$weber"
+        ],
+        "answer": "$9.1\u00d710\u221211$weber",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-circular-loop-of-radius-03-cm-lies-center-of-the-2013-marks-4-pff8gbss873dkla4.htm",
+        "is_numerical": false,
+        "sub_topic": "Mutual Inductance: Coaxial Loops",
+        "logic_type": "Template",
+        "difficulty": 4,
+        "physics_key": "Flux linked loops different size"
+    },
+    {
+        "metadata": "AIEEE 2011",
+        "question": "A boat is moving due east in a region where the earth's magnetic fields is$5.0\u00d710\u22125$$NA\u22121m\u22121$due north and horizontal. The best carries a vertical aerial$2$$m$long. If the speed of the boat is$1.50ms\u22121,$the magnitude of the induced$emf$in the wire of aerial is :",
+        "options": [
+            "$0.75$$mV$",
+            "$0.50$$mV$",
+            "$0.15$$mV$",
+            "$1$$mV$"
+        ],
+        "answer": "$0.15$$mV$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-boat-is-moving-due-east-in-a-region-where-the-earths-magn-2011-marks-4-8zyozabkujn3sdfm.htm",
+        "is_numerical": false,
+        "sub_topic": "Motional EMF: Earth's Field",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Induced EMF aerial B_H"
+    },
+    {
+        "metadata": "JEE Main 2015 (Offline)",
+        "question": "Two coaxial solenoids of different radius carry current$I$in the same direction.$F1\u2192$be the magnetic force on the inner solenoid due to the outer one and$F2\u2192$be the magnetic force on the outer solenoid due to the inner one. Then :",
+        "options": [
+            "$F1\u2192$is radially in wards and$F2\u2192=0$",
+            "$F1\u2192$is radially outwards and$F2\u2192=0$",
+            "$F1\u2192=F2\u2192=0$",
+            "$F1\u2192$is radially inwards and$F2\u2192$is radially outards"
+        ],
+        "answer": "$F1\u2192=F2\u2192=0$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/two-coaxial-solenoids-of-different-radius-carry-current-i-2015-marks-4-irnszdugj0liskov.htm",
+        "is_numerical": false,
+        "sub_topic": "Device: Magnetic Force",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Coaxial solenoid force zero"
+    },
+    {
+        "metadata": "JEE Main 2016 (Online) 10th April Morning Slot",
+        "question": "A conducting metal circular-wire-loop of radius r is placed perpendicular to a magnetic field which varies with time as B = B _0 e$\u2212tr$, where B _0 and$\u03c4$are constants, at time t = 0. If the resistance of the loop is R then the heat generated in the loop after a long time (t$\u2192$$\u221e$) is :",
+        "options": [
+            "$\u03c02r4B042\u03c4R$",
+            "$\u03c02r4B022\u03c4R$",
+            "$\u03c02r4B02R\u03c4$",
+            "$\u03c02r4B02\u03c4R$"
+        ],
+        "answer": "$\u03c02r4B022\u03c4R$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-conducting-metal-circular-wire-loop-of-radius-r-is-placed-jee-main-physics-units-and-measurements-kyly2ncha3ldw9uf",
+        "is_numerical": false,
+        "sub_topic": "Faraday's Law: Heat Dissipation",
+        "logic_type": "Calculus",
+        "difficulty": 4,
+        "physics_key": "Heat from decaying flux exponential"
+    },
+    {
+        "metadata": "JEE Main 2017 (Offline)",
+        "question": "In a coil of resistance 100$\u03a9$, a current is induced by changing the magnetic flux through it as shown in the figure. The magnitude of change in flux through the coil is: [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l7ymnu4h/6058b986-b9c1-4587-91ca-05b3106bbb65/67698b10-3286-11ed-8893-19b23ee4c66d/file-1l7ymnu4i.png?format=png]",
+        "options": [
+            "275 Wb",
+            "200 Wb",
+            "225 Wb",
+            "250 Wb"
+        ],
+        "answer": "250 Wb",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l7ymnu4h/6058b986-b9c1-4587-91ca-05b3106bbb65/67698b10-3286-11ed-8893-19b23ee4c66d/file-1l7ymnu4i.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/in-a-coil-of-resistance-100-omega-a-current-is-induce-2018-marks-4-bgwof8xan8g3yplz.htm",
+        "is_numerical": false,
+        "sub_topic": "Faraday's Law: Induced Charge",
+        "logic_type": "Graphical",
+        "difficulty": 3,
+        "physics_key": "Flux change from I-t graph"
+    },
+    {
+        "metadata": "JEE Main 2016 (Online) 10th April Morning Slot",
+        "question": "Consider a thin metallic sheet perpendicular to the plane of the paper moving with speed \u2018v\u2019 in a uniform magnetic field B going into the plane of the paper (See figure). If charge densities$\u03c3$_1 and$\u03c3$_2 are induced on the left and right surfaces, respectively, of the sheet then (ignore fringe effects) : [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l82xh0bw/491f70cf-0c05-4298-9e50-794d8f93289c/d08fd0e0-34e3-11ed-b84c-a3c7c2456516/file-1l82xh0by.png?format=png]",
+        "options": [
+            "$\u03c3$_1 =$\u2208$_0$\u03c5$B,$\u03c3$_2 =$\u2212$$\u2208$_0$\u03c5$B",
+            "$\u03c3$_1 =$\u22080\u03c5B2,$$\u03c3$_2 =$\u2212\u22080\u03c5B2$",
+            "$\u03c3$_1 =$\u03c3$_2 =$\u22080\u03c5B$",
+            "$\u03c3$_1 =$\u2212\u22080\u03c5B2,$$\u03c3$_2 =$\u22080\u03c5B2,$"
+        ],
+        "answer": "$\u03c3$_1 =$\u2208$_0$\u03c5$B,$\u03c3$_2 =$\u2212$$\u2208$_0$\u03c5$B",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l82xh0bw/491f70cf-0c05-4298-9e50-794d8f93289c/d08fd0e0-34e3-11ed-b84c-a3c7c2456516/file-1l82xh0by.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/consider-a-thin-metallic-sheet-perpendicular-to-the-plane-of-jee-main-physics-units-and-measurements-m4h1ypfhitoddsgz",
+        "is_numerical": false,
+        "sub_topic": "Motional EMF: Hall Potential",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Charge density motional field"
+    },
+    {
+        "metadata": "AIEEE 2006",
+        "question": "Which of the following units denotes the dimension$ML2Q2$, where$Q$denotes the electric charge?",
+        "options": [
+            "$Wb/m2$",
+            "Henry$(H)$",
+            "$H/m2$",
+            "Weber$(Wb)$"
+        ],
+        "answer": "Henry$(H)$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/which-of-the-following-units-denotes-the-dimension-ml2-2006-marks-4-yhqhbflrc6kzbegi.htm",
+        "is_numerical": false,
+        "sub_topic": "Self Inductance: Conceptual",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Inductance dimensional formula"
+    },
+    {
+        "metadata": "AIEEE 2007",
+        "question": "An ideal coil of$10H$is connected in series with a resistance of$5\u03a9$and a battery of$5V$.$2$second after the connection is made, the current flowing in ampere in the circuit is",
+        "options": [
+            "$(1\u2212e\u22121)$",
+            "$(1\u2212e)$",
+            "$e$",
+            "$e\u22121$"
+        ],
+        "answer": "$(1\u2212e\u22121)$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-ideal-coil-of-10h-is-connected-in-series-with-a-resis-2007-marks-4-n9ju0kjdngigkzzu.htm",
+        "is_numerical": false,
+        "sub_topic": "Transient: RL circuit",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "RL current growth equation"
+    },
+    {
+        "metadata": "AIEEE 2006",
+        "question": "An inductor$(L=100$$mH)$, a resistor$(R=100\u03a9)$and a battery$(E=100V)$are initially connected in series as shown in the figure. After a long time the battery is disconnected after short circuiting the points$A$and$B$. The current in the circuit$1$$ms$after the short circuit is [IMAGE: https://imagex.cdn.examgoal.net/X5lCeOpC0jft29Or8/mt5rBVChcLeKNEML1EeiLEKNMs4zR/zsw70XlJZ76bZTe8IIOmFi/image.png]",
+        "options": [
+            "$1/eA$",
+            "$eA$",
+            "$0.1$$A$",
+            "$1$$A$"
+        ],
+        "answer": "$1/eA$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/X5lCeOpC0jft29Or8/mt5rBVChcLeKNEML1EeiLEKNMs4zR/zsw70XlJZ76bZTe8IIOmFi/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/an-inductor-l100-mh-a-resistor-left-r-100-2005-marks-4-ksdzgppdqa85zxsa.htm",
+        "is_numerical": false,
+        "sub_topic": "Transient: RL circuit",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Current decay short circuit"
+    },
+    {
+        "metadata": "AIEEE 2006",
+        "question": "The flux linked with a coil at any instant$\u2032t\u2032$is given by$\u03d5=10t2\u221250t+250$The induced$emf$at$t=3s$is",
+        "options": [
+            "$\u2212190$$V$",
+            "$\u221210$$V$",
+            "$10$$V$",
+            "$190$$V$"
+        ],
+        "answer": "$\u221210$$V$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-flux-linked-with-a-coil-at-any-instant-t-is-given-2006-marks-4-itdka2ul44a1ia1b.htm",
+        "is_numerical": false,
+        "sub_topic": "Faraday's Law: Time-Varying Flux",
+        "logic_type": "Calculus",
+        "difficulty": 1,
+        "physics_key": "Induced EMF dPhi/dt"
+    },
+    {
+        "metadata": "AIEEE 2005",
+        "question": "One conducting$U$tube can slide inside another as shown in figure, maintaining electrical contacts between the tubes. The magnetic field$B$is perpendicular to the plane of the figure. If each tube moves towards the other at a constant speed$v,$then the$emf$induced in the circuit in terms of$B,l$and$v$where$l$is the width of each tube, will be [IMAGE: https://imagex.cdn.examgoal.net/ULg4EKy1r1E3xBTsP/OfdIa0S2ZDDTAAIuCsRAqrshEgNk8/R6F9y6BH9jLOs8Q0QgSPHK/image.png]",
+        "options": [
+            "$\u2212Blv$",
+            "$blv$",
+            "$2$$Blv$",
+            "zero"
+        ],
+        "answer": "$2$$Blv$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/ULg4EKy1r1E3xBTsP/OfdIa0S2ZDDTAAIuCsRAqrshEgNk8/R6F9y6BH9jLOs8Q0QgSPHK/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/one-conducting-u-tube-can-slide-inside-another-as-shown-2005-marks-4-xbgcytai1xiakd8k.htm",
+        "is_numerical": false,
+        "sub_topic": "Motional EMF: Conducting Rod",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Relative velocity EMF"
+    },
+    {
+        "metadata": "AIEEE 2004",
+        "question": "In a uniform magnetic field of induction$B$a wire in the form of a semicircle of radius$r$rotates about the diameter of the circle with an angular frequency$\u03c9.$The axis of rotation is perpendicular to the field. If the total resistance of the circuit is$R,$the mean power generated per period of rotation is",
+        "options": [
+            "$(B\u03c0r\u03c9)22R$",
+            "$(B\u03c0r2\u03c9)28R$",
+            "$B\u03c0r2\u03c92R$",
+            "$(B\u03c0r\u03c92)28R$"
+        ],
+        "answer": "$(B\u03c0r2\u03c9)28R$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-a-uniform-magnetic-field-of-induction-b-a-wire-in-the-2004-marks-4-1jpi7m7egal8x9ql.htm",
+        "is_numerical": false,
+        "sub_topic": "Faraday's Law: Rotating Loop Power",
+        "logic_type": "Calculus",
+        "difficulty": 4,
+        "physics_key": "Mean power rotating semicircle"
+    },
+    {
+        "metadata": "AIEEE 2002",
+        "question": "The inductance between$A$and$D$is [IMAGE: https://imagex.cdn.examgoal.net/FTW5sf7MIONu7HckB/Yx4RMZm2TtB5SnsQmSKdeCrAT9MEe/TQl7MJXbWinC2I6x5e7d3K/image.png]",
+        "options": [
+            "$3.66$$H$",
+            "$9$$H$",
+            "$0.66$$H$",
+            "$1$$H$"
+        ],
+        "answer": "$1$$H$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/FTW5sf7MIONu7HckB/Yx4RMZm2TtB5SnsQmSKdeCrAT9MEe/TQl7MJXbWinC2I6x5e7d3K/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/the-inductance-between-a-and-d-is-2002-marks-4-btuskbr9a2paz8iq.htm",
+        "is_numerical": false,
+        "sub_topic": "Circuits: Inductance Combination",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Series parallel inductance"
+    },
+    {
+        "metadata": "AIEEE 2003",
+        "question": "Two coils are placed close to each other. The mutual inductance of the pair of coils depends upon",
+        "options": [
+            "the rates at which currents are changing in the two coils",
+            "relative position and orientation of the two coils",
+            "the currents in the two coils",
+            "the materials of the wires of the coils"
+        ],
+        "answer": "relative position and orientation of the two coils",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/two-coils-are-placed-close-to-each-other-the-mutual-inducta-2003-marks-4-ukfhskpqpka8apcc.htm",
+        "is_numerical": false,
+        "sub_topic": "Mutual Inductance: Conceptual",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Mutual Inductance geometry dependence"
+    },
+    {
+        "metadata": "AIEEE 2002",
+        "question": "A conducting square loop of side$L$and resistance$R$moves in its plane with a uniform velocity$v$perpendicular to one of its sides. A magnetic induction$B$constant in time and space, pointing perpendicular and into the plane at the loop exists everywhere with half the loop outside the field, as shown in figure. The induced$emf$is [IMAGE: https://imagex.cdn.examgoal.net/FLYaMRa4u35666zrE/b9LjT1N9L63i9wR19iOsAL4jOrOeG/C5ZCznjxxFfpWGPtsJ4WVb/image.png]",
+        "options": [
+            "zero",
+            "$RvB$",
+            "$vBL/R$",
+            "$vBL$"
+        ],
+        "answer": "$vBL$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/FLYaMRa4u35666zrE/b9LjT1N9L63i9wR19iOsAL4jOrOeG/C5ZCznjxxFfpWGPtsJ4WVb/image.png",
+            "https://imagex.cdn.examgoal.net/W8jgZfIH9c5t2KhtD/C8Sm8wVsJkdaC7K3FfoArxKHVIXvo/8WL5MIt81wOBLpkcC0ICmw/image.svg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-conducting-square-loop-of-side-l-and-resistance-r-2002-marks-4-0wo4orkxef4tglr0.htm",
+        "is_numerical": false,
+        "sub_topic": "Motional EMF: Moving Loop",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Motional EMF entering B-field"
+    },
+    {
+        "metadata": "AIEEE 2003",
+        "question": "When the current changes from$+2A$to$\u22122A$in$0.05$second, an$e.m.f.$of$8$$V$is inducted in a coil. The coefficient of self- induction of the coil is",
+        "options": [
+            "$0.2H$",
+            "$0.4H$",
+            "$0.8$$H$",
+            "$0.1$$H$"
+        ],
+        "answer": "$0.1$$H$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/when-the-current-changes-from-2a-to-a-in-005-2003-marks-4-vfwyqhhfmrrnwix4.htm",
+        "is_numerical": false,
+        "sub_topic": "Self Inductance: Basic",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Self inductance E dI/dt"
+    },
+    {
+        "metadata": "AIEEE 2005",
+        "question": "A coil of inductance$300$$mH$and resistance$2\u03a9$is connected to a source of voltage$2$$V$. The current reaches half of its steady state value in",
+        "options": [
+            "$0.1$$s$",
+            "$0.05$$s$",
+            "$0.3$$s$",
+            "$0.15$$s$"
+        ],
+        "answer": "$0.1$$s$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-coil-of-inductance-300-mh-and-resistance-2ome-2005-marks-4-fxlpb9jcte9n6kcm.htm",
+        "is_numerical": false,
+        "sub_topic": "Transient: RL circuit",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Time to half steady current"
+    },
+    {
+        "metadata": "AIEEE 2004",
+        "question": "A coil having$n$turns and resistance$R\u03a9$is connected with a galvanometer of resistance$4R\u03a9.$This combination is moved in time$t$seconds from a magnetic field$W1$weber to$W2$weber. The induced current in the circuit is",
+        "options": [
+            "$(W2\u2212W1)Rnt$",
+            "$\u2212n(W2\u2212W1)5Rt$",
+            "$\u2212(W2\u2212W1)5Rnt$",
+            "$\u2212n(W2\u2212W1)Rt$"
+        ],
+        "answer": "$\u2212n(W2\u2212W1)5Rt$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-coil-having-n-turns-and-resistance-romega-is-con-2004-marks-4-u0l4kw1renac9pqf.htm",
+        "is_numerical": false,
+        "sub_topic": "Faraday's Law: Induced Charge",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Charge from flux change total R"
+    },
+    {
+        "metadata": "AIEEE 2004",
+        "question": "A metal conductor of length$1$$m$rotates vertically about one of its ends at angular velocity$5$radians per second. If the horizontal component of earth's magnetic field is$0.2\u00d710\u22124T,$then the$e.m.f.$developed between the two ends of the conductor is",
+        "options": [
+            "$5mV$",
+            "$50\u03bcV$",
+            "$5\u03bcV$",
+            "$50mV$"
+        ],
+        "answer": "$50\u03bcV$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-metal-conductor-of-length-1-m-rotates-vertically-a-2004-marks-4-bnakofro39szus3t.htm",
+        "is_numerical": false,
+        "sub_topic": "Motional EMF: Rotating Rod (Earth)",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Induced EMF rotating rod B_H"
+    }
+]

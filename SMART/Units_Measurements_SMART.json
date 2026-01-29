@@ -1,0 +1,3517 @@
+[
+    {
+        "metadata": "JEE Main 2025 (Online) 7th April Evening Shift",
+        "question": "Match List - I with List - II . List - I List - II (A) Mass density (I) [ML ^2 T ^\u22123 ] (B) Impulse (II) [MLT ^\u22121 ] (C) Power (III) [ML ^2 T ^0 ] (D) Moment of inertia (IV) [ML ^\u22123 T ^0 ] Choose the correct answer from the options given below :",
+        "options": [
+            "(A)-(IV), (B)-(II), (C)-(III), (D)-(I)",
+            "(A)-(II), (B)-(III), (C)-(IV), (D)-(I)",
+            "(A)-(IV), (B)-(III), (C)-(I), (D)-(II)",
+            "(A)-(IV), (B)-(II), (C)-(I), (D)-(III)"
+        ],
+        "answer": "(A)-(IV), (B)-(II), (C)-(I), (D)-(III)",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pmatch-blist-ib-with-blist-iibp-table-jee-main-physics-ot6g5mfcgkp9ccfx",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: MLT Fundamental",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "MLT basic dimensions matching"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 3rd April Evening Shift",
+        "question": "$Match the LIST-I with LIST-II Match the LIST-I with LIST-II$LIST-I LIST-II A.$Boltzmann constant Boltzmann constant$I$ML2 T\u22121$B$Coefficient of viscosity Coefficient of viscosity$II$MLT\u22123 K\u22121$C$Planck's constant Planck's constant$III$ML2 T\u22122 K\u22121$D$Thermal conductivity Thermal conductivity$IV$ML\u22121 T\u22121$Choose the correct answer from the options given below:",
+        "options": [
+            "A - III, B - IV, C - I, D - II",
+            "A - III, B - IV, C - II, D - I",
+            "A - III, B - II, C - I, D - IV",
+            "A - II, B - III, C - IV, D - I"
+        ],
+        "answer": "A - III, B - IV, C - I, D - II",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/p-text--match-the-list-i-with-list-ii--p-style-jee-main-physics-units-and-measurements-k7of42eui6qgf50i",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Physics Constants",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Constants dimensions matching"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 2nd April Evening Shift",
+        "question": "If$\u03bc0$and$\u03f50$are the permeability and permittivity of free space, respectively, then the dimension of$(1\u03bc0\u03f50)$is :",
+        "options": [
+            "$T2/L$",
+            "$L2/T2$",
+            "$T2/L2$",
+            "$L/T2$"
+        ],
+        "answer": "$L2/T2$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/if-mu0-and-epsilon0-are-the-permeability-and-permitt-jee-main-physics-units-and-measurements-iskngtbdz5tf87fp",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Electromagnetism",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Speed of light dimensions"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 4th April Morning Shift",
+        "question": "In an electromagnetic system, the quantity representing the ratio of electric flux and magnetic flux has dimension of$MPLQTRAS$, where value of '$Q$' and '$R$' are",
+        "options": [
+            "$(3,\u22125)$",
+            "$(\u22122,1)$",
+            "$(\u22122,2)$",
+            "$(1,\u22121)$"
+        ],
+        "answer": "$(1,\u22121)$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-an-electromagnetic-system-the-quantity-representing-t-jee-main-physics-units-and-measurements-k1jbr8cmddr97gcj",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Electromagnetism",
+        "logic_type": "Analytical",
+        "difficulty": 4,
+        "physics_key": "Flux ratio dimension exponents"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 7th April Evening Shift",
+        "question": "The dimension of$\u03bc0\u03f50$is equal to that of: ($\u03bc0$= Vacuum permeability and$\u03f50$= Vacuum permittivity)",
+        "options": [
+            "Voltage",
+            "Inductance",
+            "Resistance",
+            "Capacitance"
+        ],
+        "answer": "Resistance",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-dimension-of--sqrtfracmu0epsilon0--is-e-jee-main-physics-6mwpuisydfwarraw",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Electromagnetism",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Impedance of free space"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 4th April Evening Shift",
+        "question": "For the determination of refractive index of glass slab, a travelling microscope is used whose main scale contains 300 equal divisions equals to 15 cm . The vernier scale attached to the microscope has 25 divisions equals to 24 divisions of main scale. The least count (LC) of the travelling microscope is (in cm ) :",
+        "options": [
+            "0.002",
+            "0.0025",
+            "0.0005",
+            "0.001"
+        ],
+        "answer": "0.002",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pfor-the-determination-of-refractive-index-of-glass-slab-jee-main-physics-units-and-measurements-kgkbzgpqjxtkjnvh",
+        "is_numerical": false,
+        "sub_topic": "Device: Vernier Caliper",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Least count travelling microscope"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 2nd April Evening Shift",
+        "question": "Given a charge q , current I and permeability of vacuum$\u03bco\u2217$. Which of the following quantity has the dimension of momentum ?",
+        "options": [
+            "$$$qI/\u03bco$",
+            "$q2\u03bcoI$",
+            "$q\u03bc0/I$",
+            "$q\u03bcoI$"
+        ],
+        "answer": "$q\u03bcoI$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/given-a-charge-q--current-i-and-permeability-of-vacuum-mu-jee-main-physics-units-and-measurements-flhvox36ruvrv2i6",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Electromagnetism",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Momentum dimension new form"
+    },
+    {
+        "metadata": "JEE Main",
+        "question": "A physical quantity C is related to four other quantities$p,q,r$and s as follows$C=pq2r3s$The percentage errors in the measurement of$p,q,r$and s are$1%,2%,3%$and$2%$, respectively. The percentage error in the measurement of$C$will be__________%",
+        "options": [],
+        "answer": "15",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-physical-quantity-c-is-related-to-four-other-quantities-jee-main-physics-units-and-measurements-j6zahftz4til6dnw",
+        "is_numerical": true,
+        "sub_topic": "Error: Percentage Error",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Max percentage error power law"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 29th January Evening Shift",
+        "question": "Match List - I with List - II . List - I List - II (A) Young\u2019s Modulus (I) M L ^-1 T ^-1 (B) Torque (II) M L ^-1 T ^-2 (C) Coefficient of Viscosity (III) M ^-1 L ^3 T ^-2 (D) Gravitational Constant (IV) M L ^2 T ^-2 Choose the correct answer from the options given below :",
+        "options": [
+            "(A)-(I), (B)-(III), (C)-(II), (D)-(IV)",
+            "(A)-(IV), (B)-(II), (C)-(III), (D)-(I)",
+            "(A)-(II), (B)-(I), (C)-(IV), (D)-(III)",
+            "(A)-(II), (B)-(IV), (C)-(I), (D)-(III)"
+        ],
+        "answer": "(A)-(II), (B)-(IV), (C)-(I), (D)-(III)",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pmatch-blist-ib-with-blist-iibp-table-b-jee-main-physics-4ngo9dpsbdwgqngk",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Elasticity & Fluid",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Multiple quantities dimension match"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 29th January Morning Shift",
+        "question": "The pair of physical quantities not having the same dimensions is :",
+        "options": [
+            "Angular momentum and Planck's constant",
+            "Torque and energy",
+            "Surface tension and impulse",
+            "Pressure and Young's modulus"
+        ],
+        "answer": "Surface tension and impulse",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-pair-of-physical-quantities-not-having-the-same-dimen-jee-main-physics-yl3ojnfwbunwggcp",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Similarity",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Identify non-identical dimensions"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 2nd April Morning Shift",
+        "question": "Match List I with List II. List - I List - II (A) Coefficient of viscosity (I)$[ML0 T\u22123]$(B) Intensity of wave (II)$[ML\u22122 T\u22122]$(C) Pressure gradient (III)$[M\u22121LT2]$(D) Compressibility (IV)$[ML\u22121 T\u22121]$Choose the correct answer from the options given below:",
+        "options": [
+            "(A)-(II), (B)-(III), (C)-(IV), (D)-(I)",
+            "(A)-(IV), (B)-(II), (C)-(I), (D)-(III)",
+            "(A)-(IV), (B)-(I), (C)-(II), (D)-(III)",
+            "(A)-(I), (B)-(IV), (C)-(III), (D)-(II)"
+        ],
+        "answer": "(A)-(IV), (B)-(I), (C)-(II), (D)-(III)",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pmatch-list-i-with-list-iip-pstyle-typetextcss-jee-main-physics-units-and-measurements-ah77vjnfy61q2nck",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Mixed Concepts",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Mixed quantity dimensions match"
+    },
+    {
+        "metadata": "JEE Main",
+        "question": "A, B, C and D are four different physical quantities having different dimensions. None of them is dimensionless. But we know that the equation AD = C ln (BD) holds true. Then which of the combination is not a meaningful quantity ?",
+        "options": [
+            "A ^2$\u2212$B ^2 C ^2",
+            "$(A\u2212C)D$",
+            "$AB\u2212C$",
+            "$CBD\u2212AD2C$"
+        ],
+        "answer": "$CBD\u2212AD2C$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-b-c-and-d-are-four-different-physical-quantities-having-jee-main-physics-units-and-measurements-cgaxdyei03s9guzk",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Homogeneity",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Meaningful quantity formation"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 3rd April Morning Shift",
+        "question": "A person measures mass of 3 different particles as$435.42 g,226.3 g$and 0.125 g . According to the rules for arithmetic operations with significant figures, the addition of the masses of 3 particles will be.",
+        "options": [
+            "661.845 g",
+            "661.84 g",
+            "662 g",
+            "661.8 g"
+        ],
+        "answer": "661.8 g",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-person-measures-mass-of-3-different-particles-as-4354-jee-main-physics-units-and-measurements-jxc4byqvylwzx2xz",
+        "is_numerical": false,
+        "sub_topic": "Error: Significant Figures",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Significant figures addition rule"
+    },
+    {
+        "metadata": "JEE Main",
+        "question": "A quantity Q is formulated as$X\u22122Y+32Z\u221225$. X, Y, and Z are independent parameters which have fractional errors of 0.1, 0.2, and 0.5, respectively in measurement. The maximum fractional error of Q is",
+        "options": [
+            "0.6",
+            "0.8",
+            "0.7",
+            "0.1"
+        ],
+        "answer": "0.7",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-quantity-q-is-formulated-as-x-2yfrac32z-jee-main-physics-alcnqpxc7dstmfnu",
+        "is_numerical": false,
+        "sub_topic": "Error: Fractional Error",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Max fractional error sum"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 4th April Evening Shift",
+        "question": "In an electromagnetic system, a quantity defined as the ratio of electric dipole moment and magnetic dipole moment has dimension of$[MPLQTRAS]$. The value of P and Q are :",
+        "options": [
+            "$\u22121,0$",
+            "$0,\u22121$",
+            "$\u22121,1$",
+            "$1,\u22121$"
+        ],
+        "answer": "$0,\u22121$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-an-electromagnetic-system-a-quantity-defined-as-the-r-jee-main-physics-units-and-measurements-ll0g3rzv4a7bbzoq",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Electromagnetism",
+        "logic_type": "Analytical",
+        "difficulty": 4,
+        "physics_key": "Dipole moment ratio dimension"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 29th January Morning Shift",
+        "question": "The expression given below shows the variation of velocity ( v ) with time ( t ),$v=At2+BtC+t$. The dimension of ABC is :",
+        "options": [
+            "[M ^0 L ^1 T ^\u22122 ]",
+            "[M ^0 L ^2 T ^\u22123 ]",
+            "[M ^0 L ^2 T ^\u22122 ]",
+            "[M ^0 L ^1 T ^\u22123 ]"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-expression-given-below-shows-the-variation-of-velocit-jee-main-physics-rjh0iha8w06lkwgz",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Homogeneity",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Dimensions of coefficient product"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 28th January Evening Shift",
+        "question": "Match List - I with List - II. List - I List - II (A) Angular Impulse (I) M ^0 L ^2 T ^-2 (B) Latent Heat (II) M L ^2 T ^-3 A ^-1 (C) Electrical resistivity (III) M L ^2 T ^-1 (D) Electromotive force (IV) M L ^3 T ^-3 A ^-2 Choose the correct answer from the options given below:",
+        "options": [
+            "(A)-(II), (B)-(I), (C)-(IV), (D)-(III)",
+            "(A)-(I), (B)-(III), (C)-(IV), (D)-(II)",
+            "(A)-(III), (B)-(I), (C)-(IV), (D)-(II)",
+            "(A)-(III), (B)-(I), (C)-(II), (D)-(IV)"
+        ],
+        "answer": "(A)-(III), (B)-(I), (C)-(IV), (D)-(II)",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pmatch-list-i-with-list-iiptable-border1-t-jee-main-physics-rvzjz8vwqflrj0x3",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Mixed Constants",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Constants dimensions matching complex"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 24th January Morning Shift",
+        "question": "For an experimental expression$y=32.3\u00d7112527.4$, where all the digits are significant. Then to report the value of$y$we should write",
+        "options": [
+            "$y=1326.186$",
+            "$y=1326.2$",
+            "$y=1326.19$",
+            "$y=1330$"
+        ],
+        "answer": "$y=1330$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pfor-an-experimental-expression-yfrac323-times-1125-jee-main-physics-units-and-measurements-pavzdqxhk7kigtst",
+        "is_numerical": false,
+        "sub_topic": "Error: Significant Figures",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Sig fig multiplication division"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 8th April Evening Shift",
+        "question": "There are 100 divisions on the circular scale of a screw gauge of pitch$1 mm$. With no measuring quantity in between the jaws, the zero of the circular scale lies 5 divisions below the reference line. The diameter of a wire is then measured using this screw gauge. It is found that 4 linear scale divisions are clearly visible while 60 divisions on circular scale coincide with the reference line. The diameter of the wire is :",
+        "options": [
+            "4.65 mm",
+            "4.60 mm",
+            "4.55 mm",
+            "3.35 mm"
+        ],
+        "answer": "4.55 mm",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthere-are-100-divisions-on-the-circular-scale-of-a-screw-jee-main-physics-motion-10dieufssszcjcyz",
+        "is_numerical": false,
+        "sub_topic": "Device: Screw Gauge",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Screw gauge reading zero error"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 23rd January Evening Shift",
+        "question": "The energy of a system is given as$E(t)=\u03b13e\u2212\u03b2t$, where t is the time and$\u03b2=0.3 s\u22121$. The errors in the measurement of$\u03b1$and$t$are$1.2%$and$1.6%$, respectively. At$t=5 s$, maximum percentage error in the energy is :",
+        "options": [
+            "$6%$",
+            "$11.6%$",
+            "$4%$",
+            "$8.4%$"
+        ],
+        "answer": "$6%$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-energy-of-a-system-is-given-as-mathrmemathrmt-jee-main-physics-units-and-measurements-tzahnkyovjod1yoy",
+        "is_numerical": false,
+        "sub_topic": "Error: Combined Error",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Error with exponent and exponential"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 8th April Evening Shift",
+        "question": "Least count of a vernier caliper is$120 N cm$. The value of one division on the main scale is$1 mm$. Then the number of divisions of main scale that coincide with$N$divisions of vernier scale is :",
+        "options": [
+            "$(2 N\u221212 N)$",
+            "$(2 N\u2212120 N)$",
+            "$(2 N\u22121)$",
+            "$(2 N\u221212)$"
+        ],
+        "answer": "$(2 N\u221212)$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pleast-count-of-a-vernier-caliper-is-frac120-mathrm-jee-main-physics-motion-miwupoc7abwa2lv0",
+        "is_numerical": false,
+        "sub_topic": "Device: Vernier Caliper",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "VSD MSD coincidence formula"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 23rd January Morning Shift",
+        "question": "The position of a particle moving on$x$-axis is given by$x(t)=Asin\u2061t+Bcos2\u2061t+Ct2+D$, where$t$is time. The dimension of$ABCD$is",
+        "options": [
+            "$L$",
+            "$L3 T\u22122$",
+            "$L2 T\u22122$",
+            "$L2$"
+        ],
+        "answer": "$L2 T\u22122$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-position-of-a-particle-moving-on-x-axis-is-given-by-jee-main-physics-units-and-measurements-sngtj8e4kgdv1js8",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Homogeneity",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Coefficient dimensions addition law"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 23rd January Evening Shift",
+        "question": "Match List - I with List - II List - I List - II (A) Permeability of free space (I)$[ML2 T\u22122]$(B) Magnetic field (II)$[MT\u22122 A\u22121]$(C) Magnetic moment (III)$[MLT\u22122 A\u22122]$(D) Torsional constant (IV)$[L2 A]$Choose the correct answer from the options given below :",
+        "options": [
+            "(A)-(III), (B)-(II), (C)-(IV), (D)-(I)",
+            "$(A)\u2212(I),(B)\u2212(IV),(C)\u2212(II),(D)\u2212(III)$",
+            "$(A)\u2212(II),(B)\u2212(I),(C)\u2212(III),(D)\u2212(IV)$",
+            "(A)-(IV), (B)-(III), (C)-(I), (D)-(II)"
+        ],
+        "answer": "(A)-(III), (B)-(II), (C)-(IV), (D)-(I)",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pmatch-list-i-with-list-iip-pstyle-typetextcs-jee-main-physics-units-and-measurements-vjekrmljnhqbue7g",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Magnetic",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Magnetic quantities dimensions match"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 22nd January Morning Shift",
+        "question": "Given below are two statements : Statement I: In a vernier callipers, one vernier scale division is always smaller than one main scale division. Statement II : The vernier constant is given by one main scale division multiplied by the number of vernier scale divisions. In the light of the above statements, choose the correct answer from the options given below.",
+        "options": [
+            "Both Statement I and Statement II are false",
+            "Statement I is true but Statement II is false",
+            "Both Statement I and Statement II are true",
+            "Statement I is false but Statement II is true"
+        ],
+        "answer": "Statement I is true but Statement II is false",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pgiven-below-are-two-statements-p-pstatement-i-in-a-jee-main-physics-units-and-measurements-fguenp4yjbo4gm2u",
+        "is_numerical": false,
+        "sub_topic": "Device: Vernier Caliper",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Vernier scale principle statements"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 9th April Morning Shift",
+        "question": "The dimensional formula of latent heat is :",
+        "options": [
+            "$[M0LT\u22122]$",
+            "$[MLT\u22122]$",
+            "$[M0 L2 T\u22122]$",
+            "$[ML2 T\u22122]$"
+        ],
+        "answer": "$[M0 L2 T\u22122]$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-dimensional-formula-of-latent-heat-is-p-jee-main-physics-motion-fqip5tyhnih04bub",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Heat",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Latent heat dimensions"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 22nd January Evening Shift",
+        "question": "The maximum percentage error in the measurment of density of a wire is [Given, mass of wire$=(0.60\u00b10.003)g$radius of wire$=(0.50\u00b10.01)cm$length of wire$=(10.00\u00b10.05)cm]$",
+        "options": [
+            "7",
+            "8",
+            "5",
+            "4"
+        ],
+        "answer": "5",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-maximum-percentage-error-in-the-measurment-of-density-jee-main-physics-units-and-measurements-pqrruhcxizwzyomf",
+        "is_numerical": false,
+        "sub_topic": "Error: Combined Error",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Density error cylindrical wire"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 9th April Morning Shift",
+        "question": "One main scale division of a vernier caliper is equal to$m$units. If$th nth$division of main scale coincides with$th (n+1)th$division of vernier scale, the least count of the vernier caliper is :",
+        "options": [
+            "$1(n+1)$",
+            "$m(n+1)$",
+            "$n(n+1)$",
+            "$mn(n+1)$"
+        ],
+        "answer": "$m(n+1)$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pone-main-scale-division-of-a-vernier-caliper-is-equal-to-jee-main-physics-motion-rd6u0g77iyhbhp12",
+        "is_numerical": false,
+        "sub_topic": "Device: Vernier Caliper",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Least count VSD MSD general"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 22nd January Morning Shift",
+        "question": "If$B$is magnetic field and$\u03bc0$is permeability of free space, then the dimensions of$(B/\u03bc0)$is",
+        "options": [
+            "$MT\u22122 A\u22121$",
+            "$L\u22121 A$",
+            "$ML2 T\u22122 A\u22121$",
+            "$LT\u22122 A\u22121$"
+        ],
+        "answer": "$L\u22121 A$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pif-b-is-magnetic-field-and-mu0-is-permeability-of-f-jee-main-physics-units-and-measurements-sicm9oqc8b2lxabf",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Magnetic",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Magnetic field H dimension"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 9th April Evening Shift",
+        "question": "The de-Broglie wavelength associated with a particle of mass$m$and energy$E$is$h/2mE$. The dimensional formula for Planck's constant is :",
+        "options": [
+            "$[M2 L2 T\u22122]$",
+            "$[ML\u22121 T\u22122]$",
+            "$[ML2 T\u22121]$",
+            "$[MLT\u22122]$"
+        ],
+        "answer": "$[ML2 T\u22121]$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-de-broglie-wavelength-associated-with-a-particle-of-m-jee-main-physics-motion-v4tpf3ffzl2qzjtd",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Quantum",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Planck's constant derivation"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 8th April Evening Shift",
+        "question": "If$\u03f5o$is the permittivity of free space and$E$is the electric field, then$\u03f5oE2$has the dimensions :",
+        "options": [
+            "$[ML\u22121 T\u22122]$",
+            "$[ML2 T\u22122]$",
+            "$[M0L\u22122TA]$",
+            "$[M\u22121 L\u22123 T4 A2]$"
+        ],
+        "answer": "$[ML\u22121 T\u22122]$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pif-epsilonmathrmo-is-the-permittivity-of-free-jee-main-physics-motion-0lyytsma6eom86bh",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Electromagnetism",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Energy density electric field"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 8th April Morning Shift",
+        "question": "The diameter of a sphere is measured using a vernier caliper whose 9 divisions of main scale are equal to 10 divisions of vernier scale. The shortest division on the main scale is equal to$1 mm$. The main scale reading is$2 cm$and second division of vernier scale coincides with a division on main scale. If mass of the sphere is 8.635$g$, the density of the sphere is:",
+        "options": [
+            "$2.2 g/cm3$",
+            "$2.0 g/cm3$",
+            "$1.7 g/cm3$",
+            "$2.5 g/cm3$"
+        ],
+        "answer": "$2.0 g/cm3$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-diameter-of-a-sphere-is-measured-using-a-vernier-cali-jee-main-physics-motion-suoskopwwzphdmwo",
+        "is_numerical": false,
+        "sub_topic": "Device: Vernier Caliper",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Density measurement least count"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 6th April Morning Shift",
+        "question": "To find the spring constant$(k)$of a spring experimentally, a student commits$2%$positive error in the measurement of time and$1%$negative error in measurement of mass. The percentage error in determining value of$k$is :",
+        "options": [
+            "5%",
+            "3%",
+            "1%",
+            "4%"
+        ],
+        "answer": "5%",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pto-find-the-spring-constant-k-of-a-spring-experimen-jee-main-physics-motion-khvmevbsa2hwejgh",
+        "is_numerical": false,
+        "sub_topic": "Error: Combined Error",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Error in spring constant formula"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 6th April Evening Shift",
+        "question": "In a vernier calliper, when both jaws touch each other, zero of the vernier scale shifts towards left and its$th 4th$division coincides exactly with a certain division on main scale. If 50 vernier scale divisions equal to 49 main scale divisions and zero error in the instrument is$0.04 mm$then how many main scale divisions are there in$1 cm$?",
+        "options": [
+            "5",
+            "40",
+            "10",
+            "20"
+        ],
+        "answer": "20",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-a-vernier-calliper-when-both-jaws-touch-each-other-z-jee-main-physics-motion-ctsg7vpc41fwuyzk",
+        "is_numerical": false,
+        "sub_topic": "Device: Vernier Caliper",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Zero error multiple coincidence"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 1st February Morning Shift",
+        "question": "10 divisions on the main scale of a Vernier calliper coincide with 11 divisions on the Vernier scale. If each division on the main scale is of 5 units, the least count of the instrument is :",
+        "options": [
+            "$511$",
+            "$1011$",
+            "$5011$",
+            "$12$"
+        ],
+        "answer": "$511$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/10-divisions-on-the-main-scale-of-a-vernier-calliper-coincid-jee-main-physics-gdwr0wr3n0iroahy",
+        "is_numerical": false,
+        "sub_topic": "Device: Vernier Caliper",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Least count VSD MSD specific"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 6th April Morning Shift",
+        "question": "Match List I with List II LIST I LIST II A. Torque I.$[M1L1T\u22122A\u22122]$B. Magnetic field II.$[L2A1]$C. Magnetic moment III.$[M1T\u22122A\u22121]$D. Permeability of free space IV.$[M1L2T\u22122]$Choose the correct answer from the options given below:",
+        "options": [
+            "A-I, B-III, C-II, D-IV",
+            "A-IV, B-II, C-III, D-I",
+            "A-III, B-I, C-II, D-IV",
+            "A-IV, B-III, C-II, D-I"
+        ],
+        "answer": "A-IV, B-III, C-II, D-I",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pmatch-list-i-with-list-iip-pstyle-typetextcss-jee-main-physics-motion-mk00hrhgv3s0ij7w",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Magnetic",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Magnetic quantities dimensions match"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 5th April Evening Shift",
+        "question": "What is the dimensional formula of$ab\u22121$in the equation$(P+aV2)(V\u2212b)=RT$, where letters have their usual meaning.",
+        "options": [
+            "$[M6 L7 T4]$",
+            "$[M\u22121 L5 T3]$",
+            "$[M0 L3 T\u22122]$",
+            "$[ML2 T\u22122]$"
+        ],
+        "answer": "$[ML2 T\u22122]$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pwhat-is-the-dimensional-formula-of-a-b-1-in-the-eq-jee-main-physics-motion-wgrfo97g2crlybyw",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Homogeneity",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Van der Waals equation dimensions"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 5th April Evening Shift",
+        "question": "A vernier callipers has 20 divisions on the vernier scale, which coincides with$th 19th$division on the main scale. The least count of the instrument is$0.1 mm$. One main scale division is equal to ________ mm.",
+        "options": [
+            "5",
+            "2",
+            "1",
+            "0.5"
+        ],
+        "answer": "2",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-vernier-callipers-has-20-divisions-on-the-vernier-scale-jee-main-physics-motion-ywkluwoct3pxh4lk",
+        "is_numerical": false,
+        "sub_topic": "Device: Vernier Caliper",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "MSD from least count VSD"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 6th April Morning Shift",
+        "question": "While measuring diameter of wire using screw gauge the following readings were noted. Main scale reading is$1 mm$and circular scale reading is equal to 42 divisions. Pitch of screw gauge is$1 mm$and it has 100 divisions on circular scale. The diameter of the wire is$x50 mm$. The value of$x$is :",
+        "options": [
+            "42",
+            "71",
+            "21",
+            "142"
+        ],
+        "answer": "71",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pwhile-measuring-diameter-of-wire-using-screw-gauge-the-fo-jee-main-physics-motion-wv6yfoj5vqolpffq",
+        "is_numerical": false,
+        "sub_topic": "Device: Screw Gauge",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Screw gauge final reading"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 4th April Morning Shift",
+        "question": "The equation of stationary wave is :$. y=2asin\u2061(2\u03c0nt\u03bb)cos\u2061(2\u03c0x\u03bb).$Which of the following is NOT correct :",
+        "options": [
+            "The dimensions of$nt$is [L]",
+            "The dimensions of$n$is$[LT\u22121]$",
+            "The dimensions of$x$is [L]",
+            "The dimensions of$n/\u03bb$is [T]"
+        ],
+        "answer": "The dimensions of$n/\u03bb$is [T]",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-equation-of-stationary-wave-is-p-py2-mathrm-jee-main-physics-motion-th5hsvxabtocvv9h",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Homogeneity",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Wave equation argument dimension"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 1st February Evening Shift",
+        "question": "Match List - I with List - II . List I (Number) List II (Significant figure) (A) 1001 (I) 3 (B) 010.1 (II) 4 (C) 100.100 (III) 5 (D) 0.0010010 (IV) 6 Choose the correct answer from the options given below :",
+        "options": [
+            "(A)-(II), (B)-(I), (C)-(IV), (D)-(III)",
+            "(A)-(IV), (B)-(III), (C)-(I), (D)-(II)",
+            "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)",
+            "(A)-(III), (B)-(IV), (C)-(II), (D)-(I)"
+        ],
+        "answer": "(A)-(II), (B)-(I), (C)-(IV), (D)-(III)",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/match-blist-ib-with-blist-iib-brbrstyl-jee-main-physics-xcyfzewnnvwjgpoo",
+        "is_numerical": false,
+        "sub_topic": "Error: Significant Figures",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Significant figures matching rules"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 5th April Morning Shift",
+        "question": "Time periods of oscillation of the same simple pendulum measured using four different measuring clocks were recorded as$4.62 s,4.632 s,4.6 s$and$4.64 s$. The arithmetic mean of these readings in correct significant figure is :",
+        "options": [
+            "5 s",
+            "4.6 s",
+            "4.62 s",
+            "4.623 s"
+        ],
+        "answer": "4.6 s",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/ptime-periods-of-oscillation-of-the-same-simple-pendulum-m-jee-main-physics-motion-ogkdydpiepgwaafw",
+        "is_numerical": false,
+        "sub_topic": "Error: Significant Figures",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Arithmetic mean significant figures"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 1st February Morning Shift",
+        "question": "The dimensional formula of angular impulse is :",
+        "options": [
+            "$[ML2 T\u22122]$",
+            "$[ML\u22122 T\u22121]$",
+            "$[ML2 T\u22121]$",
+            "$[MLT\u22121]$"
+        ],
+        "answer": "$[ML2 T\u22121]$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-dimensional-formula-of-angular-impulse-is--jee-main-physics-my77klulcoqydhap",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Mechanics",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Angular impulse dimensions"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 4th April Evening Shift",
+        "question": "Applying the principle of homogeneity of dimensions, determine which one is correct, where$T$is time period,$G$is gravitational constant,$M$is mass,$r$is radius of orbit.",
+        "options": [
+            "$T2=4\u03c02rGM2$",
+            "$T2=4\u03c02r3$",
+            "$T2=4\u03c02r3GM$",
+            "$T2=4\u03c02r2GM$"
+        ],
+        "answer": "$T2=4\u03c02r3GM$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/papplying-the-principle-of-homogeneity-of-dimensions-dete-jee-main-physics-motion-5vrxehc7qsxmookm",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Homogeneity",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Kepler's law dimensional check"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 31st January Evening Shift",
+        "question": "Consider two physical quantities$A$and$B$related to each other as$E=B\u2212x2At$where$E,x$and$t$have dimensions of energy, length and time respectively. The dimension of$AB$is",
+        "options": [
+            "$L\u22122M1T0$",
+            "$L2M\u22121T1$",
+            "$L0M\u22121T1$",
+            "$L\u22122M\u22121T1$"
+        ],
+        "answer": "$L2M\u22121T1$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pconsider-two-physical-quantities-a-and-b-related-jee-main-physics-motion-syuef12db9jzd6av",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Homogeneity",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Compound quantity dimension derivation"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 1st February Morning Shift",
+        "question": "The radius$(r)$, length$(l)$and resistance$(R)$of a metal wire was measured in the laboratory as$r=(0.35\u00b10.05) cmR=(100\u00b110) ohml=(15\u00b10.2) cm$The percentage error in resistivity of the material of the wire is :",
+        "options": [
+            "$37.3%$",
+            "$25.6%$",
+            "$35.6%$",
+            "$39.9%$"
+        ],
+        "answer": "$39.9%$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-radius-mathrmr-length-l-and-resistance-ma-jee-main-physics-mbdovoaf2ecr31mn",
+        "is_numerical": false,
+        "sub_topic": "Error: Combined Error",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Resistivity percentage error"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 31st January Morning Shift",
+        "question": "If the percentage errors in measuring the length and the diameter of a wire are$0.1%$each. The percentage error in measuring its resistance will be:",
+        "options": [
+            "0.144%",
+            "0.2%",
+            "0.1%",
+            "0.3%"
+        ],
+        "answer": "0.3%",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pif-the-percentage-errors-in-measuring-the-length-and-the-jee-main-physics-motion-2uryaallv2aa81gt",
+        "is_numerical": false,
+        "sub_topic": "Error: Combined Error",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Resistance percentage error"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 31st January Evening Shift",
+        "question": "The measured value of the length of a simple pendulum is$20 cm$with$2 mm$accuracy. The time for 50 oscillations was measured to be 40 seconds with 1 second resolution. From these measurements, the accuracy in the measurement of acceleration due to gravity is$N%$. The value of$N$is:",
+        "options": [
+            "6",
+            "5",
+            "4",
+            "8"
+        ],
+        "answer": "6",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-measured-value-of-the-length-of-a-simple-pendulum-is-jee-main-physics-motion-afbgjqvd6xxeuhrr",
+        "is_numerical": false,
+        "sub_topic": "Error: Combined Error",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Pendulum g error calculation"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 30th January Evening Shift",
+        "question": "If mass is written as$m=kcPG\u22121/2h1/2$then the value of$P$will be : (Constants have their usual meaning with$ka$dimensionless constant)",
+        "options": [
+            "1/3",
+            "$\u2212$1/3",
+            "1/2",
+            "2"
+        ],
+        "answer": "1/2",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pif-mass-is-written-as-mk-mathrmcmathrmp-g-1-jee-main-physics-motion-jj0kdc2d2ymzcr3q",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: New System",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Mass in fundamental constants"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 30th January Evening Shift",
+        "question": "If 50 Vernier divisions are equal to 49 main scale divisions of a traveling microscope and one smallest reading of main scale is$0.5 mm$, the Vernier constant of traveling microscope is",
+        "options": [
+            "0.01 mm",
+            "0.01 cm",
+            "0.1 mm",
+            "0.1 cm"
+        ],
+        "answer": "0.01 mm",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pif-50-vernier-divisions-are-equal-to-49-main-scale-divisi-jee-main-physics-motion-l8snjhulva5awo1z",
+        "is_numerical": false,
+        "sub_topic": "Device: Vernier Caliper",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Vernier constant calculation"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 31st January Morning Shift",
+        "question": "A force is represented by$F=ax2+bt12$where$x=$distance and$t=$time. The dimensions of$b2/a$are:",
+        "options": [
+            "$[ML2 T\u22123]$",
+            "$[ML3 T\u22123]$",
+            "$[MLT\u22122]$",
+            "$[ML\u22121T\u22121]$"
+        ],
+        "answer": "$[ML3 T\u22123]$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-force-is-represented-by-fa-x2b-tfrac12-jee-main-physics-motion-inpird0wtjnhdc5o",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Homogeneity",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Force equation dimension finding"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 13th April Evening Shift",
+        "question": "In the equation$[X+aY2][Y\u2212b]=RT,X$is pressure,$Y$is volume,$R$is universal gas constant and$T$is temperature. The physical quantity equivalent to the ratio$ab$is:",
+        "options": [
+            "Impulse",
+            "Energy",
+            "Pressure gradient",
+            "Coefficient of viscosity"
+        ],
+        "answer": "Energy",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-the-equation-leftxfracay2righty-bma-jee-main-physics-motion-ifbunwmwxuwjynha",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Homogeneity",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Van der Waals product dimension"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 29th January Morning Shift",
+        "question": "The resistance$R=VI$where$V=(200\u00b15)V$and$I=(20\u00b10.2)A$, the percentage error in the measurement of$R$is :",
+        "options": [
+            "5.5%",
+            "3%",
+            "7%",
+            "3.5%"
+        ],
+        "answer": "3.5%",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-resistance-rfracvi-where-mathrmv200-jee-main-physics-units-and-measurements-jyjykkkpfpyxtgol",
+        "is_numerical": false,
+        "sub_topic": "Error: Combined Error",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Resistance error VI measurement"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 27th January Evening Shift",
+        "question": "Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A) : In Vernier calliper if positive zero error exists, then while taking measurements, the reading taken will be more than the actual reading. Reason (R) : The zero error in Vernier Calliper might have happened due to manufacturing defect or due to rough handling. In the light of the above statements, choose the correct answer from the options given below :",
+        "options": [
+            "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+            "Both (A) and (R) are correct but (R) is not the correct explanation of (A)",
+            "(A) is true but (R) is false",
+            "(A) is false but (R) is true"
+        ],
+        "answer": "Both (A) and (R) are correct but (R) is not the correct explanation of (A)",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pgiven-below-are-two-statements--one-is-labelled-as-asser-jee-main-physics-motion-jcakwwc7aes7yks0",
+        "is_numerical": false,
+        "sub_topic": "Device: Vernier Caliper",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Positive zero error concept"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 30th January Morning Shift",
+        "question": "Match List I with List II. List I List II (A) Coefficient of viscosity (I)$[ML2 T\u22122]$(B) Surface tension (II)$[ML2 T\u22121]$(C) Angular momentum (III)$[ML\u22121 T\u22121]$(D) Rotational kinetic energy (IV)$[ML0 T\u22122]$Choose the correct answer from the options given below :",
+        "options": [
+            "(A)-(II), (B)-(I), (C)-(IV), (D)-(III)",
+            "(A)-(I), (B)-(II), (C)-(III), (D)-(IV)",
+            "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)",
+            "(A)-(III), (B)-(IV), (C)-(II), (D)-(I)"
+        ],
+        "answer": "(A)-(III), (B)-(IV), (C)-(II), (D)-(I)",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pmatch-list-i-with-list-iip-pstyle-typetextcss-jee-main-physics-motion-xeeaxzeetszjhqeg",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Mixed Concepts",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Momentum energy force dimensions"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 27th January Morning Shift",
+        "question": "Given below are two statements : Statement (I) : Planck's constant and angular momentum have same dimensions. Statement (II) : Linear momentum and moment of force have same dimensions. In the light of the above statements, choose the correct answer from the options given below :",
+        "options": [
+            "Statement I is true but Statement II is false",
+            "Both Statement I and Statement II are false",
+            "Both Statement I and Statement II are true",
+            "Statement I is false but Statement II is true"
+        ],
+        "answer": "Statement I is true but Statement II is false",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pgiven-below-are-two-statements-p-pstatement-i--p-jee-main-physics-motion-otjfbc8pi9hscvad",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Similarity",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Identical dimensions statement check"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 29th January Evening Shift",
+        "question": "A physical quantity$Q$is found to depend on quantities$a,b,c$by the relation$Q=a4b3c2$. The percentage error in$a,b$and$c$are$3%,4%$and$5%$respectively. Then, the percentage error in$Q$is :",
+        "options": [
+            "43%",
+            "34%",
+            "66%",
+            "14%"
+        ],
+        "answer": "34%",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-physical-quantity-q-is-found-to-depend-on-quantitie-jee-main-physics-motion-56qeqj63no971lhk",
+        "is_numerical": false,
+        "sub_topic": "Error: Percentage Error",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Max percentage error compound"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 13th April Morning Shift",
+        "question": "A body of mass$(5\u00b10.5) kg$is moving with a velocity of$(20\u00b10.4) m/s$. Its kinetic energy will be",
+        "options": [
+            "$(1000\u00b1140) J$",
+            "$(500\u00b10.14) J$",
+            "$(1000\u00b10.14) J$",
+            "$(500\u00b1140) J$"
+        ],
+        "answer": "$(1000\u00b1140) J$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-body-of-mass-5-pm-05-mathrmkg-is-moving-wit-jee-main-physics-motion-d9p2igohr9yg1ndg",
+        "is_numerical": false,
+        "sub_topic": "Error: Combined Error",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Kinetic energy error sum"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 15th April Morning Shift",
+        "question": "The speed of a wave produced in water is given by$v=\u03bbagb\u03c1c$. Where$\u03bb,g$and$\u03c1$are wavelength of wave, acceleration due to gravity and density of water respectively. The values of$a,b$and$c$respectively, are :",
+        "options": [
+            "$12,0,12$",
+            "$1,1,0$",
+            "$1,\u22121,0$",
+            "$12,12,0$"
+        ],
+        "answer": "$12,12,0$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-speed-of-a-wave-produced-in-water-is-given-by-vlambda-jee-main-physics-1pehjf37ik5qq9l7",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Homogeneity",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Wave speed dimensional analysis"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 31st January Evening Shift",
+        "question": "Match List I with List II LIST I LIST II A. Angular momentum I.$[ML2 T\u22122]$B. Torque II.$[ML\u22122 T\u22122]$C. Stress III$[ML2 T\u22121]$D. Pressure gradient IV.$[ML\u22121 T\u22122]$Choose the correct answer from the options given below:",
+        "options": [
+            "A - I, B - IV, C - III, D - II",
+            "A - III, B - I, C - IV, D - II",
+            "A - IV, B - II, C - I, D - III",
+            "A - II, B - III, C - IV, D - I"
+        ],
+        "answer": "A - III, B - I, C - IV, D - II",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/match-list-bib-with-list-biibbrbr-style-typ-jee-main-physics-goq6pnuooce0an9s",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Mixed Concepts",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Torque stress angular dimensions"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 11th April Morning Shift",
+        "question": "Given below are two statements : Statements I : Astronomical unit (Au), Parsec (Pc) and Light year (ly) are units for measuring astronomical distances. Statements II :$Au<Parsec(Pc)<ly$In the light of the above statements, choose the most appropriate answer from the options given below:",
+        "options": [
+            "Both Statements I and Statements II are incorrect.",
+            "Both Statements I and Statements II are correct,",
+            "Statements I is incorrect but Statements II is correct.",
+            "Statements I is correct but Statements II is incorrect."
+        ],
+        "answer": "Statements I is correct but Statements II is incorrect.",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/6y3zli1lq3ejfpx/abd4e452-3758-4b9c-8df1-0cf7b67ceb67/74170d10-9982-11ee-a5bb-83125883f881/file-6y3zli1lq3ejfq9.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pgiven-below-are-two-statements-p-pstatements-i--as-jee-main-physics-motion-llj0swu7rak32wzz",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Unit Conversion",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Astronomical unit hierarchy"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 10th April Evening Shift",
+        "question": "In an experiment with vernier callipers of least count$0.1 mm$, when two jaws are joined together the zero of vernier scale lies right to the zero of the main scale and 6th division of vernier scale coincides with the main scale division. While measuring the diameter of a spherical bob, the zero of vernier scale lies in between$3.2 cm$and$3.3 cm$marks, and 4th division of vernier scale coincides with the main scale division. The diameter of bob is measured as",
+        "options": [
+            "$3.18 cm$",
+            "$3.22 cm$",
+            "$3.26 cm$",
+            "$3.25 cm$"
+        ],
+        "answer": "$3.18 cm$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-an-experiment-with-vernier-callipers-of-least-count--jee-main-physics-motion-r1u4mp3wcacfudff",
+        "is_numerical": false,
+        "sub_topic": "Device: Vernier Caliper",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Reading with positive zero error"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 12th April Morning Shift",
+        "question": "Match List I with List II LIST I LIST II A. Spring constant I.$[T\u22121]$B. Angular speed II.$[MT\u22122]$C. Angular momentum III.$[ML2]$D. Moment of inertia IV.$[ML2T\u22121]$Choose the correct answer from the options given below:",
+        "options": [
+            "A-IV, B-I, C-III, D-II",
+            "A-II, B-III, C-I, D-IV",
+            "A-II, B-I, C-IV, D-III",
+            "A-I, B-III, C-II, D-IV"
+        ],
+        "answer": "A-II, B-I, C-IV, D-III",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pmatch-list-i-with-list-iip-pstyle-typetextcss-jee-main-physics-motion-d2wrh4qhypms10cf",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Rotational",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Angular quantities dimensions match"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 11th April Evening Shift",
+        "question": "If force (F), velocity (V) and time (T) are considered as fundamental physical quantity, then dimensional formula of density will be :",
+        "options": [
+            "$FV\u22122 T2$",
+            "$FV4 T\u22126$",
+            "$F2 V\u22122 T6$",
+            "$FV\u22124 T\u22122$"
+        ],
+        "answer": "$FV\u22124 T\u22122$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pif-force-f-velocity-v-and-time-t-are-considered-as-jee-main-physics-motion-kqtiledeoak6mx5w",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: New System",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Density in FVT system"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 29th January Evening Shift",
+        "question": "The equation of a circle is given by$x2+y2=a2$, where a is the radius. If the equation is modified to change the origin other than (0, 0), then find out the correct dimensions of A and B in a new equation :$(x\u2212At)2+(y\u2212tB)2=a2$. The dimensions of t is given as$[T\u22121]$.",
+        "options": [
+            "$A=[L\u22121T\u22121],B=[LT\u22121]$",
+            "$A=[L\u22121T\u22121],B=[LT]$",
+            "$A=[LT],B=[L\u22121T\u22121]$",
+            "$A=[L\u22121T],B=[LT\u22121]$"
+        ],
+        "answer": "$A=[LT],B=[L\u22121T\u22121]$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-equation-of-a-circle-is-given-by-x2y2a2-whe-jee-main-physics-motion-0obafaes3u2nbutw",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Homogeneity",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Coordinate shift dimension finding"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 25th January Evening Shift",
+        "question": "Match List I with List II List I List II A. Young's Modulus (Y) I.$[ML\u22121T\u22121]$B. Co-efficient of Viscosity ($\u03b7$) II.$[ML2T\u22121]$C. Planck's Constant (h) III.$[ML\u22121T\u22122]$D. Work function ($\u03c6$) IV.$[ML2T\u22122]$Choose the correct answer from the options given below :",
+        "options": [
+            "A-II, B-III, C-IV, D-I",
+            "A-I, B-II, C-III, D-IV",
+            "A-I, B-III, C-IV, D-II",
+            "A-III, B-I, C-II, D-IV"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pmatch-list-i-with-list-iip-pstyle-typetextcss-jee-main-physics-motion-rfy12yjak0zwt03u",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Mixed Constants",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Constants dimensions match table"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 8th April Evening Shift",
+        "question": "Match List I with List II LIST I LIST II A. Torque I.$ML\u22122T\u22122$B. Stress II.$ML2T\u22122$C. Pressure gradient III.$ML\u22121T\u22121$D. Coefficient of viscosity IV.$ML\u22121T\u22122$Choose the correct answer from the options given below:",
+        "options": [
+            "A-II, B-I, C-IV, D-III",
+            "A-II, B-IV, C-I, D-III",
+            "A-IV, B-II, C-III, D-I",
+            "A-III, B-IV, C-I, D-II"
+        ],
+        "answer": "A-II, B-IV, C-I, D-III",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pmatch-list-i-with-list-iip-pstyle-typetextcss-jee-main-physics-motion-8vzoxjujh9cxca8u",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Mixed Concepts",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Torque stress dimension match"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 10th April Morning Shift",
+        "question": "A physical quantity P is given as$P=a2b3cd$The percentage error in the measurement of a, b, c and d are 1%, 2%, 3% and 4% respectively. The percentage error in the measurement of quantity P will be",
+        "options": [
+            "12%",
+            "13%",
+            "16%",
+            "14%"
+        ],
+        "answer": "13%",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-physical-quantity-p-is-given-asp-pp--a2b-jee-main-physics-motion-mmsszrgion6vr4od",
+        "is_numerical": false,
+        "sub_topic": "Error: Percentage Error",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Max percentage error compound"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 29th January Morning Shift",
+        "question": "Match List I with List II : List I (Physical Quantity) List II (Dimensional Formula) A. Pressure gradient I.$[M\u2218L2 T\u22122]$B. Energy density II.$[M1L\u22121 T\u22122]$C. Electric Field III.$[M1L\u22122 T\u22122]$D. Latent heat IV.$[M1 L1 T\u22123 A\u22121]$Choose the correct answer from the options given below:",
+        "options": [
+            "A-III, B-II, C-IV, D-I",
+            "A-III, B-II, C-I, D-IV",
+            "A-II, B-III, C-IV, D-I",
+            "A-II, B-III, C-I, D-IV"
+        ],
+        "answer": "A-III, B-II, C-IV, D-I",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pmatch-list-i-with-list-ii-p-pstyle-typetextcss-jee-main-physics-motion-aqfllelnyaim2mz5",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Mixed Concepts",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Mixed quantity dimensions match"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 8th April Morning Shift",
+        "question": "A cylindrical wire of mass$(0.4\u00b10.01)g$has length$(8\u00b10.04)cm$and radius$(6\u00b10.03)mm$. The maximum error in its density will be:",
+        "options": [
+            "1%",
+            "5%",
+            "4%",
+            "3.5%"
+        ],
+        "answer": "4%",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-cylindrical-wire-of-mass-04-pm-001-mathrmg-jee-main-physics-motion-imuzk6ts0m1q2m6a",
+        "is_numerical": false,
+        "sub_topic": "Error: Combined Error",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Density error cylindrical object"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 6th April Morning Shift",
+        "question": "Two resistances are given as$R1=(10\u00b10.5)\u03a9$and$R2=(15\u00b10.5)\u03a9$. The percentage error in the measurement of equivalent resistance when they are connected in parallel is -",
+        "options": [
+            "2.33",
+            "5.33",
+            "4.33",
+            "6.33"
+        ],
+        "answer": "4.33",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/ptwo-resistances-are-given-as-mathrmr110-pm-05-jee-main-physics-motion-irhecyrl18jx5qk1",
+        "is_numerical": false,
+        "sub_topic": "Error: Combined Error",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Parallel resistance error formula"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 30th January Evening Shift",
+        "question": "Match List I with List II : List I List II A. Torque I.$kgm\u22121 s\u22122$B. Energy density II.$kgms\u22121$C. Pressure gradient III.$kgm\u22122 s\u22122$D. Impulse IV.$kgm2 s\u22122$Choose the correct answer from the options given below:",
+        "options": [
+            "A-IV, B-I, C-III, D-II",
+            "A-IV, B-I, C-II, D-III",
+            "A-I, B-IV, C-III, D-II",
+            "A-IV, B-III, C-I, D-II"
+        ],
+        "answer": "A-IV, B-I, C-III, D-II",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pmatch-list-bib-with-list-biibp-style-type-jee-main-physics-evarmlbjjynrciog",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Energy & Force",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Energy density force dimensions"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 8th April Morning Shift",
+        "question": "Dimension of$1\u03bc0\u22080$should be equal to",
+        "options": [
+            "$T2/L2$",
+            "$T/L$",
+            "$L2/T2$",
+            "$L/T$"
+        ],
+        "answer": "$L2/T2$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pdimension-of-frac1mu0-in0-should-be-equa-jee-main-physics-motion-jj7zwn7jpux2dusl",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Electromagnetism",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Inverse speed of light dimensions"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 1st February Evening Shift",
+        "question": "If the velocity of light$c$, universal gravitational constant$G$and Planck's constant$h$are chosen as fundamental quantities. The dimensions of mass in the new system is :",
+        "options": [
+            "$[h1c1G\u22121]$",
+            "$[h\u22121/2c1/2G1/2]$",
+            "$[h1/2c1/2G\u22121/2]$",
+            "$[h1/2c\u22121/2G1]$"
+        ],
+        "answer": "$[h1/2c1/2G\u22121/2]$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pif-the-velocity-of-light-mathrmc-universal-gravit-jee-main-physics-motion-9bxosmcss2qakns5",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: New System",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Mass in G c h system"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 29th July Morning Shift",
+        "question": "Given below are two statements : One is labelled as Assertion (A) and other is labelled as Reason (R). Assertion (A) : Time period of oscillation of a liquid drop depends on surface tension (S), if density of the liquid is$\u03c1$and radius of the drop is r, then$T=K\u03c1r3/S3/2$is dimensionally correct, where K is dimensionless. Reason (R) : Using dimensional analysis we get R.H.S. having different dimension than that of time period. In the light of above statements, choose the correct answer from the options given below.",
+        "options": [
+            "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+            "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+            "(A) is true but (R) is false",
+            "(A) is false but (R) is true"
+        ],
+        "answer": "(A) is false but (R) is true",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pgiven-below-are-two-statements--one-is-labelled-as-asser-jee-main-physics-motion-xfmgdxsu0gbqfged",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Homogeneity",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Dimensional consistency check"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 29th July Evening Shift",
+        "question": "Match List I with List II. List I List II A. Torque I. Nms$\u22121$B. Stress II. J kg$\u22121$C. Latent Heat III. Nm D. Power IV. Nm$\u22122$Choose the correct answer from the options given below :",
+        "options": [
+            "A-III, B-II, C-I, D-IV",
+            "A-III, B-IV, C-II, D-I",
+            "A-IV, B-I, C-III, D-II",
+            "A-II, B-III, C-I, D-IV"
+        ],
+        "answer": "A-III, B-IV, C-II, D-I",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pmatch-list-i-with-list-iip-pstyle-typetextcss-jee-main-physics-motion-7lskqlq55ficsr09",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Mixed Units",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Unit dimension matching"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 24th January Morning Shift",
+        "question": "Match List I with List II List-I List-II A. Planck's constant (h) I.$[M1L2T\u22122]$B. Stopping potential (Vs) II.$[M1L1T\u22121]$C. Work function ($\u03d5$) III.$[M1L2T\u22121]$D. Momentum (p) IV.$[M1L2T\u22123A\u22121]$Choose the correct answer from the options given below :",
+        "options": [
+            "A-I, B-III, C-IV, D-II",
+            "A-III, B-IV, C-I, D-II",
+            "A-II, B-IV, C-III, D-I",
+            "A-III, B-I, C-II, D-IV"
+        ],
+        "answer": "A-III, B-IV, C-I, D-II",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pmatch-list-i-with-list-iip-pstyle-typetextcss-jee-main-physics-motion-h2a4dkmhq7qhgghk",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Mixed Constants",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Photoelectric constant dimensions"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 29th July Morning Shift",
+        "question": "A travelling microscope has 20 divisions per$cm$on the main scale while its vernier scale has total 50 divisions and 25 vernier scale divisions are equal to 24 main scale divisions, what is the least count of the travelling microscope?",
+        "options": [
+            "0.001 cm",
+            "0.002 mm",
+            "0.002 cm",
+            "0.005 cm"
+        ],
+        "answer": "0.002 cm",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-travelling-microscope-has-20-divisions-per-mathrmcm-jee-main-physics-motion-g0ivvpgpayqjm5kb",
+        "is_numerical": false,
+        "sub_topic": "Device: Vernier Caliper",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Least count travelling microscope"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th July Evening Shift",
+        "question": "The maximum error in the measurement of resistance, current and time for which current flows in an electrical circuit are$1%,2%$and$3%$respectively. The maximum percentage error in the detection of the dissipated heat will be :",
+        "options": [
+            "2",
+            "4",
+            "6",
+            "8"
+        ],
+        "answer": "8",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-maximum-error-in-the-measurement-of-resistance-curre-jee-main-physics-motion-asgtwbp5pgm029sb",
+        "is_numerical": false,
+        "sub_topic": "Error: Combined Error",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Heat power error formula"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th July Morning Shift",
+        "question": "A torque meter is calibrated to reference standards of mass, length and time each with$5%$accuracy. After calibration, the measured torque with this torque meter will have net accuracy of :",
+        "options": [
+            "15%",
+            "25%",
+            "75%",
+            "5%"
+        ],
+        "answer": "25%",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-torque-meter-is-calibrated-to-reference-standards-of-ma-jee-main-physics-motion-ihp1x0oeiaqh5zqn",
+        "is_numerical": false,
+        "sub_topic": "Error: Combined Error",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Torque accuracy propagation"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th July Evening Shift",
+        "question": "An expression of energy density is given by$u=\u03b1\u03b2sin\u2061(\u03b1xkt)$, where$\u03b1,\u03b2$are constants,$x$is displacement,$k$is Boltzmann constant and t is the temperature. The dimensions of$\u03b2$will be :",
+        "options": [
+            "$[ML2 T\u22122\u03b8\u22121]$",
+            "$[M0 L2 T\u22122]$",
+            "$[M0 L0 T0]$",
+            "$[M0 L2 T0]$"
+        ],
+        "answer": "$[M0 L2 T0]$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-expression-of-energy-density-is-given-by-ufracal-jee-main-physics-motion-wclg9qup1jbjgmv2",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Homogeneity",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Beta coefficient dimension finding"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th July Morning Shift",
+        "question": "If momentum [P], area$[A]$and time$[T]$are taken as fundamental quantities, then the dimensional formula for coefficient of viscosity is :",
+        "options": [
+            "$[PA\u22121 T0]$",
+            "$[PA T\u22121]$",
+            "$[PA\u22121 T]$",
+            "$[PA\u22121 T\u22121]$"
+        ],
+        "answer": "$[PA\u22121 T0]$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pif-momentum-p-area-mathrma-and-time-mathr-jee-main-physics-motion-mnim399uwnq5ux5h",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: New System",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Viscosity in PAT system"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 29th July Morning Shift",
+        "question": "In an experiment to find out the diameter of wire using screw gauge, the following observations were noted : [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l6saizyu/4e43c0a6-7f37-445c-90f2-14ac61b5e26e/080e2360-1b3e-11ed-91de-637bbeffe542/file-1l6saizyv.png?format=png] (A) Screw moves$0.5 mm$on main scale in one complete rotation (B) Total divisions on circular scale$=50$(C) Main scale reading is$2.5 mm$(D)$th 45th$division of circular scale is in the pitch line (E) Instrument has 0.03 mm negative error Then the diameter of wire is :",
+        "options": [
+            "2.92 mm",
+            "2.54 mm",
+            "2.98 mm",
+            "3.45 mm"
+        ],
+        "answer": "2.98 mm",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l6saizyu/4e43c0a6-7f37-445c-90f2-14ac61b5e26e/080e2360-1b3e-11ed-91de-637bbeffe542/file-1l6saizyv.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-an-experiment-to-find-out-the-diameter-of-wire-using-s-jee-main-physics-motion-jxxbiroshrwygs42",
+        "is_numerical": false,
+        "sub_topic": "Device: Screw Gauge",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Reading with negative zero error"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 28th July Morning Shift",
+        "question": "The dimensions of$(B2\u03bc0)$will be : (if$\u03bc0$: permeability of free space and$B$: magnetic field)",
+        "options": [
+            "$[ML2T\u22122]$",
+            "$[MLT\u22122]$",
+            "$[ML\u22121 T\u22122]$",
+            "$[ML2 T\u22122 A\u22121]$"
+        ],
+        "answer": "$[ML\u22121 T\u22122]$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-dimensions-of-leftfracmathrmb2mu0-jee-main-physics-motion-at9pcwvwylkux0hu",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Electromagnetism",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Magnetic energy density dimension"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th July Evening Shift",
+        "question": "In a Vernier Calipers, 10 divisions of Vernier scale is equal to the 9 divisions of main scale. When both jaws of Vernier calipers touch each other, the zero of the Vernier scale is shifted to the left of zero of the main scale and$th 4th$Vernier scale division exactly coincides with the main scale reading. One main scale division is equal to$1 mm$. While measuring diameter of a spherical body, the body is held between two jaws. It is now observed that zero of the Vernier scale lies between 30 and 31 divisions of main scale reading and$th 6th$Vernier scale division exactly coincides with the main scale reading. The diameter of the spherical body will be :",
+        "options": [
+            "3.02 cm",
+            "3.06 cm",
+            "3.10 cm",
+            "3.20 cm"
+        ],
+        "answer": "3.10 cm",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-a-vernier-calipers-10-divisions-of-vernier-scale-is-e-jee-main-physics-motion-0nr5br4zfo5zxidl",
+        "is_numerical": false,
+        "sub_topic": "Device: Vernier Caliper",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Reading with negative zero error"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 30th June Morning Shift",
+        "question": "If n main scale divisions coincide with (n + 1) vernier scale divisions. The least count of vernier callipers, when each centimetre on the main scale is divided into five equal parts, will be :",
+        "options": [
+            "$2n+1$mm",
+            "$5n+1$mm",
+            "$12n$mm",
+            "$15n$mm"
+        ],
+        "answer": "$2n+1$mm",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pif-n-main-scale-divisions-coincide-with-n--1-vernier-s-jee-main-physics-motion-xubken4co76yjfgf",
+        "is_numerical": false,
+        "sub_topic": "Device: Vernier Caliper",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Least count general formula"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 28th July Evening Shift",
+        "question": "Consider the efficiency of carnot's engine is given by$\u03b7=\u03b1\u03b2sin\u2061\u03b8loge\u2061\u03b2xkT$, where$\u03b1$and$\u03b2$are constants. If T is temperature, k is Boltzmann constant,$\u03b8$is angular displacement and x has the dimensions of length. Then, choose the incorrect option :",
+        "options": [
+            "Dimensions of$\u03b2$is same as that of force.",
+            "Dimensions of$\u03b1\u22121x$is same as that of energy.",
+            "Dimensions of$\u03b7\u22121sin\u2061\u03b8$is same as that of$\u03b1\u03b2$.",
+            "Dimensions of$\u03b1$is same as that of$\u03b2$."
+        ],
+        "answer": "Dimensions of$\u03b1$is same as that of$\u03b2$.",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pconsider-the-efficiency-of-carnots-engine-is-given-by--jee-main-physics-motion-ea3vuwx95o3gjca6",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Homogeneity",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Dimensional analysis complex function"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th July Morning Shift",
+        "question": "A screw gauge of pitch$0.5 mm$is used to measure the diameter of uniform wire of length$6.8 cm$, the main scale reading is$1.5 mm$and circular scale reading is 7 . The calculated curved surface area of wire to appropriate significant figures is : [Screw gauge has 50 divisions on its circular scale]",
+        "options": [
+            "6.8 cm ^2",
+            "3.4 cm ^2",
+            "3.9 cm ^2",
+            "2.4 cm ^2"
+        ],
+        "answer": "3.4 cm ^2",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-screw-gauge-of-pitch-05-mathrmmm-is-used-to-me-jee-main-physics-motion-zwwawbotiah5uu2b",
+        "is_numerical": false,
+        "sub_topic": "Error: Significant Figures",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Area significant figures"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 28th June Evening Shift",
+        "question": "Velocity (v) and acceleration (a) in two systems of units 1 and 2 are related as$v2=nm2v1$and$a2=a1mn$respectively. Here m and n are constants. The relations for distance and time in two systems respectively are :",
+        "options": [
+            "$n3m3L1=L2$and$n2mT1=T2$",
+            "$L1=n4m2L2$and$T1=n2mT2$",
+            "$L1=n2mL2$and$T1=n4m2T2$",
+            "$n2mL1=L2$and$n4m2T1=T2$"
+        ],
+        "answer": "$n3m3L1=L2$and$n2mT1=T2$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pvelocity-v-and-acceleration-a-in-two-systems-of-units-jee-main-physics-motion-w8fvqcfkif64xtg9",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Unit Conversion",
+        "logic_type": "Analytical",
+        "difficulty": 4,
+        "physics_key": "Unit conversion relation finding"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th June Evening Shift",
+        "question": "The SI unit of a physical quantity is pascal-second. The dimensional formula of this quantity will be :",
+        "options": [
+            "[ML ^$\u2212$1 T ^$\u2212$1 ]",
+            "[ML ^$\u2212$1 T ^$\u2212$2 ]",
+            "[ML ^2 T ^$\u2212$1 ]",
+            "[M ^$\u2212$1 L ^3 T ^0 ]"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-si-unit-of-a-physical-quantity-is-pascal-second-the-jee-main-physics-motion-zifgmryzo36lfwmx",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Fluid",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Pascal second dimension"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th June Evening Shift",
+        "question": "The dimension of mutual inductance is :",
+        "options": [
+            "$[ML2T\u22122A\u22121]$",
+            "$[ML2T\u22123A\u22121]$",
+            "$[ML2T\u22122A\u22122]$",
+            "$[ML2T\u22123A\u22122]$"
+        ],
+        "answer": "$[ML2T\u22122A\u22122]$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-dimension-of-mutual-inductance-is-p-jee-main-physics-motion-defavocn3cjn2hsl",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Electromagnetism",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Mutual inductance dimension"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th June Morning Shift",
+        "question": "A silver wire has a mass (0.6$\u00b1$0.006) g, radius (0.5$\u00b1$0.005) mm and length (4$\u00b1$0.04) cm. The maximum percentage error in the measurement of its density will be :",
+        "options": [
+            "4%",
+            "3%",
+            "6%",
+            "7%"
+        ],
+        "answer": "4%",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-silver-wire-has-a-mass-06-pm-0006-g-radius-0-jee-main-physics-motion-dvryu8zptfhzhu4u",
+        "is_numerical": false,
+        "sub_topic": "Error: Combined Error",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Density error cylindrical wire"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th June Morning Shift",
+        "question": "An expression for a dimensionless quantity P is given by$P=\u03b1\u03b2loge(kt\u03b2x)$; where$\u03b1$and$\u03b2$are constants, x is distance; k is Boltzmann constant and t is the temperature. Then the dimensions of$\u03b1$will be :",
+        "options": [
+            "[M ^0 L ^$\u2212$1 T ^0 ]",
+            "[M L ^0 T ^$\u2212$2 ]",
+            "[M L T ^$\u2212$2 ]",
+            "[M L ^2 T ^$\u2212$2 ]"
+        ],
+        "answer": "[M L T ^$\u2212$2 ]",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-expression-for-a-dimensionless-quantity-p-is-given-by-jee-main-physics-motion-xf0nbnjfglomzyrt",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Homogeneity",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Alpha coefficient dimension"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 31st August Morning Shift",
+        "question": "Match List - I with List - II. List - I List - II (a) Torque (i) MLT$\u22121$(b) Impulse (ii) MT$\u22122$(c) Tension (iii) ML$2$T$\u22122$(d) Surface Tension (iv) MLT$\u22122$Choose the most appropriate answer from the option given below :",
+        "options": [
+            "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+            "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+            "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+            "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+        ],
+        "answer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/match-list-i-with-list-iibrbrtable-thead-t-jee-main-physics-units-and-measurements-kpru4taqeir6mvgk",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Mechanics",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Torque impulse tension dimensions"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 24th June Morning Shift",
+        "question": "Identify the pair of physical quantities which have different dimensions:",
+        "options": [
+            "Wave number and Rydberg's constant",
+            "Stress and Coefficient of elasticity",
+            "Coercivity and Magnetisation",
+            "Specific heat capacity and Latent heat"
+        ],
+        "answer": "Specific heat capacity and Latent heat",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pidentify-the-pair-of-physical-quantities-which-have-diffe-jee-main-physics-motion-bq6ofkbhtujgoeij",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Similarity",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Identify non-identical dimensions"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 1st September Evening Shift",
+        "question": "A student determined Young's Modulus of elasticity using the formula$Y=MgL34bd3\u03b4$. The value of g is taken to be 9.8 m/s ^2 , without any significant error, his observation are as following. Physical Quantity Least count of the Equipment used for measurement Observed value Mass (M) 1 g 2 kg Length of bar (L) 1 mm 1 m Breadth of bar (b) 0.1 mm 4 cm Thickness of bar (d) 0.01 mm 0.4 cm Depression ($\u03b4$) 0.01 mm 5 mm Then the fractional error in the measurement of Y is :",
+        "options": [
+            "0.0083",
+            "0.0155",
+            "0.155",
+            "0.083"
+        ],
+        "answer": "0.0155",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-student-determined-youngs-modulus-of-elasticity-using-the-jee-main-physics-units-and-measurements-4d3nidtrv5yookjg",
+        "is_numerical": false,
+        "sub_topic": "Error: Combined Error",
+        "logic_type": "Template",
+        "difficulty": 4,
+        "physics_key": "Young's modulus error complex"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 31st August Morning Shift",
+        "question": "Which of the following equations is dimensionally incorrect? Where t = time, h = height, s = surface tension,$\u03b8$= angle,$\u03c1$= density, a, r = radius, g = acceleration due to gravity, v = volume, p = pressure, W = work done, T = torque,$\u2208$= permittivity, E = electric field, J = current density, L = length.",
+        "options": [
+            "$v=\u03c0pa48\u03b7L$",
+            "$h=2scos\u2061\u03b8\u03c1rg$",
+            "$J=\u2208\u2202E\u2202t$",
+            "$W=\u0393\u03b8$"
+        ],
+        "answer": "$v=\u03c0pa48\u03b7L$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/which-of-the-following-equations-is-dimensionally-incorrect-jee-main-physics-units-and-measurements-jvhfr9bf5s5z9tep",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Homogeneity",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Equation dimensional check"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 24th June Evening Shift",
+        "question": "Identify the pair of physical quantities that have same dimensions:",
+        "options": [
+            "velocity gradient and decay constant",
+            "Wien's constant and Stefan constant",
+            "angular frequency and angular momentum",
+            "wave number and Avogadro number"
+        ],
+        "answer": "velocity gradient and decay constant",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pidentify-the-pair-of-physical-quantities-that-have-same-d-jee-main-physics-motion-mb9986qnaqi5jyyl",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Similarity",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Same dimensions identification"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th June Morning Shift",
+        "question": "If$Z=A2B3C4$, then the relative error in Z will be :",
+        "options": [
+            "$\u0394AA+\u0394BB+\u0394CC$",
+            "$2\u0394AA+3\u0394BB\u22124\u0394CC$",
+            "$2\u0394AA+3\u0394BB+4\u0394CC$",
+            "$\u0394AA+\u0394BB\u2212\u0394CC$"
+        ],
+        "answer": "$2\u0394AA+3\u0394BB+4\u0394CC$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pif-z--a2b3-over-c4-then-the-relativ-jee-main-physics-motion-uvhxjxn4qvbfxdbr",
+        "is_numerical": false,
+        "sub_topic": "Error: Fractional Error",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Max relative error formula"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 27th August Evening Shift",
+        "question": "If force (F), length (L) and time (T) are taken as the fundamental quantities. Then what will be the dimension of density :",
+        "options": [
+            "[FL ^$\u2212$4 T ^2 ]",
+            "[FL ^$\u2212$3 T ^2 ]",
+            "[FL ^$\u2212$5 T ^2 ]",
+            "[FL ^$\u2212$3 T ^3 ]"
+        ],
+        "answer": "[FL ^$\u2212$4 T ^2 ]",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/if-force-f-length-l-and-time-t-are-taken-as-the-funda-jee-main-physics-units-and-measurements-md6a4yr2mfttslk5",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: New System",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Density in FLT system"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 27th August Morning Shift",
+        "question": "Which of the following is not a dimensionless quantity?",
+        "options": [
+            "Relative magnetic permeability ($\u03bc$_r )",
+            "Power factor",
+            "Permeability of free space ($\u03bc$_0 )",
+            "Quality factor"
+        ],
+        "answer": "Permeability of free space ($\u03bc$_0 )",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/which-of-the-following-is-not-a-dimensionless-quantity-jee-main-physics-units-and-measurements-cdan33jjl4s2rpi1",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Similarity",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Identify non-dimensionless quantity"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 27th August Morning Shift",
+        "question": "If E and H represents the intensity of electric field and magnetising field respectively, then the unit of E/H will be :",
+        "options": [
+            "ohm",
+            "mho",
+            "joule",
+            "newton"
+        ],
+        "answer": "ohm",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/if-e-and-h-represents-the-intensity-of-electric-field-and-ma-jee-main-physics-units-and-measurements-rculbr0wcoavosev",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Electromagnetism",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "E-H ratio dimension"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 27th August Evening Shift",
+        "question": "Match List - I with List - II. List - I List - II (a)$RH$(Rydberg constant) (i)$kgm\u22121s\u22121$(b) h (Planck's constant) (ii)$kgm2s\u22121$(c)$\u03bcB$(Magnetic field energy density) (iii)$m\u22121$(d)$\u03b7$(coefficient of viscocity) (iv)$kgm\u22121s\u22122$Choose the most appropriate answer from the options given below :",
+        "options": [
+            "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+            "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+            "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+            "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
+        ],
+        "answer": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/match-list-i-with-list-iibrbrtable-thead-t-jee-main-physics-units-and-measurements-rioo3ppumtvmru1v",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Mixed Constants",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Constants and properties dimensions"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 31st August Evening Shift",
+        "question": "If velocity [V], time [T] and force [F] are chosen as the base quantities, the dimensions of the mass will be :",
+        "options": [
+            "[FT ^$\u2212$1 V ^$\u2212$1 ]",
+            "[FTV ^$\u2212$1 ]",
+            "[FT ^2 V]",
+            "[FVT ^$\u2212$1 ]"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/if-velocity-v-time-t-and-force-f-are-chosen-as-the-ba-jee-main-physics-units-and-measurements-b662el5vmg75jkft",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: New System",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Mass in FVT system"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th August Evening Shift",
+        "question": "Match List - I with List - II [IMAGE: https://imagex.cdn.examgoal.net/1ktjes67h/c25f792e-f6e9-4896-9373-55f37a35130f/cde761d0-14fc-11ec-87b0-2f866bb7de71/file-1ktjes67i.jpeg] Choose the most appropriate answer from the options given below :",
+        "options": [
+            "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+            "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+            "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+            "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+        ],
+        "answer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1ktjes67h/c25f792e-f6e9-4896-9373-55f37a35130f/cde761d0-14fc-11ec-87b0-2f866bb7de71/file-1ktjes67i.jpeg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/match-list-i-with-list-iibrbrimagebrbrchoose-jee-main-physics-units-and-measurements-jxv6x3kvoz4q1itv",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Graph",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "Dimension matching with units"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 27th July Morning Shift",
+        "question": "Assertion A : If in five complete rotations of the circular scale, the distance travelled on main scale of the screw gauge is 5 mm and there are 50 total divisions on circular scale, then least count is 0.001 cm. Reason R : Least Count =$PitchTotaldivisionsoncircularscale$In the light of the above statements, choose the most appropriate answer from the options given below :",
+        "options": [
+            "A is not correct but R is correct.",
+            "Both A and R are correct and R is the correct explanation of A.",
+            "A is correct but R is not correct.",
+            "Both A and R are correct and R is NOT the correct explanation of A."
+        ],
+        "answer": "A is not correct but R is correct.",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/assertion-a--if-in-five-complete-rotations-of-the-circular-jee-main-physics-units-and-measurements-auzf8ear3ddk8c03",
+        "is_numerical": false,
+        "sub_topic": "Device: Screw Gauge",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Least count definition concept"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th August Morning Shift",
+        "question": "In a Screw Gauge, fifth division of the circular scale coincides with the reference line when the ratchet is closed. There are 50 divisions on the circular scale, and the main scale moves by 0.5 mm on a complete rotation. For a particular observation the reading on the main scale is 5 mm and the 20 ^th division of the circular scale coincides with reference line. Calculate the true reading.",
+        "options": [
+            "5.00 mm",
+            "5.25 mm",
+            "5.15 mm",
+            "5.20 mm"
+        ],
+        "answer": "5.15 mm",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-a-screw-gauge-fifth-division-of-the-circular-scale-coinc-jee-main-physics-units-and-measurements-6h9losfd7tllrxlx",
+        "is_numerical": false,
+        "sub_topic": "Device: Screw Gauge",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Reading with positive zero error"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th August Evening Shift",
+        "question": "If the length of the pendulum in pendulum clock increases by 0.1%, then the error in time per day is :",
+        "options": [
+            "86.4 s",
+            "4.32 s",
+            "43.2 s",
+            "8.64 s"
+        ],
+        "answer": "43.2 s",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/if-the-length-of-the-pendulum-in-pendulum-clock-increases-by-jee-main-physics-units-and-measurements-9stcgoazx0gmrfhc",
+        "is_numerical": false,
+        "sub_topic": "Error: Combined Error",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Pendulum time error percentage"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th August Morning Shift",
+        "question": "If E, L, M and G denote the quantities as energy, angular momentum, mass and constant of gravitation respectively, then the dimensions of P in the formula P = EL ^2 M ^$\u2212$5 G ^$\u2212$2 are :",
+        "options": [
+            "[M ^0 L ^1 T ^0 ]",
+            "[M ^$\u2212$1 L ^$\u2212$1 T ^2 ]",
+            "[M ^1 L ^1 T ^$\u2212$2 ]",
+            "[M ^0 L ^0 T ^0 ]"
+        ],
+        "answer": "[M ^0 L ^0 T ^0 ]",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/if-e-l-m-and-g-denote-the-quantities-as-energy-angular-mo-jee-main-physics-units-and-measurements-rbycycv6g8g5nqtc",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: New System",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Dimensionless quantity E L M G"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 20th July Evening Shift",
+        "question": "If time (t), velocity (v), and angular momentum (l) are taken as the fundamental units. Then the dimension of mass (m) in terms of t, v and l is :",
+        "options": [
+            "$[t\u22121v1l\u22122]$",
+            "$[t1v2l\u22121]$",
+            "$[t\u22122v\u22121l1]$",
+            "$[t\u22121v\u22122l1]$"
+        ],
+        "answer": "$[t\u22121v\u22122l1]$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/if-time-t-velocity-v-and-angular-momentum-l-are-take-jee-main-physics-units-and-measurements-ze9mpz0qdr6utnsb",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: New System",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Mass in TVL system"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th July Evening Shift",
+        "question": "The force is given in terms of time t and displacement x by the equation F = A cos Bx + C sin Dt The dimensional formula of$ADB$is :",
+        "options": [
+            "$[M0LT\u22121]$",
+            "$[ML2T\u22123]$",
+            "$[M1L1T\u22122]$",
+            "$[M2L2T\u22123]$"
+        ],
+        "answer": "$[ML2T\u22123]$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-force-is-given-in-terms-of-time-t-and-displacement-x-by-jee-main-physics-units-and-measurements-soa6xz4qudk1mrr5",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Homogeneity",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Trigonometric argument dimension"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 16th March Evening Shift",
+        "question": "In order to determine the Young's Modulus of a wire of radius 0.2 cm (measured using a scale of least count = 0.001 cm) and length 1m (measured using a scale of least count = 1 mm), a weight of mass 1 kg (measured using a scale of least count = 1 g) was hanged to get the elongation of 0.5 cm (measured using a scale of least count 0.001 cm). What will be the fractional error in the value of Young's Modulus determined by this experiment?",
+        "options": [
+            "0.14%",
+            "9%",
+            "1.4%",
+            "0.9%"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-order-to-determine-the-youngs-modulus-of-a-wire-of-radiu-jee-main-physics-units-and-measurements-jaaz02rkzl63bll8",
+        "is_numerical": false,
+        "sub_topic": "Error: Combined Error",
+        "logic_type": "Template",
+        "difficulty": 4,
+        "physics_key": "Young's modulus error complex"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 16th March Morning Shift",
+        "question": "One main scale division of a vernier callipers is 'a' cm and n ^th division of the vernier scale coincide with (n$\u2212$1) ^th division of the main scale. The least count of the callipers in mm is :",
+        "options": [
+            "$10an$",
+            "$10na(n\u22121)$",
+            "$(n\u2212110n)a$",
+            "$10a(n\u22121)$"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/one-main-scale-division-of-a-vernier-callipers-is-a-cm-and-jee-main-physics-units-and-measurements-cgbox9ylcjctid7f",
+        "is_numerical": false,
+        "sub_topic": "Device: Vernier Caliper",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Least count general derivation"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 27th July Evening Shift",
+        "question": "A physical quantity 'y' is represented by the formula$y=m2r\u22124gxl\u221232$If the percentage errors found in y, m, r, l and g are 18, 1, 0.5, 4 and p respectively, then find the value of x and p.",
+        "options": [
+            "5 and$\u00b1$2",
+            "4 and$\u00b1$3",
+            "$163$and$\u00b132$",
+            "8 and$\u00b1$2"
+        ],
+        "answer": "$163$and$\u00b132$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-physical-quantity-y-is-represented-by-the-formula-y--jee-main-physics-units-and-measurements-c8zoknxexiuhfnrp",
+        "is_numerical": false,
+        "sub_topic": "Error: Combined Error",
+        "logic_type": "Template",
+        "difficulty": 4,
+        "physics_key": "Error with power and square root"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th February Evening Shift",
+        "question": "If e is the electronic charge, c is the speed of light in free space and h is Planck's constant, the quantity$14\u03c0\u03b50|e|2hc$has dimensions of :",
+        "options": [
+            "$[MLT\u22121]$",
+            "$[MLT0]$",
+            "$[M0L0T0]$",
+            "$[LC\u22121]$"
+        ],
+        "answer": "$[M0L0T0]$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/if-e-is-the-electronic-charge-c-is-the-speed-of-light-in-fr-jee-main-physics-units-and-measurements-abxajwfd5kahnddw",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Electromagnetism",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Fine structure constant dimension"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 17th March Morning Shift",
+        "question": "The vernier scale used for measurement has a positive zero error of 0.2 mm. If while taking a measurement it was noted that '0' on the vernier scale lies between 8.5 cm and 8.6 cm, vernier coincidence is 6, then the correct value of measurement is ___________ cm. (least count = 0.01 cm)",
+        "options": [
+            "8.58 cm",
+            "8.54 cm",
+            "8.56 cm",
+            "8.36 cm"
+        ],
+        "answer": "8.54 cm",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-vernier-scale-used-for-measurement-has-a-positive-zero-e-jee-main-physics-units-and-measurements-nok8vj6oams80gky",
+        "is_numerical": false,
+        "sub_topic": "Device: Vernier Caliper",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Reading with positive zero error"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th February Evening Shift",
+        "question": "If 'C' and 'V' represent capacity and voltage respectively then what are the dimensions of$\u03bb$where C/V =$\u03bb$?",
+        "options": [
+            "$[M\u22123L\u22124I3T7]$",
+            "$[M\u22122L\u22123I2T6]$",
+            "$[M\u22122L\u22124I3T7]$",
+            "$[M\u22121L\u22123I\u22122T\u22127]$"
+        ],
+        "answer": "$[M\u22122L\u22124I3T7]$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/if-c-and-v-represent-capacity-and-voltage-respectively-t-jee-main-physics-units-and-measurements-4kjszzwmi3w6ngoo",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Electromagnetism",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Capacitance voltage ratio dimension"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th February Morning Shift",
+        "question": "In a typical combustion engine the workdone by a gas molecule is given by$W=\u03b12\u03b2e\u2212\u03b2x2kT$, where x is the displacement, k is the Boltzmann constant and T is the temperature. If$\u03b1$and$\u03b2$are constants, dimensions of$\u03b1$will be :",
+        "options": [
+            "$[M0LT0]$",
+            "$[MLT\u22121]$",
+            "$[MLT\u22122]$",
+            "$[M2LT\u22122]$"
+        ],
+        "answer": "$[M0LT0]$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-a-typical-combustion-engine-the-workdone-by-a-gas-molecul-jee-main-physics-units-and-measurements-qrkd8alljbynctiv",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Homogeneity",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Exponential argument dimension"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th February Morning Shift",
+        "question": "Match List - I with List - II : List I List II (a) h (Planck's constant) (i)$[MLT\u22121]$(b) E (kinetic energy) (ii)$[ML2T\u22121]$(c) V (electric potential) (iii)$[ML2T\u22122]$(d) P (linear momentum) (iv)$[ML2I\u22121T\u22123]$Choose the correct answer from the options given below :",
+        "options": [
+            "(a)$\u2192$(ii), (b)$\u2192$(iii), (c)$\u2192$(iv), (d)$\u2192$(i)",
+            "(a)$\u2192$(i), (b)$\u2192$(ii), (c)$\u2192$(iv), (d)$\u2192$(iii)",
+            "(a)$\u2192$(iii), (b)$\u2192$(ii), (c)$\u2192$(iv), (d)$\u2192$(i)",
+            "(a)$\u2192$(iii), (b)$\u2192$(iv), (c)$\u2192$(ii), (d)$\u2192$(i)"
+        ],
+        "answer": "(a)$\u2192$(ii), (b)$\u2192$(iii), (c)$\u2192$(iv), (d)$\u2192$(i)",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/match-list-i-with-list-ii-brbrtable-thead--jee-main-physics-units-and-measurements-hkfdviosgiki4mtr",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Mixed Constants",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Planck's energy potential momentum"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th February Morning Shift",
+        "question": "The pitch of the screw gauge is 1 mm and there are 100 divisions on the circular scale. When nothing is put in between the jaws, the zero of the circular scale lies 8 divisions below the reference line. When a wire is placed between the jaws, the first linear scale division is clearly visible while 72 ^nd division on circular scale coincides with the reference line. The radius of the wire is :",
+        "options": [
+            "1.80 mm",
+            "0.90 mm",
+            "0.82 mm",
+            "1.64 mm"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-pitch-of-the-screw-gauge-is-1-mm-and-there-are-100-divis-jee-main-physics-units-and-measurements-vfvgre0rkhlsfbxp",
+        "is_numerical": false,
+        "sub_topic": "Device: Screw Gauge",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Reading with negative zero error"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 24th February Morning Shift",
+        "question": "The work done by a gas molecule in an isolated system is given by,$W=\u03b1\u03b22e\u2212x2\u03b1kT$, where x is the displacement, k is the Boltzmann constant and T is the temperature.$\u03b1$and$\u03b2$are constants. Then the dimensions of$\u03b2$will be :",
+        "options": [
+            "$[M0LT0]$",
+            "$[ML2T\u22122]$",
+            "$[MLT\u22122]$",
+            "$[M2LT2]$"
+        ],
+        "answer": "$[MLT\u22122]$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-workdone-by-a-gas-molecule-in-an-isolated-system-is-give-jee-main-physics-units-and-measurements-gy4dsiij5qjnzg1y",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Homogeneity",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Exponential term dimension"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 6th September Evening Slot",
+        "question": "A student measuring the diameter of a pencil of circular cross-section with the help of a vernier scale records the following four readings 5.50 mm, 5.55 mm, 5.45 mm, 5.65 mm. The average of these four readings is 5.5375 mm and the standard deviation of the data is 0.07395 mm. The average diameter of the pencil should therefore be recorded as :",
+        "options": [
+            "(5.54$\u00b1$0.07) mm",
+            "(5.5375$\u00b1$0.0740) mm",
+            "(5.5375$\u00b1$0.0739) mm",
+            "(5.538$\u00b1$0.074) mm"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-student-measuring-the-diameter-of-a-pencil-of-circular-cro-jee-main-physics-units-and-measurements-2xwobsaqzqow7dmz",
+        "is_numerical": false,
+        "sub_topic": "Error: Significant Figures",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Standard deviation significant figures"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 3rd September Morning Slot",
+        "question": "Using screw gauge of pitch 0.1 cm and 50 divisions on its circular scale, the thickness of an object is measured. It should correctly be recorded as",
+        "options": [
+            "2.123 cm",
+            "2.124 cm",
+            "2.125 cm",
+            "2.121 cm"
+        ],
+        "answer": "2.124 cm",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/using-screw-gauge-of-pitch-01-cm-and-50-divisions-on-its-ci-jee-main-physics-units-and-measurements-xjbemzw37vkuhbgg",
+        "is_numerical": false,
+        "sub_topic": "Error: Significant Figures",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Screw gauge reading significant"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 3rd September Evening Slot",
+        "question": "Amount of solar energy received on the earth\u2019s surface per unit area per unit time is defined a solar constant. Dimension of solar constant is :",
+        "options": [
+            "MLT ^\u20132",
+            "ML ^0 T ^\u20133",
+            "M ^2 L ^0 T ^\u20131",
+            "ML ^2 T ^\u20132"
+        ],
+        "answer": "ML ^0 T ^\u20133",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/amount-of-solar-energy-received-on-the-earths-surface-per-u-jee-main-physics-units-and-measurements-xs6eazjfdbar684q",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Heat",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Solar constant dimension"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 6th September Morning Slot",
+        "question": "A screw gauge has 50 divisions on its circular scale. The circular scale is 4 units ahead of the pitch scale marking, prior to use. Upon one complete rotation of the circular scale, a displacement of 0.5mm is noticed on the pitch scale. The nature of zero error involved and the least count of the screw gauge, are respectively :",
+        "options": [
+            "Positive, 0.1 mm",
+            "Positive, 0.1$\u03bc$m",
+            "Positive, 10$\u03bc$m",
+            "Negative, 2$\u03bc$m"
+        ],
+        "answer": "Positive, 10$\u03bc$m",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-screw-gauge-has-50-divisions-on-its-circular-scale-the-ci-jee-main-physics-units-and-measurements-d8qjn0wbodc1bhkq",
+        "is_numerical": false,
+        "sub_topic": "Device: Screw Gauge",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Least count and zero error"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 5th September Evening Slot",
+        "question": "The quantities x =$1\u03bc0\u03b50$, y =$EB$and z =$lCR$are defined where C-capacitance, R-Resistance, l-length, E-Electric field, B-magnetic field and$\u03b50$,$\u03bc0$, - free space permittivity and permeability respectively. Then :",
+        "options": [
+            "Only y and z have the same dimension",
+            "x, y and z have the same dimension",
+            "Only x and y have the same dimension",
+            "Only x and z have the same dimension"
+        ],
+        "answer": "x, y and z have the same dimension",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-quantities-x--1-over-sqrt-mu-0varepsilon--jee-main-physics-magnetics-6fojafk4n1duy7ie",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Electromagnetism",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Velocity dimensions matching"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 5th September Morning Slot",
+        "question": "A physical quantity z depends on four observables a, b, c and d, as z =$a2b23cd3$. The percentages of error in the measurement of a, b, c and d are 2%, 1.5%, 4% and 2.5% respectively. The percentage of error in z is :",
+        "options": [
+            "13.5 %",
+            "14.5%",
+            "16.5%",
+            "12.25%"
+        ],
+        "answer": "14.5%",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-physical-quantity-z-depends-on-four-observables-bra-b-jee-main-physics-units-and-measurements-b7f1pjf3apymveu5",
+        "is_numerical": false,
+        "sub_topic": "Error: Percentage Error",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Max percentage error compound"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 4th September Evening Slot",
+        "question": "A quantity x is given by$(IFv2WL4)$in terms of moment of inertia I, force F, velocity v, work W and Length L. The dimensional formula for x is same as that of :",
+        "options": [
+            "Coefficient of viscosity",
+            "Force constant",
+            "Energy density",
+            "Planck's constant"
+        ],
+        "answer": "Energy density",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-quantity-x-is-given-by-left-ifv2-over-wl4-jee-main-physics-units-and-measurements-4u0zjtlbaa0ar1nx",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Homogeneity",
+        "logic_type": "Analytical",
+        "difficulty": 4,
+        "physics_key": "Compound quantity dimension matching"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 4th September Morning Slot",
+        "question": "Dimensional formula for thermal conductivity is (here K denotes the temperature):",
+        "options": [
+            "MLT ^\u20133 K ^\u20131",
+            "MLT ^\u20132 K ^\u20132",
+            "MLT ^\u20132 K",
+            "MLT ^\u20133 K"
+        ],
+        "answer": "MLT ^\u20133 K ^\u20131",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/dimensional-formula-for-thermal-conductivity-is-here-k-deno-jee-main-physics-units-and-measurements-dzotqvpghgbire09",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Heat",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Thermal conductivity dimension"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 2nd September Evening Slot",
+        "question": "If momentum (P), area (A) and time (T) are taken to be the fundamental quantities then the dimensional formula for energy is",
+        "options": [
+            "[P ^2 AT ^\u20132 ]",
+            "$[P12AT\u22121]$",
+            "$[PA12T\u22121]$",
+            "[PA ^\u20131 T ^\u20132 ]"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/if-momentum-p-area-a-and-time-t-are-taken-to-be-the-f-jee-main-physics-units-and-measurements-mkxbffrgkrmw99ko",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: New System",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Energy in PAT system"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 2nd September Morning Slot",
+        "question": "If speed V, area A and force F are chosen as fundamental units, then the dimension of Young\u2019s modulus will be",
+        "options": [
+            "FA ^\u20131 V ^0",
+            "FA ^2 V ^\u20131",
+            "FA ^2 V ^\u20132",
+            "FA ^2 V ^\u20133"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/if-speed-v-area-a-and-force-f-are-chosen-as-fundamental-un-jee-main-physics-units-and-measurements-gp9hkrhqhnqooxse",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: New System",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Young's modulus in FAV system"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 2nd September Morning Slot",
+        "question": "The least count of the main scale of a vernier callipers is 1 mm. Its vernier scale is divided into 10 divisions and coincide with 9 divisions of the main scale. When jaws are touching each other, the 7 ^th division of vernier scale coincides with a division of main scale and the zero of vernier scale is lying right side of the zero of main scale. When this vernier is used to measure length of a cylinder the zero of the vernier scale between 3.1 cm and 3.2 cm and 4 ^th VSD coincides with a main scale division. The length of the cylinder is : (VSD is vernier scale division)",
+        "options": [
+            "3.21 cm",
+            "2.99 cm",
+            "3.07 cm",
+            "3.2 cm"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-least-count-of-the-main-scale-of-a-vernier-callipers-is-jee-main-physics-units-and-measurements-r0wvccjlwepit4ap",
+        "is_numerical": false,
+        "sub_topic": "Device: Vernier Caliper",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Reading with positive zero error"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 9th January Morning Slot",
+        "question": "A quantity f is given by$f=hc5G$where c is speed of light, G universal gravitational constant and h is the Planck's constant. Dimension of f is that of :",
+        "options": [
+            "Energy",
+            "Momentum",
+            "Area",
+            "Volume"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-quantity-f-is-given-by-f--sqrt-hc5-over-g--jee-main-physics-units-and-measurements-6jd7rfixp6kmryte",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: New System",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Quantity dimension in h c G"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 9th January Evening Slot",
+        "question": "For the four sets of three measured physical quantities as given below. Which of the following options is correct ? (i) A _1 = 24.36, B _1 = 0.0724, C _1 = 256.2 (ii) A _2 = 24.44, B _2 = 16.082, C _2 = 240.2 (iii) A _3 = 25.2, B _3 = 19.2812, C _3 = 236.183 (iv) A _4 = 25, B _4 = 236.191, C _4 = 19.5",
+        "options": [
+            "A _1 + B _1 + C _1 = A _2 + B _2 + C _2 = A _3 + B _3 + C _3 = A _4 + B _4 + C _4",
+            "A _4 + B _4 + C _4$<$A _1 + B _1 + C _1$<$A _3 + B _3 + C _3$<$A _2 + B _2 + C _2",
+            "A _4 + B _4 + C _4$<$A _1 + B _1 + C _1 = A _2 + B _2 + C _2 = A _3 + B _3 + C _3",
+            "A _4 + B _4 + C _4$>$A _3 + B _3 + C _3 = A _2 + B _2 + C _2$>$A _1 + B _1 + C _1"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/for-the-four-sets-of-three-measured-physical-quantities-as-g-jee-main-physics-units-and-measurements-6gops77jqx8kzmy3",
+        "is_numerical": false,
+        "sub_topic": "Error: Significant Figures",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Significant figures addition comparison"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 8th January Morning Slot",
+        "question": "The dimension of stopping potential V _0 in photoelectric effect in units of Planck's constant 'h', speed of light 'c' and Gravitational constant 'G' and ampere A is :",
+        "options": [
+            "h ^1/3 G ^2/3 c ^1/3 A ^\u20131",
+            "h ^0 c ^5 G ^-1 A ^-1",
+            "h ^2/3 c ^5/3 G ^1/3 A ^\u20131",
+            "h ^2 G ^3/2 c ^1/3 A ^\u20131"
+        ],
+        "answer": "h ^0 c ^5 G ^-1 A ^-1",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-dimension-of-stopping-potential-vsub0sub-in-photoel-jee-main-physics-current-electricity-vgwsawhb9lqwgnqy",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: New System",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 5,
+        "physics_key": "Stopping potential in h c G A"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 9th January Morning Slot",
+        "question": "If the screw on a screw-gauge is given six rotations, it moves by 3 mm on the main scale. If there are 50 divisions on the circular scale the least count of the screw gauge is :",
+        "options": [
+            "0.001 mm",
+            "0.01 cm",
+            "0.02 mm",
+            "0.001 cm"
+        ],
+        "answer": "0.001 cm",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/if-the-screw-on-a-screw-gauge-is-given-six-rotations-it-mov-jee-main-physics-units-and-measurements-iveud90yfhdw2sli",
+        "is_numerical": false,
+        "sub_topic": "Device: Screw Gauge",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Least count calculation"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th April Evening Slot",
+        "question": "The area of a square is 5.29 cm ^2 . The area of 7 such squares taking into account the significant figures is :-",
+        "options": [
+            "37.0 cm ^2",
+            "37 cm ^2",
+            "37.030 cm ^2",
+            "37.03 cm ^2"
+        ],
+        "answer": "37.0 cm ^2",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-area-of-a-square-is-529-cm2-the-area-of-7-such-squares-jee-main-physics-units-and-measurements-iequ4p7bus9wbvvy",
+        "is_numerical": false,
+        "sub_topic": "Error: Significant Figures",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Sig fig multiplication rule"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 10th April Evening Slot",
+        "question": "In the formula X = 5YZ ^2 , X and Z have dimensions of capacitance and magnetic field, respectively. What are the dimensions of Y in SI units?",
+        "options": [
+            "[M ^\u20133 L ^\u20132 T ^8 A ^4 ]",
+            "[M ^\u20132 L ^\u20132 T ^6 A ^3 ]",
+            "[M ^\u20131 L ^\u20132 T ^4 A ^2 ]",
+            "[M ^\u20132 L ^0 T ^\u20134 A ^\u20132 ]"
+        ],
+        "answer": "[M ^\u20133 L ^\u20132 T ^8 A ^4 ]",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-the-formula-x--5yzsup2sup--x-and-z-have-dimensions-jee-main-physics-units-and-measurements-250sw1jtsuvccopz",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Electromagnetism",
+        "logic_type": "Analytical",
+        "difficulty": 4,
+        "physics_key": "Capacitance Magnetic field derived"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 7th January Evening Slot",
+        "question": "The dimension of$B22\u03bc0$, where B is magnetic field and$\u03bc0$is the magnetic permeability of vacuum, is :",
+        "options": [
+            "ML ^2 T ^\u20132",
+            "MLT ^\u20132",
+            "ML ^-1 T ^\u20132",
+            "ML ^2 T ^\u20131"
+        ],
+        "answer": "ML ^-1 T ^\u20132",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-dimension-of-b2-over-2mu-0-where-b-is-jee-main-physics-units-and-measurements-bf3ft0v9n5mbc82n",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Electromagnetism",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Magnetic energy density dimension"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 8th April Evening Slot",
+        "question": "If surface tension (S), Moment of inertia (I) and Planck's constant (h), were to be taken as the fundamental units, the dimensional formula for linear momentum would be :-",
+        "options": [
+            "S ^1/2 I ^1/2 h ^0",
+            "S ^3/2 I ^1/2 h ^0",
+            "S ^1/2 I ^1/2 h ^-1",
+            "S ^1/2 I ^3/2 h ^-1"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/if-surface-tension-s-moment-of-inertia-i-and-plancks-c-jee-main-physics-units-and-measurements-ypqjroixwfqna4cf",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: New System",
+        "logic_type": "Analytical",
+        "difficulty": 4,
+        "physics_key": "Linear momentum in S I h"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 8th April Morning Slot",
+        "question": "In SI units, the dimensions of$\u22080\u03bc0$is :",
+        "options": [
+            "A ^\u20131 TML ^3",
+            "A ^2 T ^3 M ^\u20131 L ^\u20132",
+            "AT ^\u20133 ML ^3/2",
+            "AT ^2 M ^\u20131 L ^\u20131"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-si-units-the-dimesions-of-sqrt-in-0-over-jee-main-physics-units-and-measurements-pnhwgiww0bxt3nd4",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Electromagnetism",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Permittivity permeability dimensions"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th April Morning Slot",
+        "question": "Which of the following combinations has the dimension of electrical resistance ($\u2208$_0 is the permittivity of vacuum and$\u03bc$_0 is the permeability of vacuum)?",
+        "options": [
+            "$\u22080\u03bc0$",
+            "$\u22080\u03bc0$",
+            "$\u03bc0\u22080$",
+            "$\u03bc0\u22080$"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/which-of-the-following-combinations-has-the-dimension-of-ele-jee-main-physics-units-and-measurements-ik7osuhpfqkmfzqg",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Electromagnetism",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Resistance from EM constants"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 8th April Evening Slot",
+        "question": "In a simple pendulum experiment for determination of acceleration due to gravity (g), time taken for 20 oscillations is measured by using a watch of 1 second least count. The mean value of time taken comes out to be 30 s. The length of pendulum is measured by using a meter scale of least count 1 mm and the value obtained is 55.0 cm. The percentage error in the determination of g is close to :-",
+        "options": [
+            "0.2%",
+            "3.5%",
+            "0.7%",
+            "6.8%"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-a-simple-pendulum-experiment-for-determination-of-acceler-jee-main-physics-units-and-measurements-jzhzrx9lxs3grywe",
+        "is_numerical": false,
+        "sub_topic": "Error: Combined Error",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Pendulum g error with time"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th April Morning Slot",
+        "question": "In the density measurement of a cube, the mass and edge length are measured as (10.00 \u00b1 0.10) kg and (0.10 \u00b1 0.01) m, respectively. The error in the measurement of density is :",
+        "options": [
+            "0.01 kg/m ^3",
+            "0.10 kg/m ^3",
+            "0.31 kg/m ^3",
+            "0.07 kg/m ^3"
+        ],
+        "answer": "0.31 kg/m ^3",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-the-density-measurement-of-a-cube-the-mass-and-edge-leng-jee-main-physics-units-and-measurements-o2go4sgas7vvwxkc",
+        "is_numerical": false,
+        "sub_topic": "Error: Combined Error",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Density error cube measurement"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 11th January Evening Slot",
+        "question": "If speed (V), acceleration (A) and force (F) are considered as fundamental units, the dimension of Young,s modulus will be:",
+        "options": [
+            "V ^$\u2212$2 A ^2 F ^2",
+            "V ^$\u2212$4 A ^$\u2212$2 F",
+            "V ^$\u2212$4 A ^2 F",
+            "V ^$\u2212$2 A ^2 F ^$\u2212$2"
+        ],
+        "answer": "V ^$\u2212$4 A ^2 F",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/if-speed-v-acceleration-a-and-force-f-are-considered-jee-main-physics-units-and-measurements-uqyhwet7tetfm9up",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: New System",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Young's modulus in VAF system"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th January Evening Slot",
+        "question": "Let$\u2113$, r, C and V represent inductance, resistance, capacitance and voltage, respectively. The dimension of$\u2113rCV$in SI units will be :",
+        "options": [
+            "[A ^\u20131 ]",
+            "[LTA]",
+            "[LA ^\u20132 ]",
+            "[LT ^2 ]"
+        ],
+        "answer": "[A ^\u20131 ]",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/let-ell-r-c-and-upsilon-represent-inductance-jee-main-physics-units-and-measurements-k3vpvfi3tngdqukg",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Electromagnetism",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "LRCV dimensional product"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th January Morning Slot",
+        "question": "The least count of the main scale of a screw gauge is 1 mm. The minimum number of divisions on its circular scale required to measure 5$\u03bc$m diameter of a wire is :",
+        "options": [
+            "500",
+            "100",
+            "200",
+            "50"
+        ],
+        "answer": "200",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-least-count-of-the-main-scale-of-a-screw-gauge-is-1-mm-jee-main-physics-units-and-measurements-ezku5kt0d0thvisf",
+        "is_numerical": false,
+        "sub_topic": "Device: Screw Gauge",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Min divisions for least count"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 11th January Morning Slot",
+        "question": "The force of interaction between two atoms is given by F =$\u03b1$$\u03b2$exp$(\u2212x2\u03b1kt)$; where x is the distance, k is the Boltzmann constant and T is temperature and$\u03b1$and$\u03b2$are two constants. The dimension of$\u03b2$is :",
+        "options": [
+            "M ^2 L ^2 T ^$\u2212$2",
+            "M ^2 LT ^$\u2212$4",
+            "MLT ^$\u2212$4",
+            "M ^0 L ^2 LT ^$\u2212$4"
+        ],
+        "answer": "M ^2 LT ^$\u2212$4",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-force-of-interaction-between-tow-atoms-is-given-by-f-jee-main-physics-units-and-measurements-5ea1ny7uipsu7pzt",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Homogeneity",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Force constant dimension finding"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 10th January Evening Slot",
+        "question": "The diameter and height of a cylinder are measured by a meter scale to be 12.6$\u00b1$0.1 cm and 34.2$\u00b1$0.1 cm, respectively. What will be the value of its volume in appropriate significant figures ?",
+        "options": [
+            "4264.4$\u00b1$81.0 cm ^3",
+            "4264$\u00b1$81 cm ^3",
+            "4300$\u00b1$80 cm ^3",
+            "4260$\u00b1$80 cm ^3"
+        ],
+        "answer": "4260$\u00b1$80 cm ^3",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-diameter-and-height-of-a-cylinder-are-measured-by-a-mete-jee-main-physics-units-and-measurements-zph5mvizvflrwtgh",
+        "is_numerical": false,
+        "sub_topic": "Error: Significant Figures",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Volume error significant figures"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 10th January Morning Slot",
+        "question": "The density of a material in SI units is 128 kg m ^\u20133 . In certain units in which the unit of length is 25 cm and the unit of mass is 50 g, the numerical value of density of the material is -",
+        "options": [
+            "40",
+            "640",
+            "16",
+            "410"
+        ],
+        "answer": "40",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-density-of-a-material-in-si-units-is-128-kg-m3-in-c-jee-main-physics-units-and-measurements-wtcj44uvidl0axxy",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Unit Conversion",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Unit system magnitude change"
+    },
+    {
+        "metadata": "JEE Main 2018 (Online) 16th April Morning Slot",
+        "question": "The relative uncertainly in the period of a satellite orbiting around the earth is 10 ^-2 . If the relative uncertainty in the radius of the orbit is negligible, the relative uncertainty in the mass of the earth is :",
+        "options": [
+            "10 ^$\u2212$2",
+            "2$\u00d7$10 ^$\u2212$2",
+            "3$\u00d7$10 ^$\u2212$2",
+            "6$\u00d7$10 ^$\u2212$2"
+        ],
+        "answer": "2$\u00d7$10 ^$\u2212$2",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-relative-uncertainly-in-the-period-of-a-satellite-orbiti-jee-main-physics-units-and-measurements-9encxxswgouprjm7",
+        "is_numerical": false,
+        "sub_topic": "Error: Combined Error",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Kepler's law error satellite"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th January Morning Slot",
+        "question": "A copper wire is stretched to make it 0.5% longer. The percentage change in its electrical resistance if its volume remains unchanged is :",
+        "options": [
+            "2.0 %",
+            "2.5 %",
+            "1.0 %",
+            "0.5 %"
+        ],
+        "answer": "1.0 %",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/length-of-a-conducting-wire-is-increased-by-05-keeping-its-jee-main-physics-units-and-measurements-iupugwg3mvfoeesd",
+        "is_numerical": false,
+        "sub_topic": "Error: Combined Error",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Resistance error volume constant"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th January Evening Slot",
+        "question": "The pitch and the number of divisions, on the circular scale, for a given screw gauge are 0.5 mm and 100 respectively. When the screw gauge is fully tightened without any object, the zero of its circular scale lies 3 divisions below the mean line. The readings of the main scale and the circular scale, for a thin sheet, are 5.5 mm and 48 respectively, the thickness of this sheet is :",
+        "options": [
+            "5.755 mm",
+            "5.950 mm",
+            "5.725 mm",
+            "5.740 mm"
+        ],
+        "answer": "5.725 mm",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-pitch-and-the-number-of-divisions-on-the-circular-scal-jee-main-physics-units-and-measurements-hykhhibtgsru2qk4",
+        "is_numerical": false,
+        "sub_topic": "Device: Screw Gauge",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Reading with negative zero error"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 8th April Morning Shift",
+        "question": "In an expression$a\u00d710b$:",
+        "options": [
+            "$a$is order of magnitude for$b\u22645$",
+            "$b$is order of magnitude for$a\u22645$",
+            "$b$is order of magnitude for$a\u22655$",
+            "$b$is order of magnitude for$5<a\u226410$"
+        ],
+        "answer": "$b$is order of magnitude for$a\u22645$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-an-expression-a-times-10b-p-jee-main-physics-motion-nqvun8s9ildfhpmz",
+        "is_numerical": false,
+        "sub_topic": "Error: Significant Figures",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Order of magnitude rule"
+    },
+    {
+        "metadata": "JEE Main 2018 (Online) 15th April Evening Slot",
+        "question": "The characteristic distance at which quantum gravitational effects are significant, the Planck length, can be determined from a suitable combination of the fundamental physical constants G, h and c. Which of the following correctly gives the Planck length ?",
+        "options": [
+            "G$\u210f$^2 c ^3",
+            "G ^2$\u210f$c",
+            "$G1/2\u210f2c$",
+            "$(G\u210fc3)1/2$"
+        ],
+        "answer": "$(G\u210fc3)1/2$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-characteristic-distance-at-which-quantum-gravitational-e-jee-main-physics-units-and-measurements-ta8mydgm8c8a9lap",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: New System",
+        "logic_type": "Analytical",
+        "difficulty": 4,
+        "physics_key": "Planck length dimensional formula"
+    },
+    {
+        "metadata": "JEE Main 2018 (Online) 15th April Morning Slot",
+        "question": "The relative error in the determination of the surface area of sphere is$\u03b1$. Then the relative error in the determination of its volume is :",
+        "options": [
+            "$32\u03b1$",
+            "$23\u03b1$",
+            "$52\u03b1$",
+            "$\u03b1$"
+        ],
+        "answer": "$32\u03b1$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-relative-error-in-the-determination-of-the-surface-area-jee-main-physics-units-and-measurements-skbc62vghddmcvtc",
+        "is_numerical": false,
+        "sub_topic": "Error: Fractional Error",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Volume error from area error"
+    },
+    {
+        "metadata": "JEE Main 2018 (Online) 16th April Morning Slot",
+        "question": "The percentage errors in quantities P, Q, R and S are 0.5%, 1%, 3% and 1.5% respectively in the measurement of a physical quantity A =$P3Q2RS.$The maximum percentage error in the value of A will be :",
+        "options": [
+            "6.0%",
+            "7.5%",
+            "8.5%",
+            "6.5%"
+        ],
+        "answer": "6.5%",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-percentage-errors-in-quantities-p-q-r-and-s-are-05-jee-main-physics-units-and-measurements-eznotcud5j5v0i0t",
+        "is_numerical": false,
+        "sub_topic": "Error: Percentage Error",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Max percentage error compound"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th January Evening Slot",
+        "question": "Expression for time in terms of G(universal gravitional constant), h (Planck constant) and c (speed of light) is proportional to :",
+        "options": [
+            "$hc5G$",
+            "$c3Gh$",
+            "$Ghc5$",
+            "$Ghc3$"
+        ],
+        "answer": "$Ghc5$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/expression-for-time-in-terms-of-guniversal-gravitional-cons-jee-main-physics-units-and-measurements-o3c8x8eyaqihlzxl",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: New System",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Time in G h c system"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 6th April Evening Shift",
+        "question": "In finding out refractive index of glass slab the following observations were made through travelling microscope 50 vernier scale division$=49 MSD;20$divisions on main scale in each$cm$For mark on paper$MSR MSR =8.45 cm,VC=26$For mark on paper seen through slab$MSR=7.12 cm,VC=41$For powder particle on the top surface of the glass slab$MSR MSR =4.05 cm,VC=1$(MSR$=$Main Scale Reading, VC = Vernier Coincidence) Refractive index of the glass slab is :",
+        "options": [
+            "1.52",
+            "1.35",
+            "1.24",
+            "1.42"
+        ],
+        "answer": "1.42",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-finding-out-refractive-index-of-glass-slab-the-followi-jee-main-physics-motion-kpdo6f12ygte0ewg",
+        "is_numerical": false,
+        "sub_topic": "Device: Vernier Caliper",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Refractive index traveling microscope"
+    },
+    {
+        "metadata": "JEE Main 2018 (Online) 15th April Morning Slot",
+        "question": "In a screw gauge,$5$complete rotations of the screw cause it to move a linear distance of$0.25$$cm.$There are$100$circular scale divisions. The thickness of a wire measured by this screw gauge gives a reading of$4$main scale divisions and$30$circular scale divisions. Assuming negligible zero error, the thickness of the wire is :",
+        "options": [
+            "$0.4300$$cm$",
+            "$0.2150$$cm$",
+            "$0.3150$$cm$",
+            "$0.0430$$cm$"
+        ],
+        "answer": "$0.2150$$cm$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-a-screw-gauge-5-complete-rotations-of-the-screw-caus-jee-main-physics-units-and-measurements-tecofi6vajtrfswg",
+        "is_numerical": false,
+        "sub_topic": "Device: Screw Gauge",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Least count and reading"
+    },
+    {
+        "metadata": "JEE Main 2017 (Online) 9th April Morning Slot",
+        "question": "A physical quantity P is described by the relation P = a$1/2$b ^2 c ^3 d ^$\u2212$4 If the relative errors in the measurement of a, b, c and d respectively, are 2%, 1%, 3% and 5%, then the relative error in P will be :",
+        "options": [
+            "8%",
+            "12%",
+            "32%",
+            "25%"
+        ],
+        "answer": "32%",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-physical-quantity-p-is-described-by-the-relation-p-a-jee-main-physics-units-and-measurements-8cxbqwvqjxzo5bsd",
+        "is_numerical": false,
+        "sub_topic": "Error: Percentage Error",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Max percentage error compound"
+    },
+    {
+        "metadata": "JEE Main 2018 (Offline)",
+        "question": "The density of a material in the shape of a cube is determined by measuring three sides of the cube and its mass. If the relative errors in measuring the mass and length are respectively 1.5% and 1%, the maximum error in determining the density is:",
+        "options": [
+            "6%",
+            "2.5%",
+            "3.5%",
+            "4.5%"
+        ],
+        "answer": "4.5%",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-density-of-a-material-in-the-shape-of-a-cube-is-determin-2018-marks-4-jzriatnhbyjwerrd.htm",
+        "is_numerical": false,
+        "sub_topic": "Error: Percentage Error",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Density error cube measurement"
+    },
+    {
+        "metadata": "JEE Main 2017 (Online) 8th April Morning Slot",
+        "question": "Time (T), velocity (C) and angular momentum (h) are chosen as fundamentalquantities instead of mass, length and time. In terms of these, the dimensions of mass would be :",
+        "options": [
+            "[M] = [T ^$\u2212$1 C ^$\u2212$2 h]",
+            "[M] = [T ^$\u2212$1 C ^2 h]",
+            "[M] = [T ^$\u2212$1 C ^$\u2212$2 h ^$\u2212$1 ]",
+            "[M] = [T C ^$\u2212$2 h]"
+        ],
+        "answer": "[M] = [T ^$\u2212$1 C ^$\u2212$2 h]",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/time-t-velocity-c-and-angular-momentum-h-are-chosen-a-jee-main-physics-units-and-measurements-e5v0byxm6xhp39tz",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: New System",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Mass in T C h system"
+    },
+    {
+        "metadata": "JEE Main 2017 (Offline)",
+        "question": "The following observations were taken for determining surface tension T of water by capillary method: diameter of capillary, D = 1.25$\u00d7$10 ^-2 m rise of water, h = 1.45$\u00d7$10 ^-2 m Using g = 9.80 m/s ^2 and the simplified relation T =$rhg2\u00d7103N/m$, the possible error in surface tension is closest to :",
+        "options": [
+            "10 %",
+            "0.15 %",
+            "1.5 %",
+            "2.4 %"
+        ],
+        "answer": "1.5 %",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-following-observations-were-taken-for-determining-surfac-2017-marks-4-wiwmkyyfbarmefoz.htm",
+        "is_numerical": false,
+        "sub_topic": "Error: Combined Error",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Surface tension error capillary"
+    },
+    {
+        "metadata": "JEE Main 2016 (Offline)",
+        "question": "A student measures the time period of 100 oscillations of a simple pendulum four times. The data set is 90 s, 91 s, 95 s and 92 s. If the minimum division in the measuring clock is 1 s, then the reported mean time should be :",
+        "options": [
+            "92$\u00b1$1.8 s",
+            "92$\u00b1$3 s",
+            "92$\u00b1$2 s",
+            "92$\u00b1$5.0 s"
+        ],
+        "answer": "92$\u00b1$2 s",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-student-measures-the-time-period-of-100-oscillations-of-a-2016-marks-4-rnk6nsjy2atvlzuw.htm",
+        "is_numerical": false,
+        "sub_topic": "Error: Significant Figures",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Mean value reported error"
+    },
+    {
+        "metadata": "AIEEE 2008",
+        "question": "A body of mass m = 3.513 kg is moving along the x-axis with a speed of 5.00 ms ^\u22121 . The magnitude of its momentum is recorded as",
+        "options": [
+            "17.6 kg ms ^-1",
+            "17.565 kg ms ^-1",
+            "17.56 kg ms ^-1",
+            "17.57 kg ms ^-1"
+        ],
+        "answer": "17.6 kg ms ^-1",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-body-of-mass-m-3513-kg-is-moving-along-the-x-axis-with-2008-marks-4-bg5j7nfuaxdarcvv.htm",
+        "is_numerical": false,
+        "sub_topic": "Error: Significant Figures",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Sig fig multiplication rule"
+    },
+    {
+        "metadata": "JEE Main 2016 (Offline)",
+        "question": "A screw gauge with a pitch of 0.5 mm and a circular scale with 50 divisions is used to measure the thickness of a thin sheet of Aluminium. Before starting the measurement, it is found that when the two jaws of the screw gauge are brought in contact, the 45 ^th division coincides with the main scale line and that the zero of the main scale is barely visible. What is the thickness of the sheet if the main scale reading is 0.5 mm and the 25 ^th division coincides with the main scale line?",
+        "options": [
+            "0.70 mm",
+            "0.50 mm",
+            "0.75 mm",
+            "0.80 mm"
+        ],
+        "answer": "0.80 mm",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-screw-gauge-with-a-pitch-of-05-mm-and-a-circular-scale-wi-2016-marks-4-qfvr1fzqi7vpo6pr.htm",
+        "is_numerical": false,
+        "sub_topic": "Device: Screw Gauge",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Reading with negative zero error"
+    },
+    {
+        "metadata": "JEE Main 2016 (Online) 9th April Morning Slot",
+        "question": "In the following \u2018I\u2019 refers to current and other symbols have their usual meaning. Choose the option that corresponds to the ^ dimensions of electrical conductivity :",
+        "options": [
+            "ML ^$\u2212$3 T ^$\u2212$3 I2",
+            "M ^$\u2212$1 L ^3 T ^3 I",
+            "M ^$\u2212$1 L ^$\u2212$3 T ^3 I ^2",
+            "M ^$\u2212$1 L ^$\u2212$3 T ^3 I"
+        ],
+        "answer": "M ^$\u2212$1 L ^$\u2212$3 T ^3 I ^2",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-the-following-i-refers-to-current-and-other-symbols-jee-main-physics-units-and-measurements-ii4xjq2asar9dwmp",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Electromagnetism",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Electrical conductivity dimensions"
+    },
+    {
+        "metadata": "AIEEE 2011",
+        "question": "A screw gauge gives the following reading when used to measure the diameter of a wire. Main scale reading : 0 mm Circular scale reading : 52 divisions Given that 1 mm on main scale corresponds to 100 divisions of the circular scale. The diameter of wire from the above date is:",
+        "options": [
+            "0.052 cm",
+            "0.026 cm",
+            "0.005 cm",
+            "0.52 cm"
+        ],
+        "answer": "0.052 cm",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-screw-gauge-gives-the-following-reading-when-used-to-measu-2011-marks-4-4fugumz5cfmhghk4.htm",
+        "is_numerical": false,
+        "sub_topic": "Device: Screw Gauge",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Screw gauge basic reading"
+    },
+    {
+        "metadata": "AIEEE 2008",
+        "question": "Two full turns of the circular scale of a screw gauge cover a distance of 1 mm on its main scale. The total number of divisions on the circular scale is 50. Further, it is found that the screw gauge has a zero error of \u2212 0.03 mm while measuring the diameter of a thin wire, a student notes the main scale reading of 3 mm and the number of circular scale divisions in line with the main scale as 35. The diameter of the wire is",
+        "options": [
+            "3.32 mm",
+            "3.73 mm",
+            "3.67 mm",
+            "3.38 mm"
+        ],
+        "answer": "3.38 mm",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/two-full-turns-of-the-circular-scale-of-a-screw-gauge-cover-2008-marks-4-d2kspusvkhn8jqi8.htm",
+        "is_numerical": false,
+        "sub_topic": "Device: Screw Gauge",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Reading with negative zero error"
+    },
+    {
+        "metadata": "AIEEE 2012",
+        "question": "A spectrometer gives the following reading when used to measure the angle of a prism. Main scale reading: 58.5 degree Vernier scale reading : 09 divisions Given that 1 division on main scale corresponds to 0.5 degree. Total divisions on the vernier scale is 30 and match with 29 divisions of the main scale. The angle of the prism from the above data",
+        "options": [
+            "58.59 degree",
+            "58.77 degree",
+            "58.65 degree",
+            "59 degree"
+        ],
+        "answer": "58.65 degree",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-spectrometer-gives-the-following-reading-when-used-to-meas-2012-marks-4-f4htszuiybnf9crq.htm",
+        "is_numerical": false,
+        "sub_topic": "Device: Vernier Caliper",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Angle reading least count"
+    },
+    {
+        "metadata": "JEE Main 2014 (Offline)",
+        "question": "A student measured the length of a rod and wrote it as 3.50 cm. Which instrument did he use to measure it?",
+        "options": [
+            "A screw gauge having 100 divisions in the circular scale and pitch as 1 mm.",
+            "A screw gauge having 50 divisions in the circular scale and pitch as 1 mm.",
+            "A meter scale.",
+            "A vernier calliper where the 10 divisions in vernier scale matches with 9 division in main scale and main scale has 10 divisions in 1 cm."
+        ],
+        "answer": "A vernier calliper where the 10 divisions in vernier scale matches with 9 division in main scale and main scale has 10 divisions in 1 cm.",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-student-measured-the-length-of-a-rod-and-wrote-it-as-350-2014-marks-4-1rspf8uv4g4qh6kv.htm",
+        "is_numerical": false,
+        "sub_topic": "Error: Significant Figures",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Instrument precision from sig fig"
+    },
+    {
+        "metadata": "AIEEE 2010",
+        "question": "The respective number of significant figures for the numbers 23.023, 0.0003 and 2.1$\u00d7$10 ^\u20133 are",
+        "options": [
+            "5, 1, 2",
+            "5, 1, 5",
+            "5, 5, 2",
+            "4, 4, 2"
+        ],
+        "answer": "5, 1, 2",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-respective-number-of-significant-figures-for-the-numbers-2010-marks-4-qj0wnabg6uwris74.htm",
+        "is_numerical": false,
+        "sub_topic": "Error: Significant Figures",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Counting significant figures"
+    },
+    {
+        "metadata": "JEE Main 2013 (Offline)",
+        "question": "Let [$\u03b50$] denote the dimensional formula of the permittivity of vacuum. If M = mass, L = length, T = time and A = electric current, then:",
+        "options": [
+            "$\u03b50=[M\u22121L\u22123T2A]$",
+            "$\u03b50=$$[M\u22121L\u22123T4A2]$",
+            "$\u03b50=[M1L2T1A2]$",
+            "$\u03b50=[M1L2T1A]$"
+        ],
+        "answer": "$\u03b50=$$[M\u22121L\u22123T4A2]$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/let-varepsilon-0-denote-the-dimensional-formula-of-2013-marks-4-jsyfxzwcg2nbvfip.htm",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Electromagnetism",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Permittivity of vacuum dimension"
+    },
+    {
+        "metadata": "AIEEE 2012",
+        "question": "Resistance of a given wire is obtained by measuring the current flowing in it and the voltage difference applied across it. If the percentage errors in the measurement of the current and the voltage difference are 3% each, then error in the value of resistance of the wire is",
+        "options": [
+            "6 %",
+            "zero",
+            "1 %",
+            "3 %"
+        ],
+        "answer": "6 %",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/resistance-of-a-given-wire-is-obtained-by-measuring-the-curr-2012-marks-4-1wo1ukabshemiybw.htm",
+        "is_numerical": false,
+        "sub_topic": "Error: Percentage Error",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Resistance error VI measurement"
+    },
+    {
+        "metadata": "AIEEE 2009",
+        "question": "In an experiment the angles are required to be measured using an instrument, 29 divisions of the main scale exactly coincide with the 30 divisions of the vernier scale. If the smallest division of the main scale is half-a degree(=$0.5\u2218$), then the least count of the instrument is:",
+        "options": [
+            "one minute",
+            "half minute",
+            "one degree",
+            "half degree"
+        ],
+        "answer": "one minute",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-an-experiment-the-angles-are-required-to-be-measured-usin-2009-marks-4-jonkaflxcrfblo7m.htm",
+        "is_numerical": false,
+        "sub_topic": "Device: Vernier Caliper",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Least count angular scale"
+    },
+    {
+        "metadata": "AIEEE 2008",
+        "question": "An experiment is performed to find the refractive index of glass using a travelling microscope. In this experiment distances are measured by",
+        "options": [
+            "a vernier scale provided on the microscope",
+            "a standard laboratory scale",
+            "a meter scale provided on the microscope",
+            "a screw gauge provided on the microscope"
+        ],
+        "answer": "a vernier scale provided on the microscope",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-experiment-is-performed-to-find-the-refractive-index-of-g-2008-marks-4-ulzo7sy9gbkyvoh0.htm",
+        "is_numerical": false,
+        "sub_topic": "Device: Vernier Caliper",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Travelling microscope scale type"
+    },
+    {
+        "metadata": "AIEEE 2005",
+        "question": "Out of the following pair, which one does NOT have identical dimensions is",
+        "options": [
+            "angular momentum and Planck's constant",
+            "impulse and momentum",
+            "moment of inertia and moment of a force",
+            "work and torque"
+        ],
+        "answer": "moment of inertia and moment of a force",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/out-of-the-following-pair-which-one-does-not-have-identical-2005-marks-4-ibkmppxnilojy8cd.htm",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Similarity",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Identify non-identical dimensions"
+    },
+    {
+        "metadata": "AIEEE 2008",
+        "question": "The dimension of magnetic field in M, L, T and C (coulomb) is given as",
+        "options": [
+            "MLT ^-1 C ^-1",
+            "MT ^2 C ^-2",
+            "MT ^-1 C ^-1",
+            "MT ^-2 C ^-1"
+        ],
+        "answer": "MT ^-1 C ^-1",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-dimension-of-magnetic-field-in-m-l-t-and-c-coulomb-i-2008-marks-4-vkn4f98zxejlgquz.htm",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Electromagnetism",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Magnetic field dimension MLTC"
+    },
+    {
+        "metadata": "AIEEE 2004",
+        "question": "Which one of the following represents the correct dimensions of the coefficient of viscosity?",
+        "options": [
+            "ML ^-1 T ^-1",
+            "MLT ^-1",
+            "ML ^-1 T ^-2",
+            "ML ^-2 T ^-2"
+        ],
+        "answer": "ML ^-1 T ^-1",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/which-one-of-the-following-represents-the-correct-dimensions-2004-marks-4-lvccefmk67vpwsni.htm",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Fluid",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Coefficient of viscosity dimension"
+    },
+    {
+        "metadata": "AIEEE 2003",
+        "question": "Dimensions of$1\u03bc0\u03b50$, where symbols have their usual meaning, are",
+        "options": [
+            "[ L ^-1 T ]",
+            "[ L ^-2 T ^2 ]",
+            "[ L ^2 T ^-2 ]",
+            "[ LT ^-1 ]"
+        ],
+        "answer": "[ L ^2 T ^-2 ]",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/dimensions-of-1-over-mu-0varepsilon-0-wher-2003-marks-4-07fb9a0w1swcoymv.htm",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Electromagnetism",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Inverse speed of light dimension"
+    },
+    {
+        "metadata": "AIEEE 2002",
+        "question": "Identify the pair whose dimensions are equal",
+        "options": [
+            "torque and work",
+            "stress and energy",
+            "force and stress",
+            "force and work"
+        ],
+        "answer": "torque and work",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/identify-the-pair-whose-dimensions-are-equal-2002-marks-4-vfmpnzyqwdwrns7q.htm",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Similarity",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Identical dimensions identification"
+    },
+    {
+        "metadata": "AIEEE 2003",
+        "question": "The physical quantities not having same dimensions are",
+        "options": [
+            "torque and work",
+            "momentum and Planck's constant",
+            "stress and Young's modulus",
+            "speed and$(\u03bc0\u03b50)\u22121/2$"
+        ],
+        "answer": "momentum and Planck's constant",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-physical-quantities-not-having-same-dimensions-are-2003-marks-4-02536silfkvdskvh.htm",
+        "is_numerical": false,
+        "sub_topic": "Dimensional: Similarity",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Identify non-identical dimensions"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 29th January Evening Shift",
+        "question": "$A physical quantity is related to four observables as follows : A physical quantity Q is related to four observables a,b,c,d as follows :$$Q=ab4cd$where,$a=(60\u00b13)Pa;b=(20\u00b10.1)m;c=(40\u00b10.2)Nsm\u22122$and$d=(50\u00b10.1)m$, then the percentage error in Q is$x1000$, where$x=$_________ .",
+        "options": [],
+        "answer": "7700",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/ptext--a-physical-quantity--q-text--is-related-to-fo-jee-main-physics-pik17mypblqpwhnc",
+        "is_numerical": true,
+        "sub_topic": "Error: Percentage Error",
+        "logic_type": "Template",
+        "difficulty": 4,
+        "physics_key": "Max error complex compound"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 28th January Morning Shift",
+        "question": "A tiny metallic rectangular sheet has length and breadth of 5 mm and 2.5 mm , respectively. Using a specially designed screw gauge which has pitch of 0.75 mm and 15 divisions in the circular scale, you are asked to find the area of the sheet. In this measurement, the maximum fractional error will be$x100$where$x$is _______ .",
+        "options": [],
+        "answer": "3",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m7il0lcd/f0cdfa2b-e9c1-42d5-8f1c-721f4f461440/3723cbd0-f26b-11ef-a32d-fb024e0b0102/file-jaoe38c1m7il0lce.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-tiny-metallic-rectangular-sheet-has-length-and-breadth-jee-main-physics-units-and-measurements-kjf9tolqm4qkpz5g",
+        "is_numerical": true,
+        "sub_topic": "Error: Combined Error",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Fractional error screw gauge area"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 28th July Evening Shift",
+        "question": "In an experiment to find acceleration due to gravity (g) using simple pendulum, time period of$0.5 s$is measured from time of 100 oscillation with a watch of$1 s$resolution. If measured value of length is$10 cm$known to$1 mm$accuracy, The accuracy in the determination of$g$is found to be$x%$. The value of$x$is ___________.",
+        "options": [],
+        "answer": "5",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-an-experiment-to-find-acceleration-due-to-gravity-g-jee-main-physics-motion-jfuulied5io7soaj",
+        "is_numerical": true,
+        "sub_topic": "Error: Combined Error",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Pendulum g error with time"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 24th January Morning Shift",
+        "question": "The least count of a screw guage is 0.01 mm . If the pitch is increased by$75%$and number of divisions on the circular scale is reduced by$50%$, the new least count will be ________$\u00d710\u22123 mm$",
+        "options": [],
+        "answer": "35",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-least-count-of-a-screw-guage-is-001-mm--if-the-pitc-jee-main-physics-units-and-measurements-97v49ptoahmrvrvs",
+        "is_numerical": true,
+        "sub_topic": "Device: Screw Gauge",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "New least count scaling"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th July Morning Shift",
+        "question": "The one division of main scale of Vernier callipers reads$1 mm$and 10 divisions of Vernier scale is equal to the 9 divisions on main scale. When the two jaws of the instrument touch each other, the zero of the Vernier lies to the right of zero of the main scale and its fourth division coincides with a main scale division. When a spherical bob is tightly placed between the two jaws, the zero of the Vernier scale lies in between$4.1 cm$and$4.2 cm$and$th 6th$Vernier division coincides scale division. The diameter of the bob will be ____________$\u00d7$10 ^$\u2212$2 cm.",
+        "options": [],
+        "answer": "412",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-one-division-of-main-scale-of-vernier-callipers-reads-jee-main-physics-motion-dr5rkf4lg0lpvut7",
+        "is_numerical": true,
+        "sub_topic": "Device: Vernier Caliper",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Reading with positive zero error"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 29th June Evening Shift",
+        "question": "The Vernier constant of Vernier callipers is 0.1 mm and it has zero error of ($\u2212$0.05) cm. While measuring diameter of a sphere, the main scale reading is 1.7 cm and coinciding vernier division is 5. The corrected diameter will be _________$\u00d7$10 ^$\u2212$2 cm.",
+        "options": [],
+        "answer": "180",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-vernier-constant-of-vernier-callipers-is-01-mm-and-i-jee-main-physics-motion-eigb7oxmceqbajui",
+        "is_numerical": true,
+        "sub_topic": "Device: Vernier Caliper",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Reading with negative zero error"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th June Evening Shift",
+        "question": "For$z=a2x3y12$, where 'a' is a constant. If percentage error in measurement of 'x' and 'y' are 4% and 12% respectively, then the percentage error for 'z' will be _______________%.",
+        "options": [],
+        "answer": "18",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pfor-z--a2x3y1-over-2-where-a-is-a-c-jee-main-physics-motion-ktkhoc6ztygbzung",
+        "is_numerical": true,
+        "sub_topic": "Error: Percentage Error",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Max percentage error simple"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th June Morning Shift",
+        "question": "In a vernier callipers, each cm on the main scale is divided into 20 equal parts. If tenth vernier scale division coincides with nineth main scale division. Then the value of vernier constant will be _________$\u00d7$10 ^$\u2212$2 mm.",
+        "options": [],
+        "answer": "5",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-a-vernier-callipers-each-cm-on-the-main-scale-is-divi-jee-main-physics-motion-el1bnwchq3sj3su1",
+        "is_numerical": true,
+        "sub_topic": "Device: Vernier Caliper",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Vernier constant from divisions"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 28th June Evening Shift",
+        "question": "A student in the laboratory measures thickness of a wire using screw gauge. The readings are 1.22 mm, 1.23 mm, 1.19 mm and 1.20 mm. The percentage error is$x121%$. The value of x is ____________.",
+        "options": [],
+        "answer": "150",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-student-in-the-laboratory-measures-thickness-of-a-wire-jee-main-physics-motion-j1zphrpaqhvpxzau",
+        "is_numerical": true,
+        "sub_topic": "Error: Combined Error",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Percentage error from mean"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th June Evening Shift",
+        "question": "A travelling microscope is used to determine the refractive index of a glass slab. If 40 divisions are there in 1 cm on main scale and 50 Vernier scale divisions are equal to 49 main scale divisions, then least count of the travelling microscope is __________$\u00d7$10 ^$\u2212$6 m.",
+        "options": [],
+        "answer": "5",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-travelling-microscope-is-used-to-determine-the-refracti-jee-main-physics-motion-dbmvgv2egstr068l",
+        "is_numerical": true,
+        "sub_topic": "Device: Vernier Caliper",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Least count travelling microscope"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 30th January Morning Shift",
+        "question": "In a screw gauge, there are 100 divisions on the circular scale and the main scale moves by$0.5 mm$on a complete rotation of the circular scale. The zero of circular scale lies 6 divisions below the line of graduation when two studs are brought in contact with each other. When a wire is placed between the studs, 4 linear scale divisions are clearly visible while$46th$division the circular scale coincide with the reference line. The diameter of the wire is ______________$\u00d710\u22122 mm$.",
+        "options": [],
+        "answer": "220",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pin-a-screw-gauge-there-are-100-divisions-on-the-circular-jee-main-physics-motion-pii33vyhgiegfssl",
+        "is_numerical": true,
+        "sub_topic": "Device: Screw Gauge",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Reading with negative zero error"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 31st August Evening Shift",
+        "question": "The diameter of a spherical bob is measured using a vernier callipers. 9 divisions of the main scale, in the vernier callipers, are equal to 10 divisions of vernier scale. One main scale division is 1 mm. The main scale reading is 10 mm and 8 ^th division of vernier scale was found to coincide exactly with one of the main scale division. If the given vernier callipers has positive zero error of 0.04 cm, then the radius of the bob is ___________$\u00d7$10 ^$\u2212$2 cm.",
+        "options": [],
+        "answer": "52",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-diameter-of-a-spherical-bob-is-measured-using-a-vernier-jee-main-physics-units-and-measurements-qpdb1rftshcgnlv7",
+        "is_numerical": true,
+        "sub_topic": "Device: Vernier Caliper",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Reading with positive zero error"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th August Evening Shift",
+        "question": "The acceleration due to gravity is found upto an accuracy of 4% on a planet. The energy supplied to a simple pendulum to known mass 'm' to undertake oscillations of time period T is being estimated. If time period is measured to an accuracy of 3%, the accuracy to which E is known as ..............%",
+        "options": [],
+        "answer": "14",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-acceleration-due-to-gravity-is-found-upto-an-accuracy-of-jee-main-physics-units-and-measurements-reqj6krzk30kv8n4",
+        "is_numerical": true,
+        "sub_topic": "Error: Combined Error",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Energy error pendulum oscillation"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th July Morning Shift",
+        "question": "Student A and student B used two screw gauges of equal pitch and 100 equal circular divisions to measure the radius of a given wire. The actual value of the radius of the wire is 0.322 cm. The absolute value of the difference between the final circular scale readings observed by the students A and B is ______________. [Figure shows position of reference 'O' when jaws of screw gauge are closed] Given pitch = 0.1 cm. [IMAGE: https://imagex.cdn.examgoal.net/1krwa3oo1/f234dacb-c863-4f49-960b-91b8ca3f8c7d/421a6110-f478-11eb-b37c-fd45669cd0a9/file-1krwa3oo2.jpg]",
+        "options": [],
+        "answer": "N/A",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1krwa3oo1/f234dacb-c863-4f49-960b-91b8ca3f8c7d/421a6110-f478-11eb-b37c-fd45669cd0a9/file-1krwa3oo2.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/student-a-and-student-b-used-two-screw-gauges-of-equal-pitch-jee-main-physics-units-and-measurements-rdlzrmu1gm95xfot",
+        "is_numerical": true,
+        "sub_topic": "Device: Screw Gauge",
+        "logic_type": "Analytical",
+        "difficulty": 4,
+        "physics_key": "Zero error final reading difference"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 22th July Evening Shift",
+        "question": "Three students S _1 , S _2 and S _3 perform an experiment for determining the acceleration due to gravity (g) using a simple pendulum. They use different lengths of pendulum and record time for different number of oscillations. The observations are as shown in the table. Student No. Length of Pendulum (cm) No. of oscillations (n) Total time for n oscillations Time period (s) 1 64.0 8 128.0 16.0 2 64.0 4 64.0 16.0 3 20.0 4 36.0 9.0 (Least count of length = 0.1 cm and Least count for time = 0.1 s) If E _1 , E _2 and E _3 are the percentage errors in 'g' for students 1, 2 and 3 respectively, then the minimum percentage error is obtained by student no. ______________.",
+        "options": [],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/three-students-ssub1sub-ssub2sub-and-ssub3sub-jee-main-physics-units-and-measurements-hmtskaghl1kxk1yt",
+        "is_numerical": true,
+        "sub_topic": "Error: Combined Error",
+        "logic_type": "Analytical",
+        "difficulty": 4,
+        "physics_key": "Minimum error pendulum experiment"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 6th September Morning Slot",
+        "question": "The density of a solid metal sphere is determined by measuring its mass and its diameter. The maximum error in the density of the sphere is$(x100)$%. If the relative errors in measuring the mass and the diameter are 6.0% and 1.5% respectively, the value of x is_______.",
+        "options": [],
+        "answer": "1050",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-density-of-a-solid-metal-sphere-is-determined-by-measuri-jee-main-physics-units-and-measurements-w8a0hgtljeuz394a",
+        "is_numerical": true,
+        "sub_topic": "Error: Percentage Error",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Max percentage error sphere"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 18th March Evening Shift",
+        "question": "The radius of a sphere is measured to be (7.50$\u00b1$0.85) cm. Suppose the percentage error in its volume is x. The value of x, to the nearest x, is __________.",
+        "options": [],
+        "answer": "34",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-radius-of-a-sphere-is-measured-to-be-750-pm-085-jee-main-physics-units-and-measurements-pfiond5c0pkcyb3g",
+        "is_numerical": true,
+        "sub_topic": "Error: Percentage Error",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Volume error from radius error"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 16th March Morning Shift",
+        "question": "The resistance R =$VI$, where V = (50$\u00b1$2)V and I = (20$\u00b1$0.2)A. The percentage error in R is 'x'%. The value of 'x' to the nearest integer is _________.",
+        "options": [],
+        "answer": "5",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-resistance-r--v-over-i-where-v--50-pm-2-jee-main-physics-units-and-measurements-uaf3agncookny3zv",
+        "is_numerical": true,
+        "sub_topic": "Error: Percentage Error",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Resistance error VI measurement"
+    }
+]

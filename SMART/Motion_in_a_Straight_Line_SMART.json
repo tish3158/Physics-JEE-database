@@ -1,0 +1,2096 @@
+[
+    {
+        "metadata": "JEE Main",
+        "question": "The displacement x versus time graph is shown below. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9gjowpu/fa032790-dfdf-483e-b40f-2844d611e055/e68bd820-18e4-11f0-a103-9bd1ffe79f48/file-jaoe38c1m9gjowpv.png?format=png] (A) The average velocity during 0 to 3 s is$10 m/s$(B) The average velocity during 3 to 5 s is$0 m/s$(C) The instantaneous velocity at$t=2 s$is$5 m/s$(D) The average velocity during 5 to 7 s and instantaneous velocity at$t=6.5 s$are equal (E) The average velocity from$t=0$to$t=9 s$is zero Choose the correct answer from the options given below :",
+        "options": [
+            "(B), (C), (D) only",
+            "(B), (D), (E) only",
+            "(A), (D), (E) only",
+            "(B), (C), (E) only"
+        ],
+        "answer": "(B), (C), (E) only",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9gjowpu/fa032790-dfdf-483e-b40f-2844d611e055/e68bd820-18e4-11f0-a103-9bd1ffe79f48/file-jaoe38c1m9gjowpv.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-displacement-x-versus-time-graph-is-shown-belowp-jee-main-physics-units-and-measurements-ft7ajhykfdfljyrx",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Graph x-t",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "Velocity slope area analysis"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 3rd April Evening Shift",
+        "question": "A particle moves along the$x$-axis and has its displacement$x$varying with time t according to the equation:$x=c0(t2\u22122)+c(t\u22122)2$where$c0$and c are constants of appropriate dimensions. Then, which of the following statements is correct?",
+        "options": [
+            "the acceleration of the particle is$2(c+c0)$",
+            "the acceleration of the particle is$2c0$",
+            "the acceleration of the particle is 2 c",
+            "the initial velocity of the particle is$4c$"
+        ],
+        "answer": "the acceleration of the particle is$2(c+c0)$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-particle-moves-along-the-x-axis-and-has-its-displacem-jee-main-physics-units-and-measurements-ggibbpofa51yywxr",
+        "is_numerical": false,
+        "sub_topic": "Calculus: Acceleration",
+        "logic_type": "Calculus",
+        "difficulty": 2,
+        "physics_key": "Second derivative constant acceleration"
+    },
+    {
+        "metadata": "JEE Main",
+        "question": "A person travelling on a straight line moves with a uniform velocity$v1$for a distance$x$and with a uniform velocity$v2$for the next$32x$distance. The average velocity in this motion is$507 m/s$. If$v1$is$5 m/s$then$v2=$__________$m/s$.",
+        "options": [],
+        "answer": "10",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-person-travelling-on-a-straight-line-moves-with-a-unifo-jee-main-physics-units-and-measurements-cgffie6518pdenoj",
+        "is_numerical": true,
+        "sub_topic": "Kinematics: Average Speed",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Distance averaged speeds"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 9th April Evening Shift",
+        "question": "Two cars are travelling towards each other at speed of$20 m s\u22121$each. When the cars are$300 m$apart, both the drivers apply brakes and the cars retard at the rate of$2 m s\u22122$. The distance between them when they come to rest is :",
+        "options": [
+            "25 m",
+            "100 m",
+            "50 m",
+            "200 m"
+        ],
+        "answer": "100 m",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/ptwo-cars-are-travelling-towards-each-other-at-speed-of--jee-main-physics-motion-lpksftxel2yuc0qu",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Stopping Distance",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Relative motion braking distance"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 3rd April Morning Shift",
+        "question": "$Which of the following curves possibly represent one-dimensional motion of a particle? Which of the following curves possibly represent one-dimensional motion of a particle?$[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9gil1fm/75341e79-eff7-4211-a461-0e80750d877b/91d2d620-18e0-11f0-a103-9bd1ffe79f48/file-jaoe38c1m9gil1fn.png?format=png] [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9gikuxq/cdf0edd7-b06a-4680-8b5c-6f73153fa106/8cce0be0-18e0-11f0-a103-9bd1ffe79f48/file-jaoe38c1m9gikuxr.png?format=png] [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9gim5a5/c8b6fde8-802f-4f51-bb89-e415e9680abf/b09aeed0-18e0-11f0-a103-9bd1ffe79f48/file-jaoe38c1m9gim5a6.png?format=png] [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9gilu9x/d74d412b-a2aa-4123-baa9-b052dc94598b/a81a6b50-18e0-11f0-a103-9bd1ffe79f48/file-jaoe38c1m9gilu9y.png?format=png] Choose the correct answer from the options given below :",
+        "options": [
+            "A, B and C only",
+            "A, C and D only",
+            "A, B and D only",
+            "A and B only"
+        ],
+        "answer": "A, B and D only",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9gil1fm/75341e79-eff7-4211-a461-0e80750d877b/91d2d620-18e0-11f0-a103-9bd1ffe79f48/file-jaoe38c1m9gil1fn.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9gikuxq/cdf0edd7-b06a-4680-8b5c-6f73153fa106/8cce0be0-18e0-11f0-a103-9bd1ffe79f48/file-jaoe38c1m9gikuxr.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9gim5a5/c8b6fde8-802f-4f51-bb89-e415e9680abf/b09aeed0-18e0-11f0-a103-9bd1ffe79f48/file-jaoe38c1m9gim5a6.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m9gilu9x/d74d412b-a2aa-4123-baa9-b052dc94598b/a81a6b50-18e0-11f0-a103-9bd1ffe79f48/file-jaoe38c1m9gilu9y.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/p-text--which-of-the-following-curves-possibly-represe-jee-main-physics-units-and-measurements-jgq6qmxciternvom",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Graph Principles",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Impossible motion x-t graph"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 23rd January Morning Shift",
+        "question": "The motion of an airplane is represented by velocity-time graph as shown below. The distance covered by airplane in the first 30.5 second is \u0331_______ km . [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6s4cptq/e30ca2b8-f18f-453e-9a13-6f3701982d8b/ac3b4de0-e3dd-11ef-bddf-17ae0b8643c1/file-jaoe38c1m6s4cptr.png?format=png]",
+        "options": [
+            "12",
+            "6",
+            "3",
+            "9"
+        ],
+        "answer": "12",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6s4cptq/e30ca2b8-f18f-453e-9a13-6f3701982d8b/ac3b4de0-e3dd-11ef-bddf-17ae0b8643c1/file-jaoe38c1m6s4cptr.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-motion-of-an-airplane-is-represented-by-velocity-time-jee-main-physics-units-and-measurements-glnvaclen4xsgbkz",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Graph v-t",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "Area under v-t graph"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 9th April Morning Shift",
+        "question": "A particle moving in a straight line covers half the distance with speed$6 m/s$. The other half is covered in two equal time intervals with speeds$9 m/s$and$15 m/s$respectively. The average speed of the particle during the motion is :",
+        "options": [
+            "9.2 m/s",
+            "8.8 m/s",
+            "10 m/s",
+            "8 m/s"
+        ],
+        "answer": "8 m/s",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-particle-moving-in-a-straight-line-covers-half-the-dist-jee-main-physics-motion-udt8s70vd331zdtv",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Average Speed",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Distance and time averaged speeds"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 6th April Morning Shift",
+        "question": "A train starting from rest first accelerates uniformly up to a speed of$80 km/h$for time$t$, then it moves with a constant speed for time$3t$. The average speed of the train for this duration of journey will be (in$km/h$) :",
+        "options": [
+            "70",
+            "40",
+            "30",
+            "80"
+        ],
+        "answer": "70",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-train-starting-from-rest-first-accelerates-uniformly-up-jee-main-physics-motion-u1l0jqirak2x93dh",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Average Speed",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Average velocity constant time"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 4th April Morning Shift",
+        "question": "A body travels$102.5 m$in$th nth$second and$115.0 m$in$th (n+2)th$second. The acceleration is :",
+        "options": [
+            "$6.25 m/s2$",
+            "$5 m/s2$",
+            "$12.5 m/s2$",
+            "$9 m/s2$"
+        ],
+        "answer": "$6.25 m/s2$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-body-travels-1025-mathrmm-in-mathrmnte-jee-main-physics-motion-3mnlu3swveegxwmu",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: nth Second",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Displacement in nth second"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 6th April Evening Shift",
+        "question": "A body projected vertically upwards with a certain speed from the top of a tower reaches the ground in$t1$. If it is projected vertically downwards from the same point with the same speed, it reaches the ground in$t2$. Time required to reach the ground, if it is dropped from the top of the tower, is :",
+        "options": [
+            "$t1+t2$",
+            "$t1t2$",
+            "$t1t2$",
+            "$t1\u2212t2$"
+        ],
+        "answer": "$t1t2$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-body-projected-vertically-upwards-with-a-certain-speed-jee-main-physics-motion-h4qdaygirymsngzx",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Gravity Vertical",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Up down drop time relation"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 28th January Evening Shift",
+        "question": "The velocity-time graph of an object moving along a straight line is shown in the figure. What is the distance covered by the object between$t=0$to$t=4s$? [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6rjokgp/c2aa6bc4-1395-466d-b0f5-e33abf5f67df/d6165890-e38c-11ef-9897-61eb62716c5d/file-jaoe38c1m6rjokgq.png?format=png]",
+        "options": [
+            "11 m",
+            "30 m",
+            "13 m",
+            "10 m"
+        ],
+        "answer": "30 m",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/jaoe38c1m6rjokgp/c2aa6bc4-1395-466d-b0f5-e33abf5f67df/d6165890-e38c-11ef-9897-61eb62716c5d/file-jaoe38c1m6rjokgq.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-velocity-time-graph-of-an-object-moving-along-a-strai-jee-main-physics-a8x4goifagqdcqcw",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Graph v-t",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "Area under v-t for distance"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 29th January Evening Shift",
+        "question": "A particle is moving in a straight line. The variation of position '$x$' as a function of time '$t$' is given as$x=(t3\u22126t2+20t+15)m$. The velocity of the body when its acceleration becomes zero is :",
+        "options": [
+            "6 m/s",
+            "10 m/s",
+            "8 m/s",
+            "4 m/s"
+        ],
+        "answer": "8 m/s",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-particle-is-moving-in-a-straight-line-the-variation-of-jee-main-physics-motion-kscw5qzevgijnam3",
+        "is_numerical": false,
+        "sub_topic": "Calculus: Acceleration",
+        "logic_type": "Calculus",
+        "difficulty": 3,
+        "physics_key": "Zero acceleration velocity"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 1st February Evening Shift",
+        "question": "Train A is moving along two parallel rail tracks towards north with speed$72 km/h$and train B is moving towards south with speed$108 km/h$. Velocity of train B with respect to A and velocity of ground with respect to B are (in$ms\u22121$):",
+        "options": [
+            "-50 and -30",
+            "-50 and 30",
+            "-30 and 50",
+            "50 and -30"
+        ],
+        "answer": "-50 and 30",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/train-a-is-moving-along-two-parallel-rail-tracks-towards-nor-jee-main-physics-fsaqcicljmaxjz6l",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Relative Velocity",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Relative velocity vector subtraction"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 31st January Morning Shift",
+        "question": "The relation between time '$t$' and distance '$x$' is$t=\u03b1x2+\u03b2x$, where$\u03b1$and$\u03b2$are constants. The relation between acceleration$(a)$and velocity$(v)$is :",
+        "options": [
+            "$a=\u22125\u03b1v5$",
+            "$a=\u22123\u03b1v2$",
+            "$a=\u22122\u03b1v3$",
+            "$a=\u22124\u03b1v4$"
+        ],
+        "answer": "$a=\u22122\u03b1v3$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-relation-between-time-t-and-distance-x-is-jee-main-physics-motion-5ymilifkdlolvr6a",
+        "is_numerical": false,
+        "sub_topic": "Calculus: Variable Motion",
+        "logic_type": "Calculus",
+        "difficulty": 4,
+        "physics_key": "a vs v from t(x) relation"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 29th January Morning Shift",
+        "question": "A body starts moving from rest with constant acceleration covers displacement$S1$in first$(p\u22121)$seconds and$S2$in first$p$seconds. The displacement$S1+S2$will be made in time :",
+        "options": [
+            "$(2p+1)s$",
+            "$(2p\u22121)s$",
+            "$(2p2\u22122p+1)s$",
+            "$(2p2\u22122p+1)s$"
+        ],
+        "answer": "$(2p2\u22122p+1)s$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-body-starts-moving-from-rest-with-constant-acceleration-jee-main-physics-units-and-measurements-9drvhnsg2jeatzty",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: nth Second",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Total time for combined displacements"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 13th April Evening Shift",
+        "question": "A passenger sitting in a train A moving at$90 km/h$observes another train$B$moving in the opposite direction for$8 s$. If the velocity of the train B is$54 km/h$, then length of train B is:",
+        "options": [
+            "80 m",
+            "200 m",
+            "120 m",
+            "320 m"
+        ],
+        "answer": "320 m",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-passenger-sitting-in-a-train-a-moving-at-90-mathrm-jee-main-physics-motion-xfb3n8ll55svl9lb",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Relative Velocity",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Crossing time relative distance"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 13th April Morning Shift",
+        "question": "Two trains 'A' and 'B' of length '$l$' and '$4l$' are travelling into a tunnel of length '$L$' in parallel tracks from opposite directions with velocities$108 km/h$and$72 km/h$, respectively. If train 'A' takes$35 s$less time than train 'B' to cross the tunnel then. length '$L$' of tunnel is : (Given$L=60l$)",
+        "options": [
+            "900 m",
+            "1200 m",
+            "1800 m",
+            "2700 m"
+        ],
+        "answer": "1800 m",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/ptwo-trains-a-and-b-of-length-l-and-4-l-ar-jee-main-physics-motion-lutszhmqvetu8ll5",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Relative Velocity",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Tunnel crossing relative speed"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 13th April Evening Shift",
+        "question": "The distance travelled by an object in time$t$is given by$s=(2.5)t2$. The instantaneous speed of the object at$t=5 s$will be:",
+        "options": [
+            "$5 ms\u22121$",
+            "$12.5 ms\u22121$",
+            "$62.5 ms\u22121$",
+            "$25 ms\u22121$"
+        ],
+        "answer": "$25 ms\u22121$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-distance-travelled-by-an-object-in-time-t-is-give-jee-main-physics-motion-yvxubnmdrwqbplza",
+        "is_numerical": false,
+        "sub_topic": "Calculus: Velocity",
+        "logic_type": "Calculus",
+        "difficulty": 1,
+        "physics_key": "First derivative velocity"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 15th April Morning Shift",
+        "question": "The position of a particle related to time is given by$x=(5t2\u22124t+5)m$. The magnitude of velocity of the particle at$t=2s$will be :",
+        "options": [
+            "$14 ms\u22121$",
+            "$16 ms\u22121$",
+            "$10 ms\u22121$",
+            "$06 ms\u22121$"
+        ],
+        "answer": "$16 ms\u22121$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-position-of-a-particle-related-to-time-is-given-by-xl-jee-main-physics-5ye4o2z7jtes3cth",
+        "is_numerical": false,
+        "sub_topic": "Calculus: Velocity",
+        "logic_type": "Calculus",
+        "difficulty": 1,
+        "physics_key": "Instantaneous velocity position derivative"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 12th April Morning Shift",
+        "question": "A ball is thrown vertically upward with an initial velocity of$150 m/s$. The ratio of velocity after$3 s$and$5 s$is$x+1x$. The value of$x$is ___________.${$take,$g=10 m/s2}$",
+        "options": [
+            "$\u22125$",
+            "10",
+            "5",
+            "6"
+        ],
+        "answer": "5",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-ball-is-thrown-vertically-upward-with-an-initial-veloci-jee-main-physics-motion-pp3yahtivtwbyf07",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Gravity Vertical",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Velocity ratio vertical throw"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 10th April Morning Shift",
+        "question": "The position-time graphs for two students A and B returning from the school to their homes are shown in figure. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1lgzn2ox6/1a447735-4699-4122-b422-d5e368c9f523/bf9700a0-e542-11ed-8d50-d941312069b0/file-1lgzn2ox7.png?format=png] (A) A lives closer to the school (B) B lives closer to the school (C) A takes lesser time to reach home (D) A travels faster than B (E) B travels faster than A Choose the correct answer from the options given below :",
+        "options": [
+            "(A), (C) and (D) only",
+            "(A) and (E) only",
+            "(A), (C) and (E) only",
+            "(B) and (E) only"
+        ],
+        "answer": "(A) and (E) only",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lgzn2ox6/1a447735-4699-4122-b422-d5e368c9f523/bf9700a0-e542-11ed-8d50-d941312069b0/file-1lgzn2ox7.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/6y3zli1loi4pv2l/578973da-c4ce-49f8-81c6-95faf4862d2f/5e7d13d0-7a03-11ee-bbdd-cfc3c972af88/file-6y3zli1loi4pv2m.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-position-time-graphs-for-two-students-a-and-b-returni-jee-main-physics-motion-n9plpzsrhkvd56u6",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Graph x-t",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "x-t slope time comparison"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 10th April Evening Shift",
+        "question": "A person travels$x$distance with velocity$v1$and then$x$distance with velocity$v2$in the same direction. The average velocity of the person is$v$, then the relation between$v,v1$and$v2$will be.",
+        "options": [
+            "$V=V1+V2$",
+            "$V=v1+V22$",
+            "$1v=1v1+1v2$",
+            "$2 V=1v1+1v2$"
+        ],
+        "answer": "$2 V=1v1+1v2$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-person-travels-x-distance-with-velocity-v1-a-jee-main-physics-motion-m0r53ts2dixc851a",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Average Speed",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Harmonic mean average velocity"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 11th April Morning Shift",
+        "question": "From the$v\u2212t$graph shown, the ratio of distance to displacement in$25 s$of motion is: [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1lgvek4nv/36cf1e0d-246d-46b0-b582-863fd2f48b02/4fbec6b0-e2ee-11ed-b29f-636b60af9e14/file-1lgvek4nw.png?format=png]",
+        "options": [
+            "1",
+            "$35$",
+            "$12$",
+            "$53$"
+        ],
+        "answer": "$53$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lgvek4nv/36cf1e0d-246d-46b0-b582-863fd2f48b02/4fbec6b0-e2ee-11ed-b29f-636b60af9e14/file-1lgvek4nw.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pfrom-the-mathrmv-t-graph-shown-the-ratio-of-dista-jee-main-physics-motion-ml68jpftraolit4h",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Graph v-t",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "Distance displacement v-t ratio"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 8th April Evening Shift",
+        "question": "Given below are two statements Statement I : Area under velocity- time graph gives the distance travelled by the body in a given time. Statement II : Area under acceleration- time graph is equal to the change in velocity- in the given time. In the light of given statements, choose the correct answer from the options given below.",
+        "options": [
+            "Both Statement I and Statement II are False.",
+            "Both Statement I and Statement II are true.",
+            "Statement I is incorrect but Statement II is true.",
+            "Statement I is correct but Statement II is false."
+        ],
+        "answer": "Statement I is incorrect but Statement II is true.",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pgiven-below-are-two-statementsp-pstatement-i--area-jee-main-physics-motion-swp7asz4aeoa4zlb",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Graph Principles",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Area under kinematic graphs"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 6th April Evening Shift",
+        "question": "A particle starts with an initial velocity of$10.0 ms\u22121$along$x$-direction and accelerates uniformly at the rate of$2.0 ms\u22122$. The time taken by the particle to reach the velocity of$60.0 ms\u22121$is __________.",
+        "options": [
+            "30s",
+            "6s",
+            "3s",
+            "25s"
+        ],
+        "answer": "25s",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-particle-starts-with-an-initial-velocity-of-100-mat-jee-main-physics-motion-sl4umamsk61gpvdj",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: UAM",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "v=u+at simple application"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 25th January Evening Shift",
+        "question": "The distance travelled by a particle is related to time t as$x=4t2$. The velocity of the particle at t=5s is :-",
+        "options": [
+            "$25 ms\u22121$",
+            "$20 ms\u22121$",
+            "$8 ms\u22121$",
+            "$40 ms\u22121$"
+        ],
+        "answer": "$40 ms\u22121$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-distance-travelled-by-a-particle-is-related-to-time-t-jee-main-physics-motion-m6noqdmlum1yuipb",
+        "is_numerical": false,
+        "sub_topic": "Calculus: Velocity",
+        "logic_type": "Calculus",
+        "difficulty": 1,
+        "physics_key": "Velocity from position derivative"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 1st February Morning Shift",
+        "question": "An object moves with speed$v1,v2$and$v3$along a line segment AB, BC and CD respectively as shown in figure. Where AB = BC and AD = 3AB, then average speed of the object will be: [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1ldosllg7/c8b2d81e-2cba-4d9a-91dd-14769725d5c4/15a5be70-a3e7-11ed-bf36-9572993cebd7/file-1ldosllg8.png?format=png]",
+        "options": [
+            "$v1v2v33(v1v2+v2v3+v3v1)$",
+            "$(v1+v2+v3)3$",
+            "$(v1+v2+v3)3v1v2v3$",
+            "$3v1v2v3(v1v2+v2v3+v3v1)$"
+        ],
+        "answer": "$3v1v2v3(v1v2+v2v3+v3v1)$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1ldosllg7/c8b2d81e-2cba-4d9a-91dd-14769725d5c4/15a5be70-a3e7-11ed-bf36-9572993cebd7/file-1ldosllg8.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pan-object-moves-with-speed-v1v2-and-v3-along-jee-main-physics-motion-3bzfsmmny0vp6dxf",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Average Speed",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Segmented average speed"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 25th January Morning Shift",
+        "question": "A car travels a distance of '$x$' with speed$v1$and then same distance '$x$' with speed$v2$in the same direction. The average speed of the car is :",
+        "options": [
+            "$v1v22(v1+v2)$",
+            "$2v1v2v1+v2$",
+            "$2xv1+v2$",
+            "$v1+v22$"
+        ],
+        "answer": "$2v1v2v1+v2$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-car-travels-a-distance-of-x-with-speed-v1-an-jee-main-physics-motion-wxwrpurwoqjf54ra",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Average Speed",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Harmonic mean two distances"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 30th January Morning Shift",
+        "question": "Match Column-I with Column-II : Column-I ($x$-t graphs) Column-II ($v$-t graphs) A. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1ldrea7zx/e3308c6f-1b98-44c0-bdba-e36366fdf209/737f9e20-a555-11ed-803e-f1576252b48d/file-1ldrea802.png?format=png] I. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1ldreczet/06cd48b4-c6d1-4e57-80d5-0c449dc35b89/c04a4750-a555-11ed-803e-f1576252b48d/file-1ldreczeu.png?format=png] B. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1ldreasae/95b5db25-1260-4f42-898a-6482ab34cce8/832b7560-a555-11ed-803e-f1576252b48d/file-1ldreasaf.png?format=png] II. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1ldredkrn/1260671b-3cc7-4a09-a275-f2937ec4f35c/d0c99b30-a555-11ed-803e-f1576252b48d/file-1ldredkro.png?format=png] C. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1ldre95ib/a6689a1d-d08a-4011-9607-2e1fcf3a123f/55c37730-a555-11ed-803e-f1576252b48d/file-1ldre95ic.png?format=png] III. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1ldree3z3/ea96b205-1a18-4220-aa9d-ba2861d89b08/df9fd2f0-a555-11ed-803e-f1576252b48d/file-1ldree3z4.png?format=png] D. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1ldre8kcw/ad04047e-6238-410b-8880-ab025ca800ae/456ce100-a555-11ed-803e-f1576252b48d/file-1ldre8kcx.png?format=png] IV. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1ldreeswu/3f694eca-0352-4f0c-b1c6-9c002813e31c/f2e34fe0-a555-11ed-803e-f1576252b48d/file-1ldreeswv.png?format=png] Choose the correct answer from the options given below:",
+        "options": [
+            "A- II, B-III, C-IV, D-I",
+            "A- II, B-IV, C-III, D-I",
+            "A- I, B-III, C-IV, D-II",
+            "A- I, B-II, C-III, D-IV"
+        ],
+        "answer": "A- II, B-IV, C-III, D-I",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1ldrea7zx/e3308c6f-1b98-44c0-bdba-e36366fdf209/737f9e20-a555-11ed-803e-f1576252b48d/file-1ldrea802.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1ldreczet/06cd48b4-c6d1-4e57-80d5-0c449dc35b89/c04a4750-a555-11ed-803e-f1576252b48d/file-1ldreczeu.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1ldreasae/95b5db25-1260-4f42-898a-6482ab34cce8/832b7560-a555-11ed-803e-f1576252b48d/file-1ldreasaf.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1ldredkrn/1260671b-3cc7-4a09-a275-f2937ec4f35c/d0c99b30-a555-11ed-803e-f1576252b48d/file-1ldredkro.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1ldre95ib/a6689a1d-d08a-4011-9607-2e1fcf3a123f/55c37730-a555-11ed-803e-f1576252b48d/file-1ldre95ic.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1ldree3z3/ea96b205-1a18-4220-aa9d-ba2861d89b08/df9fd2f0-a555-11ed-803e-f1576252b48d/file-1ldree3z4.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1ldre8kcw/ad04047e-6238-410b-8880-ab025ca800ae/456ce100-a555-11ed-803e-f1576252b48d/file-1ldre8kcx.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1ldreeswu/3f694eca-0352-4f0c-b1c6-9c002813e31c/f2e34fe0-a555-11ed-803e-f1576252b48d/file-1ldreeswv.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pmatch-column-i-with-column-ii-p-pstyle-typetext-jee-main-physics-motion-ecr3bpa74zniudea",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Graph x-t to v-t",
+        "logic_type": "Graphical",
+        "difficulty": 3,
+        "physics_key": "x-t v-t graph transformation"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 30th January Evening Shift",
+        "question": "A vehicle travels$4 km$with speed of$3 km/h$and another$4 km$with speed of$5 km/h$, then its average speed is",
+        "options": [
+            "$3.75 km/h$",
+            "$4.25 km/h$",
+            "$3.50 km/h$",
+            "$4.00 km/h$"
+        ],
+        "answer": "$3.75 km/h$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-vehicle-travels-4-mathrmkm-with-speed-of-3-mathrm-jee-main-physics-iqsxhw2nofxaxo3i",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Average Speed",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Average speed two distance segments"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 29th July Evening Shift",
+        "question": "A juggler throws balls vertically upwards with same initial velocity in air. When the first ball reaches its highest position, he throws the next ball. Assuming the juggler throws n balls per second, the maximum height the balls can reach is",
+        "options": [
+            "g/2n",
+            "g/n",
+            "2gn",
+            "g/2n ^2"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-juggler-throws-balls-vertically-upwards-with-same-initi-jee-main-physics-motion-wsicyllemra4okuv",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Gravity Vertical",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Max height from throwing rate"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 24th January Evening Shift",
+        "question": "The velocity time graph of a body moving in a straight line is shown in the figure. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1lesvstw5/3c8e1940-d40f-474a-bf3c-d2d478ef0494/f4328850-b9f2-11ed-89b5-a150a08c777c/file-1lesvstw6.png?format=png] The ratio of displacement to distance travelled by the body in time 0 to 10s is :",
+        "options": [
+            "1 : 1",
+            "1 : 3",
+            "1 : 4",
+            "1 : 2"
+        ],
+        "answer": "N/A",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lesvstw5/3c8e1940-d40f-474a-bf3c-d2d478ef0494/f4328850-b9f2-11ed-89b5-a150a08c777c/file-1lesvstw6.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-velocity-time-graph-of-a-body-moving-in-a-straight-li-jee-main-physics-motion-9dopiebdegyq9u3l",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Graph v-t",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "Displacement distance ratio v-t"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 29th June Evening Shift",
+        "question": "A small toy starts moving from the position of rest under a constant acceleration. If it travels a distance of 10m in t s, the distance travelled by the toy in the next t s will be :",
+        "options": [
+            "10 m",
+            "20 m",
+            "30 m",
+            "40 m"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-small-toy-starts-moving-from-the-position-of-rest-under-jee-main-physics-motion-ufqrm7vpg7aukp0f",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: UAM",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Distance ratio equal time"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 27th August Evening Shift",
+        "question": "Water drops are falling from a nozzle of a shower onto the floor, from a height of 9.8 m. The drops fall at a regular interval of time. When the first drop strikes the floor, at that instant, the third drop begins to fall. Locate the position of second drop from the floor when the first drop strikes the floor.",
+        "options": [
+            "4.18 m",
+            "2.94 m",
+            "2.45 m",
+            "7.35 m"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/water-drops-are-falling-from-a-nozzle-of-a-shower-onto-the-f-jee-main-physics-units-and-measurements-tahd1q4wtxkrbjld",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Gravity Dropping",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Droplet spacing time interval"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 29th July Evening Shift",
+        "question": "A ball is released from a height h. If$t1$and$t2$be the time required to complete first half and second half of the distance respectively. Then, choose the correct relation between$t1$and$t2$.",
+        "options": [
+            "$t1=(2)t2$",
+            "$t1=(2\u22121)t2$",
+            "$t2=(2+1)t1$",
+            "$t2=(2\u22121)t1$"
+        ],
+        "answer": "$t2=(2\u22121)t1$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l7e9ofih/3261b804-62c4-4278-80a6-960f468fdcec/f4447790-2753-11ed-a077-1f1e3989e798/file-1l7e9ofii.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-ball-is-released-from-a-height-h-if-t1-and-t-jee-main-physics-motion-cuf8bcuooyewhle2",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Gravity Dropping",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Time ratio half distance"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th July Evening Shift",
+        "question": "A balloon was moving upwards with a uniform velocity of 10 m/s. An object of finite mass is dropped from the balloon when it was at a height of 75 m from the ground level. The height of the balloon from the ground when object strikes the ground was around : (takes the value of g as 10 m/s ^2 )",
+        "options": [
+            "300 m",
+            "200 m",
+            "125 m",
+            "250 m"
+        ],
+        "answer": "125 m",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1krx7mpwx/e44d5f52-32ba-425c-8398-e93d13c3d3bd/60b3b210-f4fb-11eb-a36d-b31a012b9cb8/file-1krx7mpwy.jpeg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-balloon-was-moving-upwards-with-a-uniform-velocity-of-10-m-jee-main-physics-units-and-measurements-rrcsimie4qs8wzn5",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Gravity Vertical",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 3,
+        "physics_key": "Relative motion object drop"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 29th July Morning Shift",
+        "question": "If$t=x+4$, then$(dx dt)t=4$is :",
+        "options": [
+            "4",
+            "zero",
+            "8",
+            "16"
+        ],
+        "answer": "zero",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pif-mathrmtsqrtx4-then-leftfracmathrm-jee-main-physics-motion-afizajc8fv4y5nun",
+        "is_numerical": false,
+        "sub_topic": "Calculus: Variable Motion",
+        "logic_type": "Calculus",
+        "difficulty": 3,
+        "physics_key": "Velocity from t(x) derivative"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th July Evening Shift",
+        "question": "The relation between time t and distance x for a moving body is given as t = mx ^2 + nx, where m and n are constants. The retardation of the motion is : (When v stands for velocity)",
+        "options": [
+            "2 mv ^3",
+            "2 mnv ^3",
+            "2nv ^3",
+            "2n ^2 v ^3"
+        ],
+        "answer": "2 mv ^3",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-relation-between-time-t-and-distance-x-for-a-moving-body-jee-main-physics-units-and-measurements-22xdhpncxugawpvg",
+        "is_numerical": false,
+        "sub_topic": "Calculus: Variable Motion",
+        "logic_type": "Calculus",
+        "difficulty": 4,
+        "physics_key": "Retardation a vs v from t(x)"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th June Evening Shift",
+        "question": "Two buses P and Q start from a point at the same time and move in a straight line and their positions are represented by$XP(t)=\u03b1t+\u03b2t2$and$XQ(t)=ft\u2212t2$. At what time, both the buses have same velocity?",
+        "options": [
+            "$\u03b1\u2212f1+\u03b2$",
+            "$\u03b1+f2(\u03b2\u22121)$",
+            "$\u03b1+f2(1+\u03b2)$",
+            "$f\u2212\u03b12(1+\u03b2)$"
+        ],
+        "answer": "$f\u2212\u03b12(1+\u03b2)$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/ptwo-buses-p-and-q-start-from-a-point-at-the-same-time-and-jee-main-physics-motion-w1pql2obk042bn12",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Relative Velocity",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Same velocity time"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th July Evening Shift",
+        "question": "The velocity of the bullet becomes one third after it penetrates 4 cm in a wooden block. Assuming that bullet is facing a constant resistance during its motion in the block. The bullet stops completely after travelling at (4 + x) cm inside the block. The value of x is :",
+        "options": [
+            "2.0",
+            "1.0",
+            "0.5",
+            "1.5"
+        ],
+        "answer": "0.5",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-velocity-of-the-bullet-becomes-one-third-after-it-pen-jee-main-physics-motion-zeg8lvinjqfozkrz",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: UAM",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Stopping distance deceleration"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 28th July Morning Shift",
+        "question": "A NCC parade is going at a uniform speed of$9 km/h$under a mango tree on which a monkey is sitting at a height of$19.6 m$. At any particular instant, the monkey drops a mango. A cadet will receive the mango whose distance from the tree at time of drop is: (Given$g=9.8 m/s2$)",
+        "options": [
+            "5 m",
+            "10 m",
+            "19.8 m",
+            "24.5 m"
+        ],
+        "answer": "5 m",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-ncc-parade-is-going-at-a-uniform-speed-of-9-mathrm-jee-main-physics-motion-2dcnixjfcatyh5pr",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Gravity Dropping",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 2,
+        "physics_key": "Horizontal distance falling object"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 29th July Morning Shift",
+        "question": "A ball is thrown up vertically with a certain velocity so that, it reaches a maximum height h. Find the ratio of the times in which it is at height$h3$while going up and coming down respectively.",
+        "options": [
+            "$2\u221212+1$",
+            "$3\u221223+2$",
+            "$3\u221213+1$",
+            "$13$"
+        ],
+        "answer": "$3\u221223+2$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-ball-is-thrown-up-vertically-with-a-certain-velocity-so-jee-main-physics-motion-dlwbtkw25lkunshj",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Gravity Vertical",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Time ratio to intermediate height"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 27th July Morning Shift",
+        "question": "A bullet is shot vertically downwards with an initial velocity of$100 m/s$from a certain height. Within 10 s, the bullet reaches the ground and instantaneously comes to rest due to the perfectly inelastic collision. The velocity-time curve for total time$t=20 s$will be: (Take g = 10 m/s ^2 ).",
+        "options": [
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l6ku0wa1/1d0257ae-cae3-4d48-9538-d623b13af7ca/02075590-1724-11ed-b0f6-478ddda54bc0/file-1l6ku0wa2.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l6kqjlr3/fded5907-f40f-48f3-8e69-973e0be9f058/65c126f0-1716-11ed-82db-9f73654e4206/file-1l6kqjlr4.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l6kqk6zf/bc839208-69d9-4f18-afb9-05daca2b7a05/7627c2b0-1716-11ed-82db-9f73654e4206/file-1l6kqk6zg.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l6kqks1w/fcd01cbe-37f8-402a-ad17-ecb88cd0e509/866e2c40-1716-11ed-82db-9f73654e4206/file-1l6kqks1x.png?format=png]"
+        ],
+        "answer": "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l6ku0wa1/1d0257ae-cae3-4d48-9538-d623b13af7ca/02075590-1724-11ed-b0f6-478ddda54bc0/file-1l6ku0wa2.png?format=png]",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l6ku0wa1/1d0257ae-cae3-4d48-9538-d623b13af7ca/02075590-1724-11ed-b0f6-478ddda54bc0/file-1l6ku0wa2.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l6kqjlr3/fded5907-f40f-48f3-8e69-973e0be9f058/65c126f0-1716-11ed-82db-9f73654e4206/file-1l6kqjlr4.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l6kqk6zf/bc839208-69d9-4f18-afb9-05daca2b7a05/7627c2b0-1716-11ed-82db-9f73654e4206/file-1l6kqk6zg.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l6kqks1w/fcd01cbe-37f8-402a-ad17-ecb88cd0e509/866e2c40-1716-11ed-82db-9f73654e4206/file-1l6kqks1x.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-bullet-is-shot-vertically-downwards-with-an-initial-vel-jee-main-physics-motion-ybeylmxwhytffggd",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Graph v-t",
+        "logic_type": "Graphical",
+        "difficulty": 3,
+        "physics_key": "Vertical motion v-t graph"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 29th June Morning Shift",
+        "question": "Two balls A and B are placed at the top of 180 m tall tower. Ball A is released from the top at t = 0 s. Ball B is thrown vertically down with an initial velocity 'u' at t = 2 s. After a certain time, both balls meet 100 m above the ground. Find the value of 'u' in ms ^$\u2212$1 . [use g = 10 ms ^$\u2212$2 ] :",
+        "options": [
+            "10",
+            "15",
+            "20",
+            "30"
+        ],
+        "answer": "30",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/ptwo-balls-a-and-b-are-placed-at-the-top-of-180-m-tall-tow-jee-main-physics-motion-lnbomagqbvcgyaug",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Gravity Vertical",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Meeting time two dropped objects"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 27th July Morning Shift",
+        "question": "A ball is thrown up with a certain velocity so that it reaches a height 'h'. Find the ratio of the two different times of the ball reaching$h3$in both the directions.",
+        "options": [
+            "$2\u221212+1$",
+            "$13$",
+            "$3\u221223+2$",
+            "$3\u221213+1$"
+        ],
+        "answer": "$3\u221223+2$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-ball-is-thrown-up-with-a-certain-velocity-so-that-it-reach-jee-main-physics-units-and-measurements-ynk9muk4dckcy4uv",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Gravity Vertical",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Time ratio to intermediate height"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 18th March Evening Shift",
+        "question": "The velocity$\u2212$displacement graph of a particle is shown in the figure. [IMAGE: https://imagex.cdn.examgoal.net/1kmnkwu0z/1cef32a8-d402-4615-a47f-c162d2dd6d30/6542b530-8cb2-11eb-bb7d-75e16383db04/file-1kmnkwu10.jpg] The acceleration$\u2212$displacement graph of the same particle is represented by :",
+        "options": [
+            "[IMAGE: https://imagex.cdn.examgoal.net/1kmnky2cf/517129a4-94c9-4762-bfbb-7740fa42cc37/877ebef0-8cb2-11eb-bb7d-75e16383db04/file-1kmnky2cg.jpg]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/1kmnkxv11/63227c32-6817-47f6-bd88-5ea2bd7ec15b/81d7e850-8cb2-11eb-bb7d-75e16383db04/file-1kmnkxv12.jpg]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/1kmnkxo4z/24dac6d4-367e-45b4-9cbc-b260b2d6afa5/7c854c30-8cb2-11eb-bb7d-75e16383db04/file-1kmnkxo50.jpg]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/1kmnkxhjf/df88f078-3a3a-40b6-9813-345662248fcd/776c5db0-8cb2-11eb-bb7d-75e16383db04/file-1kmnkxhjg.jpg]"
+        ],
+        "answer": "[IMAGE: https://imagex.cdn.examgoal.net/1kmnky2cf/517129a4-94c9-4762-bfbb-7740fa42cc37/877ebef0-8cb2-11eb-bb7d-75e16383db04/file-1kmnky2cg.jpg]",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1kmnkwu0z/1cef32a8-d402-4615-a47f-c162d2dd6d30/6542b530-8cb2-11eb-bb7d-75e16383db04/file-1kmnkwu10.jpg",
+            "https://imagex.cdn.examgoal.net/1kmnky2cf/517129a4-94c9-4762-bfbb-7740fa42cc37/877ebef0-8cb2-11eb-bb7d-75e16383db04/file-1kmnky2cg.jpg",
+            "https://imagex.cdn.examgoal.net/1kmnkxv11/63227c32-6817-47f6-bd88-5ea2bd7ec15b/81d7e850-8cb2-11eb-bb7d-75e16383db04/file-1kmnkxv12.jpg",
+            "https://imagex.cdn.examgoal.net/1kmnkxo4z/24dac6d4-367e-45b4-9cbc-b260b2d6afa5/7c854c30-8cb2-11eb-bb7d-75e16383db04/file-1kmnkxo50.jpg",
+            "https://imagex.cdn.examgoal.net/1kmnkxhjf/df88f078-3a3a-40b6-9813-345662248fcd/776c5db0-8cb2-11eb-bb7d-75e16383db04/file-1kmnkxhjg.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/the-velocity---displacement-graph-of-a-particle-is-shown-jee-main-physics-units-and-measurements-d6uqkklgjnjiukvc",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Graph v-x",
+        "logic_type": "Graphical",
+        "difficulty": 4,
+        "physics_key": "v-x to a-x graph conversion"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 18th March Morning Shift",
+        "question": "The position, velocity and acceleration of a particle moving with a constant acceleration can be represented by :",
+        "options": [
+            "[IMAGE: https://imagex.cdn.examgoal.net/1kmnklfdx/5ee3deb6-bc1a-4df4-85b0-cc3717c48ff3/280cf550-8cb1-11eb-bb7d-75e16383db04/file-1kmnklfdy.jpg]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/1kmnklndg/2702e662-acff-4312-91bb-33d7f2f17fd3/2e386540-8cb1-11eb-bb7d-75e16383db04/file-1kmnklndh.jpg]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/1kmnkluou/db58e4f0-b8d9-41bf-b6a9-f6f3f2769f1f/33df3be0-8cb1-11eb-bb7d-75e16383db04/file-1kmnkluov.jpg]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/1kmnkm25r/e90afb22-e0d5-44ff-ae7d-21368cd3bdd3/39a46ff0-8cb1-11eb-bb7d-75e16383db04/file-1kmnkm25s.jpg]"
+        ],
+        "answer": "N/A",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1kmnklfdx/5ee3deb6-bc1a-4df4-85b0-cc3717c48ff3/280cf550-8cb1-11eb-bb7d-75e16383db04/file-1kmnklfdy.jpg",
+            "https://imagex.cdn.examgoal.net/1kmnklndg/2702e662-acff-4312-91bb-33d7f2f17fd3/2e386540-8cb1-11eb-bb7d-75e16383db04/file-1kmnklndh.jpg",
+            "https://imagex.cdn.examgoal.net/1kmnkluou/db58e4f0-b8d9-41bf-b6a9-f6f3f2769f1f/33df3be0-8cb1-11eb-bb7d-75e16383db04/file-1kmnkluov.jpg",
+            "https://imagex.cdn.examgoal.net/1kmnkm25r/e90afb22-e0d5-44ff-ae7d-21368cd3bdd3/39a46ff0-8cb1-11eb-bb7d-75e16383db04/file-1kmnkm25s.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/the-position-velocity-and-acceleration-of-a-particle-moving-jee-main-physics-units-and-measurements-69tszfnax5rgf60i",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Graph Principles",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "Constant acceleration graph selection"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th July Morning Shift",
+        "question": "Water droplets are coming from an open tap at a particular rate. The spacing between a droplet observed at 4 ^th second after its fall to the next droplet is 34.3 m. At what rate the droplets are coming from the tap ? (Take g = 9.8 m/s ^2 )",
+        "options": [
+            "3 drops / 2 sconds",
+            "2 drops / second",
+            "1 drop / second",
+            "1 drop / 7 seconds"
+        ],
+        "answer": "1 drop / second",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/water-droplets-are-coming-from-an-open-tap-at-a-particular-r-jee-main-physics-units-and-measurements-wvjluvxgtadhhudu",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Gravity Dropping",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Droplet rate from spacing"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 17th March Evening Shift",
+        "question": "The velocity of a particle is v = v _0 + gt + Ft ^2 . Its position is x = 0 at t = 0; then its displacement after time (t = 1) is :",
+        "options": [
+            "v _0 + g + f",
+            "v _0 +$g2$+$F3$",
+            "v _0 + 2g + 3F",
+            "v _0 +$g2$+ F"
+        ],
+        "answer": "v _0 +$g2$+$F3$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-velocity-of-a-particle-is-v--vsub0sub--gt--ftsu-jee-main-physics-units-and-measurements-voyyz3zhdzycoubw",
+        "is_numerical": false,
+        "sub_topic": "Calculus: Displacement",
+        "logic_type": "Calculus",
+        "difficulty": 2,
+        "physics_key": "Displacement from velocity integration"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 16th March Morning Shift",
+        "question": "The velocity-displacement graph describing the motion of bicycle is shown in the figure. [IMAGE: https://imagex.cdn.examgoal.net/1kmil8ul8/7c9680c2-9c63-45f0-af12-00b1526744a0/c8283ab0-89f3-11eb-9c26-d9a423ffb060/file-1kmil8ul9.jpg] The acceleration-displacement graph of the bicycle's motion is best described by :",
+        "options": [
+            "[IMAGE: https://imagex.cdn.examgoal.net/1kmilaswl/48e2575a-c9d5-496b-8d3c-43f1770fcb9a/fe799050-89f3-11eb-9c26-d9a423ffb060/file-1kmilaswm.jpg]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/1kmilbaxt/c8c22ba5-b5b2-4ed5-a7fc-e58d643e2085/0c67d910-89f4-11eb-9c26-d9a423ffb060/file-1kmilbaxu.jpg]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/1kmilbv67/40ceb82d-97cc-442a-b17c-f928d11fe1fe/1c0901f0-89f4-11eb-9c26-d9a423ffb060/file-1kmilbv68.jpg]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/1kmilc87k/f407f7cd-8439-4622-b92c-251016c811f3/261b7010-89f4-11eb-9c26-d9a423ffb060/file-1kmilc87l.jpg]"
+        ],
+        "answer": "[IMAGE: https://imagex.cdn.examgoal.net/1kmilaswl/48e2575a-c9d5-496b-8d3c-43f1770fcb9a/fe799050-89f3-11eb-9c26-d9a423ffb060/file-1kmilaswm.jpg]",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1kmil8ul8/7c9680c2-9c63-45f0-af12-00b1526744a0/c8283ab0-89f3-11eb-9c26-d9a423ffb060/file-1kmil8ul9.jpg",
+            "https://imagex.cdn.examgoal.net/1kmilaswl/48e2575a-c9d5-496b-8d3c-43f1770fcb9a/fe799050-89f3-11eb-9c26-d9a423ffb060/file-1kmilaswm.jpg",
+            "https://imagex.cdn.examgoal.net/1kmilbaxt/c8c22ba5-b5b2-4ed5-a7fc-e58d643e2085/0c67d910-89f4-11eb-9c26-d9a423ffb060/file-1kmilbaxu.jpg",
+            "https://imagex.cdn.examgoal.net/1kmilbv67/40ceb82d-97cc-442a-b17c-f928d11fe1fe/1c0901f0-89f4-11eb-9c26-d9a423ffb060/file-1kmilbv68.jpg",
+            "https://imagex.cdn.examgoal.net/1kmilc87k/f407f7cd-8439-4622-b92c-251016c811f3/261b7010-89f4-11eb-9c26-d9a423ffb060/file-1kmilc87l.jpg",
+            "https://imagex.cdn.examgoal.net/1kp5j8qcg/2d7d493b-0ec8-4b80-9726-263e6e0fb676/6850c600-be2a-11eb-81f3-c51a1255b226/file-1kp5j8qch.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/the-velocity-displacement-graph-describing-the-motion-of-bic-jee-main-physics-units-and-measurements-ydcemwf6xqbwonkb",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Graph v-x",
+        "logic_type": "Graphical",
+        "difficulty": 4,
+        "physics_key": "v-x to a-x graph conversion"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 20th July Evening Shift",
+        "question": "A boy reaches the airport and finds that the escalator is not working. He walks up the stationary escalator in time t _1 . If he remains stationary on a moving escalator then the escalator takes him up in time t _2 . The time taken by him to walk up on the moving escalator will be :",
+        "options": [
+            "$t1t2t2\u2212t1$",
+            "$t1+t22$",
+            "$t1t2t2+t1$",
+            "$t2\u2212t1$"
+        ],
+        "answer": "$t1t2t2+t1$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-boy-reaches-the-airport-and-finds-that-the-escalator-is-no-jee-main-physics-units-and-measurements-ifgvwjeniavcvaux",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Relative Velocity",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Escalator relative time"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th July Evening Shift",
+        "question": "The instantaneous velocity of a particle moving in a straight line is given as$V=\u03b1t+\u03b2t2$, where$\u03b1$and$\u03b2$are constants. The distance travelled by the particle between 1s and 2s is :",
+        "options": [
+            "3$\u03b1$+ 7$\u03b2$",
+            "$32\u03b1+73\u03b2$",
+            "$\u03b12+\u03b23$",
+            "$32\u03b1+72\u03b2$"
+        ],
+        "answer": "$32\u03b1+73\u03b2$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-instantaneous-velocity-of-a-particle-moving-in-a-straigh-jee-main-physics-units-and-measurements-g5t7nmajfodri8ok",
+        "is_numerical": false,
+        "sub_topic": "Calculus: Displacement",
+        "logic_type": "Calculus",
+        "difficulty": 2,
+        "physics_key": "Definite integral velocity"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 17th March Evening Shift",
+        "question": "A rubber ball is released from a height of 5 m above the floor. It bounces back repeatedly, always rising to$81100$of the height through which it falls. Find the average speed of the ball. (Take g = 10 ms ^$\u2212$2 )",
+        "options": [
+            "2.50 ms ^$\u2212$1",
+            "3.0 ms ^$\u2212$1",
+            "2.0 ms ^$\u2212$1",
+            "3.50 ms ^$\u2212$1"
+        ],
+        "answer": "2.50 ms ^$\u2212$1",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1kpvntr1g/a2003a29-950d-4f00-89c7-9ce9683de554/b63ece40-cc88-11eb-a5f4-0327554ada25/file-1kpvntr1h.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-rubber-ball-is-released-from-a-height-of-5-m-above-the-flo-jee-main-physics-units-and-measurements-8tncmjiwdzjnqkli",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Gravity Bounce",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Average speed infinite bounces"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th February Evening Shift",
+        "question": "A stone is dropped from the top of a building. When it crosses a point 5 m below the top, another stone starts to fall from a point 25 m below the top. Both stones reach the bottom of building simultaneously. The height of the building is :",
+        "options": [
+            "50 m",
+            "25 m",
+            "45 m",
+            "35 m"
+        ],
+        "answer": "45 m",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1kqzeob24/38b3276d-15dd-43a0-8349-35d2acaabbb8/46ab23c0-e264-11eb-bfe6-a5f7baa62679/file-1kqzeob25.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-stone-is-dropped-from-the-top-of-a-building-when-it-cross-jee-main-physics-units-and-measurements-uumuzs2kiwpvrhpy",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Gravity Dropping",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Simultaneous drop equations"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th February Evening Shift",
+        "question": "A scooter accelerates from rest for time t _1 at constant rate a _1 and then retards at constant rate a _2 for time t _2 and comes to rest. The correct value of$t1t2$wil be :",
+        "options": [
+            "$a1+a2a2$",
+            "$a1+a2a1$",
+            "$a2a1$",
+            "$a1a2$"
+        ],
+        "answer": "$a2a1$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1klwh0ryn/e15f2aa9-29c8-4311-84e9-abc59025f2bb/04d9f1f0-7dca-11eb-8899-2d60151feb7a/file-1klwh0ryo-332w.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-scooter-accelerates-from-rest-for-time-tsub1sub-at-co-jee-main-physics-units-and-measurements-mothlg3ghfvtzubx",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: UAM",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Time ratio acceleration-retardation"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 5th September Evening Slot",
+        "question": "The velocity (v) and time (t) graph of a body in a straight line motion is shown in the figure. The point S is at 4.333 seconds. The total distance covered by the body in 6 s is : [IMAGE: https://imagex.cdn.examgoal.net/jgy2xukfl4ld7t/6a32aa8d-71f3-4cec-a806-e3c8ac9ccf1b/7f5b6190-00c3-11eb-8293-3b6cc591631c/file-jgy2xukfl4ld7u-320w.png]",
+        "options": [
+            "12 m",
+            "11 m",
+            "$494$m",
+            "$373$m"
+        ],
+        "answer": "$373$m",
+        "images": [
+            "https://imagex.cdn.examgoal.net/jgy2xukfl4ld7t/6a32aa8d-71f3-4cec-a806-e3c8ac9ccf1b/7f5b6190-00c3-11eb-8293-3b6cc591631c/file-jgy2xukfl4ld7u-320w.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/the-velocity-v-and-time-t-graph-of-a-body-in-a-straight-jee-main-physics-motion-fgd2hvs1izbyvxff",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Graph v-t",
+        "logic_type": "Graphical",
+        "difficulty": 3,
+        "physics_key": "Distance area under trapezoids"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 24th February Morning Shift",
+        "question": "If the velocity-time graph has the shape AMB, what would be the shape of the corresponding acceleration-time graph? [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l9fnt6e1/5aa2bb7a-b61b-46b5-a898-6b10e127ad4c/6f7b1890-4fb0-11ed-88d9-abb495ae8a3e/file-1l9fnt6e2.png?format=png]",
+        "options": [
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l9fnvueo/11a08451-19aa-4638-ac16-a4e6fe10970e/b9a6fb00-4fb0-11ed-88d9-abb495ae8a3e/file-1l9fnvuep.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l9fnvd0n/fc0fdfda-05c8-4ca5-a116-9b7c3d520132/ac384280-4fb0-11ed-88d9-abb495ae8a3e/file-1l9fnvd0o.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l9fntq0u/f3a11389-6b69-4a54-9678-98c552e2bc7f/7ea5b1e0-4fb0-11ed-88d9-abb495ae8a3e/file-1l9fntq0v.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l9fnuf1m/12bdf8f3-4758-4f24-8a92-de744e5f38e9/91f9d0a0-4fb0-11ed-88d9-abb495ae8a3e/file-1l9fnuf1n.png?format=png]"
+        ],
+        "answer": "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l9fntq0u/f3a11389-6b69-4a54-9678-98c552e2bc7f/7ea5b1e0-4fb0-11ed-88d9-abb495ae8a3e/file-1l9fntq0v.png?format=png]",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l9fnt6e1/5aa2bb7a-b61b-46b5-a898-6b10e127ad4c/6f7b1890-4fb0-11ed-88d9-abb495ae8a3e/file-1l9fnt6e2.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l9fnvueo/11a08451-19aa-4638-ac16-a4e6fe10970e/b9a6fb00-4fb0-11ed-88d9-abb495ae8a3e/file-1l9fnvuep.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l9fnvd0n/fc0fdfda-05c8-4ca5-a116-9b7c3d520132/ac384280-4fb0-11ed-88d9-abb495ae8a3e/file-1l9fnvd0o.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l9fntq0u/f3a11389-6b69-4a54-9678-98c552e2bc7f/7ea5b1e0-4fb0-11ed-88d9-abb495ae8a3e/file-1l9fntq0v.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l9fnuf1m/12bdf8f3-4758-4f24-8a92-de744e5f38e9/91f9d0a0-4fb0-11ed-88d9-abb495ae8a3e/file-1l9fnuf1n.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1kxei1rup/1ff42322-cfb9-4031-a388-2c3012567ac7/868fd400-617a-11ec-8d53-3f87ff4a83c4/file-1kxei1ruq.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1kxei2yjc/ee83ad42-7de6-4d62-aab5-dd4a82867ccf/a788fd80-617a-11ec-90ef-97830a7fdb59/file-1kxei2yjd.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/if-the-velocity-time-graph-has-the-shape-amb-what-would-be-jee-main-physics-units-and-measurements-oghtqcaonmew7uwt",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Graph v-t to a-t",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "Slope of v-t is acceleration"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 25th February Morning Shift",
+        "question": "An engine of a train, moving with uniform acceleration, passes the signal-post with velocity u and the last compartment with velocity v. The velocity with which middle point of the train passes the signal post is :",
+        "options": [
+            "$u+v2$",
+            "$v2\u2212u22$",
+            "$v\u2212u2$",
+            "$v2+u22$"
+        ],
+        "answer": "$v2+u22$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1klxwjnsg/dda24f48-d0b7-4cb8-81c9-5043a74f5f8b/8396ea10-7e93-11eb-a28b-a1f033072627/file-1klxwjnsh-1220w.jpeg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/an-engine-of-a-train-moving-with-uniform-acceleration-pass-jee-main-physics-units-and-measurements-wh96bjr7b6f13hdi",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: UAM",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Velocity at midpoint derivation"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 17th March Morning Shift",
+        "question": "A car accelerates from rest at a constant rate$\u03b1$for some time after which it decelerates at a constant rate$\u03b2$to come to rest. If the total time elapsed is t seconds, the total distance travelled is :",
+        "options": [
+            "$4\u03b1\u03b2(\u03b1+\u03b2)t2$",
+            "$2\u03b1\u03b2(\u03b1+\u03b2)t2$",
+            "$\u03b1\u03b22(\u03b1+\u03b2)t2$",
+            "$\u03b1\u03b24(\u03b1+\u03b2)t2$"
+        ],
+        "answer": "$\u03b1\u03b22(\u03b1+\u03b2)t2$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1ko7h7eqi/3fc6c26c-b8ae-40dc-a65f-c6a13fb23763/cb332ba0-ab6f-11eb-b998-914ca047e327/file-1ko7h7eqj.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-car-accelerates-from-rest-at-a-constant-rate-alpha-fo-jee-main-physics-units-and-measurements-93auafs85sjtfxlo",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: UAM",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Max velocity distance elapsed time"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 5th September Morning Slot",
+        "question": "A helicopter rises from rest on the ground vertically upwards with a constant acceleration g. A food packet is dropped from the helicopter when it is at a height h. The time taken by the packet to reach the ground is close to : [g is the acceleration due to gravity]",
+        "options": [
+            "t = 3.4$(hg)$",
+            "t = 1.8$(hg)$",
+            "t =$2h3g$",
+            "t =$23(hg)$"
+        ],
+        "answer": "t = 3.4$(hg)$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1kjtn1x08/c039d0c2-31ee-48b0-82e4-1c7808924fd7/d2a02d80-54a2-11eb-bc03-4b67b2efa0ee/file-1kjtn1x09-1760w.jpeg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-helicopter-rises-from-rest-on-the-ground-vertically-upwar-jee-main-physics-motion-3yi2eil1v3lbqcgt",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Gravity Vertical",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Packet drop from accelerating frame"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 4th September Morning Slot",
+        "question": "A Tennis ball is released from a height h and after freely falling on a wooden floor it rebounds and reaches height$h2$. The velocity versus height of the ball during its motion may be represented graphically by : (graph are drawn schematically and on not to scale)",
+        "options": [
+            "[IMAGE: https://imagex.cdn.examgoal.net/jgy2xukeu3x0au/aa44044d-3c98-4161-95e4-70009e4af779/b06d1660-f1e7-11ea-8293-3b6cc591631c/file-jgy2xukeu3x0av-152w.jpg]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/jgy2xukeu3z3my/af0198b6-555d-4b4f-a0f2-ead5a859382e/ea9f28a0-f1e7-11ea-8293-3b6cc591631c/file-jgy2xukeu3z3mz-146w.jpg]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/jgy2xukeu3znck/76a9b073-413b-436e-a71a-78601fe94392/f9d95250-f1e7-11ea-8293-3b6cc591631c/file-jgy2xukeu3zncl-157w.jpg]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/jgy2xukeu40wzq/64e58cd2-0257-41db-aa89-915ce7c83dae/1d1b5a60-f1e8-11ea-8293-3b6cc591631c/file-jgy2xukeu40wzr-160w.jpg]"
+        ],
+        "answer": "[IMAGE: https://imagex.cdn.examgoal.net/jgy2xukeu3znck/76a9b073-413b-436e-a71a-78601fe94392/f9d95250-f1e7-11ea-8293-3b6cc591631c/file-jgy2xukeu3zncl-157w.jpg]",
+        "images": [
+            "https://imagex.cdn.examgoal.net/jgy2xukeu3x0au/aa44044d-3c98-4161-95e4-70009e4af779/b06d1660-f1e7-11ea-8293-3b6cc591631c/file-jgy2xukeu3x0av-152w.jpg",
+            "https://imagex.cdn.examgoal.net/jgy2xukeu3z3my/af0198b6-555d-4b4f-a0f2-ead5a859382e/ea9f28a0-f1e7-11ea-8293-3b6cc591631c/file-jgy2xukeu3z3mz-146w.jpg",
+            "https://imagex.cdn.examgoal.net/jgy2xukeu3znck/76a9b073-413b-436e-a71a-78601fe94392/f9d95250-f1e7-11ea-8293-3b6cc591631c/file-jgy2xukeu3zncl-157w.jpg",
+            "https://imagex.cdn.examgoal.net/jgy2xukeu40wzq/64e58cd2-0257-41db-aa89-915ce7c83dae/1d1b5a60-f1e8-11ea-8293-3b6cc591631c/file-jgy2xukeu40wzr-160w.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-tennis-ball-is-released-from-a-height-h-and-after-freely-f-jee-main-physics-motion-no6b6svtkldoa0wu",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Graph v-x",
+        "logic_type": "Graphical",
+        "difficulty": 3,
+        "physics_key": "Energy loss velocity square graph"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 2nd September Morning Slot",
+        "question": "Train A and train B are running on parallel tracks in the opposite directions with speeds of 36 km/hour and 72 km/hour, respectively. A person is walking in train A in the direction opposite to its motion with a speed of 1.8 km/ hour. Speed (in ms ^\u20131 ) of this person as observed from train B will be close to : (take the distance between the tracks as negligible)",
+        "options": [
+            "30.5 ms ^\u20131",
+            "29.5 ms ^\u20131",
+            "31.5 ms ^\u20131",
+            "28.5 ms ^\u20131"
+        ],
+        "answer": "29.5 ms ^\u20131",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/train-a-and-train-b-are-running-on-parallel-tracks-in-the-op-jee-main-physics-motion-i2de3pjlqmeod12o",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Relative Velocity",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Triple relative velocity"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th April Evening Slot",
+        "question": "The position vector of a particle changes with time according to the relation$r\u2192(t)=15t2i^+(4\u221220t2)j^$What is the magnitude of the acceleration at t = 1 ?",
+        "options": [
+            "50",
+            "25",
+            "40",
+            "100"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-position-vector-of-a-particle-changes-with-time-accordin-jee-main-physics-units-and-measurements-uxofbfz1eythsghn",
+        "is_numerical": false,
+        "sub_topic": "Calculus: Vector Motion",
+        "logic_type": "Calculus",
+        "difficulty": 2,
+        "physics_key": "Vector acceleration magnitude"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 8th April Evening Slot",
+        "question": "A particle starts from origin O from rest and moves with a uniform acceleration along the positive x-axis. Identify all figures that correctly represent the motion qualitatively. (a = acceleration, v = velocity, x = displacement, t = time) [IMAGE: https://imagex.cdn.examgoal.net/18hoxe66ijw96ge7c/adcd6e28-a881-473e-8d80-351cb3941393/4356f680-8209-11e9-8081-1d558b7f1d26/file-18hoxe66ijw96ge7d.png] [IMAGE: https://imagex.cdn.examgoal.net/18hoxe66ijw96h2z1/cf5b9f52-affc-4bcd-a5ee-69041d2e67dd/56792fd0-8209-11e9-8081-1d558b7f1d26/file-18hoxe66ijw96h2z2.png] [IMAGE: https://imagex.cdn.examgoal.net/18hoxe66ijw96hi3w/236a7e52-5881-4442-b699-25bb7e07d4b4/622a32c0-8209-11e9-8081-1d558b7f1d26/file-18hoxe66ijw96hi3x.png] [IMAGE: https://imagex.cdn.examgoal.net/18hoxe66ijw96hx4n/099570e5-2e39-425f-9add-e4f514d8ba99/6dc4a070-8209-11e9-8081-1d558b7f1d26/file-18hoxe66ijw96hx4o.png]",
+        "options": [
+            "(B), (C)",
+            "(A)",
+            "(A), (B), (C)",
+            "(A), (B), (D)"
+        ],
+        "answer": "N/A",
+        "images": [
+            "https://imagex.cdn.examgoal.net/18hoxe66ijw96ge7c/adcd6e28-a881-473e-8d80-351cb3941393/4356f680-8209-11e9-8081-1d558b7f1d26/file-18hoxe66ijw96ge7d.png",
+            "https://imagex.cdn.examgoal.net/18hoxe66ijw96h2z1/cf5b9f52-affc-4bcd-a5ee-69041d2e67dd/56792fd0-8209-11e9-8081-1d558b7f1d26/file-18hoxe66ijw96h2z2.png",
+            "https://imagex.cdn.examgoal.net/18hoxe66ijw96hi3w/236a7e52-5881-4442-b699-25bb7e07d4b4/622a32c0-8209-11e9-8081-1d558b7f1d26/file-18hoxe66ijw96hi3x.png",
+            "https://imagex.cdn.examgoal.net/18hoxe66ijw96hx4n/099570e5-2e39-425f-9add-e4f514d8ba99/6dc4a070-8209-11e9-8081-1d558b7f1d26/file-18hoxe66ijw96hx4o.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-particle-starts-from-origin-o-from-rest-and-moves-with-a-u-jee-main-physics-units-and-measurements-tsdvgax8cwnp4a4j",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Graph Principles",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "Constant acceleration graph selection"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th April Evening Slot",
+        "question": "A particle is moving with speed v = b$x$along positive x-axis. Calculate the speed of the particle at time t =$\u03c4$(assume that the particle is at origin t = 0)",
+        "options": [
+            "$b2\u03c42$",
+            "$b2\u03c4$",
+            "$b2\u03c42$",
+            "$b2\u03c44$"
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-particle-is-moving-with-speed-v--bsqrt-x--along-posi-jee-main-physics-motion-bw4deejke55b4vti",
+        "is_numerical": false,
+        "sub_topic": "Calculus: Variable Motion",
+        "logic_type": "Calculus",
+        "difficulty": 4,
+        "physics_key": "v(x) to x(t) integration"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 12th January Morning Slot",
+        "question": "A passenger train of length 60 m travels at a speed of 80 km/hr. Another freight train of length 120 m travels at a speed of 30 km/hr. The ratio of times taken by the passenger train to completely cross the freight train when : (i) they are moving in the same direction , and (ii) in the opposite direction is :",
+        "options": [
+            "$2511$",
+            "$32$",
+            "$115$",
+            "$52$"
+        ],
+        "answer": "$115$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-passenger-train-of-length-60-m-travels-at-a-speed-of-80-km-jee-main-physics-units-and-measurements-ilcj5iscq9zll7gg",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Relative Velocity",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Crossing time ratio"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 11th January Evening Slot",
+        "question": "A particle moves from the point$(2.0i^+4.0j^)$m, at t = 0, with an initial velocity$(5.0i^+4.0j^)$ms ^$\u2212$1 . It is acted upon by a constant force which produces a constant acceleration$(4.0i^+4.0j^)$ms ^$\u2212$2 . What is the distance of the particle from the origin at time 2 s?",
+        "options": [
+            "15 m",
+            "$202$m",
+            "$102$m",
+            "5 m"
+        ],
+        "answer": "$202$m",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-particle-moves-from-the-point-left-20widehat-i-4-jee-main-physics-units-and-measurements-mcgainlnrti22cry",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: UAM Vector",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Vector displacement distance"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th April Evening Slot",
+        "question": "The position of a particle as a function of time t, is given by x(t) = at + bt ^2 \u2013 ct ^3 where a, b and c are constants. When the particle attains zero acceleration, then its velocity will be :",
+        "options": [
+            "$a+b2c$",
+            "$a+b24c$",
+            "$a+b23c$",
+            "$a+b22c$"
+        ],
+        "answer": "$a+b23c$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-position-of-a-particle-as-a-function-of-time-t-is-given-jee-main-physics-units-and-measurements-sbyic7pswbey5izd",
+        "is_numerical": false,
+        "sub_topic": "Calculus: Acceleration",
+        "logic_type": "Calculus",
+        "difficulty": 3,
+        "physics_key": "Zero acceleration velocity"
+    },
+    {
+        "metadata": "JEE Main 2018 (Offline)",
+        "question": "All the graphs below are intended to represent the same motion. One of them does it incorrectly. Pick it up.",
+        "options": [
+            "[IMAGE: https://gateclass.cdn.examgoal.net/SLJCGRTwWe0VZYNpK/7izXT6VjcbhVAKMWBg4cH7s8GyBpD/5w90ktu4kCcg38PR8emGQL/uploadfile.jpg]",
+            "[IMAGE: https://gateclass.cdn.examgoal.net/XyM8HYs8k1VF8T6Yy/vbVJkf5ySDBvc7Z1KOVZbnmZ5Asg8/H2cKSnIg1vDzMLaiexPzHi/uploadfile.jpg]",
+            "[IMAGE: https://gateclass.cdn.examgoal.net/YlSA0KTpaVNGGlUJF/ECzI3LdJ54LeUzULrU2zLMv7usASk/Hpopw7KXgTKKYsDjz2xL7d/uploadfile.jpg]",
+            "[IMAGE: https://gateclass.static.cdn.examgoal.net/ph8DmwAWAifk2JvBY/7BjV10pyREhG4G86n23xd9uIs23ss/OeNaXegz9k6u5sVu4S9wHN/uploadfile.jpg]"
+        ],
+        "answer": "[IMAGE: https://gateclass.cdn.examgoal.net/YlSA0KTpaVNGGlUJF/ECzI3LdJ54LeUzULrU2zLMv7usASk/Hpopw7KXgTKKYsDjz2xL7d/uploadfile.jpg]",
+        "images": [
+            "https://gateclass.cdn.examgoal.net/SLJCGRTwWe0VZYNpK/7izXT6VjcbhVAKMWBg4cH7s8GyBpD/5w90ktu4kCcg38PR8emGQL/uploadfile.jpg",
+            "https://gateclass.cdn.examgoal.net/XyM8HYs8k1VF8T6Yy/vbVJkf5ySDBvc7Z1KOVZbnmZ5Asg8/H2cKSnIg1vDzMLaiexPzHi/uploadfile.jpg",
+            "https://gateclass.cdn.examgoal.net/YlSA0KTpaVNGGlUJF/ECzI3LdJ54LeUzULrU2zLMv7usASk/Hpopw7KXgTKKYsDjz2xL7d/uploadfile.jpg",
+            "https://gateclass.static.cdn.examgoal.net/ph8DmwAWAifk2JvBY/7BjV10pyREhG4G86n23xd9uIs23ss/OeNaXegz9k6u5sVu4S9wHN/uploadfile.jpg",
+            "https://imagex.cdn.examgoal.net/8c45QQoLNzNufkyVi/tm5blhqqoADNg3fvLXemC5PQc8VMX/s4wkLXGIwa6TZuGL8FqC2d/image.png",
+            "https://imagex.cdn.examgoal.net/jdlADZqBPSW7xpBtx/iur0QL8b5X2Bieh86psmvmCnjyRJQ/SlAIypPo8h1HpNeISawScS/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/all-the-graphs-below-are-intended-to-represent-the-same-moti-2018-marks-4-yjza2kjcnwmolnku.htm",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Graph Principles",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "Inconsistent graph identification"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 9th January Evening Slot",
+        "question": "In a car race on straight road, car A takes a time t less than car B at the finish and passes finishing point with a speed '$\u03c5$' more than that of car B. Both the cars start from rest and travel with constant acceleration a _1 and a _2 respectively. Then '$\u03c5$' is equal to :",
+        "options": [
+            "$2a1a2a1+a2t$",
+            "$2a1a2t$",
+            "$a1a2t$",
+            "$a1+a22t$"
+        ],
+        "answer": "$a1a2t$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/in-a-car-race-on-straight-road-car-a-takes-a-time-t-less-th-jee-main-physics-units-and-measurements-kghev5ny8ylzhteq",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: UAM",
+        "logic_type": "Analytical",
+        "difficulty": 4,
+        "physics_key": "Velocity difference final time"
+    },
+    {
+        "metadata": "JEE Main 2019 (Online) 10th January Evening Slot",
+        "question": "A particle starts from the origin at time t = 0 and moves along the positive x-axis. The graph of velocity with respect to time is shown in figure. What is the position of the particle at time t = 5s ? [IMAGE: https://imagex.cdn.examgoal.net/erbTNX21w6pBMhVbW/r64SY2ygVkZUHeyuvy0bf1bs8ixSg/SKdbfsl0sJHn7K68ogKo6v/image.png]",
+        "options": [
+            "3 m",
+            "9 m",
+            "10 m",
+            "6 m"
+        ],
+        "answer": "9 m",
+        "images": [
+            "https://imagex.cdn.examgoal.net/erbTNX21w6pBMhVbW/r64SY2ygVkZUHeyuvy0bf1bs8ixSg/SKdbfsl0sJHn7K68ogKo6v/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-particle-starts-from-the-origin-at-time-t-0-and-moves-al-jee-main-physics-units-and-measurements-cnrt2wwaksb3mfqk",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Graph v-t",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "Position area under v-t"
+    },
+    {
+        "metadata": "JEE Main 2018 (Online) 15th April Morning Slot",
+        "question": "An automobile, travelling at$40$km/h, can be stopped at a distance of$40$m by applying brakes. If the same automobile is travelling at$80$km/h, the minimum stopping distance, in metres, is (assume no skidding) :",
+        "options": [
+            "$45$m",
+            "$100$m",
+            "$150$m",
+            "$160$m"
+        ],
+        "answer": "$160$m",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-automobile-travelling-at-40-kmh-can-be-stopped-a-jee-main-physics-units-and-measurements-nni4ndje17rpvdfd",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Stopping Distance",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Stopping distance velocity square"
+    },
+    {
+        "metadata": "JEE Main 2018 (Online) 15th April Morning Slot",
+        "question": "The velocity-time graphs of a car and a scooter are shown in the figure. (i) The difference between the distance travelled by the car and the scooter in$15$$s$and (ii) the time at which the car will catch up with the scooter are, respectively. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l7u6u2wa/df7b24fc-6459-4b2a-a235-cdfea3521dd7/606128a0-3015-11ed-ab58-4f43f7f8c851/file-1l7u6u2wb.png?format=png]",
+        "options": [
+            "$112.5$$m$and$22.5$$s$",
+            "$337.5$$m$and$25$$s$",
+            "$112.5$$m$and$15$$s$",
+            "$225.5$$m$and$10$$s$"
+        ],
+        "answer": "$112.5$$m$and$22.5$$s$",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l7u6u2wa/df7b24fc-6459-4b2a-a235-cdfea3521dd7/606128a0-3015-11ed-ab58-4f43f7f8c851/file-1l7u6u2wb.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/the-velocity-time-graphs-of-a-car-and-a-scooter-are-shown-in-jee-main-physics-units-and-measurements-ybro24sal1ubfwc7",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Graph v-t",
+        "logic_type": "Graphical",
+        "difficulty": 3,
+        "physics_key": "Distance difference area equal"
+    },
+    {
+        "metadata": "JEE Main 2017 (Online) 8th April Morning Slot",
+        "question": "Which graph corresponds to an object moving with a constant negative acceleration and a positive velocity ?",
+        "options": [
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l83nomz1/fa176d71-e87b-48bf-9625-cb66c114583b/5212cfd0-354a-11ed-8c5c-f3f0850e6b94/file-1l83nomz2.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l83no60i/5a47aee1-71d9-4970-89e9-a800840f07e8/44f91520-354a-11ed-8c5c-f3f0850e6b94/file-1l83no60j.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l83nnoun/83a57caa-2777-465c-bacd-55e8e53eed0a/37b711f0-354a-11ed-8c5c-f3f0850e6b94/file-1l83nnouo.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l83nn5um/6277cf21-9a8a-443d-912d-bd0c5141eb26/290997e0-354a-11ed-8c5c-f3f0850e6b94/file-1l83nn5un.png?format=png]"
+        ],
+        "answer": "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l83nnoun/83a57caa-2777-465c-bacd-55e8e53eed0a/37b711f0-354a-11ed-8c5c-f3f0850e6b94/file-1l83nnouo.png?format=png]",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l83nomz1/fa176d71-e87b-48bf-9625-cb66c114583b/5212cfd0-354a-11ed-8c5c-f3f0850e6b94/file-1l83nomz2.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l83no60i/5a47aee1-71d9-4970-89e9-a800840f07e8/44f91520-354a-11ed-8c5c-f3f0850e6b94/file-1l83no60j.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l83nnoun/83a57caa-2777-465c-bacd-55e8e53eed0a/37b711f0-354a-11ed-8c5c-f3f0850e6b94/file-1l83nnouo.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l83nn5um/6277cf21-9a8a-443d-912d-bd0c5141eb26/290997e0-354a-11ed-8c5c-f3f0850e6b94/file-1l83nn5un.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/which-graph-corresponds-to-an-object-moving-with-a-constant-jee-main-physics-units-and-measurements-8rftufwriagk4idr",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Graph Principles",
+        "logic_type": "Graphical",
+        "difficulty": 1,
+        "physics_key": "Negative acceleration positive velocity"
+    },
+    {
+        "metadata": "JEE Main 2017 (Online) 9th April Morning Slot",
+        "question": "A car is standing 200 m behind a bus, which is also at rest. The two start moving at the same instant but with different forward accelerations. The bus has acceleration 2 m/s ^2 and the car has acceleration 4 m/s ^2 . The car will catch up with the bus after a time of :",
+        "options": [
+            "$110s$",
+            "$120s$",
+            "$102s$",
+            "15 s"
+        ],
+        "answer": "$102s$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-car-is-standing-200-m-behind-a-bus-which-is-also-at-rest-jee-main-physics-units-and-measurements-evttkiwpksylyoy2",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Relative Velocity",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Catch up time constant acceleration"
+    },
+    {
+        "metadata": "JEE Main 2014 (Offline)",
+        "question": "From a tower of height H, a particle is thrown vertically upwards with a speed u. The time taken by the particle, to hit the ground, is n times that taken by it to reach the highest point of its path. The relation between H, u and n is:",
+        "options": [
+            "2gH = n ^2 u ^2",
+            "gH = (n - 2) ^2 u ^2",
+            "2gH = nu ^2 (n - 2)",
+            "gH = (n - 2)u ^2"
+        ],
+        "answer": "2gH = nu ^2 (n - 2)",
+        "images": [
+            "https://imagex.cdn.examgoal.net/V2yMxVsFQA4sqqL8I/hrnj3nSbm4kDKNzJcGiO52xCBNZOW/UKKClN9uPDsrIvPpPpUFsC/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/from-a-tower-of-height-h-a-particle-is-thrown-vertically-up-2014-marks-4-zf24hr1srpothevm.htm",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Gravity Vertical",
+        "logic_type": "Analytical",
+        "difficulty": 4,
+        "physics_key": "Height relation time ratio"
+    },
+    {
+        "metadata": "AIEEE 2011",
+        "question": "An object, moving with a speed of 6.25 m/s, is decelerated at a rate given by :$dvdt=\u22122.5v$where v is the instantaneous speed. The time taken by the object, to come to rest, would be :",
+        "options": [
+            "2 s",
+            "4 s",
+            "8 s",
+            "1 s"
+        ],
+        "answer": "2 s",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-object-moving-with-a-speed-of-625-ms-is-decelerated-a-2011-marks-4-fuuwdatrmqlm5a4w.htm",
+        "is_numerical": false,
+        "sub_topic": "Calculus: Variable Motion",
+        "logic_type": "Calculus",
+        "difficulty": 3,
+        "physics_key": "Deceleration time integration"
+    },
+    {
+        "metadata": "JEE Main 2015 (Offline)",
+        "question": "Two stones are thrown up simultaneously from the edge of a cliff$240$$m$high with initial speed of$10$$m/s$and$40$$m/s$respectively. Which of the following graph best represents the time variation of relative position of the second stone with respect to the first ? (Assume stones do not rebound after hitting the ground and neglect air resistance, take$g=10m/s2$) (The figures are schematic and not drawn to scale)",
+        "options": [
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l91dw8zy/227e1c58-4098-46f6-a69e-17118c030811/b08a4ae0-47d6-11ed-9a0e-8f7a98995d79/file-1l91dw8zz.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l91dx2iz/3eeb81cc-2d7a-4e8a-b9a4-9789b139525b/c759adb0-47d6-11ed-9a0e-8f7a98995d79/file-1l91dx2j0.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l91dsqp1/9b08c45c-b83b-4857-b979-ed70b4fd06c1/4ef92e40-47d6-11ed-9a0e-8f7a98995d79/file-1l91dsqp2.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l91dti7v/0c1ad1d7-449f-4fff-a08c-d4a9be92f713/643c24b0-47d6-11ed-9a0e-8f7a98995d79/file-1l91dti7w.png?format=png]"
+        ],
+        "answer": "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l91dw8zy/227e1c58-4098-46f6-a69e-17118c030811/b08a4ae0-47d6-11ed-9a0e-8f7a98995d79/file-1l91dw8zz.png?format=png]",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l91dw8zy/227e1c58-4098-46f6-a69e-17118c030811/b08a4ae0-47d6-11ed-9a0e-8f7a98995d79/file-1l91dw8zz.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l91dx2iz/3eeb81cc-2d7a-4e8a-b9a4-9789b139525b/c759adb0-47d6-11ed-9a0e-8f7a98995d79/file-1l91dx2j0.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l91dsqp1/9b08c45c-b83b-4857-b979-ed70b4fd06c1/4ef92e40-47d6-11ed-9a0e-8f7a98995d79/file-1l91dsqp2.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l91dti7v/0c1ad1d7-449f-4fff-a08c-d4a9be92f713/643c24b0-47d6-11ed-9a0e-8f7a98995d79/file-1l91dti7w.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/two-stones-are-thrown-up-simultaneously-from-the-edge-of-a-c-2015-marks-4-m31xpxssmegpqhzr.htm",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Relative Velocity",
+        "logic_type": "Graphical",
+        "difficulty": 4,
+        "physics_key": "Relative position graph"
+    },
+    {
+        "metadata": "JEE Main 2017 (Offline)",
+        "question": "A body is thrown vertically upwards. Which one of the following graphs correctly represent the velocity vs time?",
+        "options": [
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l7ym679k/b64b04e1-2781-4b32-934e-b8ead9c2dc90/7cffbc80-3284-11ed-8893-19b23ee4c66d/file-1l7ym679l.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l7ym4j7s/e09e3709-0b25-4a91-a81d-b25eaf78edd9/4e9cbc80-3284-11ed-8893-19b23ee4c66d/file-1l7ym4j7t.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l7ym55v0/56a17ab8-5c7d-49b7-b7e1-96ccdda1727b/601bf430-3284-11ed-8893-19b23ee4c66d/file-1l7ym55v7.png?format=png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l7ym5nls/df0bfa34-2982-4ecf-a2b6-1eacfd9d3185/6dcfcc00-3284-11ed-8893-19b23ee4c66d/file-1l7ym5nlt.png?format=png]"
+        ],
+        "answer": "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l7ym5nls/df0bfa34-2982-4ecf-a2b6-1eacfd9d3185/6dcfcc00-3284-11ed-8893-19b23ee4c66d/file-1l7ym5nlt.png?format=png]",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l7ym679k/b64b04e1-2781-4b32-934e-b8ead9c2dc90/7cffbc80-3284-11ed-8893-19b23ee4c66d/file-1l7ym679l.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l7ym4j7s/e09e3709-0b25-4a91-a81d-b25eaf78edd9/4e9cbc80-3284-11ed-8893-19b23ee4c66d/file-1l7ym4j7t.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l7ym55v0/56a17ab8-5c7d-49b7-b7e1-96ccdda1727b/601bf430-3284-11ed-8893-19b23ee4c66d/file-1l7ym55v7.png?format=png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l7ym5nls/df0bfa34-2982-4ecf-a2b6-1eacfd9d3185/6dcfcc00-3284-11ed-8893-19b23ee4c66d/file-1l7ym5nlt.png?format=png",
+            "https://imagex.cdn.examgoal.net/8c45QQoLNzNufkyVi/tm5blhqqoADNg3fvLXemC5PQc8VMX/s4wkLXGIwa6TZuGL8FqC2d/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-body-is-thrown-vertically-upwards-which-one-of-the-follow-2017-marks-4-pionx5jzrkm2ulvn.htm",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Graph v-t",
+        "logic_type": "Graphical",
+        "difficulty": 1,
+        "physics_key": "Vertical throw velocity graph"
+    },
+    {
+        "metadata": "AIEEE 2009",
+        "question": "Consider a rubber ball freely falling from a height$h=4.9$$m$onto a horizontal elastic plate. Assume that the duration of collision is negligible and the collision with the plate is totally elastic. Then the velocity as a function of time and the height as a function of time will be :",
+        "options": [
+            "[IMAGE: https://imagex.cdn.examgoal.net/9pIz03QyAdZfVxI1c/NN9sOK1BxfES1wKA7nPnE2lM5zZJM/0u5abVLC0SMUKG6KwH3U1f/image.png]",
+            "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l6t9j9ry/ed002583-74a4-4104-bf05-37cb8d7bfae4/ef2705e0-1bc6-11ed-8fe8-d30a4b6841a3/file-1l6t9j9rz.png?format=png]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/JTp8mt7voae2GRB9R/ePo7LazxgvvYj9PvOFdoYKQhrBquh/jhhU3HA1WtpVQeMrijqoKL/image.png]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/iuJsktMMyKgCmrXZY/XiwpdZqaeAXPqPDAXcldC1oM5E9kM/HBCXv6MJmxuEdcBzIGfKVC/image.png]"
+        ],
+        "answer": "[IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l6t9j9ry/ed002583-74a4-4104-bf05-37cb8d7bfae4/ef2705e0-1bc6-11ed-8fe8-d30a4b6841a3/file-1l6t9j9rz.png?format=png]",
+        "images": [
+            "https://imagex.cdn.examgoal.net/9pIz03QyAdZfVxI1c/NN9sOK1BxfES1wKA7nPnE2lM5zZJM/0u5abVLC0SMUKG6KwH3U1f/image.png",
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l6t9j9ry/ed002583-74a4-4104-bf05-37cb8d7bfae4/ef2705e0-1bc6-11ed-8fe8-d30a4b6841a3/file-1l6t9j9rz.png?format=png",
+            "https://imagex.cdn.examgoal.net/JTp8mt7voae2GRB9R/ePo7LazxgvvYj9PvOFdoYKQhrBquh/jhhU3HA1WtpVQeMrijqoKL/image.png",
+            "https://imagex.cdn.examgoal.net/iuJsktMMyKgCmrXZY/XiwpdZqaeAXPqPDAXcldC1oM5E9kM/HBCXv6MJmxuEdcBzIGfKVC/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/consider-a-rubber-ball-freely-falling-from-a-height-h49-2009-marks-4-vhabexzh1wqvudxx.htm",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Graph v-t",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "Elastic bounce v-t graph"
+    },
+    {
+        "metadata": "AIEEE 2008",
+        "question": "A body is at rest at$x=0.$At$t=0,$it starts moving in the positive$x$-direction with a constant acceleration. At the same instant another body passes through$x=0$moving in the positive$x$direction with a constant speed. The position of the first body is given by$x1(t)$after time$\u2032t\u2032;$and that of the second body by$x2(t)$after the same time interval. Which of the following graphs correctly describes$(x1\u2212x2)$as a function of time$\u2032t\u2032$?",
+        "options": [
+            "[IMAGE: https://imagex.cdn.examgoal.net/UlysoC9tmxlUr4L2K/Wg84RJ3Q5yy8kuhGCFNDRoClAvn2u/YtALKJEjIpERXg5WEN5n45/image.png]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/n6yqDl8BvOQl8L9z8/ohJKadq4xT0ZFlZd1LDkqXXNjIBIj/MQCUxUUiMxMOyLx6cS9Kg0/image.png]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/qeyoWwtKPBYXZM6fG/K8i43CqzAQacgian0z4ZAEIOeh3IJ/LrDROUd6wSGejB2Gr9rKrz/image.png]",
+            "[IMAGE: https://imagex.cdn.examgoal.net/ft19e3NAsq45wFLDK/eOXZSSffPmByu8hl54yeo40nX3LvR/gfDZbj6AGacwpfoUIVCgBV/image.png]"
+        ],
+        "answer": "[IMAGE: https://imagex.cdn.examgoal.net/n6yqDl8BvOQl8L9z8/ohJKadq4xT0ZFlZd1LDkqXXNjIBIj/MQCUxUUiMxMOyLx6cS9Kg0/image.png]",
+        "images": [
+            "https://imagex.cdn.examgoal.net/UlysoC9tmxlUr4L2K/Wg84RJ3Q5yy8kuhGCFNDRoClAvn2u/YtALKJEjIpERXg5WEN5n45/image.png",
+            "https://imagex.cdn.examgoal.net/n6yqDl8BvOQl8L9z8/ohJKadq4xT0ZFlZd1LDkqXXNjIBIj/MQCUxUUiMxMOyLx6cS9Kg0/image.png",
+            "https://imagex.cdn.examgoal.net/qeyoWwtKPBYXZM6fG/K8i43CqzAQacgian0z4ZAEIOeh3IJ/LrDROUd6wSGejB2Gr9rKrz/image.png",
+            "https://imagex.cdn.examgoal.net/ft19e3NAsq45wFLDK/eOXZSSffPmByu8hl54yeo40nX3LvR/gfDZbj6AGacwpfoUIVCgBV/image.png",
+            "https://imagex.cdn.examgoal.net/y4Ii5xEKrpervdSSh/edUUZ9WxMOPrPlRrDsNCV7dCi4tcs/3Z5Jsc3vSoZUbidJDcDdtJ/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-body-is-at-rest-at-x0-at-t0-it-starts-moving-i-2008-marks-4-aplpd3sjjvdrtvev.htm",
+        "is_numerical": false,
+        "sub_topic": "Waveform: Graph x-t",
+        "logic_type": "Graphical",
+        "difficulty": 3,
+        "physics_key": "Relative position graph UAM"
+    },
+    {
+        "metadata": "AIEEE 2007",
+        "question": "The velocity of a particle is v = v _0 + gt + ft ^2 . If its position is x = 0 at t = 0, then its displacement after unit time (t = 1) is",
+        "options": [
+            "v _0 + g/2 + f",
+            "v _0 + 2g + 3f",
+            "v _0 + g/2 + f/3",
+            "v _0 + g + f"
+        ],
+        "answer": "v _0 + g/2 + f/3",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-velocity-of-a-particle-is-v-v0-gt-ft2-if-its-posi-2007-marks-4-nfucxibo2rjmdukn.htm",
+        "is_numerical": false,
+        "sub_topic": "Calculus: Displacement",
+        "logic_type": "Calculus",
+        "difficulty": 2,
+        "physics_key": "Displacement from velocity integration"
+    },
+    {
+        "metadata": "AIEEE 2004",
+        "question": "An automobile travelling with speed of 60 km/h, can brake to stop within a distance of 20 m. If the car is going twice as fast, i.e 120 km/h, the stopping distance will be",
+        "options": [
+            "60 m",
+            "40 m",
+            "20 m",
+            "80 m"
+        ],
+        "answer": "80 m",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/an-automobile-travelling-with-speed-of-60-kmh-can-brake-to-2004-marks-4-ken7lbtd3nafqy6u.htm",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Stopping Distance",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Stopping distance velocity square"
+    },
+    {
+        "metadata": "AIEEE 2005",
+        "question": "The relation between time t and distance x is t = ax ^2 + bx where a and b are constants. The acceleration is",
+        "options": [
+            "2bv ^3",
+            "-2abv ^2",
+            "2av ^2",
+            "-2av ^3"
+        ],
+        "answer": "-2av ^3",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-relation-between-time-t-and-distance-x-is-t-ax2-bx-w-2005-marks-4-g62ruq4wvqn4wwuv.htm",
+        "is_numerical": false,
+        "sub_topic": "Calculus: Variable Motion",
+        "logic_type": "Calculus",
+        "difficulty": 4,
+        "physics_key": "Acceleration a vs v from t(x)"
+    },
+    {
+        "metadata": "AIEEE 2005",
+        "question": "A car starting from rest accelerates at the rate f through a distance S, then continues at constant speed for time t and then decelerates at the rate$f2$to come to rest. If the total distance traversed is 15 S, then",
+        "options": [
+            "$S=16ft2$",
+            "$S=ft$",
+            "$S=14ft2$",
+            "$S=172ft2$"
+        ],
+        "answer": "$S=172ft2$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/CsqvEq2ff29aDlwQR/ALX4krm9NGWO1ELPs4aAZRDclHo8x/lLjGAdkSeCbwhhouD8dgWl/image.png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-car-starting-from-rest-accelerates-at-the-rate-f-through-a-2005-marks-4-fjlr8z4hwaqcn4qy.htm",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: UAM",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Total distance acceleration segments"
+    },
+    {
+        "metadata": "AIEEE 2005",
+        "question": "A parachutist after bailing out falls$50$$m$without friction. When parachute opens, it decelerates at$2m/s2.$He reaches the ground with a speed of$3$$m/s$. At what height, did he bail out?",
+        "options": [
+            "$182$$m$",
+            "$91$$m$",
+            "$111$$m$",
+            "$293$$m$"
+        ],
+        "answer": "$293$$m$",
+        "images": [
+            "https://imagex.cdn.examgoal.net/CKCw0BjOojeoZGf9E/SNtPbAVf9jNN3BpW4kIBi3UchrOMz/GcjWmEtlgVbShsKG8jmyQc/image.svg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-parachutist-after-bailing-out-falls-50-m-without-f-2005-marks-4-s5yfhvns9awad1zv.htm",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: UAM",
+        "logic_type": "Mixed-Concept",
+        "difficulty": 4,
+        "physics_key": "Terminal velocity deceleration"
+    },
+    {
+        "metadata": "AIEEE 2006",
+        "question": "A particle located at x = 0 at time t = 0, starts moving along the positive x-direction with a velocity 'v' that varies as$v=\u03b1x$. The displacement of the particle varies with time as",
+        "options": [
+            "t ^2",
+            "t",
+            "t ^1/2",
+            "t ^3"
+        ],
+        "answer": "t ^2",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-particle-located-at-x-0-at-time-t-0-starts-moving-alo-2006-marks-4-uy6k2wavhd70ftdr.htm",
+        "is_numerical": false,
+        "sub_topic": "Calculus: Variable Motion",
+        "logic_type": "Calculus",
+        "difficulty": 4,
+        "physics_key": "v(x) to x(t) integration"
+    },
+    {
+        "metadata": "AIEEE 2003",
+        "question": "The co-ordinates of a moving particle at any time 't' are given by x =$\u03b1$t ^3 and y = \u03b2t ^3 . The speed to the particle at time 't' is given by",
+        "options": [
+            "$3t\u03b12+\u03b22$",
+            "$3t2\u03b12+\u03b22$",
+            "$t2\u03b12+\u03b22$",
+            "$\u03b12+\u03b22$"
+        ],
+        "answer": "$3t2\u03b12+\u03b22$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-co-ordinates-of-a-moving-particle-at-any-time-t-are-gi-2003-marks-4-dlni3papf18r3ga5.htm",
+        "is_numerical": false,
+        "sub_topic": "Calculus: Vector Motion",
+        "logic_type": "Calculus",
+        "difficulty": 2,
+        "physics_key": "Vector velocity magnitude"
+    },
+    {
+        "metadata": "AIEEE 2004",
+        "question": "A ball is released from the top of a tower of height h meters. It takes T seconds to reach the ground. What is the position of the ball in$T3$seconds?",
+        "options": [
+            "$8h9$meters from the ground",
+            "$7h9$meters from the ground",
+            "$h9$meters from the ground",
+            "$7h18$meters from the ground"
+        ],
+        "answer": "$8h9$meters from the ground",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-ball-is-released-from-the-top-of-a-tower-of-height-h-meter-2004-marks-4-5g6rv43sxkpcukva.htm",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Gravity Dropping",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Fractional time position"
+    },
+    {
+        "metadata": "AIEEE 2003",
+        "question": "A car, moving with a speed of 50 km/hr, can be stopped by brakes after at least 6 m. If the same car is moving at a speed of 100 km/hr, the minimum stopping distance is",
+        "options": [
+            "12 m",
+            "18 m",
+            "24 m",
+            "6 m"
+        ],
+        "answer": "24 m",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-car-moving-with-a-speed-of-50-kmhr-can-be-stopped-by-br-2003-marks-4-vgq2zysrffm5zunt.htm",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Stopping Distance",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Stopping distance velocity square"
+    },
+    {
+        "metadata": "AIEEE 2002",
+        "question": "Speeds of two identical cars are$u$and$4$$u$at the specific instant. The ratio of the respective distances in which the two cars are stopped from that instant is :",
+        "options": [
+            "$1:1$",
+            "$1:4$",
+            "$1:8$",
+            "$1:16$"
+        ],
+        "answer": "$1:16$",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/speeds-of-two-identical-cars-are-mu-and-4mu-2002-marks-4-vr5xkzmncb4t4dnl.htm",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Stopping Distance",
+        "logic_type": "Analytical",
+        "difficulty": 1,
+        "physics_key": "Distance ratio velocity square"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 6th April Evening Shift",
+        "question": "A particle moves in a straight line so that its displacement$x$at any time$t$is given by$x2=1+t2$. Its acceleration at any time$t$is$x\u2212n$where$n=$_________.",
+        "options": [],
+        "answer": "3",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-particle-moves-in-a-straight-line-so-that-its-displacem-jee-main-physics-motion-5unyln7jjv0an5qb",
+        "is_numerical": true,
+        "sub_topic": "Calculus: Variable Motion",
+        "logic_type": "Calculus",
+        "difficulty": 4,
+        "physics_key": "Acceleration from x(t) implicit"
+    },
+    {
+        "metadata": "AIEEE 2002",
+        "question": "From a building two balls A and B are thrown such that A is thrown upwards and B downwards ( both vertically with the same speed ). If v _A and v _B are their respective velocities on reaching the ground, then",
+        "options": [
+            "$vB>vA$",
+            "$vA=vB$",
+            "$vA>vB$",
+            "their velocities depend on their masses."
+        ],
+        "answer": "N/A",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/from-a-building-two-balls-a-and-b-are-thrown-such-that-a-is-2002-marks-4-iftt7ukg32ioqpz9.htm",
+        "is_numerical": false,
+        "sub_topic": "Kinematics: Gravity Vertical",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Final velocity symmetry"
+    },
+    {
+        "metadata": "JEE Main 2025 (Online) 29th January Evening Shift",
+        "question": "Two cars P and Q are moving on a road in the same direction. Acceleration of car P increases linearly with time whereas car Q moves with a constant acceleration. Both cars cross each other at time t = 0, for the first time. The maximum possible number of crossing(s) (including the crossing at t = 0) is ________.",
+        "options": [],
+        "answer": "3",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/ptwo-cars-p-and-q-are-moving-on-a-road-in-the-same-directi-jee-main-physics-gvgyxriadkif4qt2",
+        "is_numerical": true,
+        "sub_topic": "Waveform: Graph Principles",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Number of crossing points"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 27th January Evening Shift",
+        "question": "A body falling under gravity covers two points$A$and$B$separated by$80 m$in$2 s$. The distance of upper point A from the starting point is _________$m$(use$g=10 ms\u22122$).",
+        "options": [],
+        "answer": "45",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lsxq6wd3/fc2474f1-6681-4c45-98f8-d90b2a757dca/f735cf60-d1c7-11ee-80b7-f35514450d45/file-6y3zli1lsxq6wd4.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-body-falling-under-gravity-covers-two-points-a-and-jee-main-physics-motion-php2xod2ileax83h",
+        "is_numerical": true,
+        "sub_topic": "Kinematics: Gravity Dropping",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Two point time interval"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 5th April Morning Shift",
+        "question": "A body moves on a frictionless plane starting from rest. If$Sn$is distance moved between$t=n\u22121$and$t=n$and$Sn\u22121$is distance moved between$t=n\u22122$and$t=n\u22121$, then the ratio$Sn\u22121 Sn$is$(1\u22122x)$for$n=10$. The value of$x$is __________.",
+        "options": [],
+        "answer": "19",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-body-moves-on-a-frictionless-plane-starting-from-rest-jee-main-physics-motion-uetvuftag2jvqmcc",
+        "is_numerical": true,
+        "sub_topic": "Kinematics: nth Second",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Sn ratio derivation"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th July Evening Shift",
+        "question": "A particle is moving in a straight line such that its velocity is increasing at 5 ms ^$\u2212$1 per meter. The acceleration of the particle is _____________ ms ^$\u2212$2 at a point where its velocity is 20 ms ^$\u2212$1 .",
+        "options": [],
+        "answer": "100",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-particle-is-moving-in-a-straight-line-such-that-its-vel-jee-main-physics-motion-3autinvfgfcmiybu",
+        "is_numerical": true,
+        "sub_topic": "Calculus: Variable Motion",
+        "logic_type": "Calculus",
+        "difficulty": 4,
+        "physics_key": "Acceleration from dv/dx"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 28th July Evening Shift",
+        "question": "A ball is thrown vertically upwards with a velocity of$19.6 ms\u22121$from the top of a tower. The ball strikes the ground after$6 s$. The height from the ground up to which the ball can rise will be$(k5)m$. The value of$k$is __________. (use$g=9.8 m/s2$)",
+        "options": [],
+        "answer": "392",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-ball-is-thrown-vertically-upwards-with-a-velocity-of--jee-main-physics-motion-drfc6aqumkuix0er",
+        "is_numerical": true,
+        "sub_topic": "Kinematics: Gravity Vertical",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Tower throw max height"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 30th January Morning Shift",
+        "question": "A horse rider covers half the distance with$5 m/s$speed. The remaining part of the distance was travelled with speed$10 m/s$for half the time and with speed$15 m/s$for other half of the time. The mean speed of the rider averaged over the whole time of motion is$x7 m/s$. The value of$x$is ___________.",
+        "options": [],
+        "answer": "50",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-horse-rider-covers-half-the-distance-with-5-mathrm-jee-main-physics-motion-bm65z8xnwon4lrcz",
+        "is_numerical": true,
+        "sub_topic": "Kinematics: Average Speed",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Mixed distance time averaging"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 1st February Morning Shift",
+        "question": "A particle is moving in one dimension (along$x$axis) under the action of a variable force. It's initial position was$16 m$right of origin. The variation of its position$(x)$with time$(t)$is given as$x=\u22123t3+18t2+16t$, where$x$is in$m$and$t$is in$s$. The velocity of the particle when its acceleration becomes zero is _________$m/s$.",
+        "options": [],
+        "answer": "52",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-particle-is-moving-in-one-dimension-along-x-axis-under-jee-main-physics-dlavjbxcwptiruee",
+        "is_numerical": true,
+        "sub_topic": "Calculus: Acceleration",
+        "logic_type": "Calculus",
+        "difficulty": 3,
+        "physics_key": "Zero acceleration velocity"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 4th April Evening Shift",
+        "question": "A bus moving along a straight highway with speed of$72 km/h$is brought to halt within$4s$after applying the brakes. The distance travelled by the bus during this time (Assume the retardation is uniform) is ________$m$.",
+        "options": [],
+        "answer": "40",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-bus-moving-along-a-straight-highway-with-speed-of-72-jee-main-physics-motion-lcxlokukknrlx740",
+        "is_numerical": true,
+        "sub_topic": "Kinematics: Stopping Distance",
+        "logic_type": "Template",
+        "difficulty": 1,
+        "physics_key": "Stopping distance UAM"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 29th January Morning Shift",
+        "question": "A tennis ball is dropped on to the floor from a height of 9.8 m. It rebounds to a height 5.0 m. Ball comes in contact with the floor for 0.2s. The average acceleration during contact is ___________ ms$\u22122$. (Given g = 10 ms$\u22122$)",
+        "options": [],
+        "answer": "120",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-tennis-ball-is-dropped-on-to-the-floor-from-a-height-of-jee-main-physics-motion-ng306pe6lvyvh7mj",
+        "is_numerical": true,
+        "sub_topic": "Kinematics: Gravity Bounce",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Average acceleration contact"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 1st February Evening Shift",
+        "question": "A particle initially at rest starts moving from reference point$x=0$along$x$-axis, with velocity$v$that varies as$v=4x m/s$. The acceleration of the particle is __________$ms\u22122$.",
+        "options": [],
+        "answer": "8",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/a-particle-initially-at-rest-starts-moving-from-reference-po-jee-main-physics-7q0aveaataysj2pf",
+        "is_numerical": true,
+        "sub_topic": "Calculus: Variable Motion",
+        "logic_type": "Calculus",
+        "difficulty": 4,
+        "physics_key": "Acceleration from v(x)"
+    },
+    {
+        "metadata": "JEE Main 2023 (Online) 1st February Evening Shift",
+        "question": "For a train engine moving with speed of$20 ms\u22121$, the driver must apply brakes at a distance of 500$m$before the station for the train to come to rest at the station. If the brakes were applied at half of this distance, the train engine would cross the station with speed$x ms\u22121$. The value of$x$is ____________. (Assuming same retardation is produced by brakes)",
+        "options": [],
+        "answer": "200",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pfor-a-train-engine-moving-with-speed-of-20-mathrmms-jee-main-physics-motion-cq7asksrs35itwra",
+        "is_numerical": true,
+        "sub_topic": "Kinematics: Stopping Distance",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Partial stopping distance"
+    },
+    {
+        "metadata": "JEE Main 2024 (Online) 30th January Morning Shift",
+        "question": "The displacement and the increase in the velocity of a moving particle in the time interval of$t$to$(t+1)s$are$125 m$and$50 m/s$, respectively. The distance travelled by the particle in$(t+2)ths$is _________ m.",
+        "options": [],
+        "answer": "225",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pthe-displacement-and-the-increase-in-the-velocity-of-a-mo-jee-main-physics-motion-odsqxivyaisb3cnw",
+        "is_numerical": true,
+        "sub_topic": "Kinematics: nth Second",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Displacement in (t+2)th second"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 28th June Evening Shift",
+        "question": "A car covers AB distance with first one-third at velocity v _1 ms ^$\u2212$1 , second one-third at v _2 ms ^$\u2212$1 and last one-third at v _3 ms ^$\u2212$1 . If v _3 = 3v _1 , v _2 = 2v _1 and v _1 = 11 ms ^$\u2212$1 then the average velocity of the car is _____________ ms ^$\u2212$1 . [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1l57dqmyj/4f6e6381-8458-43d9-93ab-1bca18901c31/ead9b8b0-fbf1-11ec-be1c-273f2a364c3f/file-1l57dqmyk.png?format=png]",
+        "options": [],
+        "answer": "18",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l57dqmyj/4f6e6381-8458-43d9-93ab-1bca18901c31/ead9b8b0-fbf1-11ec-be1c-273f2a364c3f/file-1l57dqmyk.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-car-covers-ab-distance-with-first-one-third-at-velocity-jee-main-physics-motion-8cpskeswxndedxuo",
+        "is_numerical": true,
+        "sub_topic": "Kinematics: Average Speed",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Three segment average velocity"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 25th July Morning Shift",
+        "question": "A car is moving with speed of$150 km/h$and after applying the break it will move$27 m$before it stops. If the same car is moving with a speed of one third the reported speed then it will stop after travelling ___________ m distance.",
+        "options": [],
+        "answer": "3",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-car-is-moving-with-speed-of-150-mathrmkm--mathr-jee-main-physics-motion-zkjcsnbrap6ajhvb",
+        "is_numerical": true,
+        "sub_topic": "Kinematics: Stopping Distance",
+        "logic_type": "Analytical",
+        "difficulty": 2,
+        "physics_key": "Stopping distance velocity square"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th June Evening Shift",
+        "question": "A ball is projected vertically upward with an initial velocity of 50 ms ^$\u2212$1 at t = 0s. At t = 2s, another ball is projected vertically upward with same velocity. At t = __________ s, second ball will meet the first ball (g = 10 ms ^$\u2212$2 ).",
+        "options": [],
+        "answer": "6",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-ball-is-projected-vertically-upward-with-an-initial-vel-jee-main-physics-motion-vb8trnewjkxbwsan",
+        "is_numerical": true,
+        "sub_topic": "Kinematics: Gravity Vertical",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Meeting time two projectiles"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 26th August Morning Shift",
+        "question": "Two spherical balls having equal masses with radius of 5 cm each are thrown upwards along the same vertical direction at an interval of 3s with the same initial velocity of 35 m/s, then these balls collide at a height of ............... m. (Take g = 10 m/s ^2 )",
+        "options": [],
+        "answer": "50",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lak1czyq/92ea5dca-7c6b-42a5-a05c-bed3c45493f6/c75b1f20-65e4-11ed-8290-afd0c410407c/file-1lak1czyr.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/two-spherical-balls-having-equal-masses-with-radius-of-5-cm-jee-main-physics-units-and-measurements-31ji5wtrpshasvdi",
+        "is_numerical": true,
+        "sub_topic": "Kinematics: Gravity Vertical",
+        "logic_type": "Template",
+        "difficulty": 3,
+        "physics_key": "Collision height two projectiles"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 26th June Morning Shift",
+        "question": "A ball of mass 0.5 kg is dropped from the height of 10 m. The height, at which the magnitude of velocity becomes equal to the magnitude of acceleration due to gravity, is ________ m. [Use g = 10 m/s ^2 ]",
+        "options": [],
+        "answer": "5",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1l5jhsn20/d0c7769a-768d-4895-90ef-061ec8187df5/2eda5380-029b-11ed-a9b8-43edceee002f/file-1l5jhsn21.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/pa-ball-of-mass-05-kg-is-dropped-from-the-height-of-10-m-jee-main-physics-motion-zeqlirvfmglbru8y",
+        "is_numerical": true,
+        "sub_topic": "Kinematics: Gravity Dropping",
+        "logic_type": "Template",
+        "difficulty": 2,
+        "physics_key": "Velocity magnitude equal to g"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 4th September Evening Slot",
+        "question": "The speed verses time graph for a particle is shown in the figure. The distance travelled (in m) by the particle during the time interval t = 0 to t = 5 s will be________. [IMAGE: https://app-content.cdn.examgoal.net/fly/1500/image/1lgzp1uvn/29263ba9-c529-48ac-b734-46093f373345/7aa41e30-e54a-11ed-b775-8921c6ad38e2/file-1lgzp1uvo.png?format=png]",
+        "options": [],
+        "answer": "20",
+        "images": [
+            "https://app-content.cdn.examgoal.net/fly/1500/image/1lgzp1uvn/29263ba9-c529-48ac-b734-46093f373345/7aa41e30-e54a-11ed-b775-8921c6ad38e2/file-1lgzp1uvo.png?format=png"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/the-speed-verses-time-graph-for-a-particle-is-shown-in-the-f-jee-main-physics-motion-wu5erwclz5fhtmmb",
+        "is_numerical": true,
+        "sub_topic": "Waveform: Graph v-t",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "Distance area under trapezoid"
+    },
+    {
+        "metadata": "JEE Main 2020 (Online) 9th January Morning Slot",
+        "question": "The distance x covered by a particle in one dimensional motion varies with time t as x ^2 = at ^2 + 2bt + c. If the acceleration of the particle depends on x as x ^\u2013n , where n is an integer, the value of n is __________",
+        "options": [],
+        "answer": "3",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/the-distance-x-covered-by-a-particle-in-one-dimensional-moti-jee-main-physics-motion-tocwuwscrsfow3uh",
+        "is_numerical": true,
+        "sub_topic": "Calculus: Variable Motion",
+        "logic_type": "Calculus",
+        "difficulty": 4,
+        "physics_key": "a vs x from implicit x(t)"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 27th August Morning Shift",
+        "question": "If the velocity of a body related to displacement x is given by$\u03c5=5000+24x$m/s, then the acceleration of the body is .................... m/s ^2 .",
+        "options": [],
+        "answer": "12",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/if-the-velocity-of-a-body-related-to-displacement-x-is-given-jee-main-physics-units-and-measurements-zedls8jxyaskcare",
+        "is_numerical": true,
+        "sub_topic": "Calculus: Variable Motion",
+        "logic_type": "Calculus",
+        "difficulty": 3,
+        "physics_key": "Acceleration from v(x) linear"
+    },
+    {
+        "metadata": "JEE Main 2022 (Online) 24th June Morning Shift",
+        "question": "From the top of a tower, a ball is thrown vertically upward which reaches the ground in 6 s. A second ball thrown vertically downward from the same position with the same speed reaches the ground in 1.5 s. A third ball released, from the rest from the same location, will reach the ground in ____________ s.",
+        "options": [],
+        "answer": "3",
+        "images": [],
+        "url": "https://questions.examside.com/past-years/jee/question/pfrom-the-top-of-a-tower-a-ball-is-thrown-vertically-upwa-jee-main-physics-motion-fw4jojfylit4tuej",
+        "is_numerical": true,
+        "sub_topic": "Kinematics: Gravity Vertical",
+        "logic_type": "Analytical",
+        "difficulty": 3,
+        "physics_key": "Up down drop time relation"
+    },
+    {
+        "metadata": "JEE Main 2021 (Online) 31st August Evening Shift",
+        "question": "A particle is moving with constant acceleration 'a'. Following graph shows v ^2 versus x(displacement) plot. The acceleration of the particle is ___________ m/s ^2 . [IMAGE: https://imagex.cdn.examgoal.net/1kujxklgy/6c6ea3c8-bafc-41fa-813b-29f239e06238/800dc920-2912-11ec-b648-5143843e279d/file-1kujxklgz.jpg]",
+        "options": [],
+        "answer": "1",
+        "images": [
+            "https://imagex.cdn.examgoal.net/1kujxklgy/6c6ea3c8-bafc-41fa-813b-29f239e06238/800dc920-2912-11ec-b648-5143843e279d/file-1kujxklgz.jpg"
+        ],
+        "url": "https://questions.examside.com/past-years/jee/question/a-particle-is-moving-with-constant-acceleration-a-followi-jee-main-physics-units-and-measurements-v08k0i06lat2smct",
+        "is_numerical": true,
+        "sub_topic": "Waveform: Graph v-x",
+        "logic_type": "Graphical",
+        "difficulty": 2,
+        "physics_key": "v-x to acceleration finding"
+    }
+]
